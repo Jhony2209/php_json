@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis do Vini Parobé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//GPtCU4nalHLf_XISDO_AROBE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/parobe-rs/xis-do-vini-parobe-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAROBE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

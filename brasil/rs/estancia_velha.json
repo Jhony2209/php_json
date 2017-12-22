@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quentinhas da Karen - Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251412_e731d88b-cb34-4cd3-923a-5ac36ebccf1d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/estancia-velha-rs/quentinhas-da-karen---hamburgueria-lago-azul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTANCIA VELHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

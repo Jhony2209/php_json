@@ -1,0 +1,143 @@
+  [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Do Lico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701231108_XISDOLICO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/xis-do-lico-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Liga do Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090924_36f55ae7-43cc-4fb4-8e7c-7d89acfb573b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/liga-do-hamburguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEXICANO DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211731_badef223-66d5-47e4-a3cc-541665f66aaa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/mexicano-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis do Cléo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030837_0d97ec82-3f76-4158-9e9c-f49e3947f9c9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/xis-do-cleo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Enzu's Lanches e Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061321_ff41fd79-76f1-414b-b5d7-fad2193e0a27.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/enzus-lanches-e-lounge-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Picanha na Chapa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//9tjmhVlZp3rz_XPICA_CHAPA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/x-picanha-na-chapa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Dos Guris",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ded52983-830c-4d4f-b93b-70f356635165/201712091742_capa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/xis-dos-guris-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COYOTE LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311032_46a89683-ae82-4a4d-90fb-2f8aed99a05b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/coyote-lanches-santo-inacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fortaleza do Xis e Papa Krep´s",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710282307_a69228ff-4fe1-441c-86e3-3c76d5de08c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/esteio-rs/fortaleza-do-xis-e-papa-kreps-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ESTEIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasteca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//8rQgkE4XVZSK_PASTECA02.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/erechim-rs/pasteca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ERECHIM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Dom Gabielo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011038_f96ba41b-365a-478f-964d-a4712485c16d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/erechim-rs/restaurante-e-pizzaria-dom-gabielo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ERECHIM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

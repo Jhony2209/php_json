@@ -1,0 +1,31 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabeção Lanches X Calota",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//J8ewkHGEsMFc_CABEC_ALOTA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cruz-alta-rs/cabecao-lanches-x-calota-perpetuo-socorro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRUZ ALTA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit Stop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081246_3765e0e5-86ad-4728-a2ac-b2877921c97f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cruz-alta-rs/pit-stop-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRUZ ALTA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

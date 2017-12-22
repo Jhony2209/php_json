@@ -1,0 +1,319 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Farroupilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//F3NxDkrpaZUW_CROAS_PILHA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/croasonho-farroupilha-primeiro-de-maio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Farroupilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291002_1137e018-cb67-41d3-ac38-df830f8ca2de.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/subway-farroupilha-nova-vicenza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alameda Pizzeria Delivery Farroupilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221027_27a1b4c9-3238-4b0f-b401-9447b71247d0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/alameda-pizzeria-delivery-farroupilha-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Roma Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241328_ad87cd59-6d28-44e5-b1c1-ad979eb1a58d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/di-roma-lanches-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria 5 estrelas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221033_5838ce65-96de-4dca-a5e2-868edc489445.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/pizzaria-5-estrelas-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buratti Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Jr4QwmOpSi1q_BURAT_NCHES.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/buratti-lanches-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOP BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221103_945ed7ea-e555-4cd1-b83c-260449b80c91.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/top-burger-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Viajero Hamburgueria & Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ff124208aa485_ELVIA_IAPUB.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/el-viajero-hamburgueria--pub-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Santa Rita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//kLcg2hln4MA8_HAMBU_ARIT01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/hamburgueria-santa-rita-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Romeu e Julieta Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151108_43f929c8-3a37-4f90-a123-7255e08a102d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/romeu-e-julieta-pizza-delivery-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastchêlão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pmaVxEZijQBN_PASTCHELAO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/pastchelao-belvedere",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Picanha Delivery Farroupilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//mSUteF2Hxfsl_XPICA_PILHA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/x-picanha-delivery-farroupilha-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Morango Moreno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//xwL5Q0b1MzvE_MORAN_ORENO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/morango-moreno-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Milano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//sUvY4HD9T6ut_PIZZA_ILANO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/pizzaria-milano-primeiro-de-maio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kikão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291726_46ca1abc2f61430b91690b842bf153bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/kikao-lanches-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yoodai - Oriental Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//KOWgFXlRipDM_YOODA_IVERY.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/yoodai---oriental-delivery-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marimel Picanhas Galeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marimel_marim_leria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/marimel-picanhas-galeria-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Colombo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//k4gr3XeIpLmi_PIZZA_LOMBO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/pizzaria-colombo-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PRIMO TRADI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706200822_a95a922c-fc40-4ad2-8d43-d09706762437.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/primo-tradi-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Elvis Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//kGpAtsMnge8P_ELVISSUSHI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/farroupilha-rs/elvis-sushi-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FARROUPILHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

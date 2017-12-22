@@ -1,0 +1,159 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pato Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160818_f5144e6a-b13b-40ec-8068-cd442e690820.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/pato-lanches-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Capao Da Canoa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290955_99e301df-b8f8-4ae0-b83f-0b54bae23c84.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/subway---capao-da-canoa-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro Do Rosário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711151204_5b36e805-1cf7-4f12-b939-db696c2bdf7a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/cachorro-do-rosario-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro do Rosario",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220656_f39169e7-4f72-4f91-8de8-42d03a7af8cb.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/cachorro-do-rosario-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Grill Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021428_4578280d-acda-46d3-b4bd-3d245383f64b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/casa-grill-pizzaria-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecaria Toscana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171431_5755161b-31ca-4ccf-8345-312cbf2ea326.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/panquecaria-toscana-zona-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Território Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170734_ca60d7b2-065e-4c58-99b3-76886e4ca19b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/territorio-gourmet-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bamboo Sushi House - Capão da Canoa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bamboo sushi _bambo_canoa.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/bamboo-sushi-house---capao-da-canoa-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nautics Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201514_NAUTI_URGER.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/nautics-burger-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Goodshape Alimentação Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_goods_davel.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/capao-da-canoa-rs/goodshape-alimentacao-saudavel-navegantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAPAO DA CANOA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

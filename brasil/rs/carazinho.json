@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gotemaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210719_bfd28f74-5592-470d-ac8c-ca813e23944b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/carazinho-rs/gotemaki-princesa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAZINHO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jarico Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//EKj9mFHliG0A_JARIC_UERIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carazinho-rs/jarico-hamburgueria-dea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAZINHO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,351 @@
+[  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Churras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051255_73367dc1-1a8a-4600-8f30-de86fa5f5dd4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/casa-do-churras-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dy tudo Restaurante Dona Florinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291505_d0e7ba9f-5a2a-4410-805b-e38c17b3a686.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/dy-tudo-restaurante-dona-florinda-jardim-algarve",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolota'S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131835_b2614756-cefa-4386-ae8a-143745e910e1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/bolotas-lanches-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Churras Umbu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091009_c16dd6b5-8d66-44be-bc6e-3d1489eefbb5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/casa-do-churras-umbu-umbu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MERENDAS PIZZARIA E LANCHERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221206_c060e1c8-e47f-41a7-ac18-832852bfc4cc.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/merendas-pizzaria-e-lancheria-jardim-algarve",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Night Food Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191233_3a23a2c3-174d-4bde-a036-5e7d1ce946e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/night-food-delivery-jardim-algarve",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mamma Mia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131800_8b01134a-64b5-4ed9-979d-c5da35feb1e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/pizza-mamma-mia-jardim-algarve",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMAKI DELIVERY ALVORADA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071942_151147c4-02cf-4a08-bb92-2e2cb1749807.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/temaki-delivery-alvorada-piratini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Texas Burguer Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711070944_495075da-682b-4ab3-8b7e-abfd4932aefd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/texas-burguer-grill-jardim-algarve",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XIS DUDÉ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141624_b1f85bad-7fe4-4500-b2bb-817a237e4a10.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/xis-dude-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Mafia Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704161049_bc994eedfcda48018a0ccdacc1d3a32c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/la-mafia-pizzaria-maria-regina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Alvorada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290938_9d02978b-41ee-43d5-88e4-b05471d1636f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/subway---alvorada-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salsa E Pimenta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101419_b0b4351779544109bc01ba3e473f2028.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/salsa-e-pimenta-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida Caseira Alvorada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//co9uzQUNHCXW_COMID_ORADA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/comida-caseira-alvorada-piratini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaritos Frango Frito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131339_b7f0b1bc-a32b-435a-afdd-fdad5c052d60.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/passaritos-frango-frito-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria Pizzaria Gauchinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121737_0be7a640-5b4b-44d0-82f2-55c6654a52d4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/lancheria-pizzaria-gauchinho-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buona Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151840_ed51fdbc-af4d-47ec-b244-773bea7009dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/buona-pizzas-piratini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Veritá  Delivery Foods",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131936_6ad226ab-6ed0-4823-8ed8-454a5f11484d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/di-verita--delivery-foods-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Griffe das Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181339_GRIFF_ASSAS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/griffe-das-massas-maringa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmittas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311116_21454e17-011b-454c-ae8c-a365816c2a90.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/marmittas-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RAFA SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_rafasushi.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/rafa-sushi-passo-do-feijo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tekking Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1ne4rhmqyTps_TEKKINGSUSHI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/alvorada-rs/tekking-sushi-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALVORADA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

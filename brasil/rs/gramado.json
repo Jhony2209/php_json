@@ -1,0 +1,287 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Holiday Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251235_a677c44c-deb6-4cb9-b989-524a48153073.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/holiday-gourmet-parque-dos-pinheiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di casa burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071320_3dda4161-6de3-4701-a690-c606b6f3091a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/di-casa-burger-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skillo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708180745_6b0c4550-521c-4ab5-bcd1-4206a528699c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/skillo-lanches-carniel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nonno Mio Fast Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131344_db46c1ed-2fe2-45a3-8c45-dde678969c3d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/nonno-mio-fast-gourmet-portico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Cordero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301554_4f2df180-90eb-4d06-b532-05bf28af89c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/el-cordero-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guadalupe Mexican Restobar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130846_17e0797f-b8cb-4e88-b9c3-63d9f7155f93.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/guadalupe-mexican-restobar-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Texas Saloon Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//OXVxLihIEwc2_TEXAS_ZARIA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/texas-saloon-pizzaria-mato-queimado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix - Saudável com Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705241355_2766ba7b-28f6-4fcc-afae-ace15a7a41a1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/mix---saudavel-com-sabor-carniel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "T+ Temakeria E Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/67e5b9cc-b72d-4fad-9d4f-e35abcd97f68/201712011048_logot.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/t-temakeria-e-sushi-ipe-amarelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aquecee Restaurante e Lancheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061235_0ace46ea-6cac-4c70-ab3a-852076d224ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/aquecee-restaurante-e-lancheria-carniel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D Orient Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141339_b65b8f5f-f912-48de-88af-02f7d0eb5f7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/d-orient-sushi-bar-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bodega Burgers And Food Co",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701210709_BODEG_OODCO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/bodega-burgers-and-food-co-portico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080942_85c0437a-ee3e-4a71-8065-be95c9903f85.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/esquina-do-sabor-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Me Gusta (Gramado)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081231_HAMBU_AMADO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/hamburgueria-me-gusta-gramado-carniel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Degustare",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709010800_0e7ba3f3-550d-47f4-b19e-46763e7a35cc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/restaurante-e-pizzaria-degustare-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Serrana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281004_94fd5eb892ed4922984ec563b94f73d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/pizzaria-serrana-carniel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Pancho Loco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702070957_ELPANCHOLOCO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/el-pancho-loco-parque-dos-pinheiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero De Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703111030_TEMPE_ECASA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gramado-rs/tempero-de-casa-carniel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAMADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,48 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dillenburg Snack Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300754_a542929b-92f5-437d-9749-07947f64a95f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/dois-irmaos-rs/dillenburg-snack-bar-uniao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "DOIS IRMAOS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Mooca - Dois Irmãos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251613_ddac5066-362e-42f3-8ca5-983a46143721.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/dois-irmaos-rs/pizzas-mooca---dois-irmaos-uniao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "DOIS IRMAOS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ristorante Pomodoro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171709_6db4ba1f-5fcb-40c0-8115-033fe513d8d5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/dois-irmaos-rs/ristorante-pomodoro-uniao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "DOIS IRMAOS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+]

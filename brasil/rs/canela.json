@@ -1,0 +1,63 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Billy Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071808_0847e1d1-f6cf-48a5-8448-de18a22ee026.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canela-rs/billy-dog-quinta-da-serra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANELA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skillo Lanches - Canela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260729_91338669-3314-43fa-b522-e96dc17c1ad5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canela-rs/skillo-lanches---canela-sao-lucas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANELA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "T+ Temakeria e Sushi - Canela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/30d9e9c0-4c41-450a-ba17-a710f1e98a64/201712011051_logot.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canela-rs/t-temakeria-e-sushi---canela-vila-maggi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANELA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Pedro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061447_efe996e6ff084d27ac5ca607b555c659.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canela-rs/pizzaria-don-pedro-eugenio-ferreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANELA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

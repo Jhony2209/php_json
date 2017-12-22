@@ -1,0 +1,798 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Bento Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//q5Bv7tKnwMSm_CROAS_ALVES.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/croasonho-bento-goncalves-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OCASIÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021437_42c0b95b-7657-4888-903e-9172680264f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/ocasiao-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco Sports ltda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071306_0d89f9f6-509c-4f37-8e0c-a9bba29dc99c.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/boteco-sports-ltda-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Rezende",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711151114_2373bb1f-67d8-40f5-a8f0-740cd3550ee0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/lanches-rezende-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutrittiva Refeições e Saúde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711020711_a0e1f816-26ac-408c-a644-129836d8a16e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/nutrittiva-refeicoes-e-saude-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Vecchia Nonna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210745_fb08bfc4-2601-4ae0-9c71-0742f0403f49.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/pizzaria-vecchia-nonna-maria-goretti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sapore Originale",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250709_af7f9212-4412-4198-a1de-808adf73e9ae.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/sapore-originale-botafogo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzeria Di Bartholo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704100837_412750d5b0a44b4280482cb9023edbac.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/pizzeria-di-bartholo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAREMOTO HAMBURGUER ARTESANAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241345_2aaaeea4-eb12-4514-9856-9264c61310cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/maremoto-hamburguer-artesanal-botafogo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sapore Sublime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//8MbS4IGOWe6w_SAPOR_BLIME.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/sapore-sublime-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Super Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//IJTzDNZCEmh3_DELIV_PIZZA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/delivery-super-pizza-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinathai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chinatha_chinathai.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/chinathai-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tnt Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Cr4On6NlIuAQ_TNTPIZZAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/tnt-pizzas-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Máfia Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1Hyke7PNsnxD_LAMAF_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/la-mafia-pizzaria-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria sperotto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030841_8c0bbdf8-0996-4aae-aab9-99d562d20790.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/lancheria-sperotto-caminho-da-eulalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sierra Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//7mGpbaLH84Ni_SIERRABURGER.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/sierra-burger-sao-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria Piccoli Licorsul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//0vnaHISjp36c_LANCH_ORSUL.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/lancheria-piccoli-licorsul-licorsul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Q Palato Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//l607mtUpLP3y_QPALA_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/q-palato-pizzaria-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Piacenza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/4bb29a0b-9ca7-442d-aff9-629f4602635b/201711290916_dsds.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/restaurante-e-pizzaria-piacenza-barracao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Taberna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021502_08b55bda-ced5-4a2f-9d03-ca1848caf637.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/hamburgueria-taberna-sao-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Peralta Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-peralta_PERAL_NCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/peralta-lanches-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magnatas do X - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_magnatas_magna_entro.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/magnatas-do-x---centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oficina do Lanche Bento Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/oficinadolanc_OFICI_ALVES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/oficina-do-lanche-bento-goncalves-sao-roque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Floripa Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/floripa_lanch_flori_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/floripa-lanches-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "the ferris hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161615_81a886d9-d615-4cd9-af7d-e1c4940a17dc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/the-ferris-hamburgueria-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bento Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241018_9153ebeb-1e20-4bb8-b7ce-4e4ecf01b33d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/bento-sushi-delivery-licorsul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAKISUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240737_c9bdbc06-67a3-48c5-a894-77e87a049adf.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/makisushi-progresso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beliskão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//B7TsMiIqu4Dm_BELIS_NCHES.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/beliskao-lanches-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Nápoli Bento Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//DrVfvqAL3O6F_DINAP_ALVES.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/di-napoli-bento-goncalves-sao-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Madre Cocina Mexicana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220917_8ab89de5-d2db-4349-b60e-f76da4ac2f7c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/la-madre-cocina-mexicana-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação Do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/]_estac_anche.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/estacao-do-lanche-sao-roque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzeria e Ristorante Pirandello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//tCVGm60ZyKH5_PIZZE_DELLO.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/pizzeria-e-ristorante-pirandello-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saideira beer & Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_saideira_SAIDE_RFOOD.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/saideira-beer--food-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Savor Burger Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301336_874230f5-aff5-49f7-94ad-edc1dd1953f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/savor-burger-delivery-maria-goretti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mania Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290944_1c514c3d-7963-4287-a702-6e2b342b00c9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/mania-sushi-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa Burguer - Bento Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//TxF64Snj5R3Y_PAPABURGUE01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/papa-burguer---bento-goncalves-licorsul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Picanha Delivery Bento Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//MIvTnQasiV7z_XPICA_ALVES.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/x-picanha-delivery-bento-goncalves-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante San Rocco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190718_b65fcaec-327f-4bd7-b580-0629fd1f3c0b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/restaurante-san-rocco-sao-roque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KATSU SUSHI BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271306_d0a033fd-6793-42d2-bb51-382cd2c088cc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/katsu-sushi-bar-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Casa Modena",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191255_791ade66-b208-423b-b2ed-75f14af75c9c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/pizzaria-casa-modena-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Portuguesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131014_5164073d-dd9c-4783-bdf0-7e4bfd821ac8.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/restaurante-portuguesa-botafogo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Ouro Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011427_83454d0301a14bf0b8f9892286336b72.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/pastelaria-ouro-verde-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leal Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031244_8beffa2b-8a54-42ee-9aba-e813c6e6a8c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/leal-lanches-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pepe Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191306_7a6399cb-981d-40f7-975d-3e93cddcb808.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/pepe-delivery-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mais Sabor Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701182028_MAISS_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/mais-sabor-delivery-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Café com Arte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//eMRFz0GN9I81_BISTR_MARTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/bistro-cafe-com-arte-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chiviteria del Chef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Iwq91nlfoXjQ_CHIVI_LCHEF.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/chiviteria-del-chef-caminho-da-eulalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DIDI delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041036_7157277f-bd88-4808-8959-f5f6abf729d6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/didi-delivery-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MeneGusto Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181004_MENEG_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/menegusto-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa Pizza Bento Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-papapizz_papap_alves.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bento-goncalves-rs/papa-pizza-bento-goncalves-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BENTO GONCALVES",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

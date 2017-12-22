@@ -1,0 +1,2491 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711121630_b39282b2-8e82-4cbb-9abe-23a503ae5bfb.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bar-house-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guris Burger e Coffee",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221749_2b8fe3cf-4b46-427e-afd3-c33c099042c5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/guris-burger-e-coffee-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Borella'S Pasta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703091921_BOREL_PASTA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/borellas-pasta-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meki Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/meki_mekiburguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/meki-burguer-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega X Do Alemão - Lancheria Em Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701230859_MEGAX_ANOAS.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mega-x-do-alemao---lancheria-em-canoas-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dino Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211225_523a328b-1379-431e-9b38-86944484b3f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/dino-esfihas-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kabana Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO_KABAN_ZARIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/kabana-pizzaria-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cucas da Mari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031458_be87f560-155c-43e3-8392-57d125e25d86.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cucas-da-mari-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//RCEin3vyHqWA_MEGALANCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mega-lanches-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290955_cb402b54-f8a3-48df-8467-a339c04bf27c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/subway-canoas-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nação Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051526_cd7ed71f-0e24-4184-9199-b2c02e7cf93c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/nacao-verde-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Qi Temaki - Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701191053_QITEM_ANOAS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/qi-temaki---canoas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHECK-IN DA RÓTULA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210803_b31a59ac-7945-44ee-83ee-6d69a606dd31.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/check-in-da-rotula-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOOD NATURAL FOOD & AÇAÍ SHOP",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170929_af8cdc69-01f5-4e9f-8880-5c617b77421d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/hood-natural-food--acai-shop-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XIS E BAURU HAPACHE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231248_dd96649f-2b62-40bf-a20d-b9c6e3398d95.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/xis-e-bauru-hapache-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200058_28bcad2f-a971-4ea3-bb28-035d3fc370e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/brasileirinho-delivery-canoas-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí é demais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011356_18a70580-ec84-4a5f-9780-1416ab0265a8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/acai-e-demais-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorrão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291435_7eddf0cf-69da-4e31-852e-8ed5f84ba6d7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cachorrao-lanches-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheio de doçura",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231020_af87afb7-9770-4a18-8268-ffddf1b5be93.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cheio-de-docura-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia das Fritas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110952_65bb72c3-5243-41b8-88f6-745314336437.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cia-das-fritas-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EL TORERO BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141031_8bbc0617-c531-4d4d-ae20-b7ba88a4218a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/el-torero-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação Gourmet-",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011009_5eb6a063-faae-4ff9-8399-74f8e89a0387.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/estacao-gourmet--marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forninho Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051722_4df3eb4e-d610-4474-81d8-a8554cd87463.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/forninho-esfiharia-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gullas lanches restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140934_7371cb8b-6973-4903-9d92-8fbc757a84cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/gullas-lanches-restaurante-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Dog Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061032_a2568286-13aa-48f3-84a1-d824ff4a975a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mega-dog-canoas-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NA BRASA CANOAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021337_af001b94-8b49-4edf-84f5-b3c5eaba9ca8.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/na-brasa-canoas-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedepizza Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081011_9524cf76-d9e9-4f98-8945-098f38c23309.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pedepizza-canoas-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzarella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081156_7daf0645-3884-41fc-92f3-6fc1f7951e56.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzarella-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Carlone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251412_876805e5-8a82-48b4-bdd9-b11ecf42c5d7.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzaria-don-carlone-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Mami",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311448_5a1d4004-fbc3-46e8-8ef9-4dd978aa0b50.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzaria-la-mami-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RAPACH LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280733_241750cc-ccf6-4860-a5a5-a94c81f13342.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/rapach-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante & Pizzaria Don Vicenzo.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211142_26b71ffc-3e62-421d-af41-c427d453be97.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/restaurante--pizzaria-don-vicenzo-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141617_09e191bf-1259-4adb-b163-47ac3f9c4c16.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sabor-caseiro-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241247_84262346-362e-491d-8561-bb48b88e86b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sabor-fit-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tetê Salgados Caseiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211711_428634a1-c1f7-46d1-aaef-7828df51797e.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tete-salgados-caseiros-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Dogfather Premium Hot Dogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271033_c3f339c6-669f-4bb2-b9ed-b12f821992c3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/the-dogfather-premium-hot-dogs-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Woking Thai Food - Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/wOKING_WOKIN_ANOAS.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Tailandesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/woking-thai-food---canoas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tortaria do Sul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021953_aefdca9a-ee5b-4821-ba5b-cb12d293f207.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tortaria-do-sul-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rockin´Bel Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706042155_211cf6c0-9e7c-47b6-ae25-b21d0d6c3dce.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/rockinbel-burger-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados Andreia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111107_b1f02631-136c-43af-ac94-126a2d0c9a86.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/salgados-andreia-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amor em Pedaços Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081446_1b999e84-c93a-4f4e-a036-0ca907534d8d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/amor-em-pedacos-canoas-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comics Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131116_a1597478-6068-45d9-a3e5-439ec926c144.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/comics-pizzas-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Lenda Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_lenda.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/a-lenda-delivery-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Grelha Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/na grelha ham_nagre_urmet.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/na-grelha-hamburgueria-gourmet-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xeio De Rexeio Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/xeio de reche_xeiod_laria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/xeio-de-rexeio-pastelaria-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fiescki´s Pizzas Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051632_d91cf667-c5c2-4b47-a70b-1ed145d771ae.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/fiesckis-pizzas-artesanais-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Lanches E Tele Ceva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704091735_73160c25c96142c1871769411149fe4d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/fast-lanches-e-tele-ceva-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doghaus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//7JvGmpEVRHhy_DOGHAUS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/doghaus-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "S.O.S Gourmet Container",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sosgo_ainer.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sos-gourmet-container-sao-luis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PANTCHÊ FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261056_f0dda15d-1e7a-4e98-bcfd-de3bb543b172.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pantche-food-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches.com",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031616_88639a13-5ffe-4715-8879-c834ce4ade10.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/lanchescom-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041740_6dcf11d0-cdcc-4b01-a1e7-028fd8474aec.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pit-lanches-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/koi sushi_koisushi01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/koi-sushi-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Multi Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101126_186e8fb9-83a9-4acd-8179-eec8e216bc58.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/multi-lanches-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fome Zero Panquecaria e Batataria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271501_ba587264-ad69-4a78-96ee-25f39e8b5f11.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/fome-zero-panquecaria-e-batataria-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduway",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261112_a77d97cb-f442-47a8-8255-d6dd3b984582.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sanduway-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panqueca E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703282230_5862c3af5083433a9fb158e2fb4f8ae6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/panqueca-e-cia-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Castel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241131_2f4f5dfc-f173-4d30-b944-39744e6d132d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/restaurante-e-pizzaria-castel-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coma Saúde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705071723_c4601e76-f9d4-4e3e-bc1a-2cc78678ab86.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/coma-saude-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorrão Lanches 2",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/a5451150-48c5-4999-907d-188f197cebd0/201712051936_20171.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cachorrao-lanches-2-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rheinlander Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705211359_31ada5cc-e534-4777-9da7-d2f928800f2d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/rheinlander-lanches-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Liga Dos Lanches E Algo Mais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705110759_38ff3eaa-6230-473b-a351-75510e4d856f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/liga-dos-lanches-e-algo-mais-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italian Food Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080849_6ff82dad-1bc8-47e3-9c66-99a2bc4c2a8c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/italian-food-canoas-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kitutes Lisboa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702201040_KITUT_ISBOA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/kitutes-lisboa-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Isabela Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280919_8256d021-13d1-478c-84e2-1fdab3ff9c33.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/isabela-lanches-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du'Cheff Sushi - Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201240_5498d48f-a48e-48b2-aae4-fc0bae56b63b.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/ducheff-sushi---canoas-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casseroles By Burgrs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/avatar_burgrs.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/casseroles-by-burgrs-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Jet Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca mr._mrjetlanches.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mr-jet-lanches-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taishi Express & Sushi Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo taishi_taish_oung01.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/taishi-express--sushi-lounge-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Edy'S Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logoedypaint_edysfastfood.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/edys-fast-food-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dolce Duda Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dolce_dolce_pizza.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/dolce-duda-pizza-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MultyChef Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261114_a1fb2baa-85e7-44fa-96be-420c04769766.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/multychef-refeicoes-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakissoba Tchê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//6q904ZjUanFo_YAKIS_ATCHE.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/yakissoba-tche-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAURU TORPEDÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_bauru_pedao.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bauru-torpedao-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Lancheria Original",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160840_0e2a206b-7bf5-43e1-9cb4-b5509d93f86a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzaria-e-lancheria-original-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caverna Gourmet Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211906_306abe1c-fd7b-42a8-876a-e79ba2e6b28a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/caverna-gourmet-restaurante-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tommatti'S Express Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705100856_761fa731-38d9-432e-b925-d6db842155da.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tommattis-express-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabron Panchos e Hamburguesas Argentinos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cabron logo 2_cabro_inoss.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cabron-panchos-e-hamburguesas-argentinos-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAH BURGUER CANOAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201024_05cda9f4-3af3-435c-838f-bb5ee3945d56.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bah-burguer-canoas-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Di Napoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271322_b10099d2-6fe5-4433-9876-91ff757c7c43.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzaria-di-napoli-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô das Massas e Filés",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211022_dc5f5f53-6a5b-47e3-8b8a-9edfbe60adb9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bistro-das-massas-e-files-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BROTHER BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290905_9f86ab0c-6f77-4a23-8fe1-a92738d3383d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/brother-burguer-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO E SABOR ALIMENTOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca tem_TEMPE_ENTOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tempero-e-sabor-alimentos-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Copa Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081023_918f5047-7e75-425a-8f44-76785f190f7a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/copa-burguer-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301701_65cd6d4c-57c3-426c-8863-1f3124e13b3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/king-lanches-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Perdiga's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271040_c2d0f14e-3773-4870-ab6d-5d7801ad51b8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/perdigas-burguer-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Pagliarini",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_XISPA_ARINI.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/xis-pagliarini-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOMBADO SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290945_d2213ddc-c7d3-44fc-9cd0-b831ef8c04d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tombado-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comidas De Boteco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704191518_a85aabce-bf5a-41d2-9028-53063d90acf2.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/comidas-de-boteco-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pri lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290923_f85e3e94-8bb2-4303-acc4-7da30d54c05a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pri-lanches-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Do Pasttel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706181207_4978aa71-a967-462d-b9eb-63dd54690214.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/rei-do-pasttel-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macarrão Na Chapa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702151940_MACAR_CHAPA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/macarrao-na-chapa-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TELEBURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181238_2044239b-d6b9-4608-978e-4a6f31c5db2a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/teleburguer-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornello Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//SERysnLhGpo3_FORNE_ZARI02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/fornello-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KIOSKY COMIDA CASEIRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/esse_kiosk_seira.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/kiosky-comida-caseira-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tartallia Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tartalli_tarta_zari02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tartallia-pizzaria-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Tele Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//yvH0FeWAj1tE_IMPER_MITEX.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/imperio-tele-marmitex-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galera da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710060836_b20d9810-707e-444e-bf74-81a5acd03e8d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/galera-da-pizza-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Rock Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131543_36559c73-8578-4b10-b503-ece656c8493a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/don-rock-gourmet-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batatão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071122_695b2700-3f89-4111-8dda-032b73af3d7e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/batatao-lanches-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CIA DO ALMOCO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161257_66ab62e2-2a2f-4b94-9fb9-9a992eeb6850.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cia-do-almoco-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frangolitos Frango Frito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261452_0db40ec6-3873-4b00-bffc-d3101edfb390.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/frangolitos-frango-frito-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dentadas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111431_036fa4d3-71de-4fbe-a007-8a3f46d8920d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/dentadas-lanches-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oca de Savoia - Canoas Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171751_OCACANOAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/oca-de-savoia---canoas-pizza-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koringas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191525_68843c5b-3d21-400c-8ef7-3a80b005a7bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/koringas-lanches-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapolin Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020953_89430944-cc2d-4160-a935-30c4a5da5565.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/chapolin-lanches-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italianíssimo Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/italiano-logo_itali_zari05.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/italianissimo-restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Family",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221202_0c745364-9ea5-4f84-9d72-7717ec2f55de.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pastelaria-family-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DA VILA ESPETINHO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151408_56423064-00a0-4353-a425-ae6a04149744.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/da-vila-espetinho-sao-luis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maça com Canela Coffee Break e Doceria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140910_1bff08cf-7337-4de0-810c-07700c7817d1.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/maca-com-canela-coffee-break-e-doceria-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quiosque do Paulo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051421_8bca211a-0ab2-4681-a2c3-0a927bb255f5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/quiosque-do-paulo-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tri Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (2)_triburger.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tri-burger-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Vulcani",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//iluQVbxH0Sn4_PIZZA_LCANI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzaria-vulcani-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetu's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031148_5b0c33fa-dd3f-4d54-a044-aee026dbe563.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/espetus-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Come Aqui",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241342_4a0a1558-7dcd-4910-8496-adb4be6cfeaa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/come-aqui-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boi no Fone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/boi no fone_boinofone01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/boi-no-fone-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nyppon Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270830_2cbf1597-3928-46ab-a306-bf0cb4d1fe3d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/nyppon-sushi-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Okaasan Temakeria E Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091330_136fa079-8724-46cd-8ba1-20c559240dbd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/okaasan-temakeria-e-sushi-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Brasiliana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704171014_b60214c2f0ac4e36a59d04648aca3710.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/disk-pizza-brasiliana-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguetchê Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/unnamed (1)_burgu_anoas.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/burguetche-canoas-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Paiva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7bdb1e7913aa2_NOPRA_IVERY.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bistro-paiva-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churras Drive",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_churrasdrive.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/churras-drive-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REI DO SHOWARMA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311334_91f7f91e-cc02-426b-8b65-7fd4d0e35ae0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/rei-do-showarma-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manos Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pqMrS0OPaojW_MANOS_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/manos-pizzaria-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Walking Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081712_BURGU_STEIO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/the-walking-burguer-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rango na Hora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_rangonahora.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/rango-na-hora-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Chicken Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200940_53a6f3c3-9e20-4f16-a54e-a8977c4f3a77.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/chef-chicken-delivery-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skillus Lanches Marechal Rondon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//rQF30SpOaq8R_SKILL_ONDON.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/skillus-lanches-marechal-rondon-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271544_baeccab4-ea39-4c2e-9872-0cabbde6239f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/fast-burguer-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ana Maria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031135_ANAMA_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/ana-maria-delivery-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pica Pau Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_picap_nche01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pica-pau-lanches-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE DA REPUPLICA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140905_0197286a-0a1f-478a-90c4-dbd451fa7e74.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/restaurante-da-repuplica-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040844_70052bfe-4768-4e32-910e-e589e28878af.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/casa-do-pastel-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TBB the best burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161558_d9a4e45a-6002-4c5f-a57f-4cf4aa0aaa31.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tbb-the-best-burger-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca das Pulgas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221520_a9399813-d9cb-491e-bc23-3e622606e2c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/toca-das-pulgas-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESTHERMARMIX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705211707_42a97bc5-c120-41dc-b0a9-f988ad058b9f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/esthermarmix-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Qbom Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_qbomlanches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/qbom-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca da Coruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091059_fc72b95d-4c64-4b51-b0ab-aa844b253658.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/toca-da-coruja-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bake Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121304_07dd2790-4c88-418b-b105-aa7dd0f26c37.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bake-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SKILLU'S LANCHES - SANTOS FERREIRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210855_ae338896-f907-48ba-a7bc-f24620d9cce2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/skillus-lanches---santos-ferreira-marechal-rondon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baguet's do Park",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709270852_a137e4a0-4267-4f1b-abce-9d3911f60568.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/baguets-do-park-mato-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buteco S.A",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706120911_d4aeddbd-65df-4a30-a845-958996ad3b3e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/buteco-sa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batatas Rösti Du'Cheff - Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051539_5216a988-6d90-42ba-a292-b747248a7392.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/batatas-rosti-ducheff---delivery-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snoopy Dog´s",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121134_71f01cbc-cb3c-4a57-94b2-cf9be4482f00.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/snoopy-dogs-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Sama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031402_19a5ff75-929c-4827-b115-12110b9cc58c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sushi-sama-mathias-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meki Sushi delivery Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060716_b3c5c086-7144-4dc4-bfcd-1cdabf5df55c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/meki-sushi-delivery-canoas-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Al Capone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021413_f877e8d2-7dad-4162-ba28-284462d582de.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/al-capone-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bendito Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//9gYlFOVeaLQJ_BENDI_URMET.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bendito-gourmet-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CIABATCHE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707222100_189fcf15-c805-4083-8e62-ac1549620f18.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/ciabatche-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabron Panchos Argentinos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cabron-panchos-argentinos-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Bigodón - Gourmet Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_elbig_rguer.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/el-bigodon---gourmet-burguer-estancia-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Salchipão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706020849_f298df97-43a6-4003-a943-014a515a88ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/el-salchipao-igara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panela velha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101158_8fb30fdc-b6dc-4753-95c3-c436da3c15e7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/panela-velha-guajuviras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Antonio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190950_fbce5674-8a65-4020-8ba7-a45b65ef0792.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pizzaria-dom-antonio-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saborosíssimo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261007_c843d919-d2ef-4f09-8dce-7c8b386dd59c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/saborosissimo-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhor dos pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-senhor-d_senho_steis.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/senhor-dos-pasteis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANOAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]
+

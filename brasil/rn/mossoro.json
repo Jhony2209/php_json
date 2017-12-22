@@ -1,0 +1,638 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Mossoró",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200025_ec812acc-b828-4184-9516-cab3812c9d74.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/brasileirinho-delivery-mossoro-paredoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salage Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110925_e2ce5f83-2623-4aea-89c4-6add3929d4d5.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/salage-restaurante-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete U 7",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- lanchon_lanchoneteu7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/lanchonete-u-7-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Júlia Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_juliagourmet.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/julia-gourmet-belo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Do J",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_acaidoj.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/acai-do-j-abolicao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alô Açaí Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705071237_0603e329-861b-43d3-bde1-c193737f6a97.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/alo-acai-delivery-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tchê Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- tche re_tcher_rante.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/tche-restaurante-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241318_731682cf-40bb-4748-ad8f-d132595b7744.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/expresso-do-acai-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flash Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291414_47cfbb24-6264-4a82-9921-156ce4b1ca5f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/flash-delivery-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Juicy Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010954_12580891-a715-44db-b07c-a254410bad5d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/juicy-acai-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pittsburg - Partage Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pits_pittsbur_PITTS_PPING.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/pittsburg---partage-shopping-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Combo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310921_a82bff6d-43e0-47b3-8b0b-5d7819bb7d6c.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/super-combo-lanches-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotisserie Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- rotisse_rotis_iches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/rotisserie-sanduiches-abolicao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASALEVE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111918_f730d389-f3b1-4147-90aa-b124c3e8ea41.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/casaleve-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Show",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/show_SUPERPIZZA04.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/acai-show-planalto-treze-de-maio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faceburg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301027_1ced6673-bce4-475f-825e-a239d3d5357a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/faceburg-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tiago Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- tiago s_tiagosushi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/tiago-sushi-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JACKS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081814_c702eae7-7edb-49e7-897e-2bf9dfe28ffe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/jacks-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- o acai_oacai.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/o-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bambinos Burg - Alto de São Manoel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020937_9ce8ec14-2bfe-49dd-9ba1-be5739120f56.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/bambinos-burg---alto-de-sao-manoel-alto-de-sao-manoel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wayne S Burger Star - Mossoró",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/waynes logo_wayne_ssoro.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/wayne-s-burger-star---mossoro-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Topps burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171543_a4cd52bc-43ea-4a7e-ae51-855c2406bec9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/topps-burger-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bambino's - Nova Betânia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311014_0ebf39ef-d381-489f-af33-a270a6371b30.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/bambinos---nova-betania-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prime Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221522_0d7c5eab-d0ed-4806-a043-4c58a443d564.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/prime-burguer-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEXANO´S PUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/275e01d7-8491-4839-a22e-a47788fa32fe/201711261914_23519.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/texanos-pub-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Lla Costta Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dllac_zaria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/dlla-costta-pizzaria-doze-anos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OUTLAW - HAPPY HOUR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707260827_f8bf283f-18bf-4924-830c-6d922493f041.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/outlaw---happy-hour-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Trattoria Mossoró",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- trattor_resta_ssoro.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/restaurante-trattoria-mossoro-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dsfrut Sorvetes E Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- d'sfrut_dsfru_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/dsfrut-sorvetes-e-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191039_c4116c3f-d740-40bd-971e-3cf8cbad285d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/acai-delivery-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BI BIP DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- bi bip _bibip_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/bi-bip-delivery-ilha-de-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- dog bur_dogburger.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/dog-burger-alto-da-conceicao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nemo Sushi Mossoró",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- nemo su_nemos_ssoro.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/nemo-sushi-mossoro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Burg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- big bur_bigburg.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/big-burg-alto-de-sao-manoel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Appetito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- appetit_appetito.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/appetito-paredoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hippos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- hippos_hippos.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/hippos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tok Fino Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111255_e073c87a-e183-4271-bb7d-f0183366d134.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/tok-fino-pizzaria-nova-betania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Irachai Mossoró",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071422_390b8513-a60b-4bd9-be9a-543a27f259ac.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/irachai-mossoro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pecado Da Gula- Loja 1",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- pecado _pecad_loja1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/pecado-da-gula--loja-1-belo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sopas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120707_eb9a1125-aa17-4f4a-a2cb-1645e6e207d9.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/mossoro-rn/sopas-delivery-planalto-treze-de-maio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOSSORO",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }]

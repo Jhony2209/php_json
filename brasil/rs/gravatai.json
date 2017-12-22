@@ -1,0 +1,814 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SantAdega",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011319_f9445f97-e4cc-41f4-afc8-a4d2d695bd6c.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/santadega-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mini Snack",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706210809_6acac1ad-270b-4289-977d-b61cdce64478.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/mini-snack-cohab-c",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro Do Bigode Canoas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_CACHO_ANOAS.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/cachorro-do-bigode-canoas-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARENA BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo._ARENA_NGBARjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/arena-burguer-cohab-c",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAH KI FOME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311045_351ea3d7-91b5-4c71-843f-f080a06eee1a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/bah-ki-fome-bom-sucesso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boca Do Forno Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311752_46382f6f-94ea-4352-b67e-630e71f25a08.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/boca-do-forno-delivery-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia Dom Roberto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040740_c574f333-6e3c-4b41-b14e-27685bd73802.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/choperia-dom-roberto-jansen",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Costelão Churrascos e Churrasquinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171440_7a007c1a-b4f2-46ba-b2a1-515dcf2f9d2a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/costelao-churrascos-e-churrasquinhos-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deliciosa La minuta Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231556_7dc50a40-9203-449c-98fa-5ae060640d30.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/deliciosa-la-minuta-caseira-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delta Pizza.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081327_0a3fca12-2b8c-49b8-ae8a-3725e435957f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/delta-pizza-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Family Pizzera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201923_738a502d-4664-43c6-9b07-aac7d79e7fc6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/family-pizzera-parque-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria e Pizzaria Torres",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161410_7987491b-4d4f-4305-9f86-430fe6716b91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/hamburgueria-e-pizzaria-torres-passos-dos-ferreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá Sensación",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130811_7f00a1ca-c1aa-48b0-8dd0-66f29a63a418.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/la-sensacion-barnabe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paladar Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301116_eed10829-08e6-4550-8829-210ce7f4599e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/paladar-caseiro-barnabe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Konyzza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Q1PR5NfijoT3_KONYZZA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/konyzza-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacurau Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//OibemUlKr2Vq_BACUR_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/bacurau-lanches-cohab-c",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brutu'S Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_brutus_brutu_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/brutus-burguer-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasmania Gravataí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pasmania_PASMA_VATAI.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/pasmania-gravatai-passo-das-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kenko Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090929_b0c5a4d6-0759-46eb-baf2-308b24f9ae75.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/kenko-sushi-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Costabile",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290808_ec2b1107-d469-44d1-a382-c4f5ffb5b874.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/cantina-costabile-orico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Al Peso Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_alpeso_ALPES_IVERY.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/al-peso-delivery-passo-das-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hashi Sushi Bar & Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261815_f7826870-57c4-46a8-aef3-d0928b59f793.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/hashi-sushi-bar--delivery-passo-das-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Insano's Hambugueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161141_f8a8c2c2-a194-4b98-86f4-92740ee7c6a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/insanos-hambugueria-artesanal-caca-e-pesca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prédio 5",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241027_70390f63-e524-4f7d-9cd7-e107d1aca552.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/predio-5-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monster Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271605_cdf1104f-e288-49b0-b5cb-8a03e8530d42.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/monster-dog-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna do Nenêburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020854_99fd899c-0b12-43c5-9bb0-1f094e271d70.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/taberna-do-neneburguer-barnabe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Lasanha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051442_fe2d4f14-cd50-48a0-96be-496b4965f2f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/rei-da-lasanha-bom-principio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Pegado Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bem pegado_bempe_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/bem-pegado-lanches-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Da Gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705180845_2df41ac6-8cb5-4c6b-9781-b02906a82ad8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/cia-da-gula-parque-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bros. Burgers - Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703111605_BROSBURGERS.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/bros-burgers---gourmet-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Refeisul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241834_06643c1d-0f9e-472b-94d4-6473834626d6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/restaurante-refeisul-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Filé & Cia Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_FILÉE_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/file--cia-delivery-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ka do Alemão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211047_405c0c1f-41ca-4077-8ea0-f9f0fbe7bcb5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/ka-do-alemao-nossa-chacara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa das Pizzas Gravataí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/742a0c34-9456-4e12-966e-633ea629d385/201712161212_logou.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/casa-das-pizzas-gravatai-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Sabor Pizzaria Gravataí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//nqeF6vg7utKB_DISKS_VATAI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/disk-sabor-pizzaria-gravatai-neopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cavanhas - Gravataí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271423_107a098e-23d0-4756-a2d5-a76ee6629dac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/cavanhas---gravatai-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shawarma Casablanca Culinária Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131209_b35f4eb3-7ed2-44fa-92a7-8060e5eef15b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/shawarma-casablanca-culinaria-arabe-parque-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Morosko Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704242222_e2f36c8b-045b-413c-9d78-e3fdb7a3ac04.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/morosko-pizzaria-e-restaurante-bom-sucesso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia 62 Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071732_4344724d-1761-4a9f-9d20-802bf2c52ab3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/cia-62-delivery-bom-principio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Telemaki Gravataí Parada 66",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//VvqJYtSrmo8B_TELEM_ADA66.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/telemaki-gravatai-parada-66-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DioninhasBurguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050943_37f0b1d9-6e2c-4c4c-bc48-c30f2bb860b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/dioninhasburguer-neopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Setentão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281006_d23a02ef-a64a-48fe-95cb-282f9d72bb85.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/super-setentao-bom-principio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Piu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251227_55d4ef6e-4d31-4fe4-8772-8e5631739ec2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/tele-piu-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém da Aldeia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301119_4c1902b3-59f6-4366-a242-9d4c015c64d1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/armazem-da-aldeia-cohab-c",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gostinho de Casa!!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280847_c710dd7c-6655-4f9f-b44d-45328e89280d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/gostinho-de-casa-parque-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recakes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061135_7c05f7b8-4ae7-458c-b85b-814bdb935f91.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/recakes-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alemão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//5B81ZH2R6Pmb_ALEMA_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/alemao-lanches-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chalé Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/img-20160623-_chale_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/chale-pizzaria-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Do Gaúcho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dogdogaucho.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/dog-do-gaucho-barnabe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Essência",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061700_RESTA_ENCIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/restaurante-essencia-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Fialho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_fialho_RESTA_IALHO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gravatai-rs/restaurante-fialho-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATAI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

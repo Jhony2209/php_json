@@ -1,0 +1,143 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X DELIVERY LAJEADO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171504_0d1d3d95-9867-4f0e-bc53-032d983ad968.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/x-delivery-lajeado-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moinho Di Trento",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//fXFYnMmZ6E0S_MOINH_RENTO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/moinho-di-trento-carneiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PADRICIMO BAR E RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180940_f39d3f69-13ce-469c-9b2a-f26358234f82.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/padricimo-bar-e-restaurante-santo-andre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tuttis Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tuttis_tuttispizza.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/tuttis-pizza-hidraulica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saborear Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101421_e3f99f7d-28de-42e3-930f-5f349e25e984.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/saborear-restaurante-morro-vinte-e-cinco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UNNA PIZZA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191222_3459d1b5-36b6-4120-8d8a-eeeb1bc0e176.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/unna-pizza-delivery-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brother's Foods & Drinks",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040918_08a20e62-5c7e-4335-aeb2-068acba3ea86.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/brothers-foods--drinks-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baixinha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101410_a91aeb2a-2112-4a54-a656-cc0086c90c35.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/baixinha-lanches-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kentinhas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//8MA2ZWC4zmvS_KENTI_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lajeado-rs/kentinhas-delivery-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAJEADO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

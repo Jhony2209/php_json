@@ -1,0 +1,367 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Orient Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//h8kWblAJDuOM_ORIEN_HIBAR.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/orient-sushi-bar-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EDINHO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131408_f885b33b-5e69-464b-98dc-52a0ea9667c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/edinho-lanches-nova-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEGA X",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181104_925494bd-3d61-4e27-83ec-0d96add2de3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/mega-x-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakumo Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221030_9cc8a367-dee5-4553-8e02-251e45bf084f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/yakumo-sushi-vila-regina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Primas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221132_64c34c62-250c-46fd-8078-eef997044aca.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/tele-primas-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confraria do xis 59",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706270926_a8acd539-4061-4618-b1d2-7ff799e1b696.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/confraria-do-xis-59-vila-vista-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasmania Cachoeirinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171756_9e562e2e-c09c-4a18-b914-367a6632fb04.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/pasmania-cachoeirinha-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boka Xeia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061059_4309b536-2bc5-46a7-850f-be0cfc0beab8.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/boka-xeia-parque-da-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central Park Lanxis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710290935_466b3280-aeb5-4a89-bc3e-517e27f5dace.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/central-park-lanxis-parque-da-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Dog Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130825_4f23bc70-7c9a-43eb-95d5-d11613165e82.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/top-dog-lanches-jardim-do-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oca de Savoia - Cachoeirinha Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_OCACACHOEIRA.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/oca-de-savoia---cachoeirinha-pizza-distrito-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria Skillus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091838_bd1d554c-7b9a-4303-b3d4-261d2596c6e3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/lancheria-skillus-vila-anair",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bauru da Tribo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//enJRXaxiUCFh_BAURUDATRIBO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/bauru-da-tribo-vila-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "K - Churrasco Original",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703250934_e3f1c47fd67b4de2a5b7b7c13ce0ce87.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/k---churrasco-original-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Telemaki Cachoeirinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//urp2T9A7JM0W_TELEM_RINHA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/telemaki-cachoeirinha-parque-da-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mais Sabor JG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290913_363390e5-db59-45aa-9f08-d870a7e6eeaf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/mais-sabor-jg-nova-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Cachoeirinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290951_26c384a5-5cb9-4068-898d-fada20898818.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/subway---cachoeirinha-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 1_ciadopastel.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/cia-do-pastel-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arte na Borda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140940_3ef2abde-1019-4958-9a84-6bb7df03087a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/arte-na-borda-parque-da-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capitão X",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121820_8863770a-0494-40e3-8fdf-1f2592eed3b8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/capitao-x-morada-do-vale-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yujin Sushi e Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_yujin_yujin_ounge.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/yujin-sushi-e-lounge-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dad's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231057_32a43db8-a2fa-41f7-b4d9-88262cabe0cd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/dads-burguer-vila-vista-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fratelli Pizzaria Cachoeirinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-frat_frate_rinha.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cachoeirinha-rs/fratelli-pizzaria-cachoeirinha-vila-cachoeirinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRINHA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

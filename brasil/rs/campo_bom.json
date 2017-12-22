@@ -1,0 +1,111 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Campo Bom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290954_f452fb68-416f-4f29-8b85-1cca687e6349.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/subway---campo-bom-25-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Favoritu's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260814_953dde7e-c735-499e-aca7-87fadf827862.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/favoritus-burguer-zona-industrial-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Burguer Do Julio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5de9c38c-1e4f-4e55-926d-790f0478988b/201712072157_fb_im.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/big-burguer-do-julio-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POP  BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d7c0fa83-5c8f-40a9-a5c0-d112f7f8f9e6/201710101847_logop.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/pop--burguer-imigrante-norte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091112_89702fb0-15a6-46c7-850d-3f197badf8ed.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/master-pizza-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pankecas da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//9mqbVyTF6t2n_PANKE_AVOVO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/pankecas-da-vovo-genuino-sampaio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shoarma Lanche Persa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//s1krH3BaliT2_SHOAR_PERSA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/campo-bom-rs/shoarma-lanche-persa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO BOM",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom paladar restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709170855_28fc09a3-6bb5-4380-bab7-e256498d1452.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/bage-rs/bom-paladar-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BAGE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

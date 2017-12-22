@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY OSÓRIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712070736_1f80af4a-2e7c-4cfe-b58b-533c6cab30d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/osorio-rs/subway-osorio-medianeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OSORIO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

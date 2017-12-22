@@ -1,0 +1,31 @@
+ [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bodega Ricompensa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bodega_bodeg_pensa.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/garibaldi-rs/bodega-ricompensa-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GARIBALDI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Picanha Delivery Garibaldi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//lub2TmtNg3QE_XPICA_BALDI.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/garibaldi-rs/x-picanha-delivery-garibaldi-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GARIBALDI",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

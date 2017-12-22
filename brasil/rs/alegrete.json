@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Espetinho Alegrete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705170828_0bcb5e72-12a0-4f01-a402-81ac3c817cfd.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/alegrete-rs/emporio-espetinho-alegrete-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALEGRETE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

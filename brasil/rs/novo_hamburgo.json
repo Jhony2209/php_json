@@ -1,0 +1,1580 @@
+[   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BobbyDog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180724_3563bc46-99ec-4931-ada3-5b82c21b662d.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/bobbydog-maua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grão Brasil Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//RyQkWOYlMaj6_GRAOB_LCAFE.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/grao-brasil-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_rota_ROTADOSABOR.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/rota-do-sabor-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Ouro Branco Da Bento",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_xisou_bento.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-ouro-branco-da-bento-ouro-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco Aliança",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703140833_BOTEC_IANCA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/boteco-alianca-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradicional X Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060743_ddc442bf-a81d-4724-a0af-b170e19b6b17.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tradicional-x-burguer-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kings Kão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Bsexp3h42VTk_KINGSKAO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/kings-kao-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tokiomaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101423_b99d34e8-31a3-4d3e-b0b9-212098fa71e9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tokiomaki-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Do Amarelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301200_255780b2ef34443fb44868f6a60acc3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-do-amarelo-rondonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Nh",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291018_1ee1c8df-03d6-4416-b650-dc883099ce27.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/subway-nh-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Retrô University",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131008_fbfe23a9-231d-4d39-be70-f49cde47ded2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/retro-university-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porto Do Peixe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_portodop_PORTODOPEIXE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/porto-do-peixe-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Dubom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_xisdubom.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-dubom-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Prime - Novo Hamburgo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200204_33c5681c-64e5-4d9c-8a44-62d22fff1b06.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pizza-prime---novo-hamburgo-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boka Loka Alaminutas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180800_bb05fee1-dfca-4571-b149-822c566eb1ac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/boka-loka-alaminutas-delivery-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonsai culinária japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140723_418013a7-a044-41ef-8718-f2cd5a1f728a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/bonsai-culinaria-japonesa-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HEY MAMA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240929_e1781876-1457-4be1-aeee-3a10e4ca84f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/hey-mama-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kolibri pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291222_6596b48f-6d78-4302-b547-b0b50e9393c1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/kolibri-pizzas-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Du Chef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051828_4a608ecb-29a1-46a6-beed-70d225323406.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pizzas-du-chef-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pote Saúde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180928_9a3ca19c-8fee-4c05-9e57-08499e3617a1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pote-saude-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bavaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071301_bdfdc50c-d960-402d-a847-abf6bafa7342.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/restaurante-bavaria-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante do Joãozinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061408_65273ce5-89be-4f19-9034-02bad4e1dec9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/restaurante-do-joaozinho-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Kaipa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221311_144daf2f-199a-40b7-a6f9-f49f07efd2f9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tele-kaipa-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Panchos Hermanos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030732_9ccc9259-35d9-4b33-83b8-4da72ac0890d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/los-panchos-hermanos-santo-afonso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Boa Vista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121231_2bfddd1a-77a2-4325-ae6a-c6f27d99a994.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-boa-vista-ouro-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Ouro Branco Da Bartolomeu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/xis ob_xisou_ranco.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-ouro-branco-da-bartolomeu-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Da Mell & Panquekas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/xdmpd_xisdamell.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-da-mell--panquekas-delivery-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Galeto Paladar Missioneiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tele galeto_teleg_neiro.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tele-galeto-paladar-missioneiro-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Pit Stop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050919_2165df57-11b9-4ac4-83af-383a072f6c2a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/espaco-pit-stop-rondonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mamma Francesca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061224_b1abd30405d145d2bcf1791a8b1fb15e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pizzaria-mamma-francesca-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Mundo Novo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011442_05c0558e-7a86-411d-9daa-e499c5ecc103.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-mundo-novo-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "T Maggo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotmaggo_tmaggo.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/t-maggo-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pepperoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701201310_PEPPERONI.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pepperoni-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Da China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_IMPER_CHINA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/imperio-da-china-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garfão Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_garfa_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/garfao-restaurante-e-pizzaria-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Faraó Pizzaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ofarao_OFARA_UERIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/o-farao-pizzaria-e-hamburgueria-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LUCANDA RESTAURANTE E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240908_6f9ac38a-25c6-47d7-9d0a-58e8b7cddbe1.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/lucanda-restaurante-e-pizzaria-rondonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria Bom Gosto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//XHgGarZ354sB_LANCH_GOSTO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/lancheria-bom-gosto-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Pizza Bambu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bambu_TELEP_BAMBU.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tele-pizza-bambu-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Opção Tele-Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//SQTW5H1kusn4_OPCAO_PIZZA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/opcao-tele-pizza-rondonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamute Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301616_5efb55db-23f6-4573-b08d-21d96118cc78.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/mamute-lanches-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pratos & Atos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//BPFigUsv2xca_PRATOSEATOS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pizzaria-pratos--atos-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitas Do Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/perfil (1)_marmi_dobem.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/marmitas-do-bem-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas do Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//BP0Lj1UQgWOY_PANQU_CHEFF.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/panquecas-do-cheff-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco 1538",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210907_52525a18-cb26-4487-98b9-2a3d37304eea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/boteco-1538-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Marcos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240840_ffe0e29f-338d-4090-b0c7-b56398103e9d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/don-marcos-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pisagri Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121345_b4eb0b86-4171-4d9a-9765-e825e8f28b24.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pisagri-restaurante-e-pizzaria-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Da Voni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//AKbw82ZkTRXn_XISDAVONI.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xis-da-voni-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primavera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//sz37Mf2XuR0q_PRIMAVERA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/primavera-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//69lT2qV4XtUS_PAPAPIZZAS.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/papa-pizzas-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "snacks delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291018_899729d1-f6c5-42b1-8289-e76e4a86ec5c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/snacks-delivery-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ka Churrasco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1thAHoiGzXwZ_KACHURRASCO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/ka-churrasco-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Smells Food Novo Hamburgo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703271003_eaf94cc3bac64b748046cee36cc7854e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/smells-food-novo-hamburgo-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dhora Telepizza & Fritos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703170835_DHORA_RITOS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/dhora-telepizza--fritos-santo-afonso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Cheff Pizzas e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3ff331226ff22_VIAND_CHEFF.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/du-cheff-pizzas-e-lanches-rondonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebel Lanches Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061426_dcfb4fd8-f8ca-47d8-906f-9803afb555d2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/bebel-lanches-delivery-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sfiato Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sfiato123_sfiatopizza.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/sfiato-pizza-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WalDrive",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171100_e733565a-56bf-4897-9de6-831f61e07239.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/waldrive-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecaria 251",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo panqueca_panqu_ia251.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/panquecaria-251-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabores da Naty Almoço e Marmita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161933_f06b60e3-7082-47b0-8c0f-d10d336636ba.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/sabores-da-naty-almoco-e-marmita-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fortuno Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//azjrTQwIVuKh_FORTU_UERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/fortuno-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer Club",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//2bxOpVayYPAG_BURGUERCLU01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/burguer-club-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabulosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ec7c0a82-89c5-479d-9eef-9b5667b47c9f/201711231934_21743.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/cabulosa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHINA PLUS COMIDA CHINESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041233_692a3de6-7239-4c6a-a312-7aa81e24b464.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/china-plus-comida-chinesa-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto10 Alaminutas & Picanha na Tabua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091936_849f1264-43f0-4c5c-b51d-0174a6d6b018.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/ponto10-alaminutas--picanha-na-tabua-boa-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery do Ases",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291638_e221478b-9041-426d-924a-c4c656c4ffeb.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/delivery-do-ases-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Espetinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//N3hr48UHSLFs_EMPOR_TINH01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/emporio-espetinho-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHURRAS DRIVE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211337_e3f6806e-3f61-4678-be75-e470a6d709b1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/churras-drive-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Moda Do Juca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701261413_PIZZA_OJUC01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pizzaria-moda-do-juca-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas da Mara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251424_a1c5c41d-4e85-443c-a47d-dd952283c6d9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/panquecas-da-mara-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Pizza Two Brothers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081546_cd56d3c2-ea06-4b16-b732-971e0f27959e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tele-pizza-two-brothers-santo-afonso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Gulla Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241043_4e1c93e4-3cdc-479b-b32a-e8a9f09ac577.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/bella-gulla-restaurante-boa-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Barão Pizzaria - Novo Hamburgo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_obara_burgo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/o-barao-pizzaria---novo-hamburgo-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Break Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011040_401419347d2941949c3552f5ca8a406b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/break-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jappa Boy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//QFGLMZwUBCAo_JAPPABOY.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/jappa-boy-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taquareira Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//8HtawSZp5qy3_TAQUA_NCHES.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/taquareira-lanches-vila-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211318_c9388316-d130-4170-9648-7e4151fc6346.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/garagem-burguer-delivery-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ryori Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131518_COMPA_AKINH.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/ryori-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto D'Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-galetodi_galet_talia.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/galeto-ditalia-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Royal Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_royal_ROYALPIZZAS.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/royal-pizzas-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saboritá Restaurante e Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041202_f7fad0ed-8870-4cac-be70-f574d928ae38.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/saborita-restaurante-e-bar-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251057_1a1cf121-b75d-4521-89a9-ee1f4e4fa70c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/dogao-lanches-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pica-Pau Lanches Nh",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//BfW4bkJXv3hu_PICAP_HESNH.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pica-pau-lanches-nh-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brownies July",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121355_dcee5845-b114-4f74-b28d-b15965f876ae.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/brownies-july-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto Mio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//WDRMkHP3IewY_GALETOMIO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/galeto-mio-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VakaLoka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220906_9f508043-c52f-4a72-9c0b-d329b5e83ab2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/vakaloka-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Farid'S Esfiharia E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//rBl1AebQsqFg_FARID_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/farids-esfiharia-e-pizzaria-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Olé Mexicano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ole_olemexicano.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/ole-mexicano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Sushi Ikigai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271018_d5b38be2-c863-4e06-9b43-b5e6fe5c29ad.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/tele-sushi-ikigai-guarani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prato Del Nono Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211210_eb977dc4-7798-45d2-bc2d-556867c42b96.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/prato-del-nono-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Komilão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//2ztaH9PJNw6h_KOMIL_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/komilao-lanches-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Takeshi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//5uQykmgjCEHp_TAKESHI.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/takeshi-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ogroburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021127_b26d44d2-c381-4547-8f97-d22de3194c7c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/ogroburguer-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pub E Restaurante 4587",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111301_e6a06b10-dd66-4896-9930-46c9a10a941e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pub-e-restaurante-4587-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D´Luiza Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dluizapizzas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/dluiza-pizzas-patria-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hiro San",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061406_50bbafbdac3a48b7990212158832799e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/hiro-san-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OFICINA DO SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171451_5cdbecc7-5e0d-466a-bf94-b2801fe4278a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/oficina-do-sabor-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forneiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//RHDkfs8jQJc7_PIZZA_NEIR02.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/pizzaria-forneiro-hamburgo-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xizaria 10",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/xizaria_xizaria10.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/novo-hamburgo-rs/xizaria-10-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVO HAMBURGO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

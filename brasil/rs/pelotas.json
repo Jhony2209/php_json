@@ -1,0 +1,638 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confeitaria Berola da Bento",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071634_1188b218-cca8-4138-91ee-988d012396d5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/confeitaria-berola-da-bento-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sauderia Fit Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sauderia_saude_tfood.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/sauderia-fit-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Pelotas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//QoXYc0KICNFp_CROAS_LOTAS.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/croasonho-pelotas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Usina de Massas Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Xk6h5fuyZAOt_USINA_PRESS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/usina-de-massas-express-cohab-areal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Pelotas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291021_53c41001-2c29-4bf0-8bdb-91a70f47580b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/subway-pelotas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dalila Restaurante Árabe Brasileiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281123_a3843447-edee-4999-a315-0c759d9d976d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/dalila-restaurante-arabe-brasileiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria's Lanches & Alaminutas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121007_eb23db47-56ad-4c3f-a31f-b1f409090b7b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/marias-lanches--alaminutas-porto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzeria Premium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271017_bdb1cb12-5d4e-43f9-a926-d650304b7b0b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/pizzeria-premium-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281931_336b4041-4793-4082-9bef-57e2121ce973.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/xis--cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eskina Do Pedaço - Mini Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_eskin_izzas.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/eskina-do-pedaco---mini-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná 23",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130843_93feef2b-3abc-4f34-8ec8-f56d46b0d2f3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/mana-23-parque-souza-soares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Pastelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706060952_2af6520d-cd8c-4430-8919-cadc889e04a1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/dom-pastelo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nella Pietra Pelotas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//bRqHz6unXCcj_NELLA_LOTAS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/nella-pietra-pelotas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa'z Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140758_524e0f68-2826-4094-8c68-e39ee04941ed.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/japaz-sushi-delivery-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nostra Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110813_6bdc6c50-ba3b-489b-a46a-d713a9e2863e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/nostra-pizza-delivery-gotuzzo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Pizza Frank",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706210809_186ab5ee-36f9-494b-8985-427b3e8740df.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/tele-pizza-frank-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ichiban - Restaurante Japonês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ichib_pones.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/ichiban---restaurante-japones-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shori Sushi Pelotas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_shori_shori_lotas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/shori-sushi-pelotas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kondo Sushi Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kondo_kondo_ounge.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/kondo-sushi-lounge-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lumanda Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121546_30c2b2f8-c24b-48d7-b329-83c180c67def.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/lumanda-lanches-cohab-areal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Madre Mia!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pEWJkgLPr2a4_MADREMIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/madre-mia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Juninho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121229_438f2ea1-c001-4fe0-8248-e1046f9c8cb7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/juninho-lanches-fragata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanata Mix Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//QjW1eqRzHKfy_SANAT_ZARIA.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/sanata-mix-restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taty'S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_tatyslanches.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/tatys-lanches-fragata-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Vernetti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_vernetti_RESTA_NETTI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/restaurante-e-pizzaria-vernetti-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2016-12-06 at_pican_nche01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/picanha-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prato do dia Vilela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_EXECU_CHEFF.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/prato-do-dia-vilela-cohab-guabiroba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amarelinho Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//vKTGtR610Voa_AMARE_URMET.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/amarelinho-gourmet-areal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia Cruz De Malta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702011456_CHOPE_MALTA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/choperia-cruz-de-malta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Z",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211857_b0fd2334-d1f3-498d-a1b4-7d42f29f9555.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/pizza-z-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refeições Caseiras Pinheiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301005_55c7650b-ed03-4eb0-b8bd-ef45390beace.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/refeicoes-caseiras-pinheiros-fragata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barn. Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050852_4d8712dd-966c-4c9f-b396-415070d1df38.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/barn-burger-cohab-guabiroba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KONKI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211819_008b4d07-21bd-4cef-b5ee-bbf3e1fab341.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/konki-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701141215_SUSHIHOUSE02.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/sushi-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Anastácio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709290840_11178c74-bde8-4a87-8cdc-2575f863e3a8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/pastelaria-anastacio-cohab-guabiroba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro do Jão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pPNVTc7vtx0k_CACHO_DOJAO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/cachorro-do-jao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina da Bento",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//YKvx7Q6q95eW_CANTI_BENTO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/cantina-da-bento-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hõmu Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_homusushi.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/homu-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamma Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mamma_mammapizza01.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/mamma-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_mega_piz_MEGAPIZZA01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pelotas-rs/mega-pizza-itamaraty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PELOTAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

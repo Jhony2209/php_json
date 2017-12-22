@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway-Frederico Westphalen",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291003_a05762ba-ee60-468b-9212-903045860ea2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/frederico-westphalen-rs/subway-frederico-westphalen-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FREDERICO WESTPHALEN",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

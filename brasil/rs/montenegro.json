@@ -1,0 +1,47 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cassio's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//EGS5nFwLfgqN_PIZZA_SSIOS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/montenegro-rs/pizzaria-cassios-aeroclube",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MONTENEGRO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//HDMbxtF6uzNV_PIZZARIABARI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/montenegro-rs/pizzaria-bari-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MONTENEGRO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ducais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//F1Chx76pnjHE_PIZZA_UCAIS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/montenegro-rs/pizzaria-ducais-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MONTENEGRO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

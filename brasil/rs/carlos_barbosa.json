@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Picanha Delivery Carlos Barbosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//E0PsarGSfpul_XPICA_RBOSA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carlos-barbosa-rs/x-picanha-delivery-carlos-barbosa-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARLOS BARBOSA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

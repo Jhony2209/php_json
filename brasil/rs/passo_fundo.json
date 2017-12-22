@@ -1,0 +1,1230 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Caza Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291639_dbef66f4-7f3b-4f91-a26d-58a36d3e049a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/bella-caza-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrot Fitness-Passo fundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031438_8ec60be5-48a2-49ea-a3f2-0c0d96602caf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/bistrot-fitness-passo-fundo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alecrim Comfort Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101201_ALECR_TFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/alecrim-comfort-food-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buga Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111850_aa66a951-6ba3-473c-9dee-23e24555be74.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/buga-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "E! Sucos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311538_c303f2c4-bff1-4fcc-a384-d09a16411c90.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/e-sucos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chief s Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711020922_fe0f8721-c680-4559-950f-8bd99ec280c3.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/chief-s-hamburgueria-sao-luiz-gonzaga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Veneza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/165ed930-f1cd-446c-9c00-1b2dd317f8c7/201712041242_logo.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/lanchonete-veneza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Furini Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//w7UyqZz8bHlF_FURIN_NCHES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/furini-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DULCE GOURMET BRIGADERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051011_af0538f9-44d1-4015-a0d1-ba07e7d6d950.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/dulce-gourmet-brigaderia-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vitafood",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//qiO6w9s7vI3b_VITAFOOD.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/vitafood-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Santo Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161358_be3bad4a-ac0c-4759-8038-bd4742412ef1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/padaria-santo-pao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gulla Pastel - Bella Citta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//VFZkMjam9gGu_GULLAPASTEL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/gulla-pastel---bella-citta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorrão Do Claudião",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//anNK1hxEowWD_CACHO_UDIAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/cachorrao-do-claudiao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Quati",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210908_HAMBU_QUATI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/hamburgueria-quati-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "General 904",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090757_5cec6736-e7f1-418b-89f0-59be8e0631e7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/general-904-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gulla'S - Vila Rodrigues",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170739_75e6feee-5442-40b1-9285-59f5675eaea5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/gullas---vila-rodrigues-sao-luiz-gonzaga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Delivery - Passo Fundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251007_ec485460-1264-4c73-8fe7-1f980857272d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/lanches-delivery---passo-fundo-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ryo Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110741_edcbb113-a7f0-46d1-8861-9b5713997fe4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/ryo-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SALADAS & CIA -",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201913_36466fa7-57cf-4c62-a236-0a87cb1d0e39.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/saladas--cia---centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salute Gastronômia Fitness",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300941_bbbbf589-6063-4272-84ea-3fd32ff5cb69.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/salute-gastronomia-fitness-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "San Delivery Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171529_7ee7c44b-a742-4345-8e14-cc4b61a0430f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/san-delivery-marmitex-integracao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sixpack Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290826_c73d9c88-06f8-4913-b27d-c033ce1716dc.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/sixpack-gourmet-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TK Xisaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131433_5277c900-ef32-492a-8c9c-cbecd3d43550.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/tk-xisaria-integracao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Travessia To GO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310940_d52c401e-3c94-4c33-bf21-a1227233776f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/travessia-to-go-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XIS DO MAURINHO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131407_4f3e96e2-1c0a-4e25-b747-5ce29e468963.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/xis-do-maurinho-nene-graeff",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zeus Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo novo._LANCH_AZEUSjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/zeus-lanches-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/esse_hotdogs.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/hot-dogs-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Didio'S American Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703312000_ecc9f96c3f0e41e89b6f099c29fe8fdb.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/didios-american-burger-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Nella Pietra Passo Fundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Y54Ch2STLyNO_NELLA_FUNDO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/--nella-pietra-passo-fundo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém Pelegrini",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//X8GPOVQteL3N_ARMAZ_GRINI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/armazem-pelegrini-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hasu Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311650_a2c0e8cd8b374b08829e1e4c0b015b78.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/hasu-delivery-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_pointdog.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/point-dog-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Cantina Galeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161047_2726364e-096f-49ca-9059-1a72b3e01493.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/la-cantina-galeteria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Panqueca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//z01qrjnIXlLa_SUPER_QUECA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/super-panqueca-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meats Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709250854_eb1d1e52-15af-438d-96f9-c8d740f3e414.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/meats-hamburgueria-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box 778",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_box778.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/box-778-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Menu Criativo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704291204_fef9afbb-2cd2-44b4-8300-47743ad85a98.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/menu-criativo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paladar Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_paladar_palad_laria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/paladar-pastelaria-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Margheritta Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-marghari_donna_ivery.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/donna-margheritta-delivery-lucas-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ADRI GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251223_88053760-8a45-42a1-80e8-00432ad0d09e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/adri-gourmet-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santorini Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_santo_rant02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/santorini-pizzaria-e-restaurante-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porto Santo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//9UsS6DoV8xrF_PORTO_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/porto-santo-pizzaria-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jeffreys Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251919_e443b7f6-a1e8-43b8-9613-461b8325f19d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/jeffreys-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kuzhine",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301607_3636690c-9f00-464f-8f50-a7a438887c6a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/kuzhine-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Napolli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//F967KoA4Tf2D_PIZZA_POLL01.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/pizzaria-napolli-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carioca Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040822_CARIO_URME02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/carioca-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nestor Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_nestorpa_NESTO_LARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/nestor-pastelaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ebenézer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Ebene_PIZZA_NEZER.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/pizzaria-ebenezer-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subcast Snacks and Meat",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190822_c9cbb120-9991-4597-83b5-4d200a4e3d1d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/subcast-snacks-and-meat-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor de casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021117_7cda8f6a-3088-4916-a999-6c20c437e98c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/sabor-de-casa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Uno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311831_3fe2b898-c11e-4b58-9c81-eb766f7a0923.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/pizzaria-uno-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Teddy Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271620_e0b40046-8f52-43a7-a175-6bbe6990259b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/teddy-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rosso Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161527_a835991b-5f34-48b0-b54d-1ba4f1022e98.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/rosso-lanches-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030915_2cbb392e-dc5a-45f9-8396-4ae672c3788e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/emporio-da-pizza-integracao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Xis Botteco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//k9A8L6fvuUhX_TELEX_TTECO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/tele-xis-botteco-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango e Fritas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//7AEWbHS3IXLt_FRANG_RITA01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/frango-e-fritas-annes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Casa Mexicana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280826_1261ec6a-16e0-40a7-a324-aae3cc56b463.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/la-casa-mexicana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Bella Citta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291020_d70b74a2-904c-442c-81f6-2b239fe95929.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/subway---bella-citta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Filés",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//PGWzlZvDMtpn_XFILES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/x-files-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031024_BELLAPIZZA17.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/bella-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Giovanni Passo Fundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_babbo_gi_BABBO_FUNDO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/babbo-giovanni-passo-fundo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//EkzfGsb5iHv2_MRDOG.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/mr-dog-lucas-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAMBOO RESTO BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201039_3258d648-f50f-4521-ad41-3c5f1e408973.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/bamboo-resto-bar-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Passo Fundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//azfo91u8HQBF_CROAS_FUNDO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/croasonho-passo-fundo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Sabores Do Sul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271628_PIZZA_DOSUL.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/pizzaria-sabores-do-sul-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quindai Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_quindai_QUINDAISUSHI.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/quindai-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Krusty Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703131442_KRUSTYBURGER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/krusty-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café Victória",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181021_e03fb7f8-758c-4954-ae38-8ee5e503d95b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/cafe-victoria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Premiata Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090822_7f083103-644d-4577-be83-b6a013c6c1ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/premiata-restaurante-e-pizzaria-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém Pelegrini",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/armazem-pelegrini-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasul Delivery Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281225_0f57aa8a-8f71-49f7-8f22-cf66d9b4e26f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/brasul-delivery-burger-vila-rodrigues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatello Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//FErIHogSTBYs_DONAT_IZZA01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/donatello-pizzas-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Enkai Temakeria e Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//cAwRVDvOxiL7_ENKAI_IVERY.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/enkai-temakeria-e-delivery-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "London Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//tg5ijJcXwROy_LONDO_RGUER.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/london-burguer-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piazza Trio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//RCb1kswmqyrv_PIAZZATRIO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/piazza-trio-annes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaoli Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//C5WahtD09wBq_PIZZA_ZARI03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/pizzaoli-pizzaria-lucas-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Chef - BR 285",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_super_ch_SUPER_BR285.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/passo-fundo-rs/super-chef---br-285-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSO FUNDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+]

@@ -1,0 +1,63 @@
+[  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DICKADOO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707220919_51af284c-efc1-4557-904f-23f39c378d89.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-goncalo-do-amarante-rn/dickadoo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO GONCALO DO AMARANTE",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE BEM BOLADO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111325_2aa59e17-b5cd-4c08-a9a0-5a7944ab2156.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-goncalo-do-amarante-rn/restaurante-bem-bolado-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO GONCALO DO AMARANTE",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAUSA 20 - Café - Almoço - Jantar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701050808_PAUSA20.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-goncalo-do-amarante-rn/pausa-20---cafe---almoco---jantar-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO GONCALO DO AMARANTE",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastepizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5c931fd7-d6d7-4a05-a875-1886e38fe1d6/201711291526_16938.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-goncalo-do-amarante-rn/pastepizza-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO GONCALO DO AMARANTE",
+            "addressRegion": "RN",
+            "addressCountry": "BR"
+            }
+    }]
