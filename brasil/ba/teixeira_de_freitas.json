@@ -1,0 +1,47 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141143_90abc1c2-2a18-4a19-99bb-3d594b519379.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teixeira-de-freitas-ba/brasileirinho-delivery-jardim-caraipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TEIXEIRA DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Napolitana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251417_7c82bb60-c4b9-4774-9eb8-74fe754998be.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teixeira-de-freitas-ba/pizzaria-napolitana-jardim-caraipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TEIXEIRA DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prensadinho Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111218_6efcc824-2706-4cff-afbf-e4a9573dbeaa.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/teixeira-de-freitas-ba/prensadinho-fast-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TEIXEIRA DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,862 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habib's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111441__HABIBS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/habibs-uvaranas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jimmys Juice",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251241_d6d6a9c5-8c86-4f54-8a7c-d36274613520.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/jimmys-juice-olarias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PASTELARIA PRINCESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221851_dda0e70f-4d55-4282-87cc-dfe9d2039882.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/pastelaria-princesa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUESTÃO DE COMIDA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081417_26e36fbb-831c-4936-a090-4c8eaa374127.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/questao-de-comida-estrela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandu-it",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161026_93181fde-7194-41b0-b948-bea300b67563.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/sandu-it-uvaranas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faculdade Do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121806_FACUL_ANCHE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/faculdade-do-lanche-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FerConni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_ragazze.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/ferconni-oficinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Formigueiro's Doces e Tortas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706090812_ed3a5962-8dce-421e-b286-20d9d7782aef.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/formigueiros-doces-e-tortas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Fit Fast Food Saudável - Ponta Grossa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mr fit_mrfit_rossa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/mr-fit-fast-food-saudavel---ponta-grossa-oficinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Elite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo hamburgu_hambu_elite.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/hamburgueria-elite-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do Alemao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191444_bb90dd69-1a1f-439f-9510-3ee7957a4d61.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/cantinho-do-alemao-chapada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Requinte Panificadora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702101034_REQUI_ADORA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/requinte-panificadora-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria E Lanchonete Polar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020829_1d3b1d36-ba6f-40e6-97f5-499ca9728e53.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/sorveteria-e-lanchonete-polar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Ponta Grossa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181647_50cfdae1-e5ee-44e6-b5a4-744c25a1424a.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/china-in-box---ponta-grossa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Ponta Grossa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200041_6305f90b-772e-4b3c-a41f-9be36d6066f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/brasileirinho-delivery---ponta-grossa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALECRIM RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061623_54259411-3ea4-4db8-ba10-7ce7202d2a88.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/alecrim-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Assados São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140933_1ad185b0-5d54-4839-ae01-4a408ad5d0f4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/assados-sao-jose-orfas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BRIGATA PIZZERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251313_651422bf-863c-48de-b945-8055ce9c9d78.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/brigata-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Kirata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291448_acd6b459-cc67-4840-99f6-6c80c7314d3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/burger-kirata-jardim-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapo Buguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011017_b9202885-95a4-4a33-b538-a9202e7e18e1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/chapo-buguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conquista Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261640_ee579c62-c631-4d80-87f0-45d4f3d39f5b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/conquista-porcoes-jardim-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DON LUCCA PIZZA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131327_7dfc35f5-120a-4397-b00a-2d9fd7370e10.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/don-lucca-pizza-delivery-nova-russia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Master",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111043_b7bc08cb-77f1-4637-8c8a-0ac824d60a3d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/restaurante-master-oficinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291116__SUBWAY29.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/subway-nova-russia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Dogão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281320_9cd79329-2b66-45a5-bb80-16f21b32afcd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/super-dogao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bangalô Dos Pasteis - Ponta Grossa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705052114_d60afeec-1606-4673-af9a-dac717e1994f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/bangalo-dos-pasteis---ponta-grossa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOMBA LATAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Tomba latas._TOMBALATASjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/tomba-latas-nova-russia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria 13",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031500_HAMBU_RIA13.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/hamburgueria-13-contorno",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Pole Position pizza por metro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271919_69d3d20b-f09a-4e04-b902-0c258ba71e3c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/na-pole-position-pizza-por-metro-jardim-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Portal da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo portal d_porta_pizza.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/portal-da-pizza-uvaranas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock and Honda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141829_7e8d275c-cc3d-41f4-a2c4-bec907229c53.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/rock-and-honda-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Pizza & Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261647_3eae91e9-a04b-491c-a00e-543304ba3779.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/donna-pizza--pub-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Magnata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021029_8208b262-c17b-4937-b3a3-38415752d2e9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/pizzaria-magnata-oficinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disnei Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo disnei l_disne_nche01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/disnei-lanches-contorno",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_BROTH_GUERS.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/brothers-burguers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nagashi Asian Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251057_e92520ee-8ca0-4d89-b2b3-d7d6b75d0a62.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/nagashi-asian-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Candelita Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c7a31bbbff545_CANDE_URGE01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/candelita-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leao Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301300_1e2ef1eb-83f4-479c-9bc2-0c7027a4144e.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/leao-espetinhos-jardim-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jimmys Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo jimmy´s_jimmy_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/jimmys-pizza-delivery-olarias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X-Gaucho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261342_f60e3194-9475-4a9e-a6e6-04a2eeec21b9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/x-gaucho-oficinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Império Delivery Disk Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261130_1761373c-f8f0-4b39-8682-90e7836bacf2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/pizzaria-imperio-delivery-disk-pizza-uvaranas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bravo Buffet e Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081345_ff67f7b2-16a3-4215-b52a-b16ab2892e2c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/bravo-buffet-e-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascos e Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241303_87d67e89-7525-41af-af5e-691fd0f2d4cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/churrascos-e-sabores-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capriccio Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161219_CAPRI_PIZZA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/capriccio-pizza-uvaranas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Ponta Grossa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d4050691-0cce-4da2-826a-d6f0e292a3c5/201712071906_logob.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/babbo-ponta-grossa-estrela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fábrica de Hambúrguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181119_bed5311d-6ec2-4cdc-bd26-c55164eb0768.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/fabrica-de-hamburguer-jardim-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Biba´S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo biba´s l_bibaslanches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/bibas-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TACO BURGER COCINA MEXICANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3ce7dba3-bb23-4fbe-9134-7bff24ef836c/201712132134_logot.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/taco-burger-cocina-mexicana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La' Fornalha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181836_6e99326f-02c9-4091-895d-e3bc2f75ff22.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/la-fornalha-delivery-uvaranas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotatória Foods",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701091306_ROTAT_FOODS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/rotatoria-foods-cara-cara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANTA PAULA GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161804_3abdc6d7-5c2e-4109-9ab6-d79d62333517.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/santa-paula-grill-contorno",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Descubra Burguer Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704060919_ed83ffc16aad42df8e4a64cb64adcdb5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/descubra-burguer-artesanal-contorno",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Negrettis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo negretti_pizza_ettis.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/pizzaria-negrettis-nova-russia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Sabor D'Villa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_pizza_vill06.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ponta-grossa-pr/pizzaria-sabor-dvilla-colonia-dona-luiza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PONTA GROSSA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

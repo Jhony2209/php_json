@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KING Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111447_35f632d4-1ac2-4390-86c1-6c2820989573.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/laranjeiras-do-sul-pr/king-potato-cristo-rei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LARANJEIRAS DO SUL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

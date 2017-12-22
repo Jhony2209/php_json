@@ -1,0 +1,554 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coxinha Express - Anápolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250709_b8bb1e7d-19ab-4159-9196-8c23fa395d76.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/coxinha-express---anapolis-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Paladar Express - Anápolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711050750_0cee4bcf-13ec-4356-aaef-c3ee21cbdb3c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/doce-paladar-express---anapolis-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guilda Do Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Guilda do Aça_GUILDADOACAI.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/guilda-do-acai-novo-paraiso",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VIBE SNACKS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270904_7eeec9bc-9c02-491c-8361-8241c278496f.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/vibe-snacks-jk-parque-industrial-nova-capital",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas Anápolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709242127_4eb302c6-b895-41c1-b0b8-07a9745ee983.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/giraffas-anapolis-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QG Jeitinho Caseiro - Anápolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8e2c2b53-c027-4ba4-aab8-106bb9a259f9/201710181832_logot.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/qg-jeitinho-caseiro---anapolis-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aldeia Açaí E Lanches Leves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/aldeia_aldei_rant02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/aldeia-acai-e-lanches-leves-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Anápolis-Go",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191035_d674534d-9c3e-4922-9f4b-fe3327125d2c.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/dominos-pizza---anapolis-go-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CREPES & SALADAS - NATUREL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/431fc15b7e41c_CREPE_TUREL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/crepes--saladas---naturel-cidade-jardim",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dips Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261219_ad1f2f57-72c4-430b-ae29-ea743d7dff20.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/dips-sanduicheria-jardim-alexandrina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOT DOG DO GORDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231301_33ed9c8a-1ec7-4798-a11d-35b3e983b0c0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/hot-dog-do-gordo-vila-sao-joaquim",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hiper Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712042000_4a98bfac-2693-407a-9b16-47c41534b7b4.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/hiper-sabor-residencial-portal-do-cerrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jack Tequila Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/thumbnail_Jac_JACKT_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/jack-tequila-pizzaria-vila-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARMITEXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131048_7eabf233-96f4-49f8-b478-1c9a5c17f212.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/marmitexpress-jardim-america",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STONE HOUSE FOODS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190800_9fcdf89f-a102-40e3-a007-3590dfe8c35d.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/stone-house-foods-vila-santa-isabel",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nave Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191214_c44fa068-5485-41f6-bce8-7e9852a2baeb.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/nave-gourmet-jardim-alexandrina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Degraus Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230815_d0ea6b37-f348-43ba-a69a-f620c8c6b529.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/degraus-restaurante-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor De Milho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1ea39bc668230_SABORDEMIL01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/sabor-de-milho-cidade-jardim",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburguer e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311040_910b2710-5afe-4c58-b840-5b0e732ae30a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/hamburguer-e-cia-vila-formosa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Bákinas - Anapolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bakinas_tioba_polis.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/tio-bakinas---anapolis-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Go Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c3ab3936-fda3-44a5-989a-068d6b216c2e/201712150834_img20.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/go-burguer-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BONA BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211639_9dac6b7f-bfb0-4962-9dd4-c12c7af33ec9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/bona-burguer-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131549_531bd73d-8101-4cbd-866e-82d2774a9dc6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/points-lanches-conjunto-mirage",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Almahali Esfiharia Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 12_almah_gados.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/almahali-esfiharia-gourmet-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vou di Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201421_53b40d6a-2adb-40dc-8cdf-81aa3057485a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/vou-di-pizza-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrasquinho e Sanduícheria do Flavinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271042_862a2b12-86eb-4e41-89b0-d681cc4b043f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/churrasquinho-e-sanduicheria-do-flavinho-vila-jaiara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Oliva Restaurante - Anapolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO CASA OLI_CASAO_POLIS.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/casa-oliva-restaurante---anapolis-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo dos sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091132_1032fa65-fdff-4ce5-8418-6f17957a2541.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/mundo-dos-sabores-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto das Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091154_335f348d-144d-48c5-8f57-708617c6a82b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/recanto-das-esfihas-vila-jaiara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stone House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101658_ea35685430354e4b870defde624693ab.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/stone-house-jardim-bandeirante",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281139_8bea24cb-a29a-4aa7-9f07-ee0a9cbfb1f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/real-pizza-jk-parque-industrial-nova-capital",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salve Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110843_d88bbe7f-ab90-43b5-a5e0-48d3caf29332.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/salve-bar-e-restaurante-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUSHILOKO - Anapolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181823_b2685a3a-0c0e-4d3c-a9cd-09a33693f563.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/sushiloko---anapolis-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinaloko Anápolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708202147_7144e322-c3da-455b-b4fd-72ba942f9956.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/chinaloko-anapolis-jundiai",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornatto Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171900_0610140a-9da9-4dce-9d5b-8514ce1d68c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/fornatto-pizzaria-jardim-alexandrina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Extra Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo extra fo_extrafood.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/extra-food-residencial-itatiaia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Panela Cheia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO PANELA C_RESTA_CHEIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/anapolis-go/restaurante-panela-cheia-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ANAPOLIS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]
+

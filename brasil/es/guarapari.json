@@ -1,0 +1,329 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Catioro Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220723_457fc47f-508d-43f1-a5d9-ec2a1151bf8c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/catioro-delivery-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deck Carioca Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090830_61b5bcb9-c0e6-4321-8d01-c0c492cb8fdb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/deck-carioca-bar-e-restaurante-enseada-azul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KEBAB'S PIZZA BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280947_25b69841-12d8-4754-a27e-d715ffcc48ff.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/kebabs-pizza-bar-muquicaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POLLY LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291738_406ba6a5-a736-46a7-8312-2b28890048f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/polly-lanches-itapebussu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Alemão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141727_856ed39a-79dc-437f-b7c2-ce5f3cc158dc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/pizzaria-do-alemao-muquicaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260742_a9676ed3-da77-4a72-9b18-21ba73ee4d34.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/pizzas-delivery-bela-vista",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Reino da esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030800_4d6f1c1f-783a-46d6-baf8-220fe7ae608d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/reino-da-esfiha-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Cantinho da Graça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031044_c400490a-caac-49f8-b482-c7d5f2547f23.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/restaurante-cantinho-da-graca-una",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taicco's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010946_90c875c6-6392-4ee6-a213-08a0b2875852.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/taiccos-burger-muquicaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Experiment Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230856_f187928e-c821-4906-b7a0-ec735192b1aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/experiment-acai-ipiranga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA COME COME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081034__PIZZA_ECOM02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/pizzaria-come-come-enseada-azul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza italiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707232031_66579824-9e61-4f7f-b8ac-98e321647c9d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/pizza-italiana-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du'Balta Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151109_c57d7334-77ea-4ff3-96c5-44addfe4642f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/dubalta-pizzaria-parque-da-areia-preta",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sushiru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011312_f7987be1-f80f-4141-9994-b85dc52a2db8.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/restaurante-sushiru-praia-do-morro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "M Conveniências - Beer & Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031402_c73aecc0-9e9d-4f5d-b055-539cf80aad11.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/m-conveniencias---beer--burger-praia-do-morro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "M Burger & Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101359_49c7a764-678e-4171-9e0d-1110ff569c49.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/m-burger--pizza-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Esfiharia Freedog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281422_fa11aece-4be7-414e-a5d2-e50c214d5eb5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/pizzaria-e-esfiharia-freedog-praia-do-morro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Pudinzinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Pudinzinho_LANCH_ZINHO.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/lanchonete-pudinzinho-ipiranga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAI QUERO MAIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311111_f7dcbd42-28a9-47d3-b3f1-5436ce0d836b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/acai-quero-mais-bela-vista",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô e Café Medeiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310939_94b284bc-bab2-49d3-b8c8-f99e80c37a66.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/bistro-e-cafe-medeiros-praia-do-morro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dani Ristorante Italiano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080837_e85c8efd-b2af-49ab-bd45-78a8ef1bd630.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/dani-ristorante-italiano-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Preferita Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111015_84f2da0f-d141-4f91-9916-d547955c8662.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapari-es/preferita-pizza-delivery-muquicaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GUARAPARI",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }]

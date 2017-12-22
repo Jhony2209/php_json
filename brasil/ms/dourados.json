@@ -1,0 +1,179 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Dourados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200030_cf589535-c9d9-4748-9030-9873633e164f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/brasileirinho-delivery-dourados-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marinho´s Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131227_4316e6c9-fa3e-46cb-986e-3decc5dd2715.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/marinhos-marmitaria-vila-sao-francisco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111343_94112601-ac69-45cb-96e9-51e1e8488a87.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/subway-vila-planalto",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wimpii Hamburgueria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081441_44820e69-e49f-4215-94cf-9f1f37fd1cf0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/wimpii-hamburgueria-delivery-jardim-rasslem",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200811_6530ccd1-8c1d-4540-9da6-3b81695665a1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/acai-mania-jardim-guanabara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria A Paulistana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231146_5f242742-eec9-4434-ad1a-87fdbf073ed8.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/pizzaria-a-paulistana-jardim-america",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071505_8fbba8d3-4c89-4736-b5db-d83db21ef4d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/the-burgers-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GUGU LANCHES - DOURADOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061156_34248956-403a-4cdc-90d9-61f7f401ea4c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/gugu-lanches---dourados-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Golden Cone Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071410_1cbe08f4-d3bf-4b69-9980-3d823be4fb3d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/golden-cone-pizza-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Veneza Pizzaria e Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141622_a632af46-f21e-4b16-b608-d067ec1832a4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/la-veneza-pizzaria-e-esfiharia-cohab-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Blend Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240958_f43410a4-6673-4267-a81e-8d7b7f6207c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/blend-burger-jardim-monaco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marinho`s Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280754_61b8d39f-59c0-4ef7-b76f-3d7c5701d703.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/dourados-ms/marinhos-lanches-vila-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DOURADOS",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }]

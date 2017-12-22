@@ -1,0 +1,111 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Esfiha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080723_b96597f9-d005-4287-8528-d30ccdb33f41.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/big-esfiha-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY - GUARAPUAVA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_PUAVA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/subway---guarapuava-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xaxá Burguer e Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/l_ogo_xaxaburguer.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/xaxa-burguer-e-pizza-alto-da-xv",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog King Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011303_862d67e6-fd30-40ec-b980-cb22f0a65026.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/dog-king-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Taberna do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171048_686332b3-afc9-4226-a810-bb06a9759899.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/pizzaria-taberna-do-sabor-trianon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chilli's Tex-Mex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161154_eedfcae2-9440-41f1-a32b-16fae10af085.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/chillis-tex-mex-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Au-Au Lanches Guarapuava",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_auaul_puava.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/guarapuava-pr/au-au-lanches-guarapuava-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARAPUAVA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

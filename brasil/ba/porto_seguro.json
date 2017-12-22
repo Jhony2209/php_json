@@ -1,0 +1,149 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonna Pizza Trancoso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300702_8ef77f59-1cd9-427c-ab87-278305639c5d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/bonna-pizza-trancoso-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Takeshi Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281028_3ca87eed-2c97-4a03-b559-0b81b94bb9ab.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/takeshi-sushi-bar-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EMPORIO CATRUMANO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051725_ad8a4a90-df54-4c16-a599-7b4b923a1533.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/emporio-catrumano-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TANTRA EXPRESS  COZINHA DO ORIENTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090938_660de4c3-4577-4306-b004-46d839d8730b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/tantra-express--cozinha-do-oriente-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi San Restaurante Japones",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710100942_c4bc76fe-87ad-45b9-8e1d-8fb8883551e4.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/sushi-san-restaurante-japones-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapa Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061821_85b5168f-9cb4-4710-b687-ed65df039d25.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/chapa-restaurante-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bentivi Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210829_1af75a2c-50d2-44e4-be0f-6d4c5129f6d1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Alemã",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/bentivi-pizzaria-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Thai - Cozinha Do Mundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709160753_905a4e26-8015-4bd0-a859-faf574e90747.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/mr-thai---cozinha-do-mundo-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Homem Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709140754_fdfb68d1-a39d-4f08-bb8f-a978d7d76e5d.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/homem-coxinha-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La No Dom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061518_dd3c9ae5-f374-464f-ac7b-5352b99f5035.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/porto-seguro-ba/la-no-dom-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "PORTO SEGURO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

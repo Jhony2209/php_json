@@ -1,0 +1,367 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241544_2bb38fa8-2bb5-46b1-88dd-2d1f636fbc03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/mineiro-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "De Bem Com O Peso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111109_DEBEM_OPESO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/de-bem-com-o-peso-sobradinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina da Nilza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240813_96600e28-5187-49f1-b342-d5c73e2a9e45.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/cantina-da-nilza-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Me Petisque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091341_72b7c03f-f781-4527-8559-f7337c7a5b38.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/me-petisque-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SO LENO PIZZARIA E RISOTERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080926_4bcf4cb8-944b-415f-9ef9-01881941256f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/so-leno-pizzaria-e-risoteria-sobradinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wasabi Temakis e Sushis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271203_ea4d4cbe-f9f9-4db0-8c48-668a72bb6488.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/wasabi-temakis-e-sushis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "San Diego Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051019_669f81c2-2435-4254-bb94-4fe75348ba04.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/san-diego-lanches-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Pato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281502_a17baa73-2c89-459a-b76c-a8708e8d6714.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/big-pato-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CARAMURU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061004_45bd1849-0b16-454a-a356-ef6386eef38a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/caramuru-sobradinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gálatas Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251348_47de97d1-319d-413b-b8e4-82cdffde4529.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/galatas-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nuestra Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171717_5dbad4fa-aa8a-4ec8-9c38-5032bdce3a30.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/nuestra-casa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Adrenalina lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031355_07ac34ce-e65a-48bf-9394-33252a4624f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/adrenalina-lanches-residencial-gramado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cacau Chopp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ifoodpronto_CACAUCHOPP.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/cacau-chopp-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Croissant",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710040738_7c2826fb-76c2-48b8-9806-8c061549d1d1.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/le-croissant-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOM JOAO MERCEARIA E HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051742_a2b3d50e-38e1-4c4c-9037-11ac68ba22e7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/dom-joao-mercearia-e-hamburgueria-sobradinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrasco do Osvaldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311056_df80ee6a-8cb2-4267-bc8a-62022ebb9462.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/churrasco-do-osvaldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Tia Nega",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251206_9d5d3ea0-3382-439b-a417-26e43a6838e1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/marmitex-tia-nega-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Antares Choperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271059_421a8c01-5dca-4214-b224-84c19cfb70ec.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/antares-choperia-alto-dos-caicaras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chickens House Minas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151235_fe7ac6c5-4bdf-41f9-9106-d32714d6a74c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/chickens-house-minas-caicaras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Casita Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210950_800ee438-58b4-49a3-bd30-126abff63838.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/la-casita-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete e Pizzaria Caldo de Minas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210916_84b8aec5-174f-47eb-97e6-3d25a71b8304.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/lanchonete-e-pizzaria-caldo-de-minas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na terra Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111036_c3ac6033-99af-4944-8587-a2e4364e255b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/na-terra-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vovó Lulu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291014_080729dd-3f37-400e-9000-fcbca6f288b6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/patos-de-minas-mg/vovo-lulu-abner-afonso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS DE MINAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

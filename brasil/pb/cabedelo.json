@@ -1,0 +1,223 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor e Arte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041434_ba018660-75a3-4681-b42c-4f3c5a4fc184.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/sabor-e-arte-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Salad Intermares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mister s_miste_mares.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/mister-salad-intermares-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novo Oriente Intermares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701041453_NOVOO_MARES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/novo-oriente-intermares-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto do Picuí Intermares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241728_e7766bd2-2821-4918-85d2-2da476e6081d.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/recanto-do-picui-intermares-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281648_74e683aa-f18f-480f-82c9-8cd4116304db.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/emporio-natural-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Surf Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181351_SURFBURGUER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/surf-burguer-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Draguinha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030838_37196011-b9da-4607-ba51-e216ea3d9c7d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/draguinha-lanches-ponta-de-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pao Com Gergelim - Itermares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pao_paoco_mares.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/pao-com-gergelim---itermares-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TARTARUGA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706200812_643e567a-f65b-47ce-bccf-9a4a94c52749.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/tartaruga-lanches-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Han's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090712_02fde71e-ddd0-4cbb-9d91-2225084223e2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/hans-burger-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorrentino's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041400_b5964f99-8625-482f-95eb-1580b0c72304.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/sorrentinos-pizzaria-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tião Do Caranguejo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101502_78528821-8146-4cf8-98cc-d6f548e25d9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/tiao-do-caranguejo-ponta-de-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café De Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221606_ebfec287-8f91-4083-969c-ac6b300a9cf2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/cafe-de-casa-portal-do-poco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JUST BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705211236_add9f2f8-be4a-43ff-ac1b-aa6c4c54e828.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cabedelo-pb/just-burguer-intermares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABEDELO",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }]

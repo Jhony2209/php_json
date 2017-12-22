@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empada Capital Apucarana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191344_09a76f6a-8fac-45c2-8e3e-e6cad8118995.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/apucarana-pr/empada-capital-apucarana-jardim-apucarana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "APUCARANA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LOS MUTACOS TAQUERIA MEXICANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311316_884ed109-327f-4737-963e-7ccf3dce6ef0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/apucarana-pr/los-mutacos-taqueria-mexicana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "APUCARANA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

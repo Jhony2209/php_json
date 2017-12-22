@@ -1,0 +1,134 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Cachoeiro de Itapemirim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290951_69115b4e-163c-4ee1-9afa-d972875801af.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/subway-cachoeiro-de-itapemirim-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock Burger - Cachoeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rock burger_ROCKB_OEIRO.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/rock-burger---cachoeiro-vila-rica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pablito's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071343_32d2a72c-010a-4569-afbe-1dc810765c6f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/pablitos-guandu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Rio Delivery- Cachoeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sushi Rio_SUSHI_OEIRO.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/sushi-rio-delivery--cachoeiro-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ya Hala Sfiheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711200744_e8ad04d4-2ca0-405c-ad7d-fa490ce83c43.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/ya-hala-sfiheria-independencia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Cachoeiro De Itapemirim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192330_fc60370a-d420-4b1a-8142-abd0afb42ebd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/bobs-cachoeiro-de-itapemirim-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maluco Beleza Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311726_a3ea79fd1c0b49be94bea05223e498cb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/maluco-beleza-lanches-agostinho-simonato",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Bem Bolado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171614_35b194bd-bc44-4663-a245-e3bf8dc7b8b6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/restaurante-e-pizzaria-bem-bolado-recanto",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arrumadinho do Max",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291046_423dbd9b-0c8d-442b-89ee-2e41832092b8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cachoeiro-de-itapemirim-es/arrumadinho-do-max-vila-rica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CACHOEIRO DE ITAPEMIRIM",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }]

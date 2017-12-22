@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stação Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210924_4b851cd8-7592-4ba2-a15e-200c958a8f2a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/salinopolis-pa/stacao-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SALINOPOLIS",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

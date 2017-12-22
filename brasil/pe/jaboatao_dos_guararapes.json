@@ -1,0 +1,2075 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191138_99a18fac-361a-4bde-966e-ac05c12487c8.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/dominos-pizza---piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BONAPARTE SHOPPING GUARARAPES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241439_4cd9d2aa-e31d-4670-9651-7cdc5b439adf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/bonaparte-shopping-guararapes-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Degusta Delícias Geladas - Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121608_01763a85-7a54-40fa-80b8-341d2bd72fe9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/degusta-delicias-geladas---candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lengo Tengo Culinária Nordestina-",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021640_9b765759-56f7-4be8-b10a-1ba0fc5106a5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/lengo-tengo-culinaria-nordestina--candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "McDonald's - Piedade PE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021545_0b25ce55-84b8-4ecc-92b2-a960de920158.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/mcdonalds---piedade-pe-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prazeres da Carne",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170718_9c3a0f40-c0e4-4cb2-9ca8-b2d13c602189.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/prazeres-da-carne-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161317_55a62f19-33a4-4ba7-91c0-a0e696a557e8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/recanto-mineiro-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgadinho no Copo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221333_6932c5ed-d987-410a-b45f-ffdaeec635dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/salgadinho-no-copo-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Prime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705030804_41495608-8c8e-4f86-8916-7b735f368652.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/emporio-prime-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Clock Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo clock pi_clockpizza.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/clock-pizza-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Do Açaí - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pontodoa_ponto_edade.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/ponto-do-acai---piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laça Burguer - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_laca_burgr_sand.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/laca-burguer---piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Pará - Zona Sul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Cas_CASAD_NASUL.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/casa-do-para---zona-sul-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Piedade Jaboatão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291007_e8fcf8c0-4eb5-47b8-a973-71615b8ebb43.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/subway---piedade-jaboatao-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nordestino Grill Churrascaria & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231158_bbe15f1f-ecf6-4382-83bb-d546d39f50da.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/nordestino-grill-churrascaria--pizzaria-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Atlântico - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo2_atlantpied.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-atlantico---piedade-barra-de-jangada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Betos Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo burg_betosburguer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/betos-burguer-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quanto Prima - Guararapes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/marca quanto _quant_rapes.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/quanto-prima---guararapes-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Do Bode",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702201653_RESTA_ANEJO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/esquina-do-bode-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café Miró Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/911c3878-baee-4b82-94cf-f84f97b65029/201709261657_cafmi.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/cafe-miro-candeias-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Betos Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_215x140_BETOSBAR.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/betos-bar-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Massangana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291007_297dc843-ee2d-4ad1-a00e-474658bcdf94.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/subway-massangana-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BODE SERTANEJO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141412_7ed0385f-e29c-4470-9ea0-755ca03f6ac6.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/bode-sertanejo-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081020_CHINABURGU01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/china-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galetus - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702081659_GALET_EDADE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/galetus---piedade-marcos-freire",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Maranhão Restaurante & Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708292204_25269113-1709-4c8a-b425-3bcb5dbe9c33.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/du-maranhao-restaurante--bar-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Takezo Cozinha Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061237_f75b88fc-4227-4ce1-93b7-0fd1480639f4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/takezo-cozinha-japonesa-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Burgers and Hotdogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260756_8bcbef06-6349-4fe2-af67-4ce05574fbe3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/american-burgers-and-hotdogs-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Azzarini",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711200647_01bd72e2-6a27-428e-adba-2dc6b8de7503.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/azzarini-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí do Fabão e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011300_28d23959-149b-41e0-bcac-d00f1d4268b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/acai-do-fabao-e-lanches-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BRITA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712031311_8df0efce-eb51-4c61-851a-22fa4f306cfd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/brita-lanches-sucupira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bigspetto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231403_a3eaa301-a0d2-445a-bf78-56479ec88ccf.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/bigspetto-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Apetite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080744_edbf69e5-4e25-4294-95bf-35712cf93b9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/bom-apetite-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CREPERIA DA VOVÓ NETE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111240_bd0328bb-ec3a-4c2b-94b6-737ed3180339.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/creperia-da-vovo-nete-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CW CHINA FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141749_5a868031-3100-49bb-8dfa-7d60ddddf0dd.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/cw-china-food-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto's Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250629_30a60d0d-07ca-4edb-a319-daf35e01a237.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/cantos-pizza-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Pablito Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281035_63c1cbd4-3c3c-4eb4-844d-d244b0616905.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/dom-pablito-comedoria-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FEIJOADA PERNAMBUCANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111041_740b70a5-1a19-48e0-a39e-8bb7efd56335.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/feijoada-pernambucana-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JUJU ARTES E SABORES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231324_9632eec6-2e9f-4f8d-8830-22ac4123d0c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/juju-artes-e-sabores-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kazoku Temakeria e Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712031442_7eea4173-d537-4851-9139-ca9480541855.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/kazoku-temakeria-e-sushi-curado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Labellaflor Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100954_5e1ffd70-07a6-43eb-b6c2-9a27f65a5853.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/labellaflor-comedoria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magnata pizza delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091722_7b5c92f9-9ccb-46a5-80ae-4275aa2059dd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/magnata-pizza-delivery-curado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Bonita Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180734_6ef56700-e907-4e4b-9e80-4be9286ef685.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/maria-bonita-restaurante-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Biriteiro Botequim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251001_e3b748c2-184a-4ffa-bd41-bff965a957ba.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/o-biriteiro-botequim-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Orbe Space Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_orbes_efood.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/orbe-space-food-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PLANETÁRIO FAST-FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151106__PLANE_TFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/planetario-fast-food-marcos-freire",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza House Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201246_82b483b0-fba4-4a9c-baa5-2bca48e5983b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizza-house-piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Hot's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211137_efe5ac8e-d3b5-48d0-8f02-1a9d4b444b69.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-hots-santo-aleixo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ROCKERS PIZZAS & LANGOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191222_20f10e40-6277-4a57-8dfe-13aaaea03e0e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/rockers-pizzas--langos-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto da Pizza - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171423_74dd38dc-3888-4e16-8d68-e2ecb472b87f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/recanto-da-pizza---piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SR DOG BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251346_7d1cc4ba-dcaf-4036-b369-a5c188810175.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/sr-dog-bar-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi T1me Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121115_d2ba309e-ccf5-4bbe-a5ac-a17cc4b912bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/sushi-t1me-delivery-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TRADIÇÃO Pizzaria & Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201755_96b3faa6-fb2d-4832-b01d-bde9723f135f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/tradicao-pizzaria--delivery-barra-de-jangada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tofu Cozinha Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250910_87ebd160-10e5-4439-b59d-f305edcdcbfe.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/tofu-cozinha-oriental-guararapes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XIAN COMIDA ORIENTAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171248_05f41bb7-d1b3-467d-9819-3a03a5d483c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/xian-comida-oriental-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Jaboatão dos Guararapes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291008_574d507b-a54a-4be3-9efc-7266888b5160.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/subway---jaboatao-dos-guararapes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "THE PIG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291729_28b42494-18c0-48d7-a18e-2fca4f4a0ff6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/the-pig-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CARANGUEJO DELÍCIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181836_9b33f558-7264-4254-983d-430229eb5d54.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/caranguejo-delicia-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708201114_82e666ae-7e5c-43d9-b0db-c36c90a02204.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/cantina-gourmet-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaiburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131533_612ee6c5-95b6-4b02-a9b1-7db998a8088c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/acaiburguer-dois-carneiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moda Nostra pizza - Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo novo_modan_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/moda-nostra-pizza---candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primo'S Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca pri_primo_ivery.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/primos-pizzaria-delivery-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lucas Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/4b574b8fae4ec_LUCASPIZZA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/lucas-pizza-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Ria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca piz_pizzaria01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizza-ria-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hot",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_pizzahot.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizza-hot-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meglio Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131053_597461ee-895d-4df7-a90a-b4012089456e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/meglio-pizza-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Concept - Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ACAIC_EIRA01.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/acai-concept---candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bodega & Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701131750_BODEGAPIZZA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/bodega--pizza-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Josephine CREPES & SALADAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310842_c11c5b5c-e8e8-4ec6-a0e1-26d3caa93424.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/josephine-crepes--saladas-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Baiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011234_70df61e0-6ef5-4288-b821-10d35605ed51.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/dona-baiana-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa China Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140854_51717074-fa42-4ca0-bf42-1e466302d92d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/casa-china-restaurante-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Artesão Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/artesao novo_artes_iver01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/artesao-pizzaria-delivery-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burgarella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707270750_05400b35-ffd0-403b-a2b6-a82ff097dfe8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/burgarella-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Rei das Quentinhas Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712132153_050c12fa-a950-4be5-b26f-3bde31654b68.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/o-rei-das-quentinhas-burguer-guararapes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "china wok",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050950_32136cf3-069d-4c3d-b998-d67c8824a541.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/china-wok-barra-de-jangada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maximus Sabor Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo iFood_MAXIM_ZARI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/maximus-sabor-pizzaria-cavaleiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China e Sushi House Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo china e _china_lfood.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/china-e-sushi-house-oriental-food-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Portal Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo portal s_PORTALSUSHI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/portal-sushi-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magrila´s Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161633_17a14a10-028f-4b3b-87a0-32afdd51e749.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/magrilas-candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Ponto Gaúcho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081203_684807d0-832b-4d1a-85cf-f134156301ff.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/churrascaria-ponto-gaucho-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Katana Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca kat_katan_hibar.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/katana-sushi-bar-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Escalante´s Tex Mex Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca esc_ESCAL_DEIAS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/escalantes-tex-mex-candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alimentação Equilibrada e Variada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_alime_riada.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/alimentacao-equilibrada-e-variada-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nicolas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nicolas_pizza_colas.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-nicolas-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milk Shake Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_MILKSHAKEMIX.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/milk-shake-mix-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tay San - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200912_10341d05-e972-4a3d-8259-1d7818cdd34b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/tay-san---piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Da Familia Prazeres",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Piz_PIZZA_MILI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-da-familia-prazeres-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Portal Chinês Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/13287980_1017_PORTALCHINÊS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/portal-chines-sushi-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sudary Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261704_858c20ef-c7e5-4d8c-99ed-8666ad119ad6.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/sudary-sushi-delivery-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DELICIUS EXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Del_DELIC_PRESS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/delicius-express-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Da Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311733_3780b6ce-c635-4f3c-8449-68e2c68b990c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/recanto-da-pizza-delivery-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baita Burger Candeias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261421_84430b63-bd65-4a6a-9783-7c4ce9c57f50.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/baita-burger-candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bamboo Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251519_032167a7-fed3-42a5-a569-4ca0a5f17594.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/bamboo-burguer-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kobu Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201736_ff256d1d-93de-4e61-b14f-532d6643ced2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/kobu-bar-e-restaurante-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KIMURA SUSHI DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281317_c6dc32b0-f869-4212-9494-762480be3bc8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/kimura-sushi-delivery-barra-de-jangada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jolu Comedoria Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705110818_b46f6bdd-4329-4f25-9132-1b2275dbce36.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/jolu-comedoria-japonesa-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yumei Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211026_b77ae307-2102-4034-9bf8-137c38676086.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/yumei-temakeria-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CALZOON PIZZARIA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281720_241365d2-8ccb-4433-ba39-81a8fb6a801e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/calzoon-pizzaria-delivery-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHEF ESPETOS NORDESTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211236_193bc45d-5b5e-4aa2-9e2e-3462e912163e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/chef-espetos-nordeste-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FOME ZERO CANDEIAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071410_1d9cdd07-5eef-49d7-bcbc-539675d9e6d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/fome-zero-candeias-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria da Bisa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710040940_a7813184-c775-4144-a267-83972bcb48dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-da-bisa-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasas Argentinas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271014_0bbe80bb-5f0b-4c09-886b-eac63fd503ac.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/brasas-argentinas-marcos-freire",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271106_bb9916ea-17a7-4e94-acdc-ffc7367315b5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/don-pizza-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pizzaria milanos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051512_7f11e88b-6122-41f8-8103-26ec0c28e85c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-milanos-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STRONG THE DOG´S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181010_2f6a501c-52b6-4c51-a3e0-8890a91bac70.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/strong-the-dogs-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Mônica - Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131248_bd112b55-5c9e-405b-8227-5d5a1ef7626c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/dona-monica---comida-caseira-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Baguette",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081357_7816f0a8-2df5-43f0-98b4-7d2f657fdcbb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/dom-baguette-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Senpai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081440_84ec46b2-ff0e-4166-bb72-f0c6f12f5d6f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/sushi-senpai-barra-de-jangada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Eita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaseita lo_pizzaseita.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzas-eita-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hai Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/hai_haitemakeria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/hai-temakeria-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hoshimaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251527_d2a43c9d-60db-4917-8d06-f85f0231052a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/hoshimaki-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Boa Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/boa massa_pizza_mass03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-boa-massa-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Love Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011506_07100d08-221e-4ce9-9709-d6d39c5ab6aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/love-pizza-cajueiro-seco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211036_e36e0cc1-ef54-42ca-9ee1-8cfd78876fc7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/real-sushi-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GALETERIA GUARARAPES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181421_48c44de8-3cc0-46f2-a1aa-fa22d0f82f3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/galeteria-guararapes-guararapes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petit's Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707220956_b3067713-670c-468d-be3a-a93d7bfcc5ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/petits-gourmet-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bom Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171137_8e824ba4-a29d-45ce-842c-be0f650f5ca1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-bom-sabor-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Julius Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca jul_domju_zeri01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/dom-julius-pizzeria-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point do Acarajé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271454_387da389-4114-4ef3-9b70-4a2514e76dab.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/point-do-acaraje-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RECANTO DA BARRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280851_3f087ce7-504e-483d-b74b-00c4ec0097c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/recanto-da-barra-barra-de-jangada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaíteria Gmais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301347_d35d4138-86c5-42a0-9e1d-00660a101a2d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/acaiteria-gmais-jardim-jordao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ryoko Temakeria e Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709270919_7108ab35-c0c6-4eab-8b02-8dfcf09e18d6.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/ryoko-temakeria-e-sushi-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi´Ki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141114_f1b5b50f-0ceb-47b0-9861-8d7abe2f3c2d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/sushiki-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Go! Temakeria - Piedade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/go logo_gotem_edade.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/--go-temakeria---piedade-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARTHUR CHURRASCO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191011_12358c7b-47ad-4c14-8598-7f71e1b5ecb2.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/arthur-churrasco-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barracão do Tripa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710090903_e9039992-b28c-4d07-a312-a06febbbd68c.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/barracao-do-tripa-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete GB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251555_c43a7865-1dfb-4d5c-8cdb-ef7e0b4ed65d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/lanchonete-gb-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria O Rei das Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231002_e731c304-a6d9-48e3-8ba9-3e4eeff717f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/pizzaria-o-rei-das-massas-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Privilege Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709252040_71e03d2a-03f7-4fb1-b024-05517947a106.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/privilege-acai-prazeres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sendai Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703261358_ef60264eef9642d082755866fde2c879.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jaboatao-dos-guararapes-pe/sendai-sushi-piedade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOATAO DOS GUARARAPES",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

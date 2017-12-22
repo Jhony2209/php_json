@@ -1,0 +1,2342 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "sorveteria ice gold",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221354_1ae62110-677a-43fd-8395-60c258e14b04.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/sorveteria-ice-gold-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Parlor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702121512_PARLOR.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/parlor-eurico-salles",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Do Mestre",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251114_44e7a1e1d82c4145b9ef01ce90ab16ab.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acai-do-mestre-eurico-salles",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Farinella",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081351_6e7ee4f6-5ca0-4ecc-8ceb-f53cd3597ce5.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/farinella-taquara-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Di Gourmet Restaurantes",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111655_b23741d3-cac4-4995-a099-55e3c9b88e62.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/di-gourmet-restaurantes-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Spoleto Serra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291645_e6fbc5b2-f8ed-450c-958e-23dd22f10634.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/serra-es/spoleto-serra-taquara-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brasileirinho Delivery Serra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200014_abb841ae-3b40-41c3-aadb-81ca0386d542.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/brasileirinho-delivery-serra-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AMO JAPA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_amojapa.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/amo-japa-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AÇAÍ DO NETINHO - DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181039_55e6459b-e7d4-42cf-84f5-e6a3e9501a2d.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acai-do-netinho---delivery-eldorado",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Barraca Food",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301023_e1d6c85d-4670-4213-bfa1-21cda800d778.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/barraca-food-colina-da-serra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Beach Burger Jacaraipe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091536_b0ce82b5-898c-42b5-99a5-ee13dc5fe73d.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/beach-burger-jacaraipe-costa-bela",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CHEF FANTONI",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270834_8809d453-beb4-4fd9-89bb-95180ee64120.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/chef-fantoni-praia-de-capuba",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa do Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161736_02e18c46-7c1e-4242-9cbe-bafa399353af.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/casa-do-sushi-serra-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Churrascaria Bel Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061517_6efd8b20-4231-433b-967d-21c0f5c80443.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/churrascaria-bel-sabor-maringa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cléo Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021226_01e10258-2d90-49f2-978e-e1ffb4c07d9e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/cleo-lanches-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Crepe Francês",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050855_a6696653-49a4-45b1-a397-f91212c56481.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Francesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/crepe-frances-jardim-atlantico",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D'CASA pizzaria e lanchonete",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101139_655fb6d9-03d2-4dd9-8cbc-e13c0f2682d4.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/dcasa-pizzaria-e-lanchonete-cidade-pomar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D'gusta Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291221_274e98fa-e558-4269-94db-d12f9d0e022d.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/dgusta-gourmet-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório do Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181226_a46491af-8ee3-476b-a109-a9738e16b6b5.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/emporio-do-sabor-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Estação Sabores",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071024_c209d391-88f5-4a9b-a3fd-55cc1f11732a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/estacao-sabores-centro-da-serra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gostosuras Fit",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131632_f885b7af-71b1-4f8f-a7c5-95b7b63faab4.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/serra-es/gostosuras-fit-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Imperium Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280924_66bd4fa4-6c7a-4074-84be-3780320c1bad.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/imperium-gourmet-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kiskina Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071653_2dcffa3f-40c5-491f-a110-c1e8d6f4256e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/kiskina-lanches-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete Andrade",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291036_3f1f6c73-345d-49c5-9dcc-da2b52f5cafc.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/lanchonete-andrade-das-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MASTER PIZZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011139_91f3be90-a6eb-4f61-9148-8182435d223d.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/master-pizza-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marmitex do Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311233_415bd708-29c3-4b78-9419-2e99e8d8f183.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/marmitex-do-chef-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mucho Gusto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161323_78682030-7585-48e2-9fbc-30dd21a807eb.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/mucho-gusto-mata-da-serra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Na brasa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131208_27f3c1be-1abe-4306-a534-2634ee7cbc41.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/na-brasa-jardim-tropical",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Point da Gula",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260737_bb501b9c-a103-4156-ad76-7d58effdddb0.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/point-da-gula-planicie-da-serra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Point do Sibe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221452_c399454a-6df5-485b-bae3-d697a7b72734.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/point-do-sibe-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sorveteria Sonho Gelado",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090859_6807018a-b9b1-497a-9c1c-81ce859fdce0.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/sorveteria-sonho-gelado-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tabeerna Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090809_a95e050f-acf2-4995-8634-5272cbb7f5c3.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/tabeerna-burger-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Winner Massas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231327_11a20ce6-96d6-41b0-a404-efa3b09dc0d7.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/serra-es/winner-massas-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Zuhause Hamburgueria Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241717_50e2a630-f797-4581-b381-d09d17a32a54.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/zuhause-hamburgueria-gourmet-morada-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "la quadratta pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271205_1e6a917d-1edd-4a08-b853-2298885f382e.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/la-quadratta-pizza-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Aloha & Mix",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261729_ced395a3-b4b9-4439-8989-33a4d7944379.PNG",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/aloha--mix-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete Diniz",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703010833_LANCH_DINIZ.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/lanchonete-diniz-bicanga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei Do Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271954_bff859b4-4237-4174-b4f9-429fee0242d4.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/rei-do-burguer-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Disk Pizza-Forno A Lenha Jardim Camburi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lenha_buonnapizza.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/disk-pizza-forno-a-lenha-jardim-camburi-de-fatima",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AUTHENTIC BURGUER - SERRA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/img-20160428-_AUTHE_SERRA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/authentic-burguer---serra-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei dos Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706030901_a0db934e-d92b-4436-86e1-13aad4bea926.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/rei-dos-lanches-praia-de-capuba",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Opa Açai e Sorvetes",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041543_318023e6-860c-4dfc-8815-9979e553e91c.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/opa-acai-e-sorvetes-serra-dourada-iii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mano's Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/25e84b5806300_MANOS_UERIA.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/manos-hamburgueria-cascata",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Villa Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710262014_f7739f10-4022-4965-9609-f5de76f9a6d0.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/serra-es/villa-acai-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Varanda Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091720_4b15f3a7-88ad-470f-9721-79434250479f.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/varanda-grill-andre-carloni",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delícia de Caranguejo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091947_53cc6a86-608a-4a4e-b79c-b5607b97cd22.png",
+		"priceRange": "$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/serra-es/delicia-de-caranguejo-rosario-de-fatima",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Batatoni Batataria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_batat_taria.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/serra-es/batatoni-batataria-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Soul Green Laranjeiras",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo souul gr_SOULG_EIRAS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/serra-es/soul-green-laranjeiras-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sanduba's e Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141547_94602685-74ff-4011-8050-461bf0a3600f.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/sandubas-e-acai-morada-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Beiju Bistrô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231209_8f6f718a-0810-4d47-86b9-d2c99de43c1a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/beiju-bistro-jardim-atlantico",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Baconman Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051223_a683fa20-678f-4f16-8cd8-6725d4da4c04.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/baconman-burger-alterosas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Colina Burguers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071353_64ac5254-1182-421a-918e-6c3f53a7bd87.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/colina-burguers-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgueria Do Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301310_d74646bc-abe8-422c-b824-5858696f0588.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/hamburgueria-do-chef-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açailândia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710052053_5bea7850-1d7c-4a85-871d-56f8cf3f5018.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acailandia-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chef Fantoni Laranjeiras",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/site_51_logo_cheff_eiras.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/chef-fantoni-laranjeiras-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HAMBURGUERIA DO PET",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120904_e3cac768-e8ef-4ab9-9c00-9058f3e41332.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/hamburgueria-do-pet-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantinho Do Pará",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_canti_opara.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/cantinho-do-para-planicie-da-serra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CASA DO SORVETE E AÇAÍ - NH",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161229_b522559f-7d41-4cc4-87c2-f9e63322259b.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/casa-do-sorvete-e-acai---nh-novo-horizonte",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Yahoo - Culinária Oriental",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181827_EXPRE_ENTA01.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/restaurante-yahoo---culinaria-oriental-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ki Benção",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708180852_40904aef-76bc-4277-b960-0773c7f91275.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/ki-bencao-eldorado",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Yasa'í",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251550_a428de52-6e6c-4c7e-9aec-b9b8d0a19cad.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acai-yasai-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bruttus Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708061521_80d11a16-1171-480d-8060-071ef61f2f83.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bruttus-hamburgueria-carapina-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Xlanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261523_b3f9ae4f-b89f-4592-a5c7-c0748dd5fdcb.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/xlanches-eurico-salles",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BONNA PIZZA - PORTO CANOA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291407_06b51e5e-6f66-4d2a-8355-12efbedaa27d.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bonna-pizza---porto-canoa-novo-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TopBurguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709142110_4f50a760-ad41-4db0-a487-b9d0c6e90d67.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/topburguer-mata-da-serra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgueria Black Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/b88e0e87-be4c-4d0a-bf4c-d787a9e365ad/201710111817_18671.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/hamburgueria-black-burger-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DA PRI LANCHES  SERRA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_DAPRI_SERRA.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/da-pri-lanches--serra-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LANCHES DA FAMILIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281239_ef4ad11b-94ad-429c-a2dd-1e28a7d5d9c0.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/lanches-da-familia-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Big Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703300711_17349678f6a64ccdbf9860553a650295.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/big-pizza-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RECANTO VERDE DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061106_c4f713bd-6b95-4b0c-a4c6-c20a2010679c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/serra-es/recanto-verde-delivery-sao-diogo-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PATRONI PIZZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704141253__PATRONIPIZ06.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/patroni-pizza-eurico-salles",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí e Sorvete Saboroso",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191306_a511b0ef-edfc-4db0-b3c6-bf9473baad41.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acai-e-sorvete-saboroso-morada-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ilha do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191059_2de881b6-cc31-48c8-866a-e147f90d5144.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/ilha-do-acai-serra-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tsu Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/75af3b3c-6822-4d31-9a97-88132248014a/201711301323_15578.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/tsu-restaurante-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mega Burguer's Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mega_megab_ueria.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/mega-burguers-hamburgueria-das-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Modão Lanches Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231929_92fe16ff-61c1-472a-8a17-8c350ab5fa0b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/modao-lanches-delivery-cidade-continental-setor-asia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Point da Pizza e Esfiha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281025_e68f22db-0845-49b6-b76d-ab5ab8f0867b.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/point-da-pizza-e-esfiha-serra-dourada-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Tasty Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100920_THETA_URGER.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/the-tasty-burger-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Come Quieto - Laranjeiras",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo come qui_COMEQ_EIRAS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/come-quieto---laranjeiras-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Esphirras Serra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Esp_ESPHI_SERRA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/serra-es/esphirras-serra-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Carloni - Pizza Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301407_4ac7c0fc-a828-4c38-ac03-4870b932cf59.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/dom-carloni---pizza-gourmet-andre-carloni",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paçai Laranjeiras",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141124_08e4a9e8-3697-4b36-8b72-82df93e05074.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/pacai-laranjeiras-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papa Bruno'S - Serra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logopapa_papa_PAPAB_SERRA.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/papa-brunos---serra-planalto-de-carapina",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kasa do hambúrguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221206_ec16fb2c-e5d4-4df6-b502-066a2368b034.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/kasa-do-hamburguer-novo-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tubarão Faminto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091348_8d1bd0f9-0ad4-4251-bb38-fc5348f93a49.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/tubarao-faminto-parque-residencial-de-tubarao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ateliê do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200845_c5207176-0108-459f-83f9-ff45275c8d3b.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/atelie-do-acai-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Batataria Recheada Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241034_de6e5978-3756-4bbb-aa5c-90c7572e44b2.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/batataria-recheada-delivery-eldorado",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vila do Açaí Jacaraipe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011202_5c58c8a9-47e5-412f-8ec3-7abc512e24fe.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/vila-do-acai-jacaraipe-jardim-atlantico",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PARAÍSO DO AÇAÍ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061050_0f513ee3-4416-4780-a6cb-804032f05eeb.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/paraiso-do-acai-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete Onda do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710100952_df813c88-bee7-4097-996e-5ff0578badf4.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/lanchonete-onda-do-acai-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "YUDA RESTAURANTE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251036_5ace1cab-ba58-466f-80af-319761a04f83.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/yuda-restaurante-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Amorim Lanches E Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_amori_izzas.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/amorim-lanches-e-pizzas-jardim-atlantico",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Come Quieto - Jacaraipe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_comeq_raipe.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/come-quieto---jacaraipe-castelandia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Giro Dogueria Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701261327_GIROD_RANTE.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/giro-dogueria-restaurante-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Porto Burgers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141344_9d8b80a1-264c-4749-af86-a1702cc21835.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/porto-burgers-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AÇAÍ E SORVETES PALETITAS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130838_0e4de80f-cc76-4252-b5dc-d73f9e6aa92d.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acai-e-sorvetes-paletitas-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fresh Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 1_freshburger.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/fresh-burger-morada-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chef Potato",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151706_1a8bb399-7910-4394-99eb-d0341e9f22ea.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/chef-potato-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Frangolândia - Laranjeiras",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 1_frang_eiras.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/serra-es/frangolandia---laranjeiras-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Box Mineiro Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301054_9b2d6573-bc40-4282-9a07-cf40ca17a9c4.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/serra-es/box-mineiro-delivery-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Boca Loka Lanchonete e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706070842_9bf59052-9a42-444b-8ba6-87efab8ea6fd.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/boca-loka-lanchonete-e-pizzaria-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "WLC HAMBURGUERIA E  PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311723_79df6a87-078a-4626-b570-1678138837b8.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/wlc-hamburgueria-e--pizzaria-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Premier pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190814_17c48c7f-205e-407a-aea3-b731a367c966.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/premier-pizzaria-costa-dourada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BONNA PIZZA - LARANJEIRAS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_bonna_eiras.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bonna-pizza---laranjeiras-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Espaço Do Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011053_41f01acc2f2640f9b9727daaa58599aa.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/restaurante-espaco-do-sabor-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gallegao Sanduicheria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707030837_3b17e50f-b537-4ae0-af0c-d9c6c75b3535.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/gallegao-sanduicheria-balneario-de-carapebus",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mania De Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca2_mania_nches.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/mania-de-lanches-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Matsuri Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_matsurisushi.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/matsuri-sushi-feu-rosa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Dona Augusta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091407_6f6f83d9-b372-4d56-a9c5-b9a88fe556b4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/restaurante-dona-augusta-nova-carapina-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE SAMBRASIL GRILL",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703020909_RESTA_TDAM01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/restaurante-sambrasil-grill-eurico-salles",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PAPA HOT",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708170936_5663c290-022d-4484-b9eb-3217cd347300.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/papa-hot-jose-de-anchieta",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oficina Do Lanche - Burgueria Capixaba",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pro ifoo_ofici_ixaba.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/oficina-do-lanche---burgueria-capixaba-nova-carapina-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "FRANGUINHO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706011013_8e4ad7af-1520-49fb-9520-ba635ebb796b.png",
+		"priceRange": "$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/serra-es/franguinho-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dmilano Restaurante E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo final (1_dmila_zaria.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/dmilano-restaurante-e-pizzaria-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "J&N Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300719_eb4b78c2-54e4-45f2-9d76-00ac242aead6.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/jn-gourmet-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Yakisoba Delivery in Box",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101024_441c1065-275c-4b0a-ad3f-29b60e759faa.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/yakisoba-delivery-in-box-carapina-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Garage Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100938_9c0d7627-d142-461f-a515-4bf4ac5d22c2.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/garage-burger-balneario-de-carapebus",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ilhas Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211352_ILHASBURGUER.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/ilhas-burguer-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Familys burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241916_649ef6aa-bb4d-43d8-8146-a7c7057e34bd.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/familys-burger-porto-canoa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgueria Vix",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051326_7a9eef6a-fdae-42a4-9ebb-585dd30501ff.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/hamburgueria-vix-conjunto-carapina-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bravos bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707260846_5e362ee8-fdae-4e7b-9271-2081292f2a9d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bravos-bar-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Petisco das Meninas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301253_9bf0cead-02c3-4abb-a351-d311c6b12c65.png",
+		"priceRange": "$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/petisco-das-meninas-colina-de-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paraíba Lanchonete e PIzzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/paraiba_parai_zaria.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/paraiba-lanchonete-e-pizzaria-novo-horizonte",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PATRONI PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704141253__PATRO_ZARIA.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/patroni-pizzaria-taquara-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pappy Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041459_d9a114e7-4176-4fb1-a3d8-084853ade769.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/pappy-pizza-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LIGHT & GRILL",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131928_a56203d2-0f71-4958-9405-582fc85ff081.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/light--grill-jardim-limoeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rangao Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702061128_RANGA_NCHES.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/rangao-lanches-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Barretos Gourmet E Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704010824_f0120b0fd97a4e7883038d85afca0fe1.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/barretos-gourmet-e-grill-parque-jacaraipe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rangu's Burguer e Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081120_02812996-af5c-48ab-a326-0460a29a2dcf.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/rangus-burguer-e-pizzas-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oceanos Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ocean_zaria.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/oceanos-pizzaria-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dino Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Dino Lanches_DINOS_IVERY.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/dino-lanches-barcelona",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Regys Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_regys_tacao.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/regys-pizzaria-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete e Restaurante Murundú",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311202_70e6dd0d-c481-4883-af51-b45b4a3b1ae2.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/lanchonete-e-restaurante-murundu-civit-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Carlinhos Pizzaria e Lanchonete",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261436_dfc4b84d-89bc-4fa2-81b9-5f8737e469fb.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/carlinhos-pizzaria-e-lanchonete-nova-carapina-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Skaldaria Arena Do Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031111_6862fb76-991f-47db-a94b-4f8647261e6c.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/skaldaria-arena-do-sabor-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantinho Mineiro D&P",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171323_ac54f9f1-00cb-4076-b9fa-2af2d61e7e99.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/cantinho-mineiro-dp-chacara-parreiral",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ponto Zero Pizzaria e Lanchonete",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211411_84d327b8-81f2-4618-be00-75b35b7ce17c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/ponto-zero-pizzaria-e-lanchonete-residencial-jacaraipe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE CAMARÁ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151357_c59af559-e508-4444-b27c-ec98aa839ae7.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/restaurante-camara-chacara-parreiral",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "El Carnicero",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701191021_ELCARNICERO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/el-carnicero-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Planalto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031145_PIZZA_NALT01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/pizzaria-planalto-planalto-serrano-bloco-a",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Zoião Lanchonete E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111925_495b992a-aab3-4107-a661-30a9b0db3277.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/zoiao-lanchonete-e-pizzaria-nova-carapina-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Yoki Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271421_7f2ece1d-2a23-4c76-9492-5ba470bcb844.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/yoki-sushi-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mega Sabores",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300932_931d4220-5e7e-491d-9a0f-49c4d684b2b9.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/mega-sabores-jose-de-anchieta",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TAIYÕ DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051218_69b01b10-a23e-430c-add6-9671e9aa2530.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/serra-es/taiyo-delivery-jose-de-anchieta",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AÇAÍ TUTTIMIX",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081032_1dd29983-601e-4b82-923f-e0aa78bacff3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/serra-es/acai-tuttimix-taquara-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante e Churrascaria MBA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141120_8b937d09-458e-4574-80bc-12e8f62ee448.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/restaurante-e-churrascaria-mba-novo-horizonte",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BIFÃO STEAKHOUSE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/iFood-02_BIFÃ_BIFAO_SERRA.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bifao-steakhouse-eurico-salles",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Frangolino",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291431_225bd791-fc48-487c-8489-9a0ac58969e3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/serra-es/frangolino-sao-diogo-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BICHO FAMINTO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210913_d9d39576-9fb5-45e0-8848-49b6098cb2f2.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bicho-faminto-civit-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BRASÃO GAÚCHO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo brasao_brasaogaucho.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/serra-es/brasao-gaucho-de-fatima",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bar Casaca",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8600/logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/serra-es/bar-casaca-serra-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa Da Moqueca",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo moqueca_casad_queca.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/serra-es/casa-da-moqueca-alphaville-jacuhy",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Exagerado - Laranjeiras",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8723/logo.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/serra-es/exagerado---laranjeiras-parque-residencial-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "FABRICA DOS SALGADOS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171158_cb983eb1-1964-45d5-825b-63a4a0bd5891.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/serra-es/fabrica-dos-salgados-maringa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Made By Mel",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709170906_a2c655ba-e077-4104-ba12-9a8756d55eff.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/made-by-mel-valparaiso",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "VM LANCHES",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080802_ed29ebac-1de8-4790-9877-b0b155844b1a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/serra-es/vm-lanches-sao-diogo-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SERRA",
+			"addressRegion": "ES",
+			"addressCountry": "BR"
+		}
+	}
+]

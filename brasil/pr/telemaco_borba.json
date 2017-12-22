@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Fatima",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191109_f41397d3-a309-4e56-afa6-1e2702597720.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/telemaco-borba-pr/dominos-pizza---fatima-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TELEMACO BORBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

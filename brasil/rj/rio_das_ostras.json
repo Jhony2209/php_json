@@ -1,0 +1,798 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "M&A Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291828_8a76aeaf-73ed-4ecc-a942-30edb8341b65.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/ma-massas-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Multi lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280922_ee71e438-fc86-4856-a7a3-0435ed1066de.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/multi-lanchonete-cantagalo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Quiririm",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280825_8c3c00a7-7a44-4177-a5f7-66a9841b946e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/massas-quiririm-costazul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Rio das Ostras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011401_20b6dec1-f188-420e-b4ee-562f28d5c970.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/spoleto-rio-das-ostras-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino'S Pizza - Rio Das Ostras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191038_a2b50cdc-8606-411a-8bb9-34064463a985.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/dominos-pizza---rio-das-ostras-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ArT Hambúrgueres e Hot Dogs Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140912_cdefb18b-0887-4d0a-9a33-457c3bdc22fb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/art-hamburgueres-e-hot-dogs-artesanais-recreio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arts Pizza Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201950_531bb8c0-8a41-40e8-8910-6dcc5d6663f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/arts-pizza-express-cidade-beira-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CACAUS BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101309_5de5ea01-17ab-4c2d-b31c-247b3d263ec2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/cacaus-burguer-residencial-praia-ancora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carcará Tradições Nordestinas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111630_79188517-b852-417d-b7fa-bcfca15f327f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/carcara-tradicoes-nordestinas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom vicente Pizza Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211247_7dd09b13-a4ba-4028-88be-1f7a2bcb67c7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/dom-vicente-pizza-grill-balneario-remanso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311355_0e358b30-7d46-405e-b48e-2dc018be9f77.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/esfiha-brasil-residencial-praia-ancora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "João Gourmet Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300841_ec56f2a0-781b-434e-8110-12a606cd2949.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/joao-gourmet-delivery-jardim-marilea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POINT CERTO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291423_17d2f32c-50a2-448a-a291-90a4d08577ec.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/point-certo-lanches-jardim-marilea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point dos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201804_713300c2-7e8a-4907-9f3b-6312a26e59c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/point-dos-lanches-nova-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RJ 22 Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8a8c37e8b43e5_RJ22BURGER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/rj-22-burger-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rede Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250841_6a22de05-893e-46c2-a308-64fa25d64dbc.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/rede-pizza-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SHOWRRASCAO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130726_2555e1e7-f110-4f4c-baed-720e9d109653.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/showrrascao-jardim-marilea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor de Batata - Batataria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710282153_3a7e473c-b9b1-4606-ba3d-e43cf30da98b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/sabor-de-batata---batataria-novo-rio-das-ostras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Soul Burguer Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301049_4cf39587-2e83-49ba-b07b-8f13c84657fc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/soul-burguer-food-truck-costazul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TROPICAL BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030828_2ed89af5-1253-4cbd-97f1-0709299515a5.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/tropical-burger-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio GuGu Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010939_0980e0d0-faa8-40ee-ab23-76eb322496c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/tio-gugu-burgueria-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milla Japa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041053_824924b8-832b-498e-9e0d-c3b1d272325f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/milla-japa-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aprisco Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071616_f2c05d44-98b8-467b-8e22-b35b71ec7fa6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/aprisco-lanches-jardim-marilea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PALLADAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101504_dd2e5967-1ac1-4f7b-8f8a-279175e05e93.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/palladar-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá Chapa hamburgueria delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310831_ef7ee1d4-cea1-4c3d-ad7d-5f246ae84644.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/la-chapa-hamburgueria-delivery-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LAIANE BARRA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705020913_a8b09755-884c-49ee-97fc-8893e25ae260.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/laiane-barra-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BURGO'S BURGER & PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080813_e3c9f2d6-3bea-4e14-94b4-6ee36c23618a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/burgos-burger--pizza-jardim-marilea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "40 GRAUS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101354_bb4a8d5b-232d-45d4-aebf-a0f03cdc3926.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/40-graus-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Provata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260915_a9cebf2a-912c-4db3-9576-81bb60d6aa22.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/pizzaria-provata-recreio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211437_6b448507-c73f-4584-a3ac-06fc582efe4e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/o-hamburguer-costazul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barrigas lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709142003_156e5c54-cf15-4534-a477-1bacdaed6f94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/barrigas-lanches-balneario-remanso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HUIOS BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081112_cc65b318-3f14-43ca-a25b-e07854bbb4ed.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/huios-burguer-enseada-das-gaivotas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macaxeira Tapiocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261441_b9ff45f8-8c57-4dfd-bcd8-f26b2f45d9d2.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/macaxeira-tapiocaria-boca-da-barra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Goshitey Sushi Shop Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_goshi_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/goshitey-sushi-shop-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALL FORNO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710060832_61695bf0-49e4-4e40-9bcd-e9ec34be48ef.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/all-forno-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ManuAnna Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051209_fbdbe1c3-62ad-402e-bbbb-b80547414a4d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/manuanna-massas-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOMBURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151330_b111b9f0-0da7-431e-97fb-32dc512a2828.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/bomburguer-extensao-serramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria dos Amigos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291202_a3724a65-2a00-4275-9577-55909a1fc010.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/pizzaria-dos-amigos-residencial-praia-ancora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Azeite de Oliva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061429_61ce5f78-3dc7-49c8-aaa5-e3f20ed255fe.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/azeite-de-oliva-novo-rio-das-ostras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Jonny",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161203_4e0f3319-c160-4e31-84c0-96405c3c89d5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/mister-jonny-costazul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR GAUCHO HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061005_21672be5-2726-495d-b389-38d13f599eea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/sabor-gaucho-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dinha's caldos e lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061634_6c466354-4ebd-4697-bd83-f30900867a03.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/dinhas-caldos-e-lanches-jardim-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob's Drive Rio das Ostras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081817_f77a7622-0395-4ffb-a408-bf9fdcfaff13.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/bobs-drive-rio-das-ostras-jardim-marilea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANTINA COSTAZUL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290937_ca09363f-d201-4329-917b-7a41aefa40cd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/cantina-costazul-costazul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081157_ad99d3c5-d464-4e2a-be23-bd3295d417f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/estacao-da-pizza-recreio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300935_a64e22d6-e093-4f94-8437-b4d555288b57.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/bistro-pizzaria-serramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALQUIMIA PIZZARIA, HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_ALQUI_UERIA.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/alquimia-pizzaria-hamburgueria-jardim-miramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gokoni - Rio das Ostras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706080857_b35ece4e-be02-4ef1-8d52-a1e21f4fce6e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/gokoni---rio-das-ostras-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PALACIO DO CHOPP",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300845_b686a471-e28e-4763-aa0e-a7f1ffc6cb9a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/palacio-do-chopp-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PRI CALDOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261420_a35c5e27-179b-4b1c-9054-a19ec05778bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-das-ostras-rj/pri-caldos-cidade-beira-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO DAS OSTRAS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,31 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele pizza KID MAIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231445_eab2bb3d-dfe3-44c9-a215-125bf2111e80.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vespasiano-mg/tele-pizza-kid-mais-sao-damiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VESPASIANO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Escritório Gastrobar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703071351_ESCRI_ROBAR.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/vespasiano-mg/escritorio-gastrobar-nossa-senhora-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VESPASIANO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

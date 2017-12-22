@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atelie Santo Bridadeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161117_e3103510-73c3-4353-a128-945edf485ca1.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/francisco-beltrao-pr/atelie-santo-bridadeiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO BELTRAO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

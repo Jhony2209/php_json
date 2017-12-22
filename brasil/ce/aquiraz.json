@@ -1,0 +1,47 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D´GUST DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171430_68b045d5-200d-4c28-8525-4aa2d92a6668.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aquiraz-ce/dgust-delivery-condominio-chacara-da-prainha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AQUIRAZ",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "New York Restaurant",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301003_bf533d35-564d-4f9b-97a5-ca01c39131e2.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/aquiraz-ce/new-york-restaurant-condominio-chacara-da-prainha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AQUIRAZ",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pimenta De Cheiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031310_PIMEN_HEIR01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aquiraz-ce/pimenta-de-cheiro-condominio-chacara-da-prainha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AQUIRAZ",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

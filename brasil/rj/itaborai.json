@@ -1,0 +1,223 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arte Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311301_b3e9da83-23bf-4773-a711-ae425908116d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/arte-oriental-jardim-imperial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Itaborai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Subway_SUBWA_BORAI.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/subway-itaborai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria e Lanchonete Dudinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191401_f8e7100e-8f56-4436-817b-5cff5db4499d.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/sorveteria-e-lanchonete-dudinha-santo-expedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Itamix food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171600_7295dfb9-4dfa-40b6-ba99-950022983a7c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/itamix-food-areal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANDUBA'S BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_sa_SANDU_URGE03.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/sandubas-burger-centro-manilha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Iria Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171142_03ead8e8-5036-4c7d-9855-5702ee17b928.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/la-iria-fast-food-tres-pontes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "V&V AÇAI LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706150945_e6d1eedc-d77b-46cd-bef0-2dc62abcb5a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/vv-acai-lanches-marambaia-manilha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida Caseira Hamburgueria E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120827_257a3fa1-f1a8-4633-bb16-32a85eacefa6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/comida-caseira-hamburgueria-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Benedetto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141210_dd7193c3-23fa-4a90-9cdb-c8af62a7dcaa.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/cantina-benedetto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Joven Ideal Itaborai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo point jo_POINT_BORAI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/point-joven-ideal-itaborai-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Zero Grau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201006_7ace7bce-83cc-418f-ab34-4f3140d0373b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/lanchonete-zero-grau-rio-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Experimenta Lanches - Itaboraí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021254_9af01030-3b35-4c68-8e04-1a557b56c90c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/experimenta-lanches---itaborai-outeiro-das-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A lá Paixão Pizzaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010904_7497f09b-a399-4ecd-bced-dadf15a8deed.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/a-la-paixao-pizzaria-e-restaurante-centro-manilha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida de Boteco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190958_c4e82f23-c67b-4157-88e7-6c79c92d29f4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaborai-rj/comida-de-boteco-apolo-ii-manilha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABORAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

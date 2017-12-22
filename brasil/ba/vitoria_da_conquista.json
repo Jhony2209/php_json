@@ -1,0 +1,47 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boca de Forno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061045_fce2488b-ecd5-468b-9b26-9d7d30230f54.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vitoria-da-conquista-ba/boca-de-forno-candeias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VITORIA DA CONQUISTA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Sopa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710060831_0d1f001b-0d7b-4dc8-9ac0-9a52e3f2da9b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/vitoria-da-conquista-ba/casa-da-sopa-recreio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VITORIA DA CONQUISTA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211129_e5c8461f-1594-4e07-a837-92964c19d5b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vitoria-da-conquista-ba/mega-pizza-zabele",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VITORIA DA CONQUISTA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

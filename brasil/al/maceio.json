@@ -1,0 +1,5053 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaíbis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171800_2b754bc1-dbb2-4a9f-bf5a-d2b4b31af68f.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/acaibis-ponta-da-terra",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pronto Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111321_PRONTOSABOR.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pronto-sabor-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cuscuzeria Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231519_467b31b4-ca01-4a64-ad95-15b647cd0d9e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cuscuzeria-cafe-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salete Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701231732_SALET_ICOES.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/salete-refeicoes-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Gruta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181621_46e30f87-4f0f-476d-ab42-29ec20732224.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/china-in-box---gruta-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habib'S Jatiuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051357_a495abc24f54430a8ae58c6aa22d306a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/habibs-jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Ponta Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181619_04757ebb-ebce-4842-98fc-ab8a9f0b4c62.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/china-in-box---ponta-verde-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amandita Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161011_6090ca1c-6a1e-4363-91d1-96c8f27b6fc0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/amandita-refeicoes-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "B.B.Q Churrasco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241252_552a0740-e934-44ed-83d5-37867eacb121.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/bbq-churrasco-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOM TEMPERO GALETO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291306_6867d7d2-4bab-4528-9872-c1328ca5d16a.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/bom-tempero-galeto-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barracão Pizzabar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131028_06957b49-6565-45da-a62c-bba4149dbed5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/barracao-pizzabar-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco e Pizzaria Dalla Corte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291140_4d3b8ee5-3c7a-44b1-84d9-1b4322dbece6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/boteco-e-pizzaria-dalla-corte-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Brasil Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161404_53ab8e91-c31a-4450-b983-5caf0056d349.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/china-brasil-restaurante-ponta-grossa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coffee Break Cafeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221743_895621e8-423e-4b3c-a66e-ce68825c991f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/coffee-break-cafeteria-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croc Croc - Lanchonete & Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161102_5d21c7c7-8169-4858-8eb2-2d54739b23b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/croc-croc---lanchonete--pastelaria-clima-bom",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dias Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091412_8ad890e6-6a57-49aa-a08c-9334d9a562d1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dias-massas-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Feijoada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061612_8282f745-f5e9-49db-a3a8-c1c340aebd6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/disk-feijoada-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Moça - Restaurante & Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040735_f6476bce-ecb7-4bc1-a2ea-d7a77e3f491e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dona-moca---restaurante--hamburgueria-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duckmaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180916_686fae59-60e5-4926-9449-d87975a2101c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/duckmaki-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estrela Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161037_afde2de5-51cc-4039-9902-fa932c324c87.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/estrela-sandubaria-clima-bom",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071208_9770d52f-3e6b-4535-a07a-1f840a3a4eb2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/fast-burguer-santa-amelia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GALETO KI DELICIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200837_1ba0f500-04c7-4bd6-83e5-fe7599a205fc.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-ki-delicia-bebedouro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto.com -Galeteria & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290759_33e21324-2456-4154-9305-817251ff0ffe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galetocom--galeteria--restaurante-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galetu's Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130834_0aa51c16-8bec-4379-bfcf-d5e95e25f277.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galetus-grill-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gulosão Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010931_cc0da8e8-32c4-4a35-baf1-c9588ed001f9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/gulosao-sanduiches-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Altas Horas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241321_cd079ed2-a03d-4f55-8d49-894a18963fb1.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/hamburgueria-altas-horas-clima-bom",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Irachai Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300828_59260d6f-38ac-4155-a012-aa22caa44a01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/irachai-sushi-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Itynerantys By Concept",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291811_189b4894-76ad-4cd3-84e3-14e3b5d552ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/itynerantys-by-concept-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "K7 Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281224_89ac7ee5-4f2e-4298-a5d5-a7fb256a4fb0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/k7-lanchonete-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kiosk Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231130_50862a1d-7220-4280-8268-6f7d521f08c1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/kiosk-sushi-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Korban",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100856_353b2ab9-9916-4127-99aa-d4d18fb28aca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/korban-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macaxeirinha Casa Nordestina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011014_9c6bea0f-ef2b-45e8-8938-6e3cf9ff660d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/macaxeirinha-casa-nordestina-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Pitanga - Açaiteria Serraria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301702_6f8432fa-45c1-4bbc-bc63-2fa0634b2631.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/maria-pitanga---acaiteria-serraria-barro-duro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mirtilo's - Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141450_bd931ab2-ab81-4a0c-b61e-975fea2163bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/mirtilos---refeicoes-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo Diet - Bolos e Tortas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141601_c3b1a250-62dd-49cd-9135-ba3bacb8a907.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/mundo-diet---bolos-e-tortas-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NIKORU SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241741_dcebd0c6-9c4c-4566-b7a0-1f9de2544a58.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nikoru-sushi-centro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaporte Pajuçara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121442_3c0a56be-fd2f-490f-b512-b8045c3f9f9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/passaporte-pajucara-ponta-da-terra",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Bar Dona Julia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290624_0af0f208-725d-47d0-b320-a00f6bf8a999.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante-e-bar-dona-julia-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota Certa Self Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110933_dda34e1e-4be8-49f6-a4f1-88b441001ef9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/rota-certa-self-service-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saudável Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271345_fc700474-a8a9-4534-961c-dc68e4a9d7fb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/saudavel-sabor-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220913_8bdca4f3-63c9-4c1c-ace4-c244d2e0d086.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/seu-grill-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Mi Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061808_2d8cfa58-5cf6-4cfa-a0fd-25d4b1c0d356.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sushi-mi-temakeria-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOP PIZZAS E LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041511_b5ebe8be-dac8-4dd6-b94e-44e2c6df0eb9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/top-pizzas-e-lanches-ponta-da-terra",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "sandubaria Bob Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081621_bac8847d-6c24-42c9-b76c-850a8be75e86.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria-bob-lanches-clima-bom",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Do Portuga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702160728_PIZZA_RTUG01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizza-do-portuga-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Haus Beef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061020_eb04743e-0f58-44bc-95fa-9ff0cbb88d32.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/haus-beef-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lua Linda Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011103_83da04a5-c521-42e2-adc2-891658d3f87a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/lua-linda-restaurante-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Club's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706220910_295f9b0b-f4c0-48d0-9ffb-6758435d0ff7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizza-clubs-benedito-bentes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Ser-Afim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091242_0374c64a-bd52-4c4f-8947-81721976fc2b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante-ser-afim-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chuyo Cocina Peruana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100755_CHUYO_RUANA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/chuyo-cocina-peruana-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Culinária Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271029_0e72a512-6e72-42bb-94ed-a6249f7309b6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/culinaria-delivery-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Concept parte alta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190914_d7e15c7b-e630-4bbf-9c75-0f9d0dcb5cb4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/acai-concept-parte-alta-barro-duro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carambola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706210910_1dab3e2a-64bf-4492-a8da-7c83e8e3e798.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/carambola-barro-duro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boralá Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291132_381b08c4-93ca-4b87-9fa3-9f6c322d5e5d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/borala-hamburgueria-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duas Colheres de Canela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021030_8c4d04fe-bffa-4390-8801-7058b2c17b92.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/duas-colheres-de-canela-riacho-doce",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stop - Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251326_03440e6140ab4320b148952b2f92568a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/stop---lanches-sao-jorge",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dooper Hot Dog & More",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704081302_929e79a916724e24b2d3408542a4cc83.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dooper-hot-dog--more-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sensações de Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011201_5f0ad1f5-5152-4c3d-82e9-72cae36ff86d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sensacoes-de-sabores-centro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabeça Burguer's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Novo Document_CAREC_GUERS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cabeca-burguers-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aquela Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191329_e7be2d94-42e8-4703-98ae-90c9748c0ac0.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/aquela-coxinha-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedágio Hambúrgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705050905_a5becce9-100a-47e4-8512-e25823956429.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pedagio-hamburgueria-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mo Gostoso Passaporte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704210933_3a168748-b326-459d-b7ca-f1d4239ccbdf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/mo-gostoso-passaporte-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Long Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120028_d702fdd4-3012-4a1c-9e07-dfc29af32678.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/long-burgers-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yves Galeto Na Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_yvesg_brasa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/yves-galeto-na-brasa-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza.Com Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061443_PIZZA_IVER47.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzacom-delivery-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza'S Lafaiete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_eiete.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzas-lafaiete-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/99999_garag_urge01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/garagem-burger-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Maceio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Dominos_DOMIN_ACEIO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dominos-pizza---maceio-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cuca Louca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271523_7c129ff1-7d48-4fb5-afdf-d8d6ad13cffb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cuca-louca-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lourdes Tortas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131416_531026af-1238-4f31-a5f6-5a3eded2161c.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/lourdes-tortas-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Altas Horas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705140946_0bbb29a7-504b-4707-ab67-cf8eea78ea25.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/lanchonete-altas-horas-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Black Beef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca bl_theblackbeef.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/the-black-beef-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi House Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301119_96cf58c8-2c98-47ec-a301-cf1515454b3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sushi-house-delivery-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Connect Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081328_CONNE_URGER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/connect-burger-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carijó Burguer- Farol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131424_9152f2c0-7d11-4683-afbe-2b6c914c439a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/carijo-burguer--farol-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oba! Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703142119_OBAPIZZA01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/oba-pizza-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Evenir Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo evenir_eveni_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/evenir-refeicoes-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Anis Bistrô - Comida Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151433_e384b678-1d61-4204-96f4-734d5803b7b6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/anis-bistro---comida-saudavel-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubaria E Pizzaria Coma Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca com_sandu_mabem.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria-e-pizzaria-coma-bem-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Beirute",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101447_cbbebc1e-a9a3-4b22-999b-d5fc0ade0e6d.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dom-beirute-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Castelo Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/castelo branc_hambu_ranco.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/hamburgueria-castelo-branco-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arena Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_arenapizza.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/arena-pizza-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduba Do Bodaro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101204_34e1fdd438d64692a736052cf130fb6a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sanduba-do-bodaro-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FatiasFlamboyant",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo JPEG (2)_FATIA_OYANT.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/fatiasflamboyant-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cuscuz Alagoano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c5b711d8-b94c-446b-9501-3f7c1c4efbe6/201711301836_18835.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cuscuz-alagoano-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Bolo - Pizzaria E Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_CASAD_BARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/casa-do-bolo---pizzaria-e-sandubaria-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aero Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170849_c3e13d1c-7471-4061-aaf8-4b5cd5a59f0f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/aero-sushi-cidade-universitaria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Pizza - Serraria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702160735_NOVAP_RARIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nova-pizza---serraria-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Okane Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704031601_17f4bf5fc3f24cc09968574bd052dd6b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/okane-sushi-bar-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carijó Burguer - Jatiúca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111921_f36dfe60-cfbb-4ba2-93ac-d54c9cfbc486.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/carijo-burguer---jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Belle Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702010907_LABEL_ZARI05.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/la-belle-pizzaria-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneto Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca for_forne_zari03.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/forneto-pizzaria-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz Barro Duro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161734_679d4293-556c-4d50-b902-cab232fb94ef.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz-barro-duro-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FEIJOADA MARIAH",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707301555_e61b5eaa-012e-4f92-aa8a-a9762b89a9e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/feijoada-mariah-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Artesanais Renatha Pereira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281339_0896e161-6cb7-4b45-8711-fc757b899221.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/massas-artesanais-renatha-pereira-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Farol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291011_4ab68ad2-e956-4a18-8c5c-f27eef7ab6b7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/subway-farol-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080917_8b598c10-51f9-4ad5-ab13-cd9d10ea7368.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/japa-temakeria-barro-duro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHAPA BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011542_0bd0096b-c293-4800-b4b4-7ac11fd64401.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/chapa-burguer-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz - Pajuçara (Jangadeiros)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140934_5aff2d71-881b-42f6-a3d2-99532dae7ac1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz---pajucara-jangadeiros-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa De Lampião Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151436_98ab2125-674a-4807-aaac-fd5facfb4d09.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/casa-de-lampiao-pizzaria-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz - Poço",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo galeto s_galet_zpoco.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz---poco-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Massayó ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo _pizza_ssayo.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-massayo-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Mania - Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201020_ed0559f0-d1d0-4767-a677-62ce40a5031a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/big-mania---sanduiches-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hero burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707232110_e0dc11ad-8e5e-4c32-a1d9-3558e386a7e2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/hero-burguer-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refúgio - Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221259_b7b84007-82a2-4212-af6c-e89fc796112c.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/refugio---restaurante-e-pizzaria-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refúgio in box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141102_06f2d1d2-4a7f-4274-bfc6-dd3b488964f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/refugio-in-box-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Steak Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041407_ffc631f8ca38428ea2e7ad743997a3a8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/steak-truck-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornatto Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051319_a6bc2e1b-8e8b-48be-8bcb-ee7d9015cf53.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/fornatto-pizza-delivery-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Factory",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081118_3aa476e3-84b3-4667-afd9-5fc0c2d3c27b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/burger-factory-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boss Traditional Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8424/logo boss pizza.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/boss-traditional-pizza-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mario'S Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_mario_rgers.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/marios-burgers-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império do Cangaço - Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261412_87d23675-34e3-4e18-94e3-d567931dc65b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/imperio-do-cangaco---pizzaria-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubaria & Pizzaria do Zeca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261112_7346eaad-75b7-42df-8356-63bcdbefa214.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria--pizzaria-do-zeca-jacarecica",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DEUS É AMOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190722_dca7e8dc-219d-4596-88c4-1302169e3169.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-deus-e-amor-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food in Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706270921_0f1d2e59-23cd-43df-b798-348df9da4c32.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/food-in-box-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapitos Burgues",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251500_8a3638bc-a244-487d-af13-2761cb6af27f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/chapitos-burgues-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeteria Sabor Carioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/281b5d3d-3a0b-4c13-8fee-a57863a6c85f/201711301028_logo.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeteria-sabor-carioca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kascão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Vinte20-Publi_KASCA_TIUCA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/kascao-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Acai Concept",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo acai con_acaiconcept.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/acai-concept-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Pizza- Via Expressa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702141112_NOVAP_RESSA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nova-pizza--via-expressa-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709071741_6a9a56aa-1e68-441b-b816-eea49442a2fc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizza-americana-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mario'S Burgers - Gruta De Lourdes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca mar_mario_rger01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/marios-burgers---gruta-de-lourdes-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Pizza - Jatiuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703070825_NOVAP_TIUCA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nova-pizza---jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubaria JK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021431_e696bb88-ab65-4349-91df-7249eb3c679d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria-jk-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Da Nossa Terra- Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211432_279dc22e-e8cf-4b0d-8822-e3309a227bf4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sabor-da-nossa-terra--restaurante-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeteria São Lucas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041540_bbfb9629-baea-4ddf-9874-dccd2cdd809b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeteria-sao-lucas-pitanguinha",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kitai Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/999_KITAI_EFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/kitai-japanese-food-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapas  Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707130738_3d481523-d01b-487d-bc69-cab2b416dc70.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/chapas--burguer-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Inovare",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo inovare_pizza_ovare.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-inovare-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria Bali",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Novo Document_SORVE_ABALI.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sorveteria-bali-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaporte Do Moral - Farol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181158_PASSA_MORAL.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/passaporte-do-moral---farol-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaporte do PC ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251415_98f58a46-bc71-490f-8709-6bdc237fa5fd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/passaporte-do-pc-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Fiel Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261709_dadce94a-37d9-4e7f-9c5c-a5286b639867.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pastelaria-fiel-lanches-clima-bom",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Massa Pizzaria & Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241119_940db906-44d9-4b9c-bee9-25ac8a2c3c0d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/doce-massa-pizzaria--sandubaria-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mostardas Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251154_f420b5a4-60d9-491d-9e22-2756701756f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/mostardas-hamburgueria-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinho Da Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_espet_mari01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/espetinho-da-maria-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Basilico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/basilico_pizza_ilic01.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-don-basilico-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amélia Restaurante - Self Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161228_18ce3df1-ffef-4c79-b5e8-fa9895831f5d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/amelia-restaurante---self-service-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Out-back passaporte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181712_47c7c954-98f2-41c0-8062-2b71ece186ee.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/out-back-passaporte-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaporte Centenário ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221212_a161ae17a5714cc1802d8faf5553bb1f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/passaporte-centenario-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeteria Brasão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/galeteria bra_galet_rasa01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeteria-brasao-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famintu's Sandubaria- Jatiúca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251141_ef7c961e-d8a1-48e5-929e-1e53691a712f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/famintus-sandubaria--jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milk Shake Mix sorvetes e açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130731_628fa6d4-293f-409b-9305-a340399bd6a5.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/milk-shake-mix-sorvetes-e-acai-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante - Casa da Vó Nicinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211009_5eb19ba0-8393-4c24-95e2-90f9f4569fe5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante---casa-da-vo-nicinha-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tentapizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ten_tentapizza.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/tentapizza-pitanguinha",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jura Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081044_0049ea8d-3846-409e-87a8-f9e218a5ab50.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/jura-sushi-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chillimex Texmex- Comida Mexicana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221702_CHILL_ICANA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/chillimex-texmex--comida-mexicana-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Spezia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/la spezia - l_pizza_pezia.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-la-spezia-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/imagem 123_pizzamizza01.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizza-mizza-santos-dumont",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Sandubaria do Gênio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040741_42bf3844-09df-46b2-9a1c-252ecad27c45.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-e-sandubaria-do-genio-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Takê Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121513_f788ff6f-518e-4705-a4e5-8f47977f8ca6.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/take-restaurante-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kansai - Comida Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311102_9ed07366-b9b6-445c-8648-593bcfe810d1.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/kansai---comida-japonesa-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Toro.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181600_ELTORO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/el-toro-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Cris Food Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261412_46b7fcd4-e15d-4372-8477-d53095791403.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dona-cris-food-service-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comedoria Baiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703062000_COMED_AIANA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/comedoria-baiana-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém Guimarães",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_ARMAGUIMA.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/armazem-guimaraes-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Posto Gama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291012_3213a812-066c-4357-9aff-c3378e8d8522.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/subway-posto-gama-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório do Horto - Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021009_31bd7617-158c-4a1f-9302-18664cd48503.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/emporio-do-horto---bistro-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "In Natura Fit Food Saladeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/smalllogo_innat_deria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/in-natura-fit-food-saladeria-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DiskBurger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301107_7990f94a-6d4a-4dd7-8038-57d3d13baba6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/diskburger-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia do Kebab - Ayasofhia- Cozinha Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141043_026f6421-9c89-4a16-b8bd-aa7adeac6cec.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cia-do-kebab---ayasofhia--cozinha-arabe-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_SUPERPIZZA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/super-pizza-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano Maceió",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo frango a_frang_aceio.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/frango-americano-maceio-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz- Benedito Bentes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251257_e261d4d7-87ac-424f-8485-2c04fa98963b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz--benedito-bentes-benedito-bentes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gohan - Cozinha Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051028_1d718f89-e92f-4445-95b3-4222d955a25a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/gohan---cozinha-oriental-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Borda De Ouro - Forno À Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081110_0783d1cd-a6e2-4ec8-9997-35b265d8388e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-borda-de-ouro---forno-a-lenha-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ina Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ina_inasushibar.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ina-sushi-bar-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Maceió",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291011_2985f562-78b7-4aa3-8bf1-133621a71fa6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/subway---maceio-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leãozinho Hamburgueria - Centenário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707252041_28488381-bb06-4d9b-a198-2dfe8648fd04.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/leaozinho-hamburgueria---centenario-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog - Maceió",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_OLDDOGMACEIO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/old-dog---maceio-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SELF SERVICE RETRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251344_c79fa9c3-7222-4f01-80a8-c9650c3212ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/self-service-retro-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANDUBARIA BELOS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131521_f3c5e82e-4165-4674-a690-a64cd67e4ae1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria-belos-lanches-cidade-universitaria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho - Maceió",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo brasilei_BRASI_ACEIO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/brasileirinho---maceio-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduba Do Negão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702070803_SANDU_NEGAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sanduba-do-negao-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sports Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sports burger_sportsburger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sports-burger-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeteria Andrade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_galet_drade.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeteria-andrade-barro-duro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto Jatiuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_galet_tiuc01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabatellli Pizzas &Amp; Arte - Aldebaram",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sabatelli_sabat_baram.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sabatellli-pizzas-amp-arte---aldebaram-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Bowl",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230901_75a6c848-6841-4f54-a485-0487a4055e5d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sushi-bowl-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubão do Rey",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707301040_097654d7-b194-4147-8dbe-8b43926dc928.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubao-do-rey-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beef Boss  Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710052045_8e2902ec-1e2f-4d9f-9264-e663b508539e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/beef-boss--burgers-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzalanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca piz_pizzalanches.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzalanches-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Branca Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131411_08f6002e-20dc-4f8b-b07b-7df8131c80c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/casa-branca-pizzaria-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ophicina's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171223_1ef68f8c-c2f8-4233-acfd-628095bb1e46.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ophicinas-burger-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaporte Do Moral- Tabuleiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703240955_564190b6b18149959b6950e652226174.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/passaporte-do-moral--tabuleiro-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Menu In Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca (1_menuinbox.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/menu-in-box-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passaporte Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260852_26904718-a91d-4c67-97ce-fc57de187ce0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/passaporte-express-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Tang",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310839_99d7eeb7-109d-4c91-a53f-89acef2c8778.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/china-tang-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200844_9c72449b-465c-457a-9e05-a7b97f542283.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/imperio-sanduiches-cidade-universitaria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Montagus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sem título_MONTAGUS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/montagus-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Jatiuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291012_c07501e7-49ee-4d40-9191-3150d16bcab6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/subway-jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Topadão Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111250_08b6a49e-7c7f-488f-96b5-aa48156622ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/topadao-sandubaria-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Carne de Sol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701180708_CASAD_DESOL.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/casa-da-carne-de-sol-jaragua",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria & Pizzaria Acauã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020816_b8926fd6-b440-4bbb-b3e6-e6c667ebb89a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/churrascaria--pizzaria-acaua-santa-amelia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oba Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo oba sush_obasu_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/oba-sushi-delivery-pitanguinha",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Osaka - Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211128_75e087f6-0fe6-42e9-b102-3ad355d2e207.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/osaka---culinaria-oriental-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prato Cheio - Macarrão e  Executivos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021147_fba65d71-c610-4993-9df1-be0575ce4db3.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/prato-cheio---macarrao-e--executivos-centro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas Maceio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200308_b30dfff8-1c5c-4d91-8a36-8a3ed36a9f4d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/giraffas-maceio-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água na Boca Pizzaria e Sandubaria Farol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171629_51c5e087-c13a-4255-8bf7-17ee22381e3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/agua-na-boca-pizzaria-e-sandubaria-farol-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeteria O Galetão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_galet_letao.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeteria-o-galetao-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz - Tabuleiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300853_028b1cb2-73d9-45d6-9400-d155eca89d71.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz---tabuleiro-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kami Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070919_15f8ffa7-b0d8-414d-83bf-80303a8e586a.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/kami-sushi-delivery-santa-lucia",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dna Natural Jatiúca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/DNA-Natural-L_DNANA_TIUCA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dna-natural-jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ôxe Comidas Nordestinas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200932_b0687e38-e76b-4326-868d-9d26305d95c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/oxe-comidas-nordestinas-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D´Itália Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dital_izzas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ditalia-massas-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor De Milho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081428_8f91cca1-2252-4322-9304-400e5fb67396.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sabor-de-milho-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081443_4870242a-d961-4e2a-85a1-27236b189106.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/box-sandubaria-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabatelli Pizza & Arte - Pobta Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_SABAT_TIUCA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sabatelli-pizza--arte---pobta-verde-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nakaza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707222100_2db8fc1c-d477-4b07-9880-bdd277407977.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nakaza-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Boss",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/big boss_bigboss.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/big-boss-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kenshin",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081308_900915a5-3a58-449a-ab07-31583b964370.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/kenshin-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Sabor Fitness",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703100932_DOMSA_TNESS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dom-sabor-fitness-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divina'S Pizzas E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701260740_DIVIN_NCHE01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/divinas-pizzas-e-lanches-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz -Jacarecica",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_galet_ecica.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz--jacarecica-jacarecica",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushie Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 1_sushie.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sushie-japanese-food-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz Pajuçara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/galeto_galet_ucara.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz-pajucara-jaragua",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CARTOLA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cartola _carto_zaria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cartola-pizzaria-santos-dumont",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante File Do Zeze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_RESTA_OZEZE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante-file-do-zeze-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Touro's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201133_3fa2b897-14ba-4107-ae46-ecd44d1501bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/touros-burger-pitanguinha",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ninja Sushi- Comida Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251116_fb0e9fff428e4c50bfba09c8f7476e0c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ninja-sushi--comida-oriental-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Chinês Do Raul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281037_5def47061ceb4aa1ab8fc955c5e2dfe3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pastel-chines-do-raul-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PASTEL CHINÊS TODA HORA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041137_0bcc5d97-be2d-4363-9c20-f2f0ca0f519c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pastel-chines-toda-hora-ponta-grossa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Red Maki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702230837_REDMAKI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/red-maki-ponta-da-terra",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ferreti Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151103_f114627f-f42f-4446-a59c-ca4a3f4891bd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ferreti-pizzaria-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calabria Massas E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161504_569b6df5-974f-47c4-a7a8-d71862c0fc43.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/calabria-massas-e-pizzaria-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto Master",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031339_f4a4e11f-3f83-4b79-a873-e82a22053b7a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-master-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toros Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301509_a3dcc6c4-7fb9-4cbf-b89a-576907125342.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/toros-burguer-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laça Burguer- Jatiuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281045_0104418910014bebb60be6598adcfaf6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/laca-burguer--jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rustik",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191108_27d403f0-0edb-4a27-be1e-dbb90b2122bf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/rustik-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Castellu'S Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708050746_7c2764c3-59bc-4d65-aa87-2897e7e84227.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/castellus-pizzaria-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria- Comida Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703010928_TEMAK_ENTAL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/temakeria--comida-oriental-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PANIFICAÇÃO SÃO JUDAS TADEU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090849_e1184af6-dade-4c1a-9be3-b1f2d3b0bba0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/panificacao-sao-judas-tadeu-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pomodoro Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706220930_57f794eb-68dc-4510-a243-20687f5505fa.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/don-pomodoro-pizzaria-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante & Sandubaria -Mega Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231102_1a311aff-0a2b-4899-aa7e-18b96a9df979.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante--sandubaria--mega-sabores-benedito-bentes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nicole Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121056_NICOL_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nicole-pizzaria-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hiroshi maceió",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011104_77e4a7e3-46ab-4cf7-bc38-0dd6b3911c01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/hiroshi-maceio-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E RESTAURANTE, BENDITA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241857_7da98a65-f206-4f4c-a4d0-a88c0a0803d0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-e-restaurante-bendita-pizza-clima-bom",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOTECO DO MAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131653_1675194c-6a48-4269-9c59-0c3fb899925f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/boteco-do-mar-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mario'S Burgers - Tabuleiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261507_589b8125-7a9c-48a2-afc5-ea68178d65af.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/marios-burgers---tabuleiro-benedito-bentes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor dos Mineiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703230825_8ab5646e096d4270829cbc8a85398774.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sabor-dos-mineiros-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz - Petropolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/galeto_galet_polis.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz---petropolis-cha-da-jaqueira",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz-Sanatório",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161631_GALET_TORIO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz-sanatorio-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Opção Pizza E Restaurante - Prado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101730_OPCAO_PRADO.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/opcao-pizza-e-restaurante---prado-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Frango Galeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081017_4a49096e-b378-404c-9e31-f36c7476bbd4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/american-frango-galeteria-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Maceio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111006_CROAS_ACEIO.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/croasonho-maceio-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ligue Liang Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lianglianglog_ligue_ivery.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ligue-liang-delivery-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fusion Grill- Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703210938_FUSIO_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/fusion-grill--restaurante-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Goshin Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca go_goshi_hibar.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/goshin-sushi-bar-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Couve Maki Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca cou_couve_ental.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/couve-maki-oriental-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021006_33a54371-2918-45f8-a2f4-ff5f431d1041.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/japa-delivery-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Eça De Queiroz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo eca_resta_eiro01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante-eca-de-queiroz-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Danda's  Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271043_96a9af44-98fa-4dfc-9e73-2ad31dd0454e.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dandas--pizzas-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz -Centenário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071748_cb5500c6-6085-4971-90b7-0e4eac539ee1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz--centenario-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Opção Pizza E Restaurante - Farol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101632_OPCAO_FAROL.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/opcao-pizza-e-restaurante---farol-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leãozinho Hamburgueria - Gruta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111440_LEAOZ_GRUTA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/leaozinho-hamburgueria---gruta-gruta-de-lourdes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Pastellito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704031438_6de021806300401e9d2e0e5f3ce6eb58.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/big-pastellito-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Sorriso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sorrisoooo_pizza_rriso.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-sorriso-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bubbaloo lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180936_3f5557e9-9928-4988-9dc5-3b9a1a2309cb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/bubbaloo-lanches-vergel-do-lago",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bigloso Sanduíches - Serraria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271349_311950ef-2daa-4118-af24-b5173ac21b47.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/bigloso-sanduiches---serraria-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boa Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710040821_f7b343ac-ba29-4687-a12d-13c6894d7eaf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/boa-pizza-antares",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Filé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo disk_diskfilé.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/disk-file-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fusion - Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100930_526b2682-15e8-4b69-b7a6-697ed29e0232.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/fusion---pizzaria-ponta-verde",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduba Do Portuga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sanduba _sandu_rtuga.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sanduba-do-portuga-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nira Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca ni_niraexpress.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nira-express-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GALETO BOA ESPERANÇA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191016_48cd5a4f-ee04-45f7-8ce5-046a06e51f37.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-boa-esperanca-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dna Natural Farol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dnanatural-lo_dnana_aceio.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/dna-natural-farol-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tuna Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111140_ea9f46e1-4c05-42f2-93ab-1e6e5b047877.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/tuna-sushi-delivery-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Flamboyant",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041210_2ea973bb-aca5-4c3b-9502-99755265a6a9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-flamboyant-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famintu'S Sandubaria - Serraria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101944_f2c50142-8ca7-4784-bfe7-5beaa76beb53.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/famintus-sandubaria---serraria-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YoYô China -  Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271030_320a9fbb-2e84-48b6-8c55-786c1a76d197.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/yoyo-china----culinaria-oriental-barro-duro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calebe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_calebe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/calebe-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GALETO NA BRASA -",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041034_a906519a-bd95-47d2-9713-c0d0e5ec3900.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-na-brasa---cha-da-jaqueira",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fulo do sertão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241446_47ac121d-9b43-4327-8e53-8b5a7d57468a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/fulo-do-sertao-ouro-preto",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brigadeirex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711210812_1ebdd15e-1008-4ab4-af1c-cf43bdc98c5c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/brigadeirex-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galetero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_galetero.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galetero-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacalhau & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca bac_bacalhaucia.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Portuguesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/bacalhau--cia-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Portuguesa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo a portug_aport_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/a-portuguesa-pizzaria-cidade-universitaria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A CHINEISINHA PASTELARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251927_7af2a11f-59ec-4021-9690-5d767461e4f6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/a-chineisinha-pastelaria-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Megga Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031054_63c06cb2-84a2-49d7-b482-6505886ac551.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/megga-hamburgueria-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Marcone Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081342_b87ee7d0-508e-48b1-ad8e-19ac348df429.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/babbo-marcone-pizzaria-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperio Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701130937_IMPER_ICHES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/imperio-sanduiches-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Urban Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706011244_671c4f64-9210-49de-a145-38fca1630824.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/urban-bar-e-restaurante-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_galet_olui01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway- Mangabeiras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291012_93f42539-cfa0-40cc-ac7c-dd8806656e0c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/subway--mangabeiras-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domingos Churrascaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702060747_DOMIN_CARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/domingos-churrascaria-tabuleiro-do-martins",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria & Restaurante Pepperoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191830_18ee8cb3-38cb-4801-bbd4-02884d2a92e8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria--restaurante-pepperoni-ponta-grossa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nordestino'S Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702081701_NORDE_SFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/nordestinos-food-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ice Creamy - Maceió",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281850_135e9fae-4d28-4185-9eb7-0c404ece662d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/ice-creamy---maceio-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702250823_PIZZARIAPO01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-pop-trapiche-da-barra",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Chinês a Chinesinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221216_007930a3-010e-411b-9e63-77846ea32df4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pastel-chines-a-chinesinha-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria & Hamburgueria Delikato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021204_308f8ffc-dbed-4909-9fa1-f96b30b8dd7b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria--hamburgueria-delikato-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubaria & Pizzaria Céu da Boca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091353_f7cca244-9f6b-4745-89be-61a2155c93dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria--pizzaria-ceu-da-boca-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Di Neri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161134_85b69ff3-3506-4e3e-95a5-e51a294cc856.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante-di-neri-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Point do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251326_15e22a39-1e86-4801-b178-189c2e05c719.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/restaurante-point-do-sabor-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubaria Kero Bis ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704221253_0ad4ecd0-12aa-42a1-b780-3ba3769e1894.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/sandubaria-kero-bis-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comedoria do Sertão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704301233_ab1da769-3590-40dd-9657-0e5e70b7094f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/comedoria-do-sertao-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O MADRUGÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707130743_fff5b17e-2f06-4133-b546-14e422c87b58.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/o-madrugao-cruz-das-almas",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Pitbull",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pit bull_lanch_tbul01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/lanchonete-pitbull-ouro-preto",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viana'S Gourmet- Massas , Carnes E Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701101224_VIANA_ARNES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/vianas-gourmet--massas--carnes-e-sushi-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Bolado - Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051100_882caa5f-d1f1-41a7-a743-30cc0688db2e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/bem-bolado---restaurante-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boa Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/boa-pizza-feitosa",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café Manollo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271410_d793573f-136b-4928-b269-c7a1a80253ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mediterrânea",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/cafe-manollo-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto São Luiz - Jatiuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2_galet_tiuca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/galeto-sao-luiz---jatiuca-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "J L Empreendimentos Comercio De Alimento",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dnanatural-lo_JLEMP_MENTO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/j-l-empreendimentos-comercio-de-alimento-farol",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lelé da Kuka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca lel_leledakuka.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/lele-da-kuka-poco",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa Bolo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131550_4c2627db-41cb-454a-bbee-3d8480d30080.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/papa-bolo-prado",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Quadrada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_pizza_drad02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizza-quadrada-benedito-bentes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Picea",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151121_2bbb4e81-2605-4d06-9a6f-295e13d70e1d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-la-picea-pinheiro",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Macdjom'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca mac_pizza_djoms.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-macdjoms-petropolis",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nibert",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria nibe_pizza_ibert.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/pizzaria-nibert-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rhino's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181149_b52a1147-0c88-4972-8c70-4d57579b7b6e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/rhinos-burger-mangabeiras",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Risadinha Galeteria E Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301130_RISAD_BARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/risadinha-galeteria-e-sandubaria-benedito-bentes",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway -Pajuçara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_UCARA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/subway--pajucara-pajucara",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temaki 10- Temakeria E Creperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703070902_TEMAK_PERIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/temaki-10--temakeria-e-creperia-jatiuca",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temaki Expresso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo temaki e_temak_resso.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/temaki-expresso-jacintinho",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vida Detox- Comida Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703070920_VIDAD_DAVEL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maceio-al/vida-detox--comida-saudavel-serraria",
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "MACEIO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }]
+
+
+
+
+
+
+
+

@@ -1,0 +1,134 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Edimir pizzas delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111729_fbe380a5-76eb-4ac7-b3cb-124fbd588ecb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/edimir-pizzas-delivery-sao-caetano",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Carro de Boi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131747_c6081167-6409-472c-ae15-e33fc5bd76f9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/restaurante-carro-de-boi-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria da Família",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301503_6b2460ca-d1e6-43b2-844a-8baa1991301a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/restaurante-e-pizzaria-da-familia-parque-industrial-mingone",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tenda Bambu Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091059_9c8e578d-2dd1-470d-8db5-4c9614297f04.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/tenda-bambu-comida-caseira-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropical Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261656_abba5295-a7d6-4efb-a7dc-c72c2affbc50.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/tropical-burguers-jardim-zuleika",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MANAH RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181522_1b859137-6d60-4f26-90a7-0f8f5379fc01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/manah-restaurante-parque-estrela-dalva-i",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forma de Pedra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111401_4afc19b3-88b2-4b4d-93b5-93f5e7232d2a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/pizzaria-forma-de-pedra-parque-estrela-dalva-ix",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sabor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709070931_8e81543c-41cc-483e-897f-14433edaff6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/restaurante-sabor-caseiro-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria do Gaucho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021128_acca5567-b354-4210-9295-d4a98ae12934.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/luziania-go/restaurante-e-pizzaria-do-gaucho-sao-caetano",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LUZIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

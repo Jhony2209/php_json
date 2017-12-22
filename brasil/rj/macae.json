@@ -1,0 +1,1101 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191035_7c6453f4-40a4-4048-be36-29cb04447188.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/dominos-pizza---macae-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200015_95fcdbe9-7c36-470e-bf38-64cc0c716d26.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/brasileirinho-delivery-macae-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Companhia do Lanche Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221334_034f2d85-dab0-42de-8876-591460c7fb13.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/companhia-do-lanche-macae-riviera-fluminense",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DI MOTTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131525_c598c354-4c17-4f44-8ef5-6fda4251889a.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/di-motta-granja-dos-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Denis burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231417_e8a87751-0343-4f69-8247-6fc7667bf753.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/denis-burguer-lagomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705060906_67a0ca85-b7f8-4dc7-ace8-4fc7cfea584b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/mineiro-lanches-fronteira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia E Lanchonete Largadão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701120845_CHOPE_GADAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/choperia-e-lanchonete-largadao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/66038929-6a6a-451f-8a85-0ba2533701b8/201710112207_logop.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/maria-delivery-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712132133_641b5fc8-6f2b-474d-8d08-1ccae8f288b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/mineiro-delivery---macae-gloria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salve Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291303_13460209-07dd-4271-be66-599f3e299c13.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/salve-burger-alto-cajueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Finalmente Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704100952_f1f30845dd93466b8586c62724441b98.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/finalmente-express-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Margherita Pizzeria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221243_ca4c6a73-a23a-493d-acc8-f797dc869da2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/la-margherita-pizzeria-delivery-praia-campista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saladpot e Fominha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080717_5f15fd33-33aa-4a85-839e-d4faf4e5dcc8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/saladpot-e-fominha-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Fazendinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/la fazendinha_lafazendinha.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/la-fazendinha-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação do Pastel Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111027_5f674d1f-d600-466f-8048-23c1633e5f4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/estacao-do-pastel-macae-miramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Fit  - Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141049_fe27d4c0-19b2-42fb-8772-cfb5c65869c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/mr-fit----macae-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Finalmente Creperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071026_f6b7d45d31394cd4b50be1dddc3aee8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/finalmente-creperia-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kenko Temakeria E Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181501_14054353-1e48-4bbb-b309-00caf614ff6b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/kenko-temakeria-e-delivery-riviera-fluminense",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rede leve pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706270914_ca948dce-2240-4a5a-8480-2e686541b5a4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/rede-leve-pizza-riviera-fluminense",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291058_40ab74ad-55b6-4ecf-a0d4-892e73d035a1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/lancheria-macae-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Macaé Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710062058_f808fade-2224-4449-b14f-b12837606c21.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/bobs-macae-centro-alto-cajueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Adega 55",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8182adf4-2024-446b-83ee-e7ecaf0ad147/201711291210_logo55.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/adega-55-riviera-fluminense",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guria Café e Brigaderia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181736_8dad3562-abf6-4e0c-b6e6-1e3a081b9786.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/guria-cafe-e-brigaderia-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Big",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271457_e64d824b-ef76-4023-a8e2-fca2cb16f94e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/burger-big-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dolce Gabbi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111036_412df3cd-29ff-4682-a982-ab2bc3cad809.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/dolce-gabbi-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESQUINÃO DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010933_f8b44cc3-cd1e-4316-9c6d-a7676d86f4cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/esquinao-da-pizza-fronteira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinho Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011004_71b59b08-1f4f-4ab5-8fa5-cc9783e0c8a0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/espetinho-express-visconde-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem do chopp Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180718_fb73dec0-e64e-478e-acad-eddc08a8a747.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/garagem-do-chopp-macae-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Burger Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131927_0216e49e-08ba-46a9-820e-eac6f5ced482.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/hot-burger-lanches-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Blanc !",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240825_4dcb4ef0-b9b1-4cc3-9be0-21990248cc4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/le-blanc--cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Xaras Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030833_a5d3f20d-a054-42c6-983d-ab32354e4015.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/pizzaria-xaras-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quality Viihda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270754_ef6e66e2-3abb-43d4-bbd3-bcbaf8729f5b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/quality-viihda-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante/Pizzaria Alamar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201118_260ea2e9-8ce2-4d98-8bde-fae5e069622a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/restaurante-pizzaria-alamar-lagomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Okohama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050740_79d5fa24-4979-477c-8cf9-3515c581f09f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/sushi-okohama-parque-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradicional Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270922_45a6ad60-be5a-4d92-ae4d-d40a09723f23.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/tradicional-sushi-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "V.S LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111216_24f80a03-5757-48b1-a86a-c4c2784e31ae.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/vs-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SHOT BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310926_428e4f08-7f94-4cbe-bba4-0c0f919f738c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/shot-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaffee Colônia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171032_56988b4e-7570-4207-b087-dd135c4c17be.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/kaffee-colonia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lourenço's Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091846_534d2608-5e5b-4fe9-acdc-4fe19316206b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/lourencos-pizza-delivery-granja-dos-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FRUTOS DA TERRA RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011207_ec80e7a9-cb88-4c68-ade9-f160e666e402.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/frutos-da-terra-restaurante-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches do Leo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031139_LANCHESDOLEO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/lanches-do-leo-parque-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO MINEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mineiro logo_tempe_neir02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/tempero-mineiro-miramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Ninja Original - Macae",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191102_33235f00-ac6e-4062-bae1-269b3f83c02e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/sushi-ninja-original---macae-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Deguste Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100713_DOCED_ECAFE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/doce-deguste-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tô Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tomassas.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/to-massas-aroeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiteria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281023_408de442-e725-4ae9-8a59-e9718ed2cdad.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/sushiteria-delivery-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Lenha Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210911_6a94f26e-7a9b-4eee-ac52-34f19129f653.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/santa-lenha-pizzaria-gloria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Nosso Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_hambu_sopao.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/hamburgueria-nosso-pao-lagoa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasa & Vino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705092032_bc1c74d0-92a5-4c48-8202-451d2b4eff7a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/brasa--vino-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GIRAFFAS MACAÉ PLAZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141059_cbd1ecb1-d138-45a0-ba58-95fa707c1683.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/giraffas-macae-plaza-gloria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "É Aki Lanches Bookafé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704270708_d7242b7f-2724-4b55-bb3b-7daa0de0f5fb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/e-aki-lanches-bookafe-parque-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Momento Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702071422_PIZZA_IVER41.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/pizzaria-do-momento-delivery-imbetiba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Já",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705131045_48484020-1381-4916-9b8f-622332148259.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/japa-ja-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SETIMA ARTE HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290913_c552522a-ab32-4031-afd5-84932c37e5dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/setima-arte-hamburgueria-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA ELITE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130911_047a0199-7e01-4142-95d7-86f117cea576.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/pizzaria-elite-sol-e-mar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria California Miramar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo californ_pizza_rama01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/pizzaria-california-miramar-miramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUENTINHAS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071208_6ea2b802-673e-4708-b5e0-ecb497bf0565.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/quentinhas-delivery-miramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Cristiano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050813_842323b7-d964-46c4-9cea-dce3963a9432.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/pizzaria-do-cristiano-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PREDDILECTA PIZZARIA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041312_2376b2ab-9545-4f2e-96d5-8adb5168d9bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/preddilecta-pizzaria-delivery-cajueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Go Go Wok",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200720_3cecaa2d-df50-4b78-bbc0-be04aafa0f1c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/go-go-wok-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Delivery Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271447_f738cc85-38a8-485b-ad40-b55d789cd9c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/sushi-delivery-express-lagomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salada Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311147_2f5618bd-75c1-4437-86ec-6d333b2da981.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/salada-mix-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MIX MANIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040745_ddcf9b25-a462-424d-a237-cc733979872c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/mix-mania-granja-dos-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Zero Hora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131649_c3c94169-3538-4ca3-ad27-bf653aea9a89.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/restaurante-e-pizzaria-zero-hora-visconde-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paiol De Minas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081027_afb204ea-5e30-42f3-ae02-061e107d0c4d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/paiol-de-minas-aroeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Fogão Macaé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061717_5571b801-72f9-4ab0-97a3-bf091988f1bb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/divino-fogao-macae-granja-dos-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duo Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031403_DUOPIZZA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/duo-pizza-novo-visconde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHICRE CHEME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709140946_487249da-d294-4e98-92e8-cdcfdc68db95.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/chicre-cheme-alto-cajueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUENTINHAS DO CHEF",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181041_023b80cb-0f75-4db6-a889-3bcbc86285a3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macae-rj/quentinhas-do-chef-granja-dos-cavaleiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MACAE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

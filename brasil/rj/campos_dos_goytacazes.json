@@ -1,0 +1,2107 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Campos Dos Goytacazes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191047_2a02dd2e-d442-4f92-acef-0ecb046a6f39.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/dominos-pizza---campos-dos-goytacazes-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto De Campos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211438_266eb50d-e87a-4aa3-8c9e-3410668cb9b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/spoleto-de-campos-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doces da Lary",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201833_657d5174-c22a-45bc-833f-215c959b7dba.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/doces-da-lary-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "House 82 Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/32821947-b12c-405e-8c93-8f0de637058e/201711291848_logoh.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/house-82-hamburgueria-parque-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto do Kibe Casa Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090952_8db22425-f5ae-45bc-ae91-2e35bc95c263.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/recanto-do-kibe-casa-arabe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Coxinha e Zé Risole",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031007_c9eab15a-149b-4175-a70c-17f0c516272c.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/maria-coxinha-e-ze-risole-parque-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Loco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/aee23513-2e75-492b-951b-45d41f59688a/201711291857_logon.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/dog-loco-parque-leopoldina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231222_6a65e955-339a-4208-9950-45deffa93a7d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/rei-da-pizza-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Campos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709171429_887609e1-9f33-41aa-9608-6a0899611f77.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/mineiro-delivery---campos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NATUREBA SANDUICHES E SALADAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180931_b2c46c1b-9edb-4b96-9310-d16c2445ae16.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/natureba-sanduiches-e-saladas-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Campos Dos Goytacazes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290955_9a0dcc39-eb97-4a53-95d6-a7ccdf47a361.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/subway---campos-dos-goytacazes-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgone Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081420_04e9a55d-08ff-4be6-8fa0-e247bb423528.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/hamburgone-artesanal-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DNA Natural Campos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/DNA CAMPOS Lo_DNANA_AMPOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/dna-natural-campos-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Líder Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702021136_LIDER_ZARIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/lider-restaurante-e-pizzaria-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Família Roque's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261038_3ea8b373-6573-4be1-a0df-4d3fa25b10d5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/restaurante-familia-roques-parque-santo-amaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHICRE CHEME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091207_691eaa92-cdf9-4c38-a459-1f47818de942.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/chicre-cheme-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa Fome Lanchonete E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706200039_db3243d5-8cf2-43f0-b7e3-6f0f14773105.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/papa-fome-lanchonete-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hb Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ham_hbham_sanal.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/hb-hamburgueria-artesanal-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob'S Avenida 28 Março",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192326_cc145e1e-9100-4f53-968c-14c7d015e98e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/bobs-avenida-28-marco-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MISTER OLIVER AÇAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201002_e021c92a-d1a6-4d3f-baff-27636ce072cd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/mister-oliver-acai-parque-joquei-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Campos Dos Goytacazes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181649_9c61ace8-8e55-4c8e-9a4c-920395eef5b0.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/china-in-box---campos-dos-goytacazes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALMEIDA LANCHONETE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271526_1eb9beb0-54a3-4c7d-862d-a986e0a429d9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/almeida-lanchonete-parque-esplanada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARARA FOOD TRUCK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211242_857ed8ca-cfd9-4ac7-933d-f154a51d9ed1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/arara-food-truck-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém 79 Cervejaria On Tap",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111626_e6579c90-5b42-49eb-b6ba-87a6502b8029.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/armazem-79-cervejaria-on-tap-parque-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batata Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251010_4cb5d6f6-9193-497e-be2c-ce4292652736.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/batata-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231354_cf629b8d-3907-4fd6-a5a2-bfddb61afac1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/big-lanches-parque-vicente-goncalves-dias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deu Sopa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081215_488e184e-1e3c-486e-be46-2b0785a27927.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/deu-sopa-parque-novo-jockey",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GRAN LIBANO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250752_e67889f5-3744-4bda-8c03-3d587be9a419.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/gran-libano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GarageBurger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111347_be5b9315-ebd5-4ed5-bc32-1a2bab14da44.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/garageburger-parque-leopoldina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAKUNA BATATA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131544_181bb930-c8fc-4c68-a1c0-f39e05237b0d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/hakuna-batata-jardim-das-acacias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hangar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280851_9e2d779c-66d9-41ca-8de8-2de52313ffe0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/hangar-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KILOCO BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271330_37b82491-7a64-4b93-b74f-abee642c44aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/kiloco-burguer-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Braseirinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201436_b2ef3818-1775-45b1-b7a5-688f652192ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/o-braseirinho-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAUTA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131431_47102c4f-db83-446a-8bd5-68b3955fc985.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pauta-pizzaria-parque-leopoldina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rainha da Tapioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260751_c41565a3-8a89-4956-8498-55e108271bf3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/rainha-da-tapioca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Saborear",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711190555_5e6d003c-979f-4ae1-abb5-5887d9d18423.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/restaurante-saborear-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABORES CARIOCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241307_50482ec9-a40a-4daa-918a-d6480586d096.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sabores-carioca-parque-joquei-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suco Sabor da Fruta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110751_7ce5d561-494f-4b36-93e9-be6ecea6b97f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/suco-sabor-da-fruta-parque-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712030959_049383b5-d44f-47be-85f2-08f8bc9683df.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sushi-house-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Touro's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031339_fbc6d6d6-09f9-45a6-9574-d1c0cd3b5cd3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/touros-burguer-parque-joquei-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151645_73186a68-a348-4002-80bf-ac40fadebc52.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/meu-burger-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cariocão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171312_fedadb83-f474-4add-b1d5-92ad134baf16.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/cariocao-lanches-parque-joao-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Intervalo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101752_a0b36892-256f-4ac7-9202-72de2e97e2b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/o-intervalo-parque-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LU BOLOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251457_ae3f4196-3dbf-4a66-a43f-0ccd519f607f.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/lu-bolos-parque-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le liban",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220922_1994b3a5-4082-494a-9f2f-2e7845f5d4e0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/le-liban-horto-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Explosão De Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011159_7314ff69bc3147fb9340340c397caa2a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/explosao-de-sabores-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "West Texas Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151256_3959da8b-d638-4785-a03c-41aa280bc68d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/west-texas-burger-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Pollos Brasileiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010839_f983c767-a93e-4afa-8f7f-4f3fb84f66ed.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/los-pollos-brasileiros-parque-tarcisio-miranda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141001_4aad997d-46c8-490e-8d67-1d31a1966955.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/esquina-do-sabor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Assis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091116_ca4120d7-c604-4c43-91d9-647f9c353d05.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/emporio-assis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famiglia di Mamma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071547_367796f9-afd3-4bfe-b444-05753e542098.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/famiglia-di-mamma-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza & Cia Do Gordinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lg_pizza_dinh06.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizza--cia-do-gordinho-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alvim Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Alvim_ALVIMPIZZAS.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/alvim-pizzas-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crepe Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181056_1da0bf20-264f-492c-839b-1e6e04473428.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/crepe-bistro-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Peixaria Bistro Da Vivi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704191618_799bf6cf-56d5-4df2-8acc-5e61829421d7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/peixaria-bistro-da-vivi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Come Come Hamburguers E Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/come come piz_comec_izzas.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/come-come-hamburguers-e-pizzas-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Sírio Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200855_0f80e5a5-5999-43a4-942a-779dbce45364.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/emporio-sirio-lanches-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Alaska",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211120_ba79fe8d-cd53-44dc-b77e-22712ca41fda.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/lanchonete-alaska-parque-joao-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maicon Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703170937_MAICO_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/maicon-lanches-parque-joao-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia do Suco Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311556_0ea5ae60-bd3b-49d1-a686-e585d060f2da.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/cia-do-suco-lanches-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Show de Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706191140_31c7836e-cfc5-4dbb-823e-6ddab9694191.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/show-de-lanche-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "G.A. Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141435_bf2f05b3-89fc-44c0-a43a-01c2c35144d9.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/ga-burguer-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bourmet - Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281059_2003085b-18f0-4b12-8f18-6f1a4ae4783a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/bourmet---hamburgueria-gourmet-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crepe Teresa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191115_fab12e7a-e199-48fc-8dd1-21507508a820.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/crepe-teresa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ulisses Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211001_4e66971a-e6f1-46d7-a371-badb0e688161.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/ulisses-lanches-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA MIX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231544_19892454-6cf9-44c0-9ff6-91d1a4a9d26c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizza-mix-parque-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Magnífica",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111021_c1d3afed-9370-4951-98a4-85f7e8168c47.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizzaria-magnifica-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Crepe e Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201554_075bc6cc-d471-4d80-826d-53329a1c131a.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/bistro-crepe-e-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken In House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271556_8c082022-0e24-42e9-b1a2-d9cdb268ee02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/chicken-in-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mimma'S Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mimmas_mimma_tfood.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/mimmas-fast-food-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vó Carmita  Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091705_0c7da102-1693-4ded-9cdd-a3ae5658b806.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/vo-carmita--restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vixe Mainha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261625_759a5dad-ff65-4c68-86eb-83281ccd48fd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/vixe-mainha-delivery-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Califórnia Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709010719_4c07368a-86d5-4a2a-881c-d419fd1c10f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/california-burger-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapiocaria Beijuu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011016_e6ca8c85-5e1a-4c95-9682-f3f936222526.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/tapiocaria-beijuu-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quartel Burgers Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710121409_46417df6-b91d-44a0-bc6f-a22927943d42.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/quartel-burgers-hamburgueria-parque-corrientes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal Pizza Metro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_quint_metro.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/quintal-pizza-metro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031110_SANDUICHERIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sanduicheria-parque-maciel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Bus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ifood di_pizzabus.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizza-bus-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatello Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_donat_pizz03.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/donatello-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bela Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031434_e42bb6d3-e8c3-452e-934f-6bb2af0c9314.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/bela-pizza-parque-joquei-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Lanchonete SPUTNIK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080914_992e0e5b-4905-45a6-8a78-99dd30c827a8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizzaria-e-lanchonete-sputnik-parque-calabouco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr Esplêndido",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301043_8d9e0657-9871-4507-85a1-cd5c715d181e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sr-esplendido-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgão Do Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702170724_HAMBU_CHEFF.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/hamburgao-do-cheff-parque-visconde-de-ururai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "André Lanches E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221155_ANDRE_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/andre-lanches-e-pizzaria-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Retrô 50",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca - r_retro50.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/retro-50-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolaria Bolos caseiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100724_cc391084-04c6-4813-b78e-e3dd31c84f70.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/bolaria-bolos-caseiros-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Antônio Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261032_87aafefc-b8f1-4c23-a5b1-c12b6d79b244.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/antonio-restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massa Artesanal Farinha Seca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171811_a03292ca-1944-4c2a-a52c-3c392e8a7c1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/massa-artesanal-farinha-seca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrasquinho e Lanchonete da Familia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101245_44247e33-4fce-4385-8bc5-c90474ec65a8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/churrasquinho-e-lanchonete-da-familia-parque-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706180934_82b197b4-8da6-413e-9cea-cda1f505c73b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/espetinho-delivery-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Renato Rios Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051526_ad5101b5-499f-41f4-a9c1-8c99978615dd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/renato-rios-restaurante-parque-leopoldina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D Guste Rest. Pizzaria e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120930_991301ac-fb4f-43b9-8825-f7c545ec58af.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/d-guste-rest-pizzaria-e-lanchonete-parque-novo-mundo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota Dos Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo rota dos_rotad_bore01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/rota-dos-sabores-parque-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa 357",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241616_12b98ef2-1148-4a14-bf1d-f3d2f0e8163c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/casa-357-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Churrascaria Sabor e Prosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101802_10e5bc55-3f66-4124-992f-42029b586d73.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/bar-e-churrascaria-sabor-e-prosa-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fornalha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041217_a33879b8-9afd-4916-8177-d717648e3012.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizzaria-fornalha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Sushi Be_SUSHIBEER.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sushi-beer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fome de Leão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231105_b54b99d4-7d50-4bf5-9804-885f4a571c24.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/fome-de-leao-lanches-parque-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bom Paladar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101316_ec893cd3-da27-4364-aaa2-672e611bfb22.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/restaurante-bom-paladar-parque-calabouco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Lands",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311132_14feb513-42e4-4ac7-9539-5b51a81df182.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/the-lands-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KAIROS SUSHITERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140913_2c4eae7d-2add-4d83-9e1c-0e9dfbc51bc9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/kairos-sushiteria-parque-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Campos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200032__BRASI_AMPO01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/brasileirinho-delivery---campos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mustafa Lanches Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca mus_musta_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/mustafa-lanches-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pão de batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180803_2b445276-ee57-4160-9f42-c302543f1bef.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pao-de-batata-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gira Pizza Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141444_913838ea-49ee-4649-857f-53e31155fbda.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/gira-pizza-restaurante-parque-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Fit Fast Food Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705100904_6efa3c09-ca50-4387-b316-8b7b6f9dbb90.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/mr-fit-fast-food-saudavel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frangão Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710221212_7f383c96-21bc-4866-bac0-1417eb0c4449.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/frangao-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete e Pizzaria Comilão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040814_454a4aa7-06b9-46f7-8e1a-9c722a049fe8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/lanchonete-e-pizzaria-comilao-parque-jardim-carioca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sagritos Botequim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260856_b9cbe8c8-af30-4916-8c4c-b8ffab594dc1.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sagritos-botequim-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211918_bd8dcbe81c7a425f991b848b07e120e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/art-pizza-parque-turf-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapiocaria Campista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111812_1ed91ac5-adbf-4c7a-85b3-e89467bcd9c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/tapiocaria-campista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Five Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291045_b7de8703-0493-4199-ae95-b74362c28eb4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/five-grill-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oficina dos Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021236_fff184cf-9e32-48b5-9c20-faf5ee1fe114.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/oficina-dos-sabores-parque-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPETÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120823_7482fc2c-0a4f-439f-88f8-b9a4e7346f11.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/spetao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Club Do Japa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_clubd_ivery.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/club-do-japa-parque-leopoldina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DONA NANI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709260837_92afc72c-fb95-4cfa-94c4-a3cc3fc2d94f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/dona-nani-alphaville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sistema bruto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121357_6aa48e6e-5ce0-4406-a035-cccdef928f6c.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/sistema-bruto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OPÇÃO LANCHONETE  E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241245_38997e09-441d-4f0a-9ba0-c8402b0ab851.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/opcao-lanchonete--e-pizzaria-parque-joquei-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BE HAPPY BRASIL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290742_b26e69de-75b2-4e32-a919-7bb7d4f26b9e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/be-happy-brasil-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Drink Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/japa_japad_ivery.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/japa-drink-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Mexicano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260808_7e0b8159-cb25-4786-be85-aa66534a6776.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/el-mexicano-parque-tamandare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MR GRILL PELINCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011210_0d06858e-6b2b-40ad-b46e-4f48105aabf4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/mr-grill-pelinca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atelie do Cupcake",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151600_1d1355d1-1409-4c9f-af7a-18d29cf4fed7.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/atelie-do-cupcake-parque-tarcisio-miranda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Braseiro Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo braseiro_brase_ueria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/braseiro-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le'gusta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131439_f94e09c0-6111-4c98-9594-a50254031248.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/legusta-parque-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Puro Lazer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051019_1df45fb7-4bf2-4df5-9976-6ced148f8233.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/puro-lazer-parque-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Max",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101043_e468a50b-8474-4b22-93ae-5a43bdf8a608.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizza-max-parque-juliao-nogueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Capriccio Italiano - Pelinca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141208_6abad22c-8131-456b-a163-c7ff194ff6ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizzaria-capriccio-italiano---pelinca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Olha o Café da Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211049_f01a4851-e372-4572-beb7-cb572325a52f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/olha-o-cafe-da-maria-parque-santo-amaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dj",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051103_50d415e2-e43e-49cc-9275-b7f374e9aa61.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/pizzaria-dj-parque-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto B Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271129_a60ff0af-4ab2-4a0a-81a8-75330442aba3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/ponto-b-pizzaria-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tri Louco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tri louc_trilouco.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-dos-goytacazes-rj/tri-louco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DOS GOYTACAZES",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

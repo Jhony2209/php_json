@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FAST BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201046_444d6f3e-7785-4cf9-a2b3-520de7477605.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cruz-das-almas-ba/fast-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRUZ DAS ALMAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

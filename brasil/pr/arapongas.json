@@ -1,0 +1,526 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolos do Frei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310815_0b48f8de-3e4d-4339-ad09-6d4ca0286c94.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/bolos-do-frei-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donuts By Lu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280810_c1c32c41-40f7-4ca9-9ef1-0639db00a5e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/donuts-by-lu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eat Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280823_b7c0ab60-23b8-467e-8096-bcccec743e6d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/eat-potato-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empadaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301022_644e8876-68b2-4882-bba7-9df837295cd7.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/empadaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frutos de Goiás",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291940_9c82721a-865b-4361-8f7b-ce75a8f7d333.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/frutos-de-goias-vila-cascata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290941_1728a340-76c1-4eec-898a-21eb8cc2db09.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/subway-vila-cascata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonno Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231621_7c6597b1-4b71-40b8-b0fd-7d7c645d7f84.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/bonno-fast-food-vila-cascata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bugga Muu Steak House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251100_ab772dee-c21b-4619-8e31-64735f5988fc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/bugga-muu-steak-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguerlandia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311110_8fb50056-4993-44db-aefa-ceb58e483145.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/burguerlandia-conjunto-del-condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241209_3dd3735c-fc48-47b4-974e-6c87da535198.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/central-fast-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório do Chef Paulo Gustavo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291854_353c719c-1654-4798-9e36-e1ddfa0382ff.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/emporio-do-chef-paulo-gustavo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021048_ffe338f5-ba2c-4e76-8b62-c4e775ba32ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/espaco-gourmet-vila-cascata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornão Restaurante & Costelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041630_90b95509-6f79-4c1c-a0ea-5d7286ed26ac.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/fornao-restaurante--costelaria-conjunto-centauro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Margherita Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200922_11255922-12f3-47b2-b4ee-e1b36e481ea0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/margherita-pizzaria-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitas Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201154_593cc88f-4aa7-4788-8fcc-279d4d44c96c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/marmitas-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "New Cooker",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201958_fbcd16d3-57e6-48b3-84ef-c90c0313d2a5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/new-cooker-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nomadiz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241906_963df86e-2e1b-476a-8133-3f472e21ed64.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/nomadiz-conjunto-centauro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutri Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711021304_5583ca84-a49c-4b72-99ba-7d53974bce04.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/nutri-fit-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutrissima",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280908_3fcb4cd6-08ca-4846-b157-8606452bb6c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/nutrissima-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ogro Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271814_2c690086-4692-4cd1-9881-c11b8d55be42.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/ogro-lanches-jardim-interlagos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Carloni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261915_bd081a18-9ed8-4d92-bbd1-ab7e1502d15e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/pizzaria-don-carloni-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Cantinho Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311049_aec0391a-90f5-4988-b556-ded03fd0e5a9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/restaurante-cantinho-mineiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300936_edb8820d-0e3f-4890-a30d-2179bdaacc3d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/sushi-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero Manero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301756_398076d4-3548-4325-99b2-cc6b52bc46b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/tempero-manero-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tiozinho Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190949_56e4ca06-1412-4ca2-9192-d6f701c497ec.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/tiozinho-hamburgueria-vila-cascata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wave Açaí, Lanches e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240725_416d3795-2196-4bb8-94b8-73ca91160463.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/wave-acai-lanches-e-porcoes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Kaní",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181647_28636456-d6f2-4588-88d3-a8d4d4e5e6a1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/restaurante-kani-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201339_a8d0c04d-0220-4b67-bf99-551764152975.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/le-lanches-jardim-bononi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290941_9a28689f-a477-40da-959d-0a4427c0edc2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/subway-parque-industrial-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flor de Sal Gastronomia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050859_4b5d22cd-b721-40ee-9fad-5ccbb4713774.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/flor-de-sal-gastronomia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pópidi Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211116_97bd5881-f961-4f45-97ed-a5983925d381.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/popidi-pizzaria-vila-aratimbo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kelli lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_KELLILANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/kelli-lanches-jardim-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BRASILEIRINHO DELIVERY ARAPONGAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5a250ff5-39a6-43fc-a811-0d2a6fa539d2/201712070944_logo_.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapongas-pr/brasileirinho-delivery-arapongas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAPONGAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

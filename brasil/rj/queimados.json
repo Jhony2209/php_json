@@ -1,0 +1,63 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dulce Maria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/natal_DOCER_MARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/queimados-rj/dulce-maria-delivery-jardim-magnolia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "QUEIMADOS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Do Pão Com Linguiça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021117_b622a8fb-42b7-420b-8811-db30b371233b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/queimados-rj/point-do-pao-com-linguica-vila-camarim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "QUEIMADOS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Queimados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291026_55d15261-9a60-48d6-9491-0805d164b84e.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/queimados-rj/subway---queimados-queimados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "QUEIMADOS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá Bella Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240811_b4c44900-ef0e-4d79-8a33-93e6762300c0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/queimados-rj/la-bella-pizzaria-delivery-austin",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "QUEIMADOS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

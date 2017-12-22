@@ -1,0 +1,287 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Martins",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221017_915fdcd8d2ae47f8bfbdd56c951c661b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/casa-martins-residencial-nossa-senhora-do-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Açaí Pouso Alegre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704080904_8152777aa9a348f5a9235e2213d2ce48.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/casa-do-acai-pouso-alegre-francisca-augusta-rios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manu's do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270738_9d9d0a44-fe20-4b3b-979c-8a7135ececb1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/manus-do-acai-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ribs Station Burguer e Steakhouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131902_6489e951-65d0-4215-a712-f6c3e5267c21.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/ribs-station-burguer-e-steakhouse-francisca-augusta-rios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tmax Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703220905_ff89bebd40bb4a1da0f89851cdb8b4a8.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/tmax-temakeria-loteamento-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Pouso Alegre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200032__BRASI_LEGR01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/brasileirinho-delivery---pouso-alegre-altaville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche do Gordinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211426_LANCH_DINH01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/lanche-do-gordinho-nova-pouso-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sociedade Do Hambúrguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161445_SOCIE_RGUER.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/sociedade-do-hamburguer-residencial-nossa-senhora-do-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Fit - Pouso Alegre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301458_168558b02f114bf7ac973571f686ddba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/mr-fit---pouso-alegre-francisca-augusta-rios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xandy Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031133_0b893ae1-9ac9-4c11-93aa-4026a48ae1ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/xandy-lanches-residencial-nossa-senhora-do-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MASTER BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091542_b1bb2896-5c94-42d3-91eb-3a7d6528577b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/master-burguer-arvore-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aconchego Da Gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703151531_ACONC_AGULA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/aconchego-da-gula-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Villa Paulistana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271144_71d8c9a8-453d-4e6a-8366-d4fcc900f214.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/pizzaria-villa-paulistana-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguy's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111441_1c39d30c901f4b4a81fef42a0bf44793.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/burguys-lanches-conjunto-chapadao-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiram Delivery Pa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171223_SUSHI_ERYPA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/sushiram-delivery-pa-joao-paulo-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken In House - Pouso Alegre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171721_CHICK_LEGRE.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/chicken-in-house---pouso-alegre-esplanada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141200_027069b8-1cd1-47b4-96c8-56ba19302dc5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/pizzorante-progresso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restorante O Caipira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181051_RESTO_IPIRA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pouso-alegre-mg/restorante-o-caipira-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POUSO ALEGRE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

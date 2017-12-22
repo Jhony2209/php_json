@@ -1,0 +1,111 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Pastel & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311041_9688d456-8760-48c8-8cd6-a9efec24d2d5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/rei-do-pastel--pizzaria-porto-de-galinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Peixe na Telha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111032_00ce3d85-be24-4981-b0e2-5c4fea683913.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/forneria-peixe-na-telha-nossa-senhora-do-o",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Duck - Burgers & Dogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251058_41e263cc-d8a0-42f6-bc71-fc332890b3b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/mr-duck---burgers--dogs-nossa-senhora-do-o",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Pirata Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091415_784c2a7e-00f1-47b9-a258-a78a045613c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/chef-pirata-hamburgueria-artesanal-camela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SushIgor Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311426_91b7b7a5-0967-474e-b98f-89a8056d4c15.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/sushigor-temakeria-nossa-senhora-do-o",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA URSA Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271045_4d91a73c-712c-4a40-9708-9d8e17840ab4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/la-ursa-hamburgueria-artesanal-nossa-senhora-do-o",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Praia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171413_830761f4-ab04-421a-a925-88dd9de36987.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/ipojuca-pe/na-praia-nossa-senhora-do-o",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IPOJUCA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

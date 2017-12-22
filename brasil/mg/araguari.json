@@ -1,0 +1,59 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E RESTAURANTE DO WESLEY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011342_8a3311a9-1f82-46dc-9bea-7cd639f30b52.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araguari-mg/pizzaria-e-restaurante-do-wesley-goias",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAGUARI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sal e brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161607_681752ea-b08d-46ad-9350-6650dd00c5ff.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araguari-mg/sal-e-brasa-miranda",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAGUARI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TRIBO DO GUARANA - AÇAI BRASIL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231419_d1e606a2-35d4-4931-83b8-2b94925522a9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/araguari-mg/tribo-do-guarana---acai-brasil-santa-helena",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAGUARI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Warung Energia Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180828_d5b330f9-b246-40e3-bfa2-c84536525c3a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/araguari-mg/warung-energia-natural-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAGUARI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

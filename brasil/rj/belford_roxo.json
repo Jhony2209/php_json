@@ -1,0 +1,862 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto - Vilar Dos Teles",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211447_7546d6c2-5122-430c-8b4f-275cdc13a33d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/spoleto---vilar-dos-teles-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer Mania - Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231146_a0dd7029-559e-421c-a6d3-08ac2b23e199.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/burguer-mania---belford-roxo-vila-luz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D+",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_pizzariad.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pizzaria-d-piam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oba Oba Pizza - Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-oba-oba_OBAOB_DROXO.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/oba-oba-pizza---belford-roxo-vila-medeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ravi´s Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ravis_ravis_droxo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/ravis-belford-roxo-santo-antonio-da-prata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Express É Demais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_pizza_essed.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pizzas-express-e-demais-piam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Borges - Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201911_ceed261b-16a6-473a-87cb-0cf39226a610.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pizzaria-borges---belford-roxo-heliopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baixo Sinal Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241141_7afd8d00-22b5-4257-95c3-058965f03be8.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/baixo-sinal-verde-belford-roxo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alô Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140802_c7037321-e0fa-4e76-9b06-0679a7345b84.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/alo-pizza-areia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Frito Salgaderia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211218_90671f65-1dca-43ff-8292-c49cce0b328a.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/bem-frito-salgaderia-piam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kome Pizza - Heliopolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300811_410a3c20-fd2f-410b-b0c0-7dfd6a88e15f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/kome-pizza---heliopolis-heliopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maurício Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271157_724e9695-033a-4d4e-8306-35c6ae7dcdd6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/mauricio-pizzas-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIIRATAS  PIIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141243_3258056b-ca10-46f1-a6c7-670442ba470d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/piiratas--piizzaria-vale-do-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petisco da Barca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051122_44901e8b-0096-4589-8be9-dd53aa852535.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/petisco-da-barca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ROCK IN BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011354_ca0aa568-26b7-4f41-b9ff-097d2b89ed5b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/rock-in-burger-bairro-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ra&Lu Lanches e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210935_47ef46de-b56a-44ae-8a58-e8784c9b43f8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/ralu-lanches-e-pizzaria-parque-martinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Benjamin Dias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291032__SUBWA_NDIAS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/subway-benjamin-dias-belford-roxo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taurus Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081419_1e7402b6-c308-48ba-97dd-27d752b46346.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/taurus-grill-vila-sao-teodoro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terra Prometida Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131538_205bc1aa-b16c-449f-9ec5-f1580ce41121.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/terra-prometida-pizzaria-santa-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheff Cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702182146_CHEFFCONE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/cheff-cone-bairro-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias Da Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701241220_DELIC_ATATA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/delicias-da-batata-santa-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Batata - Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701241356_MIXBA_DROXO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/mix-batata---belford-roxo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXPRESSO DO SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101020_03769ca5-fac4-41a2-9305-b95b13fddc7d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/expresso-do-sabor-jardim-tupiara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kazuko Shin - Culinária Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kazuko s_kazuk_onesa.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/kazuko-shin---culinaria-japonesa-boa-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sil Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040815_25675f3c-7572-41b4-95ff-64b710c5671c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/sil-burguer-hiterland",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "C&C Pizzas E Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031414_CAMPC_ASSAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/cc-pizzas-e-massas-belford-roxo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kibarato Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kibarato_kibar_sushi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/kibarato-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261317_4d3efb77-93d9-4a01-bdb7-9b59178dd0ca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/mister-massas-santo-antonio-da-prata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MV Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031426_b4474a16-921d-4ac8-8dce-7313fd4cd349.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/mv-massas-sao-francisco-de-assis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comi Comi - Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708312140_2f3f4da6-e3a0-4b25-97e1-c8a106ff7af8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/comi-comi---belford-roxo-bairro-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NuzaS Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021334_70bf0c7f-bf4c-4c81-8600-9a43b286678e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/nuzas-lanches-bairro-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fome Zero Point",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221347_8cdcece4-485f-4a37-81fd-9f342bc057b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/fome-zero-point-andrade-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Jorginho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702041423_PIZZA_GINHO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pizzaria-do-jorginho-jardim-glaucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toop Burgueer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704081208_092e79522ba649108ac587977b95e1ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/toop-burgueer-vila-medeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paradinha Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191812_cc9b460f-13c9-47eb-88b2-27723e74259f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/paradinha-pizzas-santa-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Louco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180713_PASTELLOUCO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pastel-louco-areia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "I9PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709250907_2b15e7f8-823e-4553-b203-c2973443cfc1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/i9pizzaria-sao-francisco-de-assis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Resenha Club - Hamburgueria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo._resenhaclub.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/resenha-club---hamburgueria-e-pizzaria-piam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sopas e Caldos Jussara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201600_4c68665a-ce15-4acb-8368-73d2514ffd4e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/sopas-e-caldos-jussara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Bellee Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221153_8d10dba9-1150-45c8-9b08-ef2a5465a546.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/la-bellee-pizza-delivery-andrade-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Do Ramon Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701311352_IMPER_HIBAR.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/imperio-do-ramon-sushi-bar-parque-martinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Chef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221550_18176ad9-e75c-457c-8c18-a5944fbbae16.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/du-chef-bom-pastor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guga's Lanches, Pizzas e Petiscos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011622_ab7e3b34-2770-4f45-afbf-ce4d4db945ee.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/gugas-lanches-pizzas-e-petiscos-vila-dagmar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias do Frango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040846_df45146d-69c0-43d0-b6de-9458672658e3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/delicias-do-frango-piam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Steve pizzas e Petiscos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101117_3718a071-e704-4276-9ef6-3c44ae3db6f4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/steve-pizzas-e-petiscos-parque-roseiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias da Massa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191520_b40dcfea-68b2-4070-9a82-f6fef2031a72.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/delicias-da-massa-pizzaria-vila-luz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabrica de Bolo Vó Alzira - Lote XV",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300827_2f0c4aa3-9c8f-40c7-932c-3a98f1387615.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/fabrica-de-bolo-vo-alzira---lote-xv-parque-martinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Club do Hamburger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300849_f8493b7f-2bfc-4e7b-84f7-9699360ef55b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/club-do-hamburger-santo-antonio-da-prata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BBQ BAR GOSPEL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080954_f2105161-3019-4bef-9b16-73bb491a96e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/bbq-bar-gospel-sao-francisco-de-assis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quentinha Delivery - BELFORD ROXO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021926_d95d17c6-d67e-4149-bcaf-3a501b00fe6e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/quentinha-delivery---belford-roxo-parque-sao-bernardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hashi Time - Belford Roxo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161015_ed413c61-6b36-43a5-801e-13ebdca55e75.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/hashi-time---belford-roxo-belford-roxo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704270958_140fcd04-c9c1-4b02-802e-2e23bbaf7afd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/fast-esfiha-lote-xv",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA LA BURGUESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231041_a416314b-b4c9-43ca-a4b4-db70e6d50241.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pizzaria-la-burguesa-piam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pimenta Do Reino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131043_PIZZA_REINO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belford-roxo-rj/pizzaria-pimenta-do-reino-areia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELFORD ROXO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

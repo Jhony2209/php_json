@@ -1,0 +1,127 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Cambé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290952_5ab473ee-63c1-4b21-bac6-772d7a546545.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/subway---cambe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho chinês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040844_ebd69fae-2f7d-4aec-afda-78e405f556ef.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/cantinho-chines-jardim-santo-amaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "restaurante tempero da casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111007_53e00aa0-dae9-4c85-8d8f-bfb5b0b9f122.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/restaurante-tempero-da-casa-jardim-santo-amaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291415_3d390ec3-5cb5-4780-8a9d-1966980fb62b.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/dog-burger-jardim-ana-eliza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Londri Churros Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121446_d81138fd-9eb0-4cd2-b68b-dfed943af07b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/londri-churros-delivery-jardim-silvino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021302_7d89c5a3-026f-4d2d-823b-89d3362c0352.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/sr-hot-dog-jardim-santo-amaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VILLA CONTAINER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111804_c6093e17-9e9f-4e39-87e2-e9cc33f4c2d1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/villa-container-vila-salome",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Doogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251513_8c7ef031-78b1-43e4-9b4a-9fb4c1dd7934.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cambe-pr/hot-doogs-jardim-riviera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

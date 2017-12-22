@@ -1,0 +1,4575 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Nazaré",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211445_57795687-253c-4c6a-af52-0cc20ad1d3f9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/spoleto-nazare-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Nazaré",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181628_0b10e46f-fb07-4274-a74b-c3c543365933.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/china-in-box---nazare-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Souza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181628_10711c87-8dfa-4de9-89af-43af4fb69f29.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/china-in-box---souza-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Nazaré",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071527_cc4ae59c-860a-48b4-9fe2-9f3f5840ce5f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dominos-pizza---nazare-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hut José Malcher",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200230_5d83c34e-fad6-4278-b653-6d5798a84eca.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-hut-jose-malcher-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hut Duque de Caxias - Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200231_3a180ee5-5b24-4052-a30f-c09c38e1077b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-hut-duque-de-caxias---belem-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211505_5ed899f2-d35c-47a1-bb44-b87a9432df2c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/brasileirinho-delivery-belem-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alimentos Comer Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121233_a024e29c-1df8-4faf-9907-1026d7b46922.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/alimentos-comer-bem-campina-de-icoaraci-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô da Clau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190728_84076383-fe21-4164-bf0a-ec5c4fde7aad.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bistro-da-clau-parque-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casarão dos Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171206_81b8a750-e65e-4232-8f34-d9111c6c075a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/casarao-dos-sabores-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coronel Mostarda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081455_9f2af28a-777a-43ff-bace-6eeca4cd7003.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/coronel-mostarda-campina-de-icoaraci-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fuxico da Filó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161213_4bb365a6-65e3-4cae-9d4b-c8ec590ba2f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/fuxico-da-filo-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O açaizeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050843_29f8a813-b4f9-4579-8b40-27ad0db6bd37.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/o-acaizeiro-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Restaurante Dom Raton",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091427_6c26e262-7bba-47f1-99a6-d5ee438695e2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-e-restaurante-dom-raton-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Tulio&Rose",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101336_2a2e1096-71cc-40f9-8310-09c3c2c8e724.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-tuliorose-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221211_08a5a352-597e-45ab-9c3a-7569970c7a40.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/ss-delivery-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sweet By Sisters",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241131_e849d49d-f2b1-4c28-943d-86f384cb2802.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sweet-by-sisters-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopin Geladinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031505_190d7ed0-bb86-473a-998b-fec0cff39e87.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/chopin-geladinho-marambaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FTKO!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100914_580ed734-d8d9-4916-8ffc-8099dad17c9a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/ftko-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Du 9",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo açai du _ACAIDU9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/acai-du-9-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coxinha Toda Hora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031726_297625d0-dd1e-43d5-a6dc-d7b13f0c758a.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/coxinha-toda-hora-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Restaurante Uirapuru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301955_63d9e1b9-08c3-4ac9-8aa7-ab8067350bb4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-e-restaurante-uirapuru-parque-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Blaus Lanches 14 De Março",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo blaus_blaus_marco.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/blaus-lanches-14-de-marco-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dr Temaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dasdasd_drtemaki.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dr-temaki-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HUNGER PUB - Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709142026_2fecf2dd-6d04-44a8-b313-8cde2637b193.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hunger-pub---restaurante-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italianni Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051139_5209c32f-dbdb-4dc3-8ae0-656df430210a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/italianni-express-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Ar Livre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291529_17471ee3-f421-4715-bb1a-d00e1b8afe05.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-ar-livre-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salud Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701171759_SALUDGOURMET.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mediterrânea",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/salud-gourmet-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Marco Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702101341_DOMMA_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dom-marco-delivery-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eky Churrasquinhos Conselheiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702121747_EKYCH_HEIRO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/eky-churrasquinhos-conselheiro-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caçarola Eventos E Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cacarola_cacar_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cacarola-eventos-e-delivery-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Alibaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051757_e3495681-e567-4157-9f0e-95d5eaf6c305.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-alibaba-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Namura Doces E Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051022_42659f7c-c433-42e1-a256-51addf055723.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/namura-doces-e-salgados-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca Do Camarão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705170907_adccfcf4-139f-41d4-9b02-492ddd1756fc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/toca-do-camarao-condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Chef Delivery Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071452_f9d89be87f34479d807c4a0328f8ebe1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/le-chef-delivery-saudavel-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Gourmet Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo bist_bistr_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bistro-gourmet-delivery-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia. Paulista Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706020808_a7fe2137-b84a-4130-a88f-93e2a396ae97.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cia-paulista-gourmet-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O REI DO ESPETO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo o rei do_oreidoespeto.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/o-rei-do-espeto-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Fuji",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271023_a33fcddf-3293-436e-98ac-ae72e15ba81b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-fuji-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Roma e Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011620_8dc3862a-76a3-4b62-b78d-71cb43672224.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-roma-e-gourmet-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mango Alimentação Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mango_mango_davel.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mango-alimentacao-saudavel-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHURRASCARIA ALBATROZ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301100_a713430c-f877-4606-a8dd-0b5dc80d3c63.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/churrascaria-albatroz-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dinha E Ciló Restô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dinha e _dinha_resto.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dinha-e-cilo-resto-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ligue Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_liguepizza01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/ligue-pizza-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suco Expresso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1033x500x500_SUCOEXPRESSO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/suco-expresso-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121048_913d9931-55a8-41db-8aa5-a1f2a83a9035.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mineiro-delivery-belem-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Mia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo casa mia_resta_samia.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/casa-mia-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grão - Culinária Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706200944_e40a9bb5-ce38-4762-b016-f65531365c8f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/grao---culinaria-saudavel-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Poderoso Galeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031956_ae497982-fc32-4325-900a-e3dc525ed6f7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/poderoso-galeto-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saladas Fast Food Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080821_d91d7851-cdd1-499a-8c6a-22a08ddc6c34.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/saladas-fast-food-saudavel-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Frango Assado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230945_0a1ad91f-9783-4b4f-ac95-7048274df71f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/super-frango-assado-telegrafo-sem-fio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Almoço Refeições Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703300936_66ed39b82a354c33a921171a91b3e7d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bom-almoco-refeicoes-delivery-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131649_bc9781dd-2e0b-48f6-8871-4125585ebe5c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dom-bistro-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DA' VOVÓ PÃES E DOCES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251300_c9133e00-124d-4bcf-9782-0fdfbd120ae3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/da-vovo-paes-e-doces-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida da Mamãe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211753_0b45d05a-1d95-4039-84eb-a92c27dc194e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/comida-da-mamae-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santé Saudavel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221106_SANTE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sante-saudavel-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha em Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/a87e83dec32b0_COZIN_MCASA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cozinha-em-casa-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercearia Vicente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121513_04d2eef2-aba3-4287-9ba3-d7686358cc60.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mercearia-vicente-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pf Da Zezé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pfdazeze.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pf-da-zeze-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESPETARIA E SUSHI MAURITI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO GRANDE_SUSHIMAURITI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/espetaria-e-sushi-mauriti-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Rei da Picanha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111208_a69b25c9-ba7a-41cf-8f75-a9cd237ba854.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/o-rei-da-picanha-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spazzio Verdi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_spazzioverdi.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/spazzio-verdi-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trip Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151040_4dc3d4b3-ef1a-40e5-842b-033051e26129.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/trip-dog-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Do Gio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo certo_bardogio.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bar-do-gio-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101051_31419d5b-9a25-4e65-92f5-e81991ae4d62.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/lanchonete-natural-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria sabor do Pará",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710040908_990db405-0f37-4dba-9761-c6d9835c7f8d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/marmitaria-sabor-do-para-sacramenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spazzio A Bordo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Spazzio _SPAZZ_BORDO.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/spazzio-a-bordo-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Cookie & Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca dom_domcookie.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dom-cookie--lanches-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza Duque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191154_4fe44813-618e-455e-8099-f397e37067ce.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dominos-pizza-duque-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Avuado Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291559_854915b5-ae4b-4d3b-9d08-d6de02342123.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/avuado-restaurante-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasa King",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221433_6b17c8bf-f4c9-4bbe-9abd-f2a5296b5927.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/brasa-king-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burg 102",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021219_6369147b-486e-450e-adc3-efe540d3e43f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/burg-102-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CaféCharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291456_fd3b1d3a-e740-42f5-b422-1353555ac5e7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cafecharia-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central Pará Restaurante e Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171728_b66fabe6-f6c6-4424-b26e-6b76b2b9f136.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/central-para-restaurante-e-gourmet-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choppions",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101437_7b0fbab6-91da-46e4-b1d7-c7eb3449913e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/choppions-castanheira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Big Mengão Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071349_0b3dde9f-9632-45ee-aabb-ea126cf056f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/delivery-big-mengao-burger-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícia Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231142_fa61f8cf-ad3b-429d-b385-0017f7d9a606.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/delicia-caseira-tapana-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias da Ivete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091837_3632e4aa-58b0-46bd-a1f7-2bc9015f529f.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/delicias-da-ivete-jurunas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DiGato Espetos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071538_bcf8e2fc-5039-47b3-b7e6-e747acdc0bfa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/digato-espetos-condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Gourmet Marmitinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121510_156324ec-ff21-4940-808f-d589bbad874f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dom-gourmet-marmitinhas-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EL PATRON",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120920_b21a5bc2-de56-42fe-9d58-505568ef3a2c.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/el-patron-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "INutri Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281053_e1ae1ade-2cdc-4989-a7ab-0ff4ca0d978c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/inutri-delivery-cidade-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperial Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121629_1d09090e-a214-4e6e-b7ed-423591c66a01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/imperial-burger-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lord Nelson Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211106_4216fd31-010a-48b9-bd0f-72721e189190.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/lord-nelson-belem-telegrafo-sem-fio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MRMIYAGI SUSHI-ESQUINA ITALIANA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_mrmiy_zaria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mrmiyagi-sushi-esquina-italiana-pizzaria-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Espetos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301414_6b96f91a-2ecd-42ae-a0be-00ff1f4889d2.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/master-espetos-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mein Burguer - Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181041_6d9a9a5f-b83b-4792-8ac3-b2a0ed7b8a81.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mein-burguer---hamburgueria-tapana-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercearia Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271839_d0968799-b35d-42f0-a60f-4f0cb07302c5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mercearia-grill-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA PARAENSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301655_919362ae-e8f4-4744-8a53-b6eab81075c7.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-paraense-parque-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha do Ernani",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071404_9a9ca3a2-725f-40b7-baf5-893c122934e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/picanha-do-ernani-cidade-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pig Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181808_16ff0819-f00c-4502-9dd0-3bf21b2f3e47.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pig-pizza-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Dos Santos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191342_6c314990-9de4-4166-9e78-b1466d09ac49.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-dos-santos-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Restaurante Bonfim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bomfim_pizza_onfim.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-e-restaurante-bonfim-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Piauí Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111231_dff7ad01-2612-430d-aded-713e88c563d1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-do-piaui-delivery-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzzaria Maluka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200722_8ca63203-39ca-454a-a432-62f78c5bcc92.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzzaria-maluka-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE DELÍCIAS DA NEIDE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201733_0fe54be6-2329-48e4-b140-14ade78a5413.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-delicias-da-neide-maracangalha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salivi Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291907_cc91374a-604d-4b4d-9ffb-da4ebeb69027.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/salivi-saudavel-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shiitake Sushi Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130743_9d5f473d-d865-4420-b9f2-74b913ce23df.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/shiitake-sushi-express-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Speto Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130745_1cadb668-8f76-434e-88e9-f2ba77946651.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/speto-burger-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Marambaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191620_4a4586cc-b48b-457c-a396-0a318d55f1a2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/subway---marambaia-telegrafo-sem-fio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Poke",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231332_c9fa3ea5-32e7-420e-a90c-4dbbaa1b82c6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-poke-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Prime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201127_2cce811d-92bf-4d02-905c-d751176fae5b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-prime-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TELEPIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201130_f5e1bb21-0084-44f0-b248-a05316d9701f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/telepizza-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapi Gateau Tapiocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161347_e48fe427-15c1-4c02-8d96-6e820679c3cc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tapi-gateau-tapiocaria-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terraço Burger & Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031041_6ceafd53-c53c-4a26-a6e3-96c6566a85a0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/terraco-burger--beer-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca Restô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261412_70185f08-26cf-4f58-808b-b8e7b925f432.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/toca-resto-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tralhoto Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tralhoto-burgers-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Veg Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031034_ed1b3b8b-e452-44fc-9440-77b1c745a17d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/veg-casa-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaizeiro's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171355_4a21efdc-e97c-488c-a1d0-f7f1b80641b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/acaizeiros-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopp Time",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081019_7f2f143d-a159-435f-b6ff-a828bdd92777.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/chopp-time-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Mariachis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311218_3a2cd0f5-ee92-428c-a9fb-ff14a59d9b9e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/los-mariachis-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manjar indígena",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221147_e8b20c54-2003-4608-a193-b8304e122c1e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/manjar-indigena-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "City Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271359_ad7bad34-1384-495c-8d62-66213daf44f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/city-burger-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flags Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091308_52c34477-5d23-44f7-af62-3b61b4a5c41c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/flags-burger-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "On Wheel’s Dogueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291210_be037b93-06c6-4c70-a7e4-1eff0c36a074.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/on-wheels-dogueria-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hello! Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181235_35f67c4c-9271-46c1-978a-e5d387e49e86.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hello-pizza-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brazzero Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711051504_39112059-74b4-4617-ac73-5157de725705.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/brazzero-hamburgueria-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chaps Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Chaps_CHAPSBURGER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/chaps-burger-condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_thedog.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/the-dog-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Bonanno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031436_e577ee37-083c-445a-8481-4ed22f44d43d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/don-bonanno-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hold The Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011045_42a74173-a9c3-4b2d-87eb-51d243475e13.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hold-the-burger-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfihaça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705240813_c1fcbda1-c107-40e4-8240-3f6c41ff4c7a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/esfihaca-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famiglia Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo famiglia_famig_pizz02.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/famiglia-da-pizza-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Prime - Belem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710092156_0b31840c-b883-4698-bfe4-c94c68bbbc4f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-prime---belem-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disco Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dp_ifood_discopizza.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/disco-pizza-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha da Fazenda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261842_711d5ee2-16ec-4325-a062-64e4f09dee0e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cozinha-da-fazenda-campina-de-icoaraci-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caranggo Expresso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161144_0b488169-bcac-489f-824e-058762c0e78d.png",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/caranggo-expresso-jurunas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Crek Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301503_0e0e131a-2176-4366-b726-eba5f82d7a16.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-crek-belem-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Auto Grau de Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141957_63cd0b7e-6cb4-4cef-a5e9-8fd36590c53d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cia-auto-grau-de-pizza-sacramenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Do Goiano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031229_FORNE_OIANO.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/forneria-do-goiano-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hambúrgueria Sabor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281201_d359c806-6179-4264-82a2-93e343eefc90.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hamburgueria-sabor-caseiro-marambaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Napoli Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271147_c122b0bf-1eac-4ec8-9ecc-09913dade220.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/napoli-pizza-delivery-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Freedom Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/freedom_freed_urger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/freedom-burger-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA TIME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081807_a3e32426-7659-484b-9309-bf3249bcaf62.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-time-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TIGRÃO FAST FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707091529_ebd40fb0-ee8f-4118-8d5c-208e772605b3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tigrao-fast-food-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milleo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705232310_49a58116-6536-4a07-9abf-7b97c891c5e7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/milleo-lanches-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190809_76c8162e-b6a8-4ab8-9b3b-4ef32d420cc3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/master-pizza-delivery-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capricciosa Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712062001_dd3986b0-4772-4c5b-bdc2-a0e5132a55ca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/capricciosa-pizzaria-delivery-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Clube",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sem título22_PIZZACLUBE.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-clube-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzah!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//714x500x500x_PIZZAH!.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzah-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kate Cake",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111025_ab880c4a-4dee-4493-aeed-a8df1535e80c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/kate-cake-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Napoli Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081637_8648fa19-f3c9-401c-a50a-9570e21c665e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dnapoli-pizzaria-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NA brasa Hambúrgueria Missionária",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051344_6c14aa79-797c-4e22-9c71-0521229f2399.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/na-brasa-hamburgueria-missionaria-jurunas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cia. Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca _pizza_list22.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-cia-paulista-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wasabi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291438_73ee6657-b1ce-44df-82d8-51cd133c1d52.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/wasabi-sushi-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Quero Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111150_215d2e3f-b142-42db-a3bd-16a8478b18c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/forneria-quero-pizza-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Quentinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161120_5747b55f-0a2b-4e30-8082-adeb75aa5673.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/casa-da-quentinha-cidade-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Mengão Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031036_51487757-dbe0-4a74-b6db-73e372ba47a2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/big-mengao-food-truck-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Forneria Brasileirinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_resta_rinh01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-e-forneria-brasileirinho-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Mauriti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301305_8fecb85f-afd1-451e-aed6-ca47c7cc4fbf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-mauriti-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fronteira Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fronteir_front_lenha.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/fronteira-pizzaria-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Levain",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703030950_EMPOR_EVAIN.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/emporio-levain-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IL PIATTO BELÉM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181319_d15e3aa8-dc87-42a2-b231-9566f84f4d98.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/il-piatto-belem-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Égua do Crepe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281054_d523df23-59a4-4c52-8f09-df1d8df22027.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/egua-do-crepe-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzalôca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaloc_pizzalôca.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaloca-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eky Churrasquinhos Vileta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251257_bce3042467df49848da9f23c8a072294.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/eky-churrasquinhos-vileta-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ô Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101027_54ca81a7-defc-469a-a1bd-b898fc673556.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/o-sushi-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coxinha Planet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041540_8c982fb5-012c-4a54-886d-d6d26e1f4de6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/coxinha-planet-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donutsteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261913_17c6f14b-f3bd-4440-b698-bf310ba2c7a6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/donutsteria-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famiglia Di Napoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190735_81bd7667-a486-44fc-8e53-fbde5386b0d7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/famiglia-di-napoli-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Pará Entroncamento",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061106_b8dbccb9-06d7-4d86-9118-4fda1e841631.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/du-para-entroncamento-castanheira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Lucha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705232131_59c944d5-d626-47bd-a807-19fd646fc827.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/la-lucha-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomaz Culinária do Pará",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//621x500x500x_TOMAZ_OPARA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tomaz-culinaria-do-para-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rocky Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201005_dbc629b1-71e7-406c-8959-d251540157f5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/rocky-burger-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marukos Restaurante Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707172005_623678d0-1d49-4e07-8364-db2133740bc9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/marukos-restaurante-oriental-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA CASA BRANCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121211_287fbd3c-c43c-4895-8d4b-436d6f7d9122.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-casa-branca-sacramenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quero Pizza Mais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241221_39c9a700-bcb0-45ba-b4ca-8f983e595cb8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/quero-pizza-mais-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Titan Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706160934_d5f693d5-17f7-496c-84e7-5aaba139c943.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/titan-pizzaria-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MATEUS SUSHIMAN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301427_450d48dc-5ff5-4e85-85c9-058dacc7eb70.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mateus-sushiman-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GABITO'S BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Gabitos_STARW_RGUER.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/gabitos-burger-mangueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Expresso - Umarizal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//677x500x500x_SUSHI_RIZAL.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-expresso---umarizal-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Icebode",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d36d4fde-5112-41ab-84f2-cea77a6c2537/201712051321_photo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/icebode-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PizzaLôca Parque Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaloc_pizza_pping.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaloca-parque-shopping-campina-de-icoaraci-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doca Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_docagrill.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/doca-grill-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oba Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061633_e0cf9075-8888-4220-aaeb-aab19abbe802.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/oba-sushi-batista-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Triangulo Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo triangul_trian_ivery.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-triangulo-delivery-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Komburger Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201314_9e84a86e-ed69-4bdf-8cbe-fb19496315f2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/komburger-hamburgueria-artesanal-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caramelada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo caramela_caramelada.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/caramelada-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaiolla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706240945_cb467234-3754-4c69-a697-130f44dd68c3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaiolla-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Mengão-14 De Março",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mangao_bigme_marco.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/big-mengao-14-de-marco-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kiiro Sushi & Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221022_71e8fd69-8914-4053-8693-7cf3756495db.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/kiiro-sushi--bistro-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ParAçaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711242109_6571d821-471e-4cb4-aa39-a948107b4788.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/paracai-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eky Churrasquinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logoeky.pdf_p_ekych_mbaia.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/eky-churrasquinhos-marambaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jambu - Culinária Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo jamb_jambu_sanal.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/jambu---culinaria-artesanal-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Ferritto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1020x500x500_DOMFE_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-dom-ferritto-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hunger Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230728_123f6989-eff5-461b-9c17-cf97464183a4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hunger-burger-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bambu Sushi Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//663x500x500x_BAMBU_RANTE.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bambu-sushi-restaurante-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buffalo's Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710042016_7e30a482-b3f6-4555-ac57-acbcd92b4b35.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/buffalos-acai-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Pai D'égua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081418_c0c51a0e-fc99-4e4d-ae13-e4467c2ad830.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/burger-pai-degua-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Boulevard",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709142054_df8f5623-b172-445c-a8d2-e80191263a91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-boulevard-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nação Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040911_39be7cbe-5b08-41e8-977f-f359b20903b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/nacao-verde-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Peperoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030747_9110865a-2abb-47f6-9c4d-613f17190521.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-dom-peperoni-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Black Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//629x500x500x_BLACKBURGER.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/black-burger-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetaria Sabor Paraense",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/882e8670-f658-4c73-ae43-9def79a7569d/201708071919_noval.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/espetaria-sabor-paraense-condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sansei Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241124_c99813fc-6022-4e06-ba3b-4ec1ce958e42.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sansei-temakeria-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FFB - Frango Frito de Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041018_6db80225-4eea-4ad2-95bf-6b223ca3637f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/ffb---frango-frito-de-belem-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Mengão Mundurucus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//628x500x500x_BIGME_NCHES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/big-mengao-mundurucus-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Pará Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251437_99c79a2b-09eb-4d63-a09e-a17ba78a1e48.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/du-para-hamburgueria-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Homeburgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041212_3d970818-bb6e-4b66-a5e4-d16fdd17ee8b.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/homeburgers-jurunas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290942_6b705d65-08d1-456a-bed4-336aaeb6b9c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/subway-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baviera Boutique Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041138_914de82e-8642-4b53-b186-a7e875e4c922.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/baviera-boutique-bar-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Rock",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051500_99b31021-81a0-4cac-b296-22f4d5fb6a8b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-rock-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Double",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706060956_d494ac77-75df-487a-9418-2cfe461d1ab5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-double-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arroz &Amp; Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/arrozecia_arrozcia.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/arroz-amp-cia-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kibe House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051118_01a5df41-316a-470f-9d95-763c7f1d5ef8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/kibe-house-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Do Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702160855_CIADO_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cia-do-sushi-delivery-guama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Paulista de Pizza - Ag. Montenegro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311024_de865d0b-9954-4ad7-b639-358debb107db.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/cia-paulista-de-pizza---ag-montenegro-parque-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzamille Umarizal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzamil_pizza_rizal.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzamille-umarizal-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Du' Portuga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140925_8ec9b0d4-349a-4aad-aa14-cc73fa396976.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-du-portuga-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Triboss",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/575442a3-9a7a-425e-b4d3-9b81a92c2850/201712022325_logot.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/triboss-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "091 Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231120_c0f3db2e-a190-433c-a82e-7779b4157af8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/091-burguer-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIGAS LANCHES, SALGADOS, PIZZAS E SUCOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704070829_70672a5f785743c6b8e55d43f046838c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bigas-lanches-salgados-pizzas-e-sucos-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bomdboca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/a55c80fccb526_BOMDBOCA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bomdboca-marambaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santiago Pizza Cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061117_6c22440c-77c3-46f2-b8ba-fe1fb0824cbd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/santiago-pizza-cone-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tasca Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tasca_tasca_ivery.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tasca-delivery-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetos E Quentinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111306_61d732ea-9940-4d39-a64c-31769a9c7210.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/espetos-e-quentinhas-agulha-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Arrozteria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mix_mixar_teria.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mix-arrozteria-e-restaurante-pratinha-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Da Corte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705060902_f6e7c71b-a81a-42f6-9e50-78f614837c6a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-da-corte-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA SAPORE DIVINO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251504_2d5c6b7f-fa8c-4c80-8e90-1ebd281bedc3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-sapore-divino-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHBURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231144_3226465d-0c2c-4dce-837e-f2c39a0105cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/chburguer-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191740_a7311ada-c51d-4827-af82-46bde1f83300.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/quintal-burger-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dedo de Moça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101746_b72f11a9-7487-4a70-8e03-ba17084f839e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dedo-de-moca-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Malino´S Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061230_9fc15152-71ce-424a-8713-a6d59a19aa28.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/malinos-burger-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrasco do Alex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281038_9a765547-107f-4230-bb4e-7b781b957dfa.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/churrasco-do-alex-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Expresso-Duque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_sushi_duqu01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-expresso-duque-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Família Caranguejo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091149_ddaadd28-18f2-48c5-8066-4daf238cd4eb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/familia-caranguejo-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken Premium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca chi_chick_emium.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/chicken-premium-marambaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viva Maná",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mana_vivamana.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/viva-mana-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Forneria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706220843_3bc29cde-7051-4ed2-b035-0fcd8827550c.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/a-forneria-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tasty",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231646_2a11d87174754e2b9651dce33721719b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tasty-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ligeirinho e neto o craque do leitão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051230_f87c91c4-d5c1-4b6e-b7d4-df415b6c59ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/ligeirinho-e-neto-o-craque-do-leitao-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Especiarias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1048x500x500_ESPECIARIAS.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/especiarias-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Triângulo Delivery A Montenegro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo triangul_PIZZA_ENONE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-triangulo-delivery-a-montenegro-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha Express BR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281354_ff8d5cf1-2695-4383-acee-6253df2f9707.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/picanha-express-br-castanheira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Moreira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101415_e80aa55f-fb08-4919-83f6-4362a7f0512f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-e-pizzaria-moreira-condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Verônica - Marmitaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230922_76c7f2c2-7be0-480a-868a-d6576e9dcce7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sabor-veronica---marmitaria-delivery-sacramenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Garoto Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281151_e12c9805-0f62-4d2e-826a-eedb54033926.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dom-garoto-pizzaria-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SAPORE DITALIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sapore d_sapor_talia.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sapore-ditalia-agulha-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mamma Mia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050928_2efc0cb3-7b4e-4676-96c0-ebf2e911b72b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzaria-mamma-mia-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Triangulo Prime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251544_cdbb6ea7-e74d-4040-9d50-691270999169.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-triangulo-prime-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+	   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arrozteria Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca arr_arroz_belem.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/arrozteria-belem-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Holl Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041123_8387958e-194d-4611-bc36-f874d8c381f2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hot-holl-sushi-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Double - Ag. Montenegro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241440_b3a3b403-2bfc-4e51-9d85-be08ef43c6b8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizza-double---ag-montenegro-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha Express Doca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo novo_sem_PICAN_PRES02.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/picanha-express-doca-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mano'S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703071541_MANOSLANCHES.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/manos-lanches-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomiex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tomiex_tomiex.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tomiex-mangueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gyros Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041513_de959533-c9b5-4396-a87b-f388cf9f41d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/gyros-grill-canudos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panificadora e Pizzaria Portuguesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291438_26b95f2f-e47d-4a3b-ba83-1ae308a6c756.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/panificadora-e-pizzaria-portuguesa-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UATA?!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120900_efb3624d-dc31-4d84-af5c-44877be9a2ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/uata--condor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Corte Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705130927_d255364e-235b-45b8-ba58-b89cdd3ccd60.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/a-corte-restaurante-cidade-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REAL BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706080926_975fd1c4-be34-437b-8e5d-3cf58ee899db.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/real-burger-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Bella Cantina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_label_ntin01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/la-bella-cantina-val-de-caes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá Preferida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/la preferida_lapreferida.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/la-preferida-cremacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAZZA FRESH ITALIAN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mazza_mazza_alian.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mazza-fresh-italian-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chame Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191126_c78cd829-ce26-4f1a-ab9d-6e986bf2691d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/chame-pizza-sacramenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Belém Pizza Expresso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705241303_39abfe18-2608-4822-9717-18670c50b062.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/belem-pizza-expresso-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Japão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091023_4c9596ea-bab4-450e-968c-1c5dda5493ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-japao-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eco Sushi Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo eco sush_ecosu_ounge.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/eco-sushi-lounge-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Matsuri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703250820_3c59a45f74b249749130637bdfa04cf2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/matsuri-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/img_2309_mrbrasa.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mr-brasa-cruzeiro-icoaraci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brazeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220938_10132edb-6231-496c-9b6a-37342f01e5d4.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/brazeria-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flash Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/flash_flashpizza01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/flash-pizza-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aki Sucos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_akisucos.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/aki-sucos-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210830_a82562f7-14e8-474f-ba85-434e15bdc2a3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bistro-belem-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Bocado Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291122_f571912d-23b7-475d-aeaf-a4a3593c0cb7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/bom-bocado-restaurante-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crazy Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201018_0f6a91b1-914f-4fb3-ac41-3e473c755804.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/crazy-dog-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Apetite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/FullSizeRende_DOMAPETITE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/dom-apetite-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Formiguinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo formigui_formiguinha.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/formiguinha-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Happy Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041001_1ad47130-757f-499c-a8c2-4f747fefe03c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/happy-pizza-sacramenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HotMania Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241514_5a9a142c-e214-42a0-aaf1-b2bda88c20d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/hotmania-sushi-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kimassa'S Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_KIMAS_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/kimassas-pizzaria-cidade-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Bella Cantina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca la_LABEL_NTINA.pdf",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/la-bella-cantina-val-de-caes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamuska-Comida Feita Com Carinho De Mãe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_mamus_demae.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/mamuska-comida-feita-com-carinho-de-mae-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pamplona's Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705220845_913b68f0-0ae0-4423-b489-e0a2ded71c57.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pamplonas-hamburgueria-artesanal-tenone",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzamille Castanheira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzamil_pizza_heir01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/pizzamille-castanheira-castanheira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Respeita a Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031241_6022ed84-1138-4b77-adca-d64ec7df29ef.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/respeita-a-pizza-reduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Kanto de Ksa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030734_b01c33d2-4aeb-4db7-865f-d251eb737141.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/restaurante-kanto-de-ksa-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saito Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo saito_saito_rante.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/saito-restaurante-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados do Dan Dan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131122_5f78afee-b242-4369-b603-f905af83af3d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/salgados-do-dan-dan-telegrafo-sem-fio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salva Dieta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091227_a17924bc-e78b-454b-a9c1-6e64e4e904ac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/salva-dieta-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SeiKou Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709250958_6ccac802-7d04-4ad0-a270-59802a869561.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/seikou-sushi-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Barentain",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261124_ebc62040-5a93-4c7f-888c-340d9e845f16.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushi-barentain-pedreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SushiRaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180941_6464e63b-ae67-481a-975d-4cdafabd3659.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/sushiraki-sao-bras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapioquinha Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703271256_95679e6b7f904147aabe9f9ae53ac194.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/tapioquinha-belem-umarizal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Burger Spot",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101408_19c34a53-eb89-4d21-8c3f-28d53e72e1cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/the-burger-spot-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wasabi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/belem-pa/wasabi-sushi-nazare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BELEM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+]

@@ -1,0 +1,95 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CROCO ESFIRRAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301342_23bf3c50-de8d-43bf-b164-6a3f2604b720.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/guaratuba-pr/croco-esfirras-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARATUBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Parraf",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030925_e86fffaf-17ca-4578-b989-72256a1eaaae.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/guaratuba-pr/pizzaria-parraf-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARATUBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bangalô Dos Pastéis- Guaratuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161518_BANGA_ATUBA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaratuba-pr/bangalo-dos-pasteis--guaratuba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARATUBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jaf Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704171357_c28cae4a39124c76b2ce12ce3b97227b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaratuba-pr/jaf-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARATUBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria E Pizzaria Guara Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703230836_bd0e4c8277d648538e23be75be727724.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaratuba-pr/churrascaria-e-pizzaria-guara-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARATUBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog guara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181251_65b4bc66-95fc-4572-b006-7e21b5ac23da.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaratuba-pr/hot-dog-guara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARATUBA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

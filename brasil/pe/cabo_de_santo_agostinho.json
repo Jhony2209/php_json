@@ -1,0 +1,63 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passira Pizzaria E Restaurante - Cabo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261053_bbf6f8e5-7b4c-4785-806f-deedc9d180cd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-de-santo-agostinho-pe/passira-pizzaria-e-restaurante---cabo-cohab",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO DE SANTO AGOSTINHO",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kasa dos sucos & açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221908_332ffa79-aff1-41db-9ae0-2063c27f9133.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-de-santo-agostinho-pe/kasa-dos-sucos--acai-cohab",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO DE SANTO AGOSTINHO",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutriplus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221843_3c8d8126-2230-4f42-a7eb-6857d4f0b26f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-de-santo-agostinho-pe/nutriplus-ponte-dos-carvalhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO DE SANTO AGOSTINHO",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Pizza Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071420_cb9fa862-7a71-4e90-b60a-3114e3d181b5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-de-santo-agostinho-pe/villa-pizza-restaurante-jardim-santo-inacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO DE SANTO AGOSTINHO",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

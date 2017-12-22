@@ -1,0 +1,1931 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARTE & SABOR DA PRETA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211427_389b8b08-80fe-4d45-bcca-79c1585b3caa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/arte--sabor-da-preta-tomazinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manjerona Quentinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081244_e42b3536-c259-4298-8b7a-8eff829c5f15.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/manjerona-quentinhas-agostinho-porto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Salad",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021407_0a5acd8f-f0e8-4ae1-808a-bd8e60c5c688.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/delivery-salad-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POINTDUKASKAO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708102038_3c84d32c-75ec-4b67-af32-67916c1e64b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pointdukaskao-vila-rosali",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Landa S Quentinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2aea9841-353d-44f4-9b7d-e1caa8b28aa5/201712011851_23905.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/landa-s-quentinhas-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241131_31ae07a5-82a3-434d-8645-dcdac2acf80b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/comida-caseira-jardim-botanico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Rua Vilar Dos Telles",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192324_fecc24c0-07d5-4270-8dd2-ccdfffc577e0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/bobs-rua-vilar-dos-telles-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/b5052606e3f11_YAKISOBACIA.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/yakisoba--cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do yakissoba - SAO JOAO DE MERITI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210837_42704dfb-df9c-45f1-b6da-b35d20585efc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/rei-do-yakissoba---sao-joao-de-meriti-sao-mateus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gato Mole- restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281450_28d2a098-3081-4122-ba37-8075488c6e0a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/gato-mole--restaurante-jardim-jose-bonifacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espasushi Dreams Espagueteria & Sushibar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251520_deb0aa84-77ca-4ec9-b1eb-6b0c21666ce2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/espasushi-dreams-espagueteria--sushibar-jardim-metropole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DÚ'DELÍCIAS SOBORES - REFEIÇÕES DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261639_a640c151-f23a-4319-aa38-7f9dce59d780.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/dudelicias-sobores---refeicoes-delivery-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crepelocks - São João de Meriti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Crepeloc_CREPE_ERITI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/crepelocks---sao-joao-de-meriti-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DELICIAS DE MERITI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211356_bf805cd1-e872-485e-9a4f-b83434279eb2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/delicias-de-meriti-agostinho-porto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Restaurante Tempero da Mulata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091128_4d5a5e79-f7cb-44e8-a312-5f369a8f046a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/bar-e-restaurante-tempero-da-mulata-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/saborcia_saborcia02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/sabor-e-cia-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUENTINHAS H",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705180924_adcc9fbd-824e-4230-9248-597dc4ade0a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/quentinhas-h-tomazinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hashi Time - São João de Merite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021928_a034f409-576f-4a4b-a3ea-27305c50373e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/hashi-time---sao-joao-de-merite-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KONI SHOPPING GRANDE RIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081601_2a5181bf-de24-4f27-aec6-3ce31e7edce7.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/koni-shopping-grande-rio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - São João De Meriti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221056_421e58ee-c76d-43bb-81a7-4e4fcfb77157.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/dominos-pizza---sao-joao-de-meriti-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nil Refeiçoes Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071023_2cb5c78d-0e78-45fb-8b63-55b417b111eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/nil-refeicoes-caseira-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AmoreMio Pizzas & Massas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300917_3cb2be0c-0949-4280-8cda-70eec7ea0e6d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/amoremio-pizzas--massas-delivery-agostinho-porto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BATATA E C&A",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271320_edd128ab-a482-4482-a597-2f6abbd867fa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/batata-e-ca-vila-zulmira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom é aki - Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711021418_073447e2-f66d-4bdc-b9a7-e079a829ca06.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/bom-e-aki---delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calçada do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300800_e8d9ec71-51c3-4460-8627-fd4ab8e11093.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/calcada-do-lanche-parque-analandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711062000_a266765d-c950-47fc-ad51-d379c4584fdf.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/delicias-gourmet-jardim-alegria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Sabor Padaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031149_d393d6ef-0547-48ea-a902-91e6289fbd8b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/doce-sabor-padaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESQUINA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121309_d1c1e748-a10f-4332-9a7d-fda1c2b93784.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/esquina-gourmet-vila-zulmira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfirrão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081304_7b0a6686-9881-4786-adbe-f55da95f151f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/esfirrao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HUUM BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191341_bea8f2ce-b0c2-40d0-b790-25df72e8c5ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/huum-burger-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria E Pizzaria Da Vivi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021636_6241acd7-56f0-47e2-945b-72a6d8a97796.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/hamburgueria-e-pizzaria-da-vivi-vila-tiradentes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Home Burger e Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011140_b222b797-991a-4f51-998f-dee2659a67df.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/home-burger-e-pizzas-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JACK BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271752_7b9276f4-9057-4593-8598-181fa559dad6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/jack-burger-jardim-limoeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kiansushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211340_17e36360-a196-49a9-8dd7-8c495b6b83be.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/kiansushi-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lug's Shopping Grande Rio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061928_0dc14e48-d08e-46e9-ba1d-bba002a70c0e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/lugs-shopping-grande-rio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MR BURGER E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281059_7d68d755-ea8f-46d0-b1e4-71ded3ea2588.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mr-burger-e-pizzaria-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Sabores Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705220911_e2028da6-feb6-4184-8e9d-0b4e44cb581d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mc-sabores-lanches-vila-zulmira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mestre Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071329_70b79b7f-cf52-44bf-8c88-24db321abbe0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mestre-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270926_046194d7-81c2-45ac-ac2f-710edbc6c216.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mr-lanches-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Naval lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261311_0df6cd5d-408b-4abf-9537-6e00d90f142d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/naval-lanches-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pacheco Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100920_14f1c11c-dd70-406f-95fb-b1ef1236458c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pacheco-lanches-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patricinha Caldos e Sopas Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151925_95fabc0e-5220-41b6-bbb5-2574de62656d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/patricinha-caldos-e-sopas-gourmet-agostinho-porto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petisquinho da Tia Fafá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181424_79aa0c45-9998-400a-9ece-c5e1a939cb91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/petisquinho-da-tia-fafa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nova Opção",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311133_1bb72a8f-5eb3-4ce6-902a-ab06756c5f7d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pizzaria-nova-opcao-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281254_7fbe68cf-64ab-4469-be84-4639c980cb11.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/sabor-express-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Speed Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211355_c9d15f7c-d8f8-4b2c-bbdb-5606f243fb61.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/speed-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Só Penso em Comer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221448_41f9265e-5c66-4e16-a87d-23011caad698.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/so-penso-em-comer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vila Kings",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071956_b28eca9b-100a-490f-9f70-85cee7f2ec75.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/vila-kings-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xá Comigo Crepes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712100921_80a1beb6-10c6-4af3-ad6e-fcbf7583e4d1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/xa-comigo-crepes-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yes Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301215_1354a6c5-ebd5-4923-a01f-64bb4946691c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/yes-burger-jardim-jose-bonifacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KI-DELICIA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061519_dacc90be-b75e-4923-95a2-551668afb2ca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/ki-delicia-gourmet-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Barão - Vilar Dos Teles",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703151853_LANCH_TELES.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/lanchonete-barao---vilar-dos-teles-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Akenai Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281343_dbed9d36-dfc4-4854-9c12-3bce7c1e1849.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/akenai-sushi-tomazinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Billy Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo billy bu_billyburguer.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/--billy-burguer-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Nani ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza na_pizzanani.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pizza-nani-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí do REI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231125_3673c311-ff9a-41aa-9ff5-e42bbdff442b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/acai-do-rei-agostinho-porto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "THE RANCH BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271348_b281c701-a993-4e7d-a99a-f835aa457a12.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/the-ranch-burguer-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carne De Sol Vitor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241453_f65a6d1b-2191-4de6-8a67-c786997990fa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/carne-de-sol-vitor-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281856_ebdeffb8-809c-4386-8bb5-8d7d4bfaa4b0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/burger-pizzaria-delivery-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacana lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bacana_bacan_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/bacana-lanches-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Chapa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101018_36e8e259-47f2-493a-a0c9-8c8323278de8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/la-chapa-delivery-grande-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Adegadega",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181046_ADEGADEGA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/adegadega-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AW Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081345_3f8279b6-49cc-47a3-9da6-9e919099726b.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/aw-salgados-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Beef Burguer Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311933_be0e14f8-6510-48e8-bba1-cce2e7ee8e35.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/king-beef-burguer-artesanais-grande-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAULINHO LANCHES E PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301045_d0cdae4a-c96d-4e29-bc62-2ffe9ba9e491.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/paulinho-lanches-e-pizzas-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guinness Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161439_GUINN_RGUER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/guinness-burguer-vila-rosali",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "caza da pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301924_a6354a8b-49cf-406a-b2d2-208f5d06d7a8.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/caza-da-pizza-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOMA HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040805_9c834752-ec68-4748-8ed2-ca032e908ff4.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/doma-hamburgueria-parque-araruama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Green Salad'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705040819_912b0394-27d6-47b7-a404-671dd00789d9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/green-salads-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Smart Phome",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708162101_7e784244-94b4-49dc-a3cc-f2ed71f050f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/smart-phome-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Hambugueria do Chri's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301107_f0ffc641-1c49-4869-a6fb-413ac26d6d2c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pizzaria-e-hambugueria-do-chris-parque-sao-nicolau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arte Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311145_5d3f86af-f759-48ee-81cf-1940989cd71d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/arte-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jappa House Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo jappa_jappa_iver01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/jappa-house-delivery-jardim-jose-bonifacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sara Burger & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161535_2e6ba12d-ef99-4690-a022-98586dd86dfe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/sara-burger--pizzaria-parque-sao-roque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RR Buff Self Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131512_9e280e9d-0814-435d-a6c6-f46cb58acd21.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/rr-buff-self-service-parque-alian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carlos Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271144_db454c57-3218-4afb-9839-0103d654a577.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/carlos-pizza-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hambúrgueria Gourmet Burger Especias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241045_836d30c9ad4d4c78a5035778e6d6c720.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/hamburgueria-gourmet-burger-especias-vila-zulmira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mira'S Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181506_MIRASPIZZAS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/miras-pizzas-grande-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAÍTERIA MEGA BOM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071817_d52d26eb-13bc-4a52-9532-63aa6a3b0f49.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/acaiteria-mega-bom-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA RICO S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_ricos.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pizzaria-rico-s-parque-sao-nicolau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temperos e sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010847_97ba5382-0ea5-4955-ab5a-c76bdf1761df.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/temperos-e-sabores-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "+ Delicia Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/delicias lanc_delic_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/-delicia-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duda'Slanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061949_2ed07946-634d-49fe-b482-690529da3e4d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/dudaslanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Dinha'S Lanches E Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/351e361b-8c19-4738-8d26-f9a9c6bf1a86/201711301604_21231.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/tia-dinhas-lanches-e-pizzas-parque-tiete",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E LANCHONETE EXCELÊNCIA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310853_2b3afa6c-7081-4298-9ace-4245e5cb67d4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pizzaria-e-lanchonete-excelencia-gourmet-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Prensado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705080040_a4706ee9-0519-4f7e-befd-e79cc8ca1639.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/casa-do-prensado-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vila Gourmet burguer e beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171039_c03c480a-0ba7-4607-81d2-721768166eee.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/vila-gourmet-burguer-e-beer-vila-rosali",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STOP BEER POINT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041428_6d2d582f-d5fb-4975-ae53-b21a281f836f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/stop-beer-point-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Buenos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280921_bc150e07-f245-4303-a8a8-62f7349e79bd.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/restaurante-e-pizzaria-buenos-parque-sao-nicolau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deufome.com",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281111_c756d770-38b8-42e9-82a4-002aaebc9892.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/deufomecom-sao-mateus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081426_63a9cab2-abc2-4d4a-a330-a0e6dcc9db4e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mister-burguer-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KING FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/aad250bc-b84c-465c-9e30-4f973d381376/201711111817_logokf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/king-food-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DINDU's Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091349_c0a09dc2-9f5f-494a-a33b-495567dff77f.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/dindus-delivery-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa in casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051402_045a0ff4-2251-4d4c-a40d-0f97b03fc2db.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/japa-in-casa-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEGA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091031_b0eaa16f-9128-44e8-9b3c-b4afc5e8b9da.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mega-pizza-jardim-jose-bonifacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701131151_HAMBU_URME07.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/hamburgueria-gourmet-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gregos Burgers - Vila Dos Teles",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_GREGO_TELES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/gregos-burgers---vila-dos-teles-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gyaru Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261233_8690422b-b4cb-4592-aff9-84fc90ca7590.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/gyaru-sushi-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Lanche e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051748_1bbc429b-f336-4cba-ad36-08e447b7a545.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/big-lanche-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapioca M&C",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041441_71c82564-be0b-4a4d-b548-c9dead7bf431.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/tapioca-mc-jardim-metropole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JUVS PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211836_ae138b92-bebd-43b4-8f2d-df3a0f3b75da.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/juvs-pizzaria-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Do Formoso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061113_87a7ad7e80114dc5a97387ee8e1ab0a5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/point-do-formoso-vilar-formoso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Now Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241806_e23be4b5-5959-4d74-bb84-2f8984253eae.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/now-sushi-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Gourmet hamburgueria e Dogueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200929_cacaf58b-6f7b-4feb-8cb8-8bbb30017efa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/imperio-gourmet-hamburgueria-e-dogueria-parque-novo-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crazy Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171156_7b2bc55b-032c-48ec-af85-787ca105a16a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/crazy-lanches-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refeições & Lanches Do Tobi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181355_dbaf624e-b21c-4f24-b1ca-dc69f949c7c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/refeicoes--lanches-do-tobi-jardim-metropole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barbaros Lanches E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200953_98f7f938-b8e4-479d-87bf-fa9ec882c77f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/barbaros-lanches-e-pizzaria-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot N' Tender - Grande Rio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161022__HOTNT_DERIO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/hot-n-tender---grande-rio-parque-novo-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faceburguer  Pizzaria e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291424_d264846e-1c62-4f07-93ad-b4b2409de3c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/faceburguer--pizzaria-e-lanches-jardim-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DO REI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710060821_d11e4776-b579-4765-8d4f-0025c7165eb6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pizzaria-do-rei-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mania de Petisco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071030_07da9e36-67ff-4bd3-afc3-508716ebeb3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/mania-de-petisco-parque-novo-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KINGS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301135_ab206541-e461-412b-adec-ffb50acdc95d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/kings-jardim-jose-bonifacio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicia de Araruama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260822_1e457589-6930-421d-965e-c01e5d000b57.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/delicia-de-araruama-parque-novo-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria e pizzaria Sputnik",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051652_14666e80-a52a-442b-bafe-42c699ea9b76.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/pastelaria-e-pizzaria-sputnik-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ararulove Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281138_11471c80-d0a1-4a8b-93e0-5deec9ebd15a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/ararulove-lanches-parque-tiete",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gullas Batatas Ii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo gulla_GULLA_TASII.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/gullas-batatas-ii-parque-novo-rio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burgueria Olimpo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702151340_BURGU_LIMPO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/burgueria-olimpo-coelho-da-rocha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Free Boi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jjj_hambu_eeboi.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/hamburgueria-free-boi-jardim-metropole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kantinho do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151502_3853251f-bf31-4ff1-b704-013e7e79fd7b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/kantinho-do-sabor-jardim-meriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piemonte Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705020832_4eac91ea-3dc7-4da0-b655-300ac0bf936a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/piemonte-pizzaria-vilar-dos-teles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Aipim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021148_e7ce8cf2-2af2-4a17-b337-d06ef4276588.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-de-meriti-rj/rei-do-aipim-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DE MERITI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

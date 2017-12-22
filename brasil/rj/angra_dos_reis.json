@@ -1,0 +1,127 @@
+  [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza 10 10",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231007_6d3d4fc381f64d8e943cf1a695964f44.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/pizza-10-10-balneario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "panter's lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211053_ba43ebb7-d2d1-4885-becc-ebc9d6f4db9e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/panters-lanches-japuiba-cunhambebe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Plate Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_HOTPL_RGUER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/hot-plate-burguer-praia-do-anil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagen's açai lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061434_8204e83d-d88a-4190-aaa7-a1deb9bfc4f8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/garagens-acai-lanches-monsuaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Torre De Pizza Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131423_997e8ff4-b0b7-487b-8e80-8e985524ec62.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/torre-de-pizza-pizzaria-e-restaurante-frade-cunhambebe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mestre Cuca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041410_0ea771a0-c454-41f1-9809-73e3ee145fd4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/mestre-cuca-nova-angra-cunhambebe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NET´S SOPAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071227_85401953-bb8b-4eef-bb63-a5cf21f6ce9f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/nets-sopas-japuiba-cunhambebe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pronto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2_pronto.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/angra-dos-reis-rj/pronto-verolme",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANGRA DOS REIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

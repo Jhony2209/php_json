@@ -1,0 +1,977 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Menta Limão CENTRO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170828_affe7a61-7a53-4477-a805-d39d7cffc875.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/menta-limao-centro-parque-presidente",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PADOCA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131300_1d8b6556-300f-40ef-9bb9-ed15342af01c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/padoca-jardim-jupira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Salgados Bela Vista - Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251216_1b1202b3-bce0-432d-8fce-e36d7a667e3d.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/salgados-bela-vista---centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "R3 Express Food Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290833_33cc5203-bb3c-4015-9a7b-d6a4afad1684.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/r3-express-food-centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Falls",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161105_d25261cb-f8bf-4577-9fa2-f48a066c1902.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/acai-falls-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oficina Do Sorvete",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_ofici_rvete.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/oficina-do-sorvete-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dona Tortinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261528_dc726fdd-ff9b-4f3d-a078-daf234a26725.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/dona-tortinha-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Expresso Da Tapioca Foz",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tapioca_expre_cafoz.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/expresso-da-tapioca-foz-jardim-amazonas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Samuka Lanches & Pastelaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704290928_b79d38e0-56b4-4a87-b402-d7cee583f715.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/samuka-lanches--pastelaria-vila-portes",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MENTA LIMAO Vila Yolanda",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191933_ff66ec32-dcbd-46da-8438-9d1877e0b49a.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/menta-limao-vila-yolanda-vila-yolanda",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hashi Sushi e Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050900_e0bf8ba8-971f-4be1-afb7-e921d7e1e302.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/hashi-sushi-e-temakeria-vila-yolanda",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Terramar Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271427_5e70a5fa-db7c-4da1-93f9-3deed2aee007.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/terramar-restaurante-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Arabys",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041634_9631f9f5-86f4-4438-9f75-1cec9392f908.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/arabys-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Xis Do Vô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_xisdovo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/xis-do-vo-conjunto-libra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pelegrini's Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141055_1b829e84-af5b-48ab-9f58-b8e87427c15d.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/pelegrinis-pizzaria-jardim-porto-belo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rockz Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703110939_ROCKZBURGER.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/rockz-burger-jardim-das-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ROUNDS SANDUICHES PREMIUM",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051556_91c8200a-e922-489a-b481-ad5b09aef7b7.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/rounds-sanduiches-premium-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Urbano Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301218_04499c35-6758-49c2-88c3-5d2605148912.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/urbano-express-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Danny Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311215_ced58efe-f423-48df-b2a0-644b3a195074.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/danny-pizza-parque-residencial-morumbi",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221259_a57efc15-c0d5-4b51-bf5e-c3dbaa46b6cc.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/rei-da-pizza-jardim-panorama",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jeca Espetinho República",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011606_b91f18b5-90b6-4756-b12c-3738c7958472.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/jeca-espetinho-republica-jardim-panorama",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "A Pizza Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221528_ae39e7ad-8c23-40c4-89ba-69852b9cd16e.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/a-pizza-express-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mario's Shawarma & Shawgueteria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201024_9831a9ec-8366-4cec-abc3-a506ba4e807e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/marios-shawarma--shawgueteria-jardim-manaus",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chefito Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chefito_chefi_ivery.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/chefito-delivery-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ching ling",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101330_eef222ee-6d48-47bc-8edc-6b95ba96c9d0.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/ching-ling-vila-yolanda",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mr Fit",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271201_MRFIT02.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/mr-fit-jardim-amazonas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260915_b934043d-1a2c-426e-b80e-7778f4ff24ce.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/papizza-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bel Viale Restaurante E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bel viale_belvi_zaria.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/bel-viale-restaurante-e-pizzaria-jardim-amazonas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Django Bar Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711232244_6782ff1a-5135-4fee-b535-b91c0bc37558.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/django-bar-burguer-vila-residencial-a",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gansos MARMITEX",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151100_7e56f780-802d-4287-af69-2c2ec6779858.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/gansos-marmitex-jardim-eliza-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Menta Limão CENTRO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170828_affe7a61-7a53-4477-a805-d39d7cffc875.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/menta-limao-centro-parque-presidente",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PADOCA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131300_1d8b6556-300f-40ef-9bb9-ed15342af01c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/padoca-jardim-jupira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Salgados Bela Vista - Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251216_1b1202b3-bce0-432d-8fce-e36d7a667e3d.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/salgados-bela-vista---centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "R3 Express Food Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290833_33cc5203-bb3c-4015-9a7b-d6a4afad1684.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/r3-express-food-centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Falls",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161105_d25261cb-f8bf-4577-9fa2-f48a066c1902.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/acai-falls-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oficina Do Sorvete",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_ofici_rvete.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/oficina-do-sorvete-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dona Tortinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261528_dc726fdd-ff9b-4f3d-a078-daf234a26725.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/dona-tortinha-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Expresso Da Tapioca Foz",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tapioca_expre_cafoz.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/expresso-da-tapioca-foz-jardim-amazonas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Samuka Lanches & Pastelaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704290928_b79d38e0-56b4-4a87-b402-d7cee583f715.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/samuka-lanches--pastelaria-vila-portes",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MENTA LIMAO Vila Yolanda",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191933_ff66ec32-dcbd-46da-8438-9d1877e0b49a.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/menta-limao-vila-yolanda-vila-yolanda",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hashi Sushi e Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050900_e0bf8ba8-971f-4be1-afb7-e921d7e1e302.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/hashi-sushi-e-temakeria-vila-yolanda",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Terramar Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271427_5e70a5fa-db7c-4da1-93f9-3deed2aee007.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/terramar-restaurante-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Arabys",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041634_9631f9f5-86f4-4438-9f75-1cec9392f908.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/arabys-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Xis Do Vô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_xisdovo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/xis-do-vo-conjunto-libra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pelegrini's Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141055_1b829e84-af5b-48ab-9f58-b8e87427c15d.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/pelegrinis-pizzaria-jardim-porto-belo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rockz Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703110939_ROCKZBURGER.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/rockz-burger-jardim-das-laranjeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ROUNDS SANDUICHES PREMIUM",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051556_91c8200a-e922-489a-b481-ad5b09aef7b7.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/rounds-sanduiches-premium-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Urbano Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301218_04499c35-6758-49c2-88c3-5d2605148912.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/urbano-express-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Danny Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311215_ced58efe-f423-48df-b2a0-644b3a195074.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/danny-pizza-parque-residencial-morumbi",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221259_a57efc15-c0d5-4b51-bf5e-c3dbaa46b6cc.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/rei-da-pizza-jardim-panorama",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jeca Espetinho República",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011606_b91f18b5-90b6-4756-b12c-3738c7958472.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/jeca-espetinho-republica-jardim-panorama",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "A Pizza Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221528_ae39e7ad-8c23-40c4-89ba-69852b9cd16e.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/a-pizza-express-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mario's Shawarma & Shawgueteria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201024_9831a9ec-8366-4cec-abc3-a506ba4e807e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/marios-shawarma--shawgueteria-jardim-manaus",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chefito Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chefito_chefi_ivery.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/chefito-delivery-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ching ling",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101330_eef222ee-6d48-47bc-8edc-6b95ba96c9d0.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/ching-ling-vila-yolanda",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mr Fit",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271201_MRFIT02.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/mr-fit-jardim-amazonas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260915_b934043d-1a2c-426e-b80e-7778f4ff24ce.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/papizza-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bel Viale Restaurante E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bel viale_belvi_zaria.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/bel-viale-restaurante-e-pizzaria-jardim-amazonas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Django Bar Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711232244_6782ff1a-5135-4fee-b535-b91c0bc37558.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/django-bar-burguer-vila-residencial-a",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gansos MARMITEX",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151100_7e56f780-802d-4287-af69-2c2ec6779858.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/gansos-marmitex-jardim-eliza-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sampa Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo._SAMPAPIZZAjpeg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/sampa-pizza-jardim-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BILLY LANCHES FOZ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131620_2ba6b071-2559-460a-9839-14488d87aaf3.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/billy-lanches-foz-parque-residencial-tres-bandeiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marmitaria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041324_fd0efe65-f664-4350-99b0-76b0e7e62c88.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/marmitaria-delivery-jardim-sao-miguel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria Trevo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_trevo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/restaurante-e-pizzaria-trevo-vila-c",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TCC Bar & Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021107_7fb03822-fdd4-4a60-846f-b377039582ad.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/foz-do-iguacu-pr/tcc-bar--restaurante-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "FOZ DO IGUACU",
+			"addressRegion": "PR",
+			"addressCountry": "BR"
+		}
+	}
+]

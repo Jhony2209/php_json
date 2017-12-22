@@ -1,0 +1,404 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ACAI FIT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241331_352f2076-3052-43c8-8904-8dc2e25c8c2b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/acai-fit-iguacu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301409_bd8e8914-fe88-4812-a6f9-b357f01c9f9e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/acai-delivery-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point do Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230957_da6e7032-c411-4751-8cb2-167f6aa0012f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/point-do-acai-cidade-nobre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Lanchonete Sislei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221224_03f630ac288a45f8892dda0d4e7a1551.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/pizzaria-e-lanchonete-sislei-canaa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar do Cupim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091017_7336e48a-6e88-42a1-9fa2-da0728b23d00.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/bar-do-cupim-bom-retiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magic Burguer - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041441_ec1ed09329ba4fe18f25b43b3d889033.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/magic-burguer---centro-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Chefs Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704100854_0e6edd002fcd445083423832969eac19.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/the-chefs-burger-horto",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Centro Ipatinga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291006_a80c6ad0-efd5-4442-bdc3-2172cfde4712.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/subway-centro-ipatinga-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071101_93adb286-d26a-423c-849f-4017869aaad0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/casa-da-pizza-vila-celeste",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinho Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705090824_c703c4d8-931c-40b1-b349-2fa9c8a0585b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/espetinho-grill-caravelas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sinésio Lanches E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705090820_517d955f-7370-43fc-a7f5-d820887b9cda.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/sinesio-lanches-e-pizzaria-veneza",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frutas e Frutos Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261323_630f3fbb-dc39-4cf8-8077-fa97059e391b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/frutas-e-frutos-acai-veneza",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lig China - Chinês E Japonês - Ipatinga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/image1_ligch_pons.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/lig-china---chines-e-japones---ipatinga-imbaubas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NobreVitta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709270738_e19e3186-c802-4cc7-b202-2bcd2d9a1884.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/nobrevitta-bom-retiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031126_3da3ce3b-4286-47d7-901c-57b4b060acba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/cia-do-sabor-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KENKO SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170723_6539bcf0-be76-44e7-951c-594b506f71e5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/kenko-sushi-cidade-nobre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA CIRCUS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290924_e6c358bd-2056-4f9b-857f-9cb4e64c36ba.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/pizza-circus-cidade-nobre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RUIGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270951_201cf0f6-63cd-4893-9cba-2e13b2ebcac9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/ruiguer-veneza",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311005_1e346cdb-2c97-41b2-93c0-694ef6871ee5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/top-burguer-delivery-veneza",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Mexido",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051214_32f8e3e8-b8f0-45a9-9ec2-fddf7e73741b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/mr-mexido-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viking Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251219_e9ce4b12-8dfa-4c51-91d9-4715e75379fa.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/viking-burger-iguacu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria  do Jayme",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703220810_756f3cec14ac403da1fd3ac18151e15f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/pizzaria--do-jayme-iguacu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Ipatinga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200032__BRASI_TING01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/brasileirinho-delivery---ipatinga-iguacu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barriga Cheia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221340_9c74524eb78141888ca6441a5dc810f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/barriga-cheia-iguacu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Popó Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051837_74f3f9a6-02ee-4f64-9ccd-e33a9c07094d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/popo-lanches-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705080922_68f897f4-3f3e-425f-871d-7d24cbf94f24.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/expresso-acai-cidade-nobre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Delivery Ipatinga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703200751_PIZZA_TING07.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ipatinga-mg/pizza-delivery-ipatinga-ideal",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IPATINGA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,63 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob's Br 101 Rio Bonito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710062058_d4a8852d-86e0-4696-8c95-077b4be9bb28.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-bonito-rj/bobs-br-101-rio-bonito-caixa-d-agua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO BONITO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290827_d614de08-53ff-4f23-a4d3-c2f2dc759a16.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-bonito-rj/acai-brasil-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO BONITO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Crystalia Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071535_dd685c3b-4f64-436f-8d22-d9bd2e88c777.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-bonito-rj/pizzaria-crystalia-delivery-caixa-d-agua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO BONITO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705110928_126968fe-60a7-4ae2-b934-6300432e8123.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-bonito-rj/toca-burger-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO BONITO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

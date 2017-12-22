@@ -1,0 +1,449 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habib's - Feira de Santana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270804_2f780a10-2e85-4f2c-83ad-d0f3252960ed.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/habibs---feira-de-santana-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai dos Gêmeos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291040_eb434769-3162-4482-b800-ec7129ee7b1e.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/acai-dos-gemeos-serraria-brasil",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Behrmann bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711242202_6f86e76c-9f8d-4490-9978-ec906efc0e93.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/behrmann-bar-capuchinhos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Clube Da Pizza Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241506_38411f6b-ef5e-487f-bb2a-fbeaa8bb270e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/clube-da-pizza-gourmet-sim",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dili Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221619_9a5c0764-10cb-4aba-8652-98bf0ebb5729.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/dili-gourmet-35a-bi",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duarte Doceria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191927_3d6c8be8-b4bd-478a-a3d5-547aa7138d42.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/duarte-doceria-conceicao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAMBURGUERIA ARTESANAL - FSA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011630_f9268915-d662-423b-8cf1-774d3ff788bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/hamburgueria-artesanal---fsa-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercado 153 Feira de Santana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090853_7c964bbc-d693-41cb-a504-d08d6fa1cb29.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/mercado-153-feira-de-santana-sao-joao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novo Bode e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131429_79d083ec-0788-4014-a0e2-21f24e9f2133.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/novo-bode-e-cia-ponto-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Surubim Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311401_05d4ff56-707d-406b-a85c-43119f64e1df.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/surubim-culinaria-oriental-pampalona",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dna Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_dnanatural06.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/dna-natural-mangabeira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Foca Na Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_focan_iver01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/foca-na-pizza-delivery-jardim-cruzeiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lobo Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar2_lobop_iver01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/lobo-pizzaria-delivery-sobradinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D`Nappoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_ppoli.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/pizzaria-dnappoli-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YOBA CREPERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081015_67cff57e-7bd2-4006-959c-0ec8a2902cb0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/yoba-creperia-ponto-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo skina_skina_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/skina-pizzaria-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fitburger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fitburge_fitburger.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/fitburger-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DON PASQUALE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101603_2de02d1a-35da-48e6-8312-ef301b4aeee6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/don-pasquale-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280828_f7054958-e4af-4d2e-94d6-d805c594de86.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/point-burger-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/004b3cbf-416f-404e-a885-48099e4bb9b3/201711291355_logom.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/mana-pizzaria-delivery-chacara-sao-cosme",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yaki Time Feira de Santana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO YAKI TIM_YAKITIME01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/yaki-time-feira-de-santana-capuchinhos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pirata Hamburgueria -",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261510_35b7c7b5-4d3b-43e0-9e16-98745913f69b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/pirata-hamburgueria---santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona feijão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280855_7880b17e-2430-4a29-8fde-edfe9df972b2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/dona-feijao-ponto-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornarelli Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fornarel_forna_zari01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/fornarelli-pizzaria-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasta Fast - Shopping Boulevard",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702070806_PASTA_CASEB.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/pasta-fast---shopping-boulevard-sao-joao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291002_7f223414-21f5-45c5-9aab-0a6b3c80aa26.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/subway-tomba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Veneza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181103_PIZZA_ENEZ12.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/pizzaria-veneza-caseb",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nostrale Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo nostrale_nostr_rant01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/nostrale-ristorante-santa-monica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paladar Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211224_PALAD_ZARI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/paladar-pizzaria-parque-ipe",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Aprile",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lg_canti_prile.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/feira-de-santana-ba/cantina-aprile-capuchinhos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FEIRA DE SANTANA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

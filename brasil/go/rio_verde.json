@@ -1,0 +1,47 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante 5 De Agosto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040931_bcc5b2b0-62df-417a-952b-292bc9c1d7bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-verde-go/restaurante-5-de-agosto-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO VERDE",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Manpuku",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221342_5e9183da-9d02-495c-b065-1699a54ddd63.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-verde-go/restaurante-manpuku-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO VERDE",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopp Time Rio Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chopp_pr_CHOPP_VERDE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-verde-go/chopp-time-rio-verde-vila-promissao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO VERDE",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

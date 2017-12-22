@@ -1,0 +1,15 @@
+  [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Am Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311304_970b63fc1542478f8c58b11d35d010f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/quixada-ce/am-burger-planalto-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "QUIXADA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

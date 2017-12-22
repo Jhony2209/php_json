@@ -1,0 +1,14 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Showpizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_showp_ivery.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-largo-al/showpizza-delivery-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO LARGO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }]

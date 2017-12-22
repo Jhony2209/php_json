@@ -1,0 +1,383 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Junior's Pizzaria e Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041252_2aecde7f-d939-4c2c-95d2-e8db075bc4a7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/juniors-pizzaria-e-burgueria-tabatinga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galetus - Camaragibe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lg_galetus.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/galetus---camaragibe-bairro-dos-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aldeia dos Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712150812_7a0e5a33-febf-4ff0-b6cd-1fe3e9ae8b55.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/aldeia-dos-pasteis-vila-da-fabrica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Gosto Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260745_7fc9c023-e179-41fa-86ce-a83b444585c2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/bom-gosto-pizzaria-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brazzorde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281203_b1fc4729-ef70-4443-8c79-08b8694420ec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/brazzorde-bairro-novo-do-carmelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias da Prazeres - Aldeia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170758_008de320-f9fc-4305-b9b1-bbbd3c716c8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/delicias-da-prazeres---aldeia-aldeia-dos-camaras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Hei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251134_3aa6150c-e702-4189-8c90-8387cee45bea.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/dom-hei-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031223_37b2cc11-3c0d-4864-ac29-4e59ecd9092e.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/mana-refeicoes-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Germanus Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241404_1b85c2d0-d703-4079-8e01-4b987cee6775.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/germanus-grill-bairro-novo-do-carmelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TatyLanches, Pastelaria e Hambúrgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051601_7b0431dc-5aeb-4c5e-9305-0dba60e9650b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/tatylanches-pastelaria-e-hamburgueria-tabatinga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Chinês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181957_2b993d53-f67d-4ef5-ac05-58f1f2672edf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/recanto-chines-timbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria'S Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061332_4c7cb991-eb0e-417f-91ab-eead2bf5a023.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/marias-pizzaria-delivery-bairro-novo-do-carmelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230951_55e5772e-31c0-4134-a4a4-0a38b87fbc84.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/casa-do-acai-bairro-dos-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calábria Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca cal_calab_zari05.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/calabria-pizzaria-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Bolão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211607_b83bfe30-a18b-4ab3-ba5b-2c6c137309ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/pizzaria-do-bolao-timbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NOBU TEMAKERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240918_3cc229c6-5452-45ed-b90e-7dd4cd699032.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/nobu-temakeria-bairro-novo-do-carmelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ChinArthur Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101056_ac7d3f85-f68c-4b90-a17e-23e1ee246fa6.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/chinarthur-restaurante-e-pizzaria-timbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planett Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230953_9cc0161e-6d54-4f83-abc9-3a51e32652e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/planett-acai-timbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koni Joy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021213_7e3eb47a-a38b-4e81-8b38-986bdcf8a1c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/koni-joy-aldeia-dos-camaras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ken Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161138_e9e28c9f-5c99-401a-b738-daf294bd4675.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/ken-temakeria-areeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Point Hot dogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708170830_9ecb6b10-aeba-4192-b1af-8c511cf2ea24.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/mega-point-hot-dogs-bairro-novo-do-carmelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eiko Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061540_27909b24-c1a8-4602-8a4a-d004e311859c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/eiko-temakeria-areeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PLANETA DA COXINHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041003_b5d9514b-6c37-45cc-9375-a34ed513d205.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/planeta-da-coxinha-timbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Matuta Pizzaria e Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221103_e6c8dc1d-e01f-44d4-bef9-0dbc02eb34a4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camaragibe-pe/dona-matuta-pizzaria-e-burgueria-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMARAGIBE",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

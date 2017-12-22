@@ -1,0 +1,143 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob's Burgers Delivery - Mage",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211549_41ad200c-fdda-406d-a5db-a400b05e904c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/bobs-burgers-delivery---mage-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias do Dada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201046_1a4a66f7-9987-4aeb-94a6-d0100070188d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/delicias-do-dada-vila-serrana-vila-inhomirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete e Açaíteria Faceburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710151635_9615702f-1538-408a-83e0-f6ae8913ae54.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/lanchonete-e-acaiteria-faceburguer-vila-velha-santo-aleixo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Raro's Burguer Magé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240857_743ab6c3-aa89-4e2e-8b8f-8da10f1bb951.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/raros-burguer-mage-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Experimenta Lanches de Magé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_EXPE_EXPER_EMAGE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/experimenta-lanches-de-mage-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante  e Pizzaria Comilão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111705_52ffe8c7-743d-44ed-96ef-ae0f9872d0ff.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/restaurante--e-pizzaria-comilao-piabeta-inhomirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Artesanal Tauros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161913_50713601-fd1c-45ad-9154-1c613501ece3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/hamburgueria-artesanal-tauros-vila-serrana-vila-inhomirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rafa's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061020_358f101f-6353-42da-8916-f92d98fbdb23.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/rafas-burger-praia-do-imperador-guia-de-pacobaiba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rio Service Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211140_ce0ce0a6-0de1-4cc0-bc32-7d973ab66750.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mage-rj/rio-service-food-sampaio-vila-inhomirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAGE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

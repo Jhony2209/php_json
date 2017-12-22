@@ -1,0 +1,111 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAÍ NO POTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241059_064b06c9-4bf6-4fde-9d5f-c59a3f4f3818.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/acai-no-pote-pedra-branca-justinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faculdade da Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090741_fa6a1908-023f-4b54-9a4c-17b12215d8d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/faculdade-da-massa-sevilha-2-secao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Larikas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_larik_nche01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/larikas-lanches-atalaia-justinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Patty Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261704_f9b3ad86-d12a-436e-91d4-079f365bbcd7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/pizza-patty-delivery-tony-justinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Churrascaria Monjolos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_jolos.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/pizzaria-e-churrascaria-monjolos-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Dream",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo japa_japadream.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/japa-dream-guadalajara-justinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Destak",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080934_f4d112d1-ea61-407b-be15-86f5cdafdb3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-das-neves-mg/pizzaria-destak-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO DAS NEVES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

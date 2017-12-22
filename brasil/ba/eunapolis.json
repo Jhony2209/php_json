@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PALATO GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041537_9136459e-1652-46fe-84f0-8c4621ca3335.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/eunapolis-ba/palato-gourmet-urbis-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EUNAPOLIS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

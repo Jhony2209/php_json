@@ -1,0 +1,973 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery-Vilas Atlantico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200023_40cec3bc-34fe-4eb1-94e9-c9b7213326a9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/brasileirinho-delivery-vilas-atlantico-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ANJOS PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101829_fe21dc1a-baee-4341-9c51-47244f2229c9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/anjos-pizzaria-jambeiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARTEZANALLE PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101112_3e56a05e-4811-47ec-9245-10898c76b39f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/artezanalle-pizzaria-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Tropical",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081338_ee7b96ef-038a-4b1a-a250-ce69075c2c73.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/acai-tropical-vilas-do-atlantico",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baiana Arretada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGMARCA - BA_BAIAN_ETADA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/baiana-arretada-vila-praiana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco de casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090905_d609681f-3d28-46f1-9392-4f62badcc058.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/boteco-de-casa-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHEF HOUSE HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040943_51b8eac7-e464-4007-a268-00955690b4f3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/chef-house-hamburgueria-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOT DOG ALTO VALE PRENSADÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141120_ba4e4f12-40a0-48ca-a250-ef6cf0edf5ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/hot-dog-alto-vale-prensadao-recreio-ipitanga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MESTRE DAS PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201237_35c6b04e-5f42-47ad-91e0-562f69e11d96.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/mestre-das-pizzas-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Orientais Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261548_dbe73ac9-f138-4682-a58f-7db5b5b98238.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/orientais-delivery-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PALLINA GELATERIA ITALIANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191631_52ebdc1b-4538-4d40-84a7-9ac7e410f456.png",
+        "priceRange": "$$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pallina-gelateria-italiana-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Comida Chinesa do Prazeres",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271303_eac5571d-c57a-4b4b-a604-60aaf254e908.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pizzaria-e-comida-chinesa-do-prazeres-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Sushi+",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221148_cea4696a-09cf-4b0c-b289-b4ffeb317f87.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/sushi-sushi-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YAKISOBA EAT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201301_25166f17-c180-4f02-9ab1-29d377f347d1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/yakisoba-eat-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAKYTÓ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261433_a9d51f6a-2f4a-4099-8d82-eb71b3cec595.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/makyto-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Damari Tortas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c3e089cd38440_DAMARITORTAS.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/damari-tortas-ipitanga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Dog's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201303_1f349c8e-e20d-4e39-b4e5-8924dd236799.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/mr-dogs-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dan-Chai Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251430_7747f218-a660-4f52-814a-7819d7a1f869.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/dan-chai-sushi-delivery-vila-praiana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Lauro De Freitas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_croas_eitas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/croasonho-lauro-de-freitas-vila-praiana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "West Bill Casual Food e Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707102214_35868a4a-5653-4754-b7d5-07e0b965f11a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/west-bill-casual-food-e-burgers-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Vilas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301351_cc8695b1-4f99-4c2b-87f8-5029f04bf58f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/babbo-vilas-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dam Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dam_dampizza.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/dam-pizza-delivery-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Ze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301903_8f364d5eee1947c58f3ee9657235a9ac.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pizzaria-do-ze-pitangueiras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperialle Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310918_1671f5c7-8769-49e5-9cbc-43e9ecdc0a0d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/imperialle-pizzaria-vilas-do-atlantico",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nacho's Mexican Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151327_66b5a9bd-167d-4279-b705-9d4545f95141.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/nachos-mexican-bar-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beck's Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702201540_BECKSPIZZA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/becks-pizza-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi In Kasa - Vilas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/unspecified (_sushi_vilas.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/sushi-in-kasa---vilas-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yaki Time Delivery Vilas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-ifood-ya_yakit_vilas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/yaki-time-delivery-vilas-vilas-do-atlantico",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzarte Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzarte_PIZZA_ZARI09.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pizzarte-pizzaria-portao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakimassa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221550_5f002230-7adb-4649-b030-9519fc6255c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/yakimassa-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza - Lauro De Freitas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ligi_bellapizza05.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/bella-pizza---lauro-de-freitas-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Basílico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_PIZZA_ÍLICO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pizzaria-don-basilico-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Pizzaria do P_PIZZA_LIST06.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pizzaria-do-paulista-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chame Japa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo chame ja_chamejapa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/chame-japa-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Malta Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_dimal_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/di-malta-pizzaria-vilas-do-atlantico",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Murata - Vilas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Murata logo_BENTO_BARI01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/murata---vilas-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tetto Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d18afd10-2518-488c-ad25-8b5ac384ceb7/201712021501_img20.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/tetto-pizza-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa'S Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051548_f414efea-7ff7-474f-857e-e2711c621c16.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/papas-burgers-pitangueiras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novvus Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-cafe-ifo_novvuscafe.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/novvus-cafe-pitangueiras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Vilas do Atlântico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291009_465ef70e-69d1-48e0-a6e5-37b8b9c93d6d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/subway-vilas-do-atlantico-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nonno pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170839_cf56de34-00d1-4ec6-84ae-dfa4180c4359.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/nonno-pizza-caixa-d-agua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Larica Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703110954_SANTA_CARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/santa-larica-petiscaria-vilas-do-atlantico",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villas Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo villas g_CHURR_URMET.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/villas-gourmet-vila-praiana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gulla Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290936_b4073af3-a7fb-40f3-9199-6af9d8dc961e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/gulla-pizza-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Fé Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061724_8084c0c8-383d-4c92-a2a5-682151bb465b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/santa-fe-pizzaria-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Di Carlla's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231522_34df80a0-5078-44c1-b065-fab26df65a22.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/cantina-di-carllas-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tche Villas Restaurante & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070932_32dd0958-4d7d-4b1f-88d6-495953cf111f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/tche-villas-restaurante--pizzaria-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Frango Meu Yakissoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271515_f5463096-2f55-43e1-9948-1f9a309fbf96.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/meu-frango-meu-yakissoba-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porto Brasil Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo porto br_porto_urmet.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/porto-brasil-gourmet-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BURGER HOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702242019_BURGERHOUSE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/burger-house-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MUNDO DAS DELICIAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709220839_4ce7abae-6640-4635-88e0-10d2b8cb5d8e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/mundo-das-delicias-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Waguinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251043_d53191bb-006f-4e33-a9a2-2bd4c9623707.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/pizzaria-do-waguinho-",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buffalo'S Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040919_BUFFA_GRIL03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/buffalos-grill-recreio-ipitanga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa in Kaza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Japa in Kaza_JAPAINKAZA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/japa-in-kaza-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sun Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161418_51dfcd19-c0aa-4946-ad82-7a68f9412655.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/sun-sushi-pitangueiras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moda Do Cheff Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_modad_ivery.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/moda-do-cheff-pizza-delivery-pouso-alegre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHURRASCARIA ENCANTO GAÚCHO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141555_d3607978-ca1b-403b-9533-ee49a2436093.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/churrascaria-encanto-gaucho-vila-praiana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KOVALSKI BURG'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251037_4e3f4280-899d-4302-b51f-b114c6b08d52.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/kovalski-burgs-buraquinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dubai Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dubai_dubai_sfiha.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/dubai-esfiharia-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ferro & Fogo Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161146_52875e9d-ca3f-4a33-bdb3-73f32e9de7da.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/ferro--fogo-delivery-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quero + Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181309_QUEROPIZZA07.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/quero--pizza-portao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Saara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101439_56f0409a-3524-4448-a155-5a203e66ced3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/restaurante-saara-portao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandwich Hall - Vilas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sandwichall_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/sandwich-hall---vilas-vilas-do-atlantico",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tai San Villas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tai san_taisanvillas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/tai-san-villas-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Üfood",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071629_83d8d0ddc5e642bc9d9d625f341ee934.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/lauro-de-freitas-ba/ufood-itinga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "LAURO DE FREITAS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]
+

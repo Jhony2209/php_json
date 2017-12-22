@@ -1,0 +1,31 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nagay Palmas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palmas-pr/nagay-palmas-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suyshi Delivery-Palmas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palmas-pr/suyshi-delivery-palmas-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

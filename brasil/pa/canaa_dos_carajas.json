@@ -1,0 +1,15 @@
+[   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOGNISSIMO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090750_675254f4-09d2-4153-87cd-d6d9d7f2a716.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/canaa-dos-carajas-pa/dognissimo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CANAA DOS CARAJAS",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

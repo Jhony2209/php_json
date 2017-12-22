@@ -1,0 +1,32 @@
+[
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dorneles Lanches, Panquecas E Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701131636_DORNE_IZZAS.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajuba-mg/dorneles-lanches-panquecas-e-pizzas-medicina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJUBA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DON COSTELLO BAR E RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051529_5cd3567e-4bcc-49d6-8ec6-96317e3695f6.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajuba-mg/don-costello-bar-e-restaurante-varginha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJUBA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

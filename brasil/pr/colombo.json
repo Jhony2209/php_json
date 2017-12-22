@@ -1,0 +1,415 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Anostra Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271138_0792b0a8-0175-45e2-8cda-07754f0813c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/anostra-pizza-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BERCKEMBACK CHURRASCARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251423_fec5fd55-42a9-4e6a-90a2-e4cdb6fbfd80.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/berckemback-churrascaria-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolo pra Um",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020731_5cfb4db3-d4ef-4f10-9eb4-17b40b3f7d3e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/bolo-pra-um-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bronco Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711150844_f672ee8a-78a8-4e2b-aedd-6a342d0f9a36.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/bronco-burguer-guaraituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Company Burger Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704131902__COMPA_RGUE01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/company-burger-express-roca-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gebara's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281428_5c9b110f-786f-4fcc-bc6d-d4972be72468.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/gebaras-pizzaria-campo-pequeno",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tortelli Maracanã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031322_a7e07640-cb66-4353-acea-190e3f6e6e0d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/tortelli-maracana-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "karla doces",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121433_5091849f-7e9c-4e89-aef8-004f9d4b72c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/karla-doces-guarani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EASY CHURRAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041050_d48e7adc-c3fb-447b-b670-931a4a17f312.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/easy-churras-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "mafrini pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291417_327a15a7-7530-440a-b70a-0e421fcda069.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/mafrini-pizzaria-osasco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Pizza Atuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301555_040a614083734538857481202cc5f2aa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/top-pizza-atuba-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kichiro Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702011552_KICHI_ENTAL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/kichiro-culinaria-oriental-maracana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hero's fast food Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051028_01a20e00-eb57-4e25-a8a7-4ddba224db3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/heros-fast-food-brasil-maracana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete da Gui",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100719_671835d7-d69d-4148-9d9a-71f0af06e9e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/lanchonete-da-gui-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gira Pizza - Pizzaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051025_6dd3ab03-634f-4286-b1a6-cb2a437a61be.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/gira-pizza---pizzaria-e-hamburgueria-paloma",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Tentação Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704250906_fa4b6f54-4ba9-423e-ae14-dc03ab7b82e9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/ki-tentacao-pizzaria-monza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LOS PRATA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210720_2a7dbbf2-e327-46fd-8e5b-1b4c63f23e3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/los-prata-pizzaria-maracana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Felipe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7166b806-72e5-4712-bb05-74db1ad62e3f/201712012246_59270.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/pizzaria-dom-felipe-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Hermanos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703170944_LOSHERMANOS.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/los-hermanos-maracana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Do Tiozinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701261303_DOGDO_ZINHO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/dog-do-tiozinho-guaraituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PREMIUM PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061544_90380b55-ada2-47cf-93f3-17533356b8f2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/premium-pizza-sao-gabriel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tamashi Cozinha Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041639_18e87a1c-022d-4732-b42d-3a50df8c70eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/tamashi-cozinha-japonesa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MISTER CHEFF PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041507_46bba754-9066-4ee7-8f71-414d2e262168.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/mister-cheff-pizzaria-maracana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crafit pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091429_2e64628c-626e-4f8b-b6aa-a35a9447de7b.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/crafit-pizza-guarani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano - Rodovia Da Uva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo frango a_frang_dauva.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/frango-americano---rodovia-da-uva-roca-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maguro Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/maguro_magurosushi.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/colombo-pr/maguro-sushi-rio-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "COLOMBO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Sabor Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291102_2f9c1e96-0697-4fc7-9c46-8871ff5f9113.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caxias-ma/bom-sabor-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAXIAS",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }]

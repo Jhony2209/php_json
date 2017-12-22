@@ -1,0 +1,344 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY DIVINOPOLIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191011_00383aa6-25db-4b39-b7fe-1d22f179cf60.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/subway-divinopolis-sao-sebastiao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cervejaria e Pizzaria Pitangas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211309_628ebc52-d816-4586-a389-e3cbafb3ea40.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/cervejaria-e-pizzaria-pitangas-bom-pastor",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropical gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211433_b9f9dc0a-8654-4f5f-ab57-ea48108a6302.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/tropical-gourmet-santa-clara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Be Good",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231030_5798e999-5de2-40b7-9f48-392a355db6ee.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/be-good-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burgão - Temaki & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120924_f52cdaa4-98eb-414a-bfa9-1b8856359b9e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/burgao---temaki--cia-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "No Meio Da Noite Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705180846_c7fea044-055c-4c26-90b9-7f31a4ac71d4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/no-meio-da-noite-lanches-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VINI'S ESFIHARIA & PIZZARIA-DIVINOPOLIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071113_49d03b0e-4f00-4690-83f5-6771c8cfdf7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/vinis-esfiharia--pizzaria-divinopolis-catalao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pegue Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710252002_815977d5-5922-4bdf-9faf-975d0da52e02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/pegue-pizza-dom-pedro-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hicks on tap",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161618_ecffba60-1518-40e7-b27c-4fc397068fde.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/hicks-on-tap-esplanada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OHASHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131315_2e203a12-cecf-4d16-9239-a13d15117d2b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/ohashi-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Speed Box Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705281738_a54bb052-748a-4acd-b4a9-2a29e0616741.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/speed-box-hamburgueria-artesanal-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina do Açaí & Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061354_bb7be3ed-4d4b-47b3-a5e3-6e107c28442c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/esquina-do-acai--lanches-sao-jose",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Lanches Divinopolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301418_856d32ab-7072-4032-9e21-a62022048eca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/mega-lanches-divinopolis-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novo Sandubão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310939_c08fd879-4ff1-4084-9dd8-8b8343e2d3ad.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/novo-sandubao-catalao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706220817_4ee20b82-23d8-4ba4-a724-f3484d0df6a0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/recanto-da-pizza-santa-clara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Charlie's Premium Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261506_cc35ce7d-4156-41ff-827d-4e45652c71e2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/charlies-premium-burgers-vila-cruzeiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rango Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111215_100db568-708a-4dfa-9b87-40570b0b94d0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/rango-box-vila-belo-horizonte",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pomodori Divinópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311219_53608610-1e2a-4b5d-b6a4-ecaadc62de3b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/pomodori-divinopolis-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pollo Jhon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191041_58b79358-d92c-45a9-a00f-175fca493f33.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/pollo-jhon-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big John Lancheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051125_525ca475-4f41-4017-831b-cead354aa706.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/big-john-lancheria-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e pizzaria Massaroca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706030819_b03cd532-5cab-4428-bdaf-f410d0e0fb89.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/restaurante-e-pizzaria-massaroca-catalao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faceburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141400_c0d9a9a3-3aed-428f-b686-da0b99217eaa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/faceburguer-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dentinho's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706150948_97d336c1-14e5-40f3-9475-e5a962af32e5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/divinopolis-mg/dentinhos-burguer-santa-clara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "DIVINOPOLIS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

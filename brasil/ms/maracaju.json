@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GENERAL BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301118_608ae170-103e-4dc4-97cf-75da6cb33538.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maracaju-ms/general-burger-vila-do-acucar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARACAJU",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }]

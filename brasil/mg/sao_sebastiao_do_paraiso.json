@@ -1,0 +1,47 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ROCK BURGUER PARAISO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010903_3babbb7b-36ee-4493-a4c0-24c9b5260cda.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-do-paraiso-mg/rock-burguer-paraiso-vila-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO DO PARAISO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bruttu'S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_brutt_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-do-paraiso-mg/bruttus-lanches-vila-formosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO DO PARAISO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "America Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300856_4674ae38-8e78-4887-9ed0-4106169ca7c9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-do-paraiso-mg/america-hamburgueria-loteamento-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO DO PARAISO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

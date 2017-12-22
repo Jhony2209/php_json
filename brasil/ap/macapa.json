@@ -1,0 +1,254 @@
+ [{
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Paulista de Pizza Gourmet - Amapá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Piz_CIAPA_AMAPA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/cia-paulista-de-pizza-gourmet---amapa-santa-rita",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dolccini",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061714_efb59695-3224-46f8-b3ab-b858c7f22552.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/dolccini-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas Macapá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/girafas_GIRAF_ENTR01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/giraffas-macapa-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgo Gourmet Essenz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061304_5f61e6bf-ba16-45d9-ba18-1859390b4bf1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Alemã",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/hamburgo-gourmet-essenz-jardim-felicidade",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oliver Pizza e Burg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271819_5e66d662-ef13-4080-8cc3-33b0aa0d1535.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/oliver-pizza-e-burg-infraero",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Apollo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061143_160e1b95-e57c-4a63-9172-26af670f4e14.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/restaurante-apollo-jesus-de-nazare",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Macapá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/spoleto logo_SPOLE_ACAPA.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/spoleto-macapa-santa-ines",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TORI BOX DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111308_036d0f9c-d1cf-4f4b-9610-4471a42433db.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/tori-box-delivery-buritizal",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Dom Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011338_9bd0a19d-ea3b-4c76-b113-b57b2ed7fbf2.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/churrascaria-dom-grill-trem",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Sam Hamburgueria - Trem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311223_e8677c4c-e48a-4c85-b515-d16b8cd5c828.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/tio-sam-hamburgueria---trem-trem",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rustic Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_rusti_sanal.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/rustic-hamburgueria-artesanal-universidade",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Universitário Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010840_fe675028-4b3a-48dc-9fa6-597c28b10200.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/sushi-universitario-delivery-juliao-ramos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Japan By Nagano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_agano.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/restaurante-japan-by-nagano-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MISTER BURG MACAPA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709280831_acd35fe0-e2fb-4f49-9f52-204b906ba70f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/mister-burg-macapa-jardim-marco-zero",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Paulista de Pizza Amapá Garden",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131946_e4d35237-1c9f-4631-a1d5-ccbe2c22e3b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/cia-paulista-de-pizza-amapa-garden-universidade",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040713_4a1be34b-af2a-4720-8150-40828d4fb747.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/pizzaria-italia-marabaixo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina do Dom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161146_ded580be-5e29-4e33-8a4c-a5d69f30e511.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/macapa-ap/cantina-do-dom-infraero",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MACAPA",
+            "addressRegion": "AP",
+            "addressCountry": "BR"
+            }
+    }]

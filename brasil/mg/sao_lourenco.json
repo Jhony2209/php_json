@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetaria e Restaurante Frango na Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300859_80a713e8-e645-48de-929f-00b4e971598d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-lourenco-mg/espetaria-e-restaurante-frango-na-brasa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LOURENCO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

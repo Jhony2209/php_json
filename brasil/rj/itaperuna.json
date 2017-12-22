@@ -1,0 +1,111 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cuidados Gastronomia saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311251_50f219ef-c53a-456a-baee-b8e45def3a00.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/cuidados-gastronomia-saudavel-vinhosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Itaperuna Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192334_2f40b02e-4dbd-4f36-b918-8084b2742712.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/bobs-itaperuna-centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Chopp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091419_86353b78-787b-43dc-abaa-b2f1b4151a43.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/casa-chopp-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria e Açaíteria Mais Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301441_fc5550ec-40f0-4c4c-a957-1f405b3c54b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/sorveteria-e-acaiteria-mais-sabor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281140_d74dc721-6ce0-4aeb-9c6e-fd545be8da3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/estacao-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Medieval Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703300851_42fb359e5d7243ae8081e11dac4e6b31.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/medieval-burguer-niteroi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manel Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703041047_MANEL_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaperuna-rj/manel-delivery-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPERUNA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

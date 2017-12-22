@@ -1,0 +1,48 @@
+
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornalha Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251454_efca07f6-d9f9-4686-aefc-31decdb2230d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caldas-novas-go/fornalha-pizzaria-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CALDAS NOVAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bonari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021319_3ee6a899-6a38-456d-ba2a-686f1d212691.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caldas-novas-go/pizzaria-bonari-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CALDAS NOVAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yes Burger - Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709140926_d27ce1f0-51ce-483a-b120-2d7498483eec.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caldas-novas-go/yes-burger---hamburgueria-gourmet-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CALDAS NOVAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

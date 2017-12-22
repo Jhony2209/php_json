@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Chocolatê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121118_c872361a-ca45-4181-91a2-ef654c19a7b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/castanhal-pa/maria-chocolate-nova-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASTANHAL",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

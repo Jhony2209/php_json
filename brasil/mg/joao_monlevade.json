@@ -1,0 +1,15 @@
+  [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki-Burgão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271439_0529d6f9-45fa-46a5-a71d-6a0caf289fe9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/joao-monlevade-mg/ki-burgao-republica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JOAO MONLEVADE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

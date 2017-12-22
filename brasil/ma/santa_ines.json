@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JOTA'S BURGUER & BEER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281404_638ae53f-ff84-4b36-8af4-b077d20ad5df.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-ines-ma/jotas-burguer--beer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA INES",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }]

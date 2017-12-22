@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot N' Tender - Crato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/crato-ce/hot-n-tender---crato-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRATO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

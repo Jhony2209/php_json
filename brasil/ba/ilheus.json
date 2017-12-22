@@ -1,0 +1,30 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUSHI AURORA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221834_a0849415-e965-48c5-a13d-e087affcc35d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ilheus-ba/sushi-aurora-teotonio-vilela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ILHEUS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+   { "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mary e Guigi Tapiocaria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/perfil ifood_MARYE_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ilheus-ba/mary-e-guigi-tapiocaria-e-pizzaria-pontal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ILHEUS",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

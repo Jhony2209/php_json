@@ -1,0 +1,104 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KINE'S BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261514_30b4abe5-bd2a-45e3-9f40-baf83ba195e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/kines-burger-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas - Formosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200318_ecd02c3b-f3d7-450d-bb10-ee731c1a86c6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/giraffas---formosa-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza In Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100826_PIZZAINCASA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/pizza-in-casa-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiloko - Formosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181831_851ebf1e-568c-42cf-880f-48fc70c9e8b0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/sushiloko---formosa-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Evita Pizzaria & Esfihas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161844_0d8c500c-624f-4e5c-837f-9c5e91f56501.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/donna-evita-pizzaria--esfihas-delivery-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Goianinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181003_c733dd50-abc7-4c61-8806-ab998c8eebdd.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/pizzaria-goianinho-setor-ferroviario",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOLY MEAT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131544_c9fe2bcf-cca7-4d28-9cec-b90f97ef0b11.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/formosa-go/holy-meat-setor-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "FORMOSA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

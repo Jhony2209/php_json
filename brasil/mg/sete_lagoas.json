@@ -1,0 +1,223 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PANIFICADORA GALDINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121528_6ebc07c0-2826-49c3-b91d-14fd5e26fc04.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/panificadora-galdina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sublime Paladar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031152_55b077b7-91db-4eb2-b556-6273c471f807.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/sublime-paladar-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pexim Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011028_d85f08a6-1e7c-4d2f-897a-4ecf3cb4f7bf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/pexim-bar-e-restaurante-nossa-senhora-do-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor & Saúde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131610_90a092b9-5ef4-4c72-9f9f-d26503bf1b5e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/sabor--saude-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa da Lagoa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711020857_0eb697a3-2dd0-452b-be49-262835b65c5a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/villa-da-lagoa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE TEMPERO CASEIRO DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211517_ef23db10-0a70-409f-aab6-dbbb653de6e1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/restaurante-tempero-caseiro-delivery-padre-teodoro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Help Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Help_HELPB_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/help-bar-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Frigideira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280721_30e734a7-d869-422e-a04e-ec1e63f2fddc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/restaurante-frigideira-canaa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Getúlio Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709012120_c10caa0a-f2c1-4c31-bafd-0303da6fe126.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/getulio-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria & Creperia Millenium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081035_7c6c7ca2-7217-4671-9526-757f03bd5a8c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/pizzaria--creperia-millenium-nossa-senhora-do-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Francesinha Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051110_ba581c65-63b2-4ecf-9198-853abeb2b1ac.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/a-francesinha-pizzaria-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seven Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/seven-burguer-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Limão de Gravata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021052_8e93d3ac-decd-488b-b6a2-d49bf2819efb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/limao-de-gravata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japinha Sushibar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181026_eaab3ccc-0f17-45c7-a281-388de55b6a28.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sete-lagoas-mg/japinha-sushibar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SETE LAGOAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

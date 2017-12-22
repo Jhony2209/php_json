@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer do Rei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121629_44da4210-d284-4dec-978f-6b69d7369b9b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/congonhas-mg/burguer-do-rei-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CONGONHAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

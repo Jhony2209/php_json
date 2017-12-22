@@ -1,0 +1,47 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box Mineiro Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo box mine_boxmi_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itabira-mg/box-mineiro-delivery-gianette",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABIRA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amo Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171253_79643f14-4e36-448b-8057-1fb6d4846a91.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itabira-mg/amo-pizza-major-lage-de-baixo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABIRA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chiken Mex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061148_026b5d6d-f84e-454e-aee8-a9e10f3e4273.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/itabira-mg/chiken-mex-para",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITABIRA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

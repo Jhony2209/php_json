@@ -1,0 +1,15 @@
+   [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Calábria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080939_3ae1fa00-b723-4111-9038-e63228b129af.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itatiaia-rj/pizza-calabria-vila-odete",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIAIA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

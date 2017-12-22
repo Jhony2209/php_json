@@ -1,0 +1,179 @@
+[{
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Galeteria no Grau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311158_23e1367f-74ac-430c-84af-d27ec41e11c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/galeteria-no-grau-piratininga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Açaí da Jô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111417_25aa4a3d-fca7-4f7d-8e1c-dbe892d19a62.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/acai-da-jo-acaracuzinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "MARIA PITANGA AÇAITERIA MARACANAÚ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011416_c94a0553-e243-4c78-b189-d5978696a4b8.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/maria-pitanga-acaiteria-maracanau-jereissati-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Raufes Restaurante e Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131327_0a180bc2-6c3f-4876-915f-4da6731f942c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/raufes-restaurante-e-bar-luzardo-viana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Sabor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021240_9ffdfb96-5710-4ff4-940f-33642c78ba3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/sabor-caseiro-jardim-bandeirantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Samyh Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110708_f70ce763-198a-4b81-bb13-0f83f1e47f97.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/samyh-burguer-acaracuzinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Senhora Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081419_84401c61-1231-4504-a805-3abb6680e460.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/senhora-pizza-novo-maracanau",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Dona Josy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131542_DONAJOSY.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/dona-josy-jereissati-i",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Puro Açaí North Shopping Maracanaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041349_5039aab7-faea-4907-8a16-68ca8b964358.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/puro-acai-north-shopping-maracanau-jereissati-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "MARIA PITANGA - PAJUÇARA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291034_214e5278-3097-4bcc-ad51-e26549495cfe.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/maria-pitanga---pajucara-pajucara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "La Fornella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021207_86e98326-36d2-48d3-8d45-458037877b20.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/la-fornella-pajucara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "@type": "Restaurant",
+        "name": "Master Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704050901_71cc7cc7475d49d89cc363e4663b23e9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maracanau-ce/master-lanches-siqueira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARACANAU",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

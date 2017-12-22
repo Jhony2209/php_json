@@ -1,0 +1,524 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Baronesa Padaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180805_be1a7322-0fac-41bb-a564-d782f6f7b409.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/a-baronesa-padaria-conjunto-manoel-juliao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alecrim Tapiocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011720_3b6190ca-3d02-4943-a72b-581039414d08.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/alecrim-tapiocaria-capoeira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Saltenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111428_5ad26f5d-a42c-4dcd-8b93-e796357d0d59.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/casa-da-saltenha-jardim-nazle",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Castelli Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071229_b13616b5-6498-4217-94d3-39077d9a4ce9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/castelli-marmitex-isaura-parente",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Pedrito Carne de Sol e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191209_3bc3f1bd-25d9-49f8-8225-244a0aca21df.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/dom-pedrito-carne-de-sol-e-restaurante-conjunto-procon",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Sebastian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261434_8c19dd5d-87a4-4eac-9d08-5e833832e74c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/dom-sebastian-conjunto-manoel-juliao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leife Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180727_1e38d0d7-1685-4563-af7d-45350f557721.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/leife-lanches-habitasa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Pão de Queijo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131450_edb53532-303d-41d9-934b-3e4167544c8a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/mister-pao-de-queijo-bosque",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NatureBar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280738_a6893d70-b501-4c81-b99f-ce7179b79d5e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/naturebar-ceramica",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parada Obrigatória - Snack Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131217_3b40dd20-acb7-4981-b95b-87dbbd8cf13a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/parada-obrigatoria---snack-burger-santa-ines",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "parmas delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180806_07754fe3-b6fb-47a3-b0e5-3088c32a4439.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/parmas-delivery-jose-augusto",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PARADA OBRIGATÓRIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011950_27c8ee11-b4a3-4f01-af48-d0095aac4fe6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/parada-obrigatoria-vila-da-amizade",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Teppan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081006_c1c57a6b-90bb-4307-9ca6-a610b2ca11b2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/espaco-teppan-vila-da-amizade",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Rio Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mineiro_minei_ranco.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/mineiro-delivery---rio-branco-7-bec",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água Na Boca Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701260830_AGUAN_IVERY.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/agua-na-boca-delivery-bosque",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Via Parque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291029_0aab1b3b-2a36-4de0-8c9f-2e932dfc07b5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/subway-via-parque-capoeira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290846_6eeaf912-c3bd-4a8d-85ec-e522250de635.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/picanha-mix-estacao-experimental",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MASSAS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041202_d743bc9f-e39c-4405-b996-628013c8bbf1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/massas-delivery-conjunto-tangara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Black Dog - Deluxe Hot dogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120919_87d36f0d-0b4b-4642-bf4b-0989b813edb5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/black-dog---deluxe-hot-dogs-preventorio",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem 605 da cidade de Rio Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241129_08395f6c-1996-479e-aba4-598c35eb13a6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/garagem-605-da-cidade-de-rio-branco-capoeira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amadeu's Gastronomia Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211128_25abb1da-2638-4994-8272-814a3cc82f1e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/amadeus-gastronomia-delivery-aviario",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Plata Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091041_7f3796e6-50d3-4b97-8deb-42964624422f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/plata-burguers-conjunto-habitar-brasil",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi do Wal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111147_984db081-edc6-4309-8eaa-3c5af6a07427.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/sushi-do-wal-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Santo Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231206_f27b838c-35b7-4ea7-87c1-56568e103773.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/o-santo-burger-preventorio",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "marmitaria delivery food Fran Lopes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281310_d3873cc8-e836-4e49-aed1-b650a1aa91fd.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/marmitaria-delivery-food-fran-lopes-nova-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espeto's Bosque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231455_00395bb3-cdce-4645-b706-5050c0355497.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/espetos-bosque-bosque",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lê Pizzaria, Churrascaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131131_76f8af2f-405f-4d1d-b582-48ac30f63392.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/le-pizzaria-churrascaria-e-hamburgueria-nova-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaizin",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051236_f0b38f7f-7ad1-4183-b971-cc26bcb0454a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/acaizin-belo-jardim-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrasquinho da Pracinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060952_7ed7cb9a-13fb-4fd6-8529-2fad9c257ee1.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/churrasquinho-da-pracinha-mocinha-magalhaes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo deck_deck01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/deck-loteamento-santa-helena",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Brito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081749_7d2ed55d-676e-4daa-99d8-f346e406f570.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/dom-brito-conjunto-tucuma",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709262050_b481651a-0245-4f12-af71-067b65e4fa14.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/food-fit-nova-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "My Cakes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161016_f7fa87a8-32ca-4d1a-a372-9a029489f571.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/my-cakes-conjunto-manoel-juliao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paris 6",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031608_b8453dca-2b7f-438c-8aa9-d38d7192fc5f.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/paris-6-vila-acre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zurus Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709140938_0494c3ad-2077-4b4d-b6e6-adb6734a1da8.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-branco-ac/zurus-lanche-nova-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "RIO BRANCO",
+            "addressRegion": "AC",
+            "addressCountry": "BR"
+            }
+    }]
+

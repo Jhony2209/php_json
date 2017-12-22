@@ -1,0 +1,119 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arretados Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050823_9d68b3d8-2272-4723-ac7d-23503f79bcf6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/arretados-pastelaria-sabiaguaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Auperes Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250704_2263a6d0-e7a6-4a9e-b11a-f99b095abace.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/auperes-pizzaria-sabiaguaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café cariri prime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031645_2818d98a-bfd1-47a9-91f1-bc98cdd1bc4f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/cafe-cariri-prime-tamatanduba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ta quente ta frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091349_f1ecc2d0-19e0-4e8b-a6f7-1f36bbba4b6c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/ta-quente-ta-frio-sabiaguaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hookipa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_hooki_zaria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/hookipa-pizzaria-sabiaguaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Sushi - Eusébio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171018_1149c149-4f52-455e-acb6-6fc7445f9e7a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/rei-do-sushi---eusebio-sabiaguaba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251338_eb2453bd-9c7b-4546-9211-9a630bba04bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/don-burgers-coacu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hunter Bbq",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_hunterbbq.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/eusebio-ce/hunter-bbq-mangabeira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "EUSEBIO",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,606 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atração Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080736_0127fb76-0545-4c1b-9787-13bc576c56e1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/atracao-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Castel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181544_5c089773-60e9-47ae-874d-13964b5eba1b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/massas-castel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Lanchonete Gênesis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712151658_1f51a318-c196-4698-925a-c447adc55bf9.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/restaurante-e-lanchonete-genesis-duas-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacalhau dos Alpes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261814_533936a4-77e4-4dce-9ceb-3dbf55bc807d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/bacalhau-dos-alpes-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Drink Deli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100917_c813d6d0-c259-4db1-91d4-90dac3c1262f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/drink-deli-parque-dom-joao-vi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob'S - Friburgo Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061311_62a1676b-9563-4954-af6c-da37263a6bf4.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/bobs---friburgo-shopping-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Restaurante O Bode Expiatório",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070909_03d7ad6a-4ef0-4b17-af8c-b5acb84a159b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/bar-e-restaurante-o-bode-expiatorio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dia a Dia Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201201_4af31bde-f748-4d53-aada-64ca09a41015.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/dia-a-dia-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121206_939bd34e-3851-49c8-b35b-d5def7a61500.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/emporio-beer-conselheiro-paulino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAMBURGUER NA BRASA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121659_a94ea053-6691-4eab-b3ee-5f9715ea0ffb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/hamburguer-na-brasa-jardim-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Coelhão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061253_167a71ab-a445-4928-acfa-13ab45e3dc34.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/pizzaria-coelhao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ranguu's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230639_c3724c11-e37c-4857-997f-fa7726946296.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/ranguus-perisse",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Família Para Sempre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241250_bbeac90d-98ae-4997-9026-5d99e5796a55.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/restaurante-familia-para-sempre-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Mariley",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051851_f9d64d8f-b16f-4b1d-af97-a24fab2208c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/restaurante-mariley-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290926_fb0124c0-b240-431a-ad15-c54da0f151c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/sushi-house-conego",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tom Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211118_1921ef6e-3eaa-45d3-a26d-9564717f1758.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/tom-lanches-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viachopp Tabacaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300728_dca52c8d-6709-4e59-9b5b-a1148313908a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/viachopp-tabacaria-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água na Boca Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130951_c3eb07c4-0778-4ad9-8427-20d024e570a2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/agua-na-boca-lanches-conselheiro-paulino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Girassol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041643_335f5b18-bb32-4d90-b7b0-2e8827aeea2f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/pizzaria-girassol-sao-pedro-da-serra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fm Salgados Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709272018_c00399f1-52bb-4e77-a143-01e1390ff78b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/fm-salgados-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prediletta Nova Friburgo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051512_8838a75b-1c62-4839-9fa4-3623ac98338b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/prediletta-nova-friburgo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "New Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706120849_ff0bc576-b34e-4970-952a-e5ee71967c4e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/new-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petiscos da Biza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201427_668d0f66-20b1-4e82-9b51-d1b0924057bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/petiscos-da-biza-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Submarine",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231351_da406866-560b-4c13-a81e-3d6940ec5d89.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/mister-submarine-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cocó Frito Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190913_53995ec5-1d02-4b47-8382-be2922d9d2cb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/coco-frito-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Parada do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201319_c75b88eb-e8d7-4447-a57f-4593bcea3aef.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/lanchonete-parada-do-pastel-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oriental Muto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190821_9235b1c3-717c-4429-a8e5-597e6120ef01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/oriental-muto-conselheiro-paulino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casarao de Minas - Nova Friburgo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271024_d95f48c4-e05e-4b2c-8717-a546ec7f3702.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/casarao-de-minas---nova-friburgo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massa Da Serra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705110847_cb7db859-4e45-422f-97f1-c9f954366a4d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/massa-da-serra-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Serrana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300859_2b8405c3-e1f7-42a1-963e-05570e43cc44.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/pizzaria-serrana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MINHA BATATA FAVORITA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261014_8ad2aeda-2183-453a-b658-04f1b0dc66a9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/minha-batata-favorita-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Lanches Pingo´s",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051129_5f9a0ac6-f311-42fe-9b31-540619a42de6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/super-lanches-pingos-ypu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Rapha Pizzaria e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709052035_7d3017e0-a79d-418b-af3b-7d444f149062.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/tio-rapha-pizzaria-e-lanchonete-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101009_b6f617bd-6eec-47c4-b312-e474546929ea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/yakisoba-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fran Gourmet - Nova Friburgo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081513_cead0168-75b1-4416-8869-d43952aece71.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/fran-gourmet---nova-friburgo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Costelão Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071604_6b9bec07-3b71-46f9-96df-5aa4ffeb5c48.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/costelao-restaurante-duas-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia e Restaurante Show de Bola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300925_5eb641e8-a7d9-46c0-b8a0-9bd97c4fc03a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/choperia-e-restaurante-show-de-bola-parque-sao-clemente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Friburger Steak & Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191005_97dba8ed-248d-4b6f-9a17-ec59abf61609.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-friburgo-rj/friburger-steak--grill-conselheiro-paulino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA FRIBURGO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

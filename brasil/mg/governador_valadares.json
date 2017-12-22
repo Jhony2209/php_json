@@ -1,0 +1,870 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Gov. Valadares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200019_b92274a8-26a1-40ad-acd8-393894a36adb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/brasileirinho-delivery---gov-valadares-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaiteria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120857_0356e75c-c4ea-4562-a217-d6dfeaa67ca6.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/acaiteria-gourmet-vila-isa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho dos lanches do povo de Deus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111704_bb465b63-f785-4c78-a725-c0d8db4b73ff.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/cantinho-dos-lanches-do-povo-de-deus-turmalina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheese pizzaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111232_7cde3035-5243-4ad2-848a-122d8dd16692.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/cheese-pizzaria-e-hamburgueria-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorvete Amigo Gv",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101910_d487c504-86fb-4d63-8e3b-79a612297be6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/sorvete-amigo-gv-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Governador Valadares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192322_0a2c7ca2-8f17-4aa0-88d0-3f4e2e716702.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/bobs-governador-valadares-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toque de Mestre Cozinha Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311335_b05fc737-51c8-4536-a27b-b96d09408d59.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/toque-de-mestre-cozinha-arabe-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Hermanos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271539_e8b024b3-c90d-495c-a592-b7e9187c29e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/los-hermanos-gra-duquesa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mustache Hand Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301459_62b89069-ef06-4640-bd37-a5a68be99bcb.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/mustache-hand-pizza-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Natura Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_NATURAACAI.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/natura-acai-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tarrafa's Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121509_9ba1414f-6e31-4f94-a5a8-3f7ebdc5c8d7.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/tarrafas-bar-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meat Please",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702230946_MEATPLEASE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/meat-please-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grelhados burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291644_bdbc90a7-22dc-4f11-8cc9-394336e4ce7c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/grelhados-burger-morada-do-vale",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Cd",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291004_cc9f032e-af5e-4659-9dba-acdba0f9df70.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/subway-cd-sao-raimundo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Max Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240958_93093915-ec9d-4fd6-b649-05e2ed51ca51.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/max-burguer-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaídera Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060714_34e46244-8fcd-471e-839e-553197ede8c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/acaidera-mix-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Gospel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151205_9fbe7e1e-e824-45e1-babe-efa96e19a6bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/lanchonete-gospel-vila-isa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados GV",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271329_4942f9bb-dd5b-4799-9fca-925a8948cc22.png",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/salgados-gv-santa-rita",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gauchão Vale Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210928_GAUCH_VERDE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/gauchao-vale-verde-santo-agostinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Gv Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020913_1bf60a7c-1396-4722-8e92-6b9131886a15.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/spoleto-gv-shopping-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141833_86847c16-8c5d-43f9-8327-203a2e4aff7a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/box-mineiro-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brutus Burguer GV",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711041804_dc4ba6da-d853-40d9-a5ac-f8127ebcb566.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/brutus-burguer-gv-santa-rita",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du e Lu Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121445_5e37f4e0-595b-4dc2-b126-09437585319b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/du-e-lu-delivery-vila-do-sol",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Familia Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170744_a376b98c-87d9-4556-92dc-f35a93d4c11e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/familia-lanches-jardim-perola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HotGrill Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050741_697839cb-44d5-4853-ab70-c9e2785b701c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/hotgrill-restaurante-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711142355_38f3d804-d25f-4a78-8c82-e22036ea7152.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/master-food-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUEENS BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091406_b0b18208-f06f-4a13-ba84-39cbee945be6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/queens-burguer-santa-helena",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Waldinelly Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141803_3180ffe6-f256-4d53-b266-75505b1e2df1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/waldinelly-pizzaria-esperanca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhora Empada Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181431_33126d66-3709-4318-92c0-9a4af969b89a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/senhora-empada-lanches-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eds Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301900_10d50d76-4eef-495c-80bc-d9ec7c71c340.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/eds-burger-ilha-dos-araujos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MESTRE-ITA HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291441_067ab390-94fb-4c48-8391-0b0ad39e2a85.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/mestre-ita-hamburgueria-gra-duquesa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vieira Louback  Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051039_cd6b6d6d-ff00-4e11-92e1-83d6353f80cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/vieira-louback--hamburgueria-sir",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221641_936ece41-0ff7-4c46-9e80-a8a4922e48a2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/kaza-bar-sir",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Freedom Hot Sub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705200929_72db3cb4-828e-4f9f-b29a-ef5078834faa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/freedom-hot-sub-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IT´S BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo its_LARAC_SANAL.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/its-burger-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonanza Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040829_e5704fea-d6d0-4bc8-8cbc-6d62dafc13da.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/bonanza-pizzaria-elvamar",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ebenezer Pizzaria E Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/88eaec94-e46e-4399-9764-80132ce2bcbf/201711291907_23621.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/ebenezer-pizzaria-e-lanchonete-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Pizza Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100719_ARTPI_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/art-pizza-pizzaria-santa-rita",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Tao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703162130_CHINATAO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/china-tao-ilha-dos-araujos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Inez Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702020833_DONAI_RANT01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/dona-inez-restaurante-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPASSO PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041729_9ee91f10-6811-499b-aef9-319a21fba5af.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/spasso-pizza-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Serve Bem Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701311254_SERVE_SEIRA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/serve-bem-comida-caseira-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280918_9d89fcca-dfb3-4e2d-98ff-c2ac1cfc4148.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/top-pizza-delivery-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alcateia Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706042307_b1db03db-ce4f-450d-bba4-9f51839889a0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/alcateia-hamburgueria-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jeito Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702160756_JEITOMINEIRO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/jeito-mineiro-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "America Pizzas e Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120938_065ac339-2c70-435e-b5f7-3bf9c28d6e12.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/america-pizzas-e-sanduiches-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/6ecf86b7-50ef-4934-8664-ed0615449887/201712132143_logo3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/lanchonete-paulista-ilha-dos-araujos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tsunami Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702151408_TSUNAMISUSHI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/tsunami-sushi-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Two Brothers Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310935_221fead8-14fd-4f4f-94a0-5f4e947c5e0e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/two-brothers-burger-santa-rita",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Umami",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131642_ade48b6e-46e7-4429-bc01-c3f73fe84b08.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/umami-ilha-dos-araujos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Itiban Comedoria Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161036_cf525115-fdad-4966-aaaa-b19b2fc5a659.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/itiban-comedoria-japonesa-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Davi Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702151111_REIDA_CARI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/rei-davi-petiscaria-jardim-perola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Berrantão Cervejaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251437_7c238908-0092-4e70-9bb1-a53a3f5c97f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/berrantao-cervejaria-e-restaurante-lourdes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Gv",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191349_a775be73-4acc-4136-923a-43bf7625ec06.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/subway-gv-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monpane Grã Duquesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051054_629fc858-5be3-4530-a4d1-757b197956f1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/monpane-gra-duquesa-gra-duquesa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EL BUEY DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170936_141070f8-a43e-4271-b258-1711b6d18e11.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/el-buey-delivery-vila-bretas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faceburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031215_FACEBURGUE05.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/faceburguer-sao-pedro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vita Suco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051024_7e195137-366e-40d9-9624-7ba731e93b5c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/governador-valadares-mg/vita-suco-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "GOVERNADOR VALADARES",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+]

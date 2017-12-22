@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria E Pizzaria Caminho Da Ilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_CHURR_AILHA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/igarassu-pe/churrascaria-e-pizzaria-caminho-da-ilha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IGARASSU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pitt'Z Massas E Grelhados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061411_c215a7a1-681e-41d7-9524-baf7d0f77674.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/igarassu-pe/pittz-massas-e-grelhados-tabatinga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IGARASSU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

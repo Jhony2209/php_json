@@ -1,0 +1,63 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu Gravata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181636_6afb3364-a5a7-45b3-9e89-39470c5790e1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravata-pe/bebelu-gravata-gravata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BURGUER FIT & GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131041_cb4ba119-6a5a-4f14-a029-78166d989985.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravata-pe/burguer-fit--gourmet-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Like Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081144_LIKEBURGUER.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/gravata-pe/like-burguer-alto-da-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ozaka Express - Gravatá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301017_32b5ba1131014b69a089e7ae72bffc83.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/gravata-pe/ozaka-express---gravata-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GRAVATA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

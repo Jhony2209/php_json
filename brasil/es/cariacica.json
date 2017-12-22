@@ -1,0 +1,644 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EMPORIO DAS BEBIDAS ( ACAI )",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011018_2df38776-2ec7-4aef-a2d4-f09013b8e21f.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/emporio-das-bebidas--acai--jardim-america",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock Burger Cariacica",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702140813_ROCKB_ACICA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/rock-burger-cariacica-vila-palestina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Fontoni Cariacica",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181247_2aa49a30-d9b4-4ae5-a18f-89dca5b70921.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/chef-fontoni-cariacica-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DONA ROSA BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141447_a73ca269-e54b-4886-a4e3-cb3df349ba51.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/dona-rosa-bar-morada-de-santa-fe",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias da Valéria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161835_bd5b2343-3cd7-4ef7-9ab3-789184324452.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/delicias-da-valeria-aparecida",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310818_a22a467e-b8b4-4312-ac56-dffb6f256743.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/emporio-da-pizza-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOT CHILLI PEPPER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271449_3fc729b1-3d28-4328-be53-264e685b48c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/hot-chilli-pepper-porto-de-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Lulu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190803_9f40b556-792b-44a7-b007-ec8e15348e91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/hamburgueria-lulu-alto-boa-vista",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KGK CHOKOLATE  DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131020_e2a5bc7c-e1f7-4346-8775-6847a3141121.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/kgk-chokolate--delivery-vista-mar",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kasanostra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131026_bd5de88a-be2b-4bff-a057-a5f017b3ec2f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/kasanostra-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Piratas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091329_11a0f660-8f86-4669-b42a-16cc62b9990c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/lanchonete-piratas-santo-andre",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mais por Menos Bebidas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011122_c273a7ee-0e91-426f-857c-0de9e3281bd5.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/mais-por-menos-bebidas-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Petiscaria do Rico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101736_40177ad3-9f62-479f-91db-0b29c38d23ce.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/pizzaria-e-petiscaria-do-rico-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "empório do açai cariacica",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709071031_39a4feee-09ec-4cbc-a513-65057e30cd87.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/emporio-do-acai-cariacica-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bakana Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191033_b0a2023a-7419-433a-a5c7-2a2b20c99a4f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/bakana-brasil-campo-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701271110_SUPERBURGUER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/super-burger-campo-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121337_68d0a604-0192-4d24-a521-a5d695c7a749.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/box-burger-itaquari",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Ice Cream",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707150810_700bee77-a77c-4675-ab44-c985ef0045b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/hot-ice-cream-itangua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "açai da + um",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706230932_cd971903-7b17-4835-a39c-9a226f6cf7f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/acai-da--um-bela-aurora",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperial Lanches açai e sorvetes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200833_6616c0e7-95bb-4da9-aa94-e00fa9e7643c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/imperial-lanches-acai-e-sorvetes-nova-rosa-da-penha",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAR E LANCHONETE DU ZÉ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090930_e940d235-a393-4707-bd9f-91af6fbea0d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/bar-e-lanchonete-du-ze-nova-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frangão CG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051133_76a241c3-9633-4e24-9fa7-254c149c159c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/frangao-cg-tiradente",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091613_9b9aa3ff-d856-443b-a2b2-4c7660d6a229.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/cantinho-da-pizza-bandeirantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lar Lanches e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281013_48a5ebac-3411-4dd6-a4dd-cd0beb73f79f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/lar-lanches-e-pizzaria-rosa-da-penha",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NINO'S PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040908_2693ad99-7a62-4b75-8480-70306794c388.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/ninos-pizzaria-itaciba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Bonna Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160951_5fb7d2fd-cc78-4f5b-9bf9-e296e33dcb6c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/la-bonna-pizza-santa-catarina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/50876974-bf5f-4702-b24d-909eb430e35a/201710310619_faceb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/burguer-house-bela-aurora",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchão Da Hora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291150_465467dfdf6a417a8a735a1e78384f84.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/lanchao-da-hora-sao-francisco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LANCHONETE DO CHIQUINHO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051131_1c7fad16-f3ea-48f8-8d84-0346df26d1b4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/lanchonete-do-chiquinho-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Usina Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131546_d332278a-1858-4cff-bb14-da6e09448ca7.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/usina-gourmet-cariacica-sede",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Point",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161133_86352096-b0ef-4a7a-a2e8-f73bdbeefafa.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/pizza-point-sao-francisco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FACEBURGUER ACAITERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706220747_5f3bbc33-7c75-40fa-b274-827295fa9df6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/faceburguer-acaiteria-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mec Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710272001_6ed1ecb7-a1a4-4597-92bf-081728d8fce8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/mec-burguer-delivery-itaciba",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperato Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101455_97b162be308e42558fc8f66028a0fee2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/imperato-restaurante-boa-sorte",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonna Pizzaria E Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040817_BONNA_HARIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/bonna-pizzaria-e-esfiharia-vila-palestina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kibrazão Pizza E Grill Campo Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_kib_kibra_rande.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/kibrazao-pizza-e-grill-campo-grande-campo-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Lanchonete Muralha's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011156_21004c2e-7cfd-43ca-8bbf-27ebb00a78be.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/restaurante-e-lanchonete-muralhas-nova-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bifão Steakhouse- Shopping Mouxuara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ifood-02_bifa_BIFAO_XUARA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/bifao-steakhouse--shopping-mouxuara-sao-francisco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271726_607c31a8-fe2f-4511-af4f-b1bf9c8eab33.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/brasileirinho-delivery-campo-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giga byte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241146_3e8a5d68-8592-4e49-8d66-482e788ccacb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/giga-byte-campo-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante da Leia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271221_591e5f79-f835-4d09-b214-357f0b50bbfa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/restaurante-da-leia-nova-rosa-da-penha",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rustic Burger Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231939_497e0f08-a434-4999-85a7-3d01fa27deb6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/rustic-burger-gourmet-sao-joao-batista",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOP BURGER CARIACICA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111527_d267a033-bdd9-4405-be58-2ca0b2dd22e7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cariacica-es/top-burger-cariacica-santana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CARIACICA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }]
+

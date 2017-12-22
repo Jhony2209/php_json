@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas da Ma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041538_153b1a41-0bdb-4512-807b-7b22db5bfeae.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/ibipora-pr/massas-da-ma-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IBIPORA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

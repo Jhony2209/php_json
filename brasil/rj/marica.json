@@ -1,0 +1,143 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SOL A SOL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281316_307668ad-580c-406f-9b53-b5d108f07e89.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/sol-a-sol-barroco-itaipuacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alô Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221208_adbe72f7-3ec9-446d-a1b0-05930d74eb47.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/alo-massas-sao-jose-do-imbassai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Damila's PUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011116_eef9c992-1685-4c9d-a9a5-ebd0668c3ff1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/damilas-pub-jardim-atlantico-oeste-itaipuacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Olivers Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712150824_0c61c9de-bde2-47b9-a620-9b6f90de0b7c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/olivers-pizza-sao-jose-do-imbassai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Raro'S Burgues - Itaipuaçu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703121444_RAROS_PUACU.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/raros-burgues---itaipuacu-jardim-atlantico-oeste-itaipuacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Perrí Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051116_349c10c4-2351-47cb-9d38-99d3fe1ac554.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/don-perri-pizzeria-inoa-inoa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "socio's beer hamburgueria gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040857_878788a5-54f5-4283-9e1a-f55a54cd36b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/socios-beer-hamburgueria-gourmet-barroco-itaipuacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PITITOS BURGUER DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709250930_6058dae2-bfd2-42b7-89ee-cdb1d9ae41b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/pititos-burguer-delivery-rincao-mimoso-itaipuacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paladarium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200643_ac8f7eac-a5c5-4a7f-a7c9-15de3753803b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/marica-rj/paladarium-itapeba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARICA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

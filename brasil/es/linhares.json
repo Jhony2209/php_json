@@ -1,0 +1,47 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051238_53726674-4683-46c1-b739-2a401f9b6e5b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/linhares-es/food-express-araca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LINHARES",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabre Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fabrepizza_fabre_zaria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/linhares-es/fabre-pizzaria-interlagos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LINHARES",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fazzollo Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151455_f3fcf41b-3bf8-423f-9e35-1e1c66288c70.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/linhares-es/fazzollo-pizza-delivery-nossa-senhora-da-conceicao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LINHARES",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }]

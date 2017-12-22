@@ -1,0 +1,47 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arabesto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120845_d88f3b1b-8758-4781-b28e-c55b5a84118e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/toledo-pr/arabesto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TOLEDO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BARUK ESFIHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231231_5113147c-a278-4b9c-a8e5-bec4df7428ec.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/toledo-pr/baruk-esfiha-jardim-porto-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TOLEDO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ookii Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051809_41a5ce7e-5886-4ddc-a343-e112f281951c.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/toledo-pr/ookii-sushi-delivery-jardim-gisela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TOLEDO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

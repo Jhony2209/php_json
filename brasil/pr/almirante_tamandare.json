@@ -1,0 +1,127 @@
+ [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fina Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071353_a097c12e-713f-4344-88a2-b66f385de5f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/fina-pizzaria-vila-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nabih Sfiharia e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271919_1f765403-d94d-491a-86e1-57f891acf8cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/nabih-sfiharia-e-pizzaria-jardim-monte-santo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141828_39d409bf-a304-4da2-8e32-d918b802a686.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/sabor-da-pizza-tangua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wan Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300932_7fb4ad4a-03c7-4c6c-a4b6-6635f90a5e79.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/wan-burger-botiatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hora da Fome",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011432_0e34a842-4c0e-4cfe-b95d-674eb7bdbbde.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/hora-da-fome-vila-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Zampolli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711292005_20b6a254-7de5-4bbe-b51a-b22589c4a047.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/pizzaria-zampolli-loteamento-marinoni",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deu Fome Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_deufo_press.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/deu-fome-express-cachoeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo frango a_FRANG_ICAN06.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/almirante-tamandare-pr/frango-americano-vila-rachel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALMIRANTE TAMANDARE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

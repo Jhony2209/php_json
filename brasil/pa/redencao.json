@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bambina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061136_26e24e6bf36540dcb0e063deb7905c63.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/redencao-pa/restaurante-bambina-vila-amorim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "REDENCAO",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

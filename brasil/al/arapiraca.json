@@ -1,0 +1,44 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carijó Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011043_beef88bf-da1e-47ff-9702-dfaf8c1205d7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapiraca-al/carijo-burguer-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAPIRACA",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bendito Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo iFood 43_BENDI_URGE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/arapiraca-al/bendito-burger-zelia-barbosa-rocha",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAPIRACA",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gelatto sorvetes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120854_e92920b1-b2a1-46b2-a16c-58985be0bf2b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/arapiraca-al/gelatto-sorvetes-baixa-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "ARAPIRACA",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Club Maiobao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021220_78c25a62-3ac3-450a-bfd8-8b24aaa4b644.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paco-do-lumiar-ma/pizza-club-maiobao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PACO DO LUMIAR",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }]

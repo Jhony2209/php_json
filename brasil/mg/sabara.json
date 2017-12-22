@@ -1,0 +1,207 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FOOD FITNNES BH",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1_FOODF_NESBH.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/food-fitnnes-bh-ana-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261023_59430620-ce95-4033-8bf5-026c396ba56b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/mega-lanches-vila-nova-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Especial Hamburgueria e Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261411_31d8c768-8bb7-41a4-accc-95b1f0bf912e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/sabor-especial-hamburgueria-e-acai-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DI ROMA PIZZARIA FORNO Á LENHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111539_a5cf3569-12aa-4def-aee8-8781fd198926.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/di-roma-pizzaria-forno-a-lenha-novo-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MacBurger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021013_83a3e741-d990-4d78-ae1a-9c04a2568968.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/macburger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno di Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161351_33e9a56f-0478-445e-8002-858345454a6c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/forno-di-italia-ana-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coma tudo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310901_bee983ad-2ba1-4662-8aed-9bc08f702870.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/coma-tudo-novo-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Marilia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161000_9ad4d8a9-3713-42f5-81b0-69aad5a54102.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/pizzaria-marilia-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garage Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091942_42bb7ce2-9784-4ee3-b8d9-1b5b14a2d58e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/garage-burger-ana-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Biruta Gastrobeer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111230_f25e5da1-b187-4fc7-b254-907a35b0ce2a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/biruta-gastrobeer-nacoes-unidas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King do pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051554_331911e6-4dfb-44ab-a0c9-361c4d0662fd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/king-do-pastel-nacoes-unidas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pratto Chic",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151131_ff6198cf-9c84-46a1-ba3e-f45bd58cd4e5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/pratto-chic-vila-nova-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUPREMO AÇAÍ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271316_d80b1d0c-46c3-4db9-9ec3-d72b7582ba1d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sabara-mg/supremo-acai-rio-negro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SABARA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

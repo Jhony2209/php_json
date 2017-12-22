@@ -1,0 +1,351 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091716_f691d01d-06c5-4bd0-a10e-51991d2a9856.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/dom-natural-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Concept Store",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231111_0b481af3-83cc-457f-acac-82936fea86c2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/acai-concept-store-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas do Vale",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101646_34e9757e-4879-4fd5-9a53-73ec6b5a76f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/massas-do-vale-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rias de Vigo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140721_9c502469-7282-4a42-93fe-65744c1ab65d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/rias-de-vigo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sushi Express_SUSHIEXPRE03.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/sushi-express-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deco's Hamburgueria & Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031445_5099c5cf-1943-41c2-a993-10e65657d728.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/decos-hamburgueria--comedoria-areia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Villa Romana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311518_5db41df5-a9a8-4f20-b5fa-fd7e05516cc1.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/pizzaria-villa-romana-areia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Club Orla 92- Cafe e restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031025_c0a64fac-f4e0-496b-af61-163503df9e48.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/club-orla-92--cafe-e-restaurante-atras-da-banca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bis Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290838_963522a5-9baa-4e58-aa0e-8e908c1bdeeb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/bis-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laça Burguer - Petrolina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/h bjn_lacab_olina.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/laca-burguer---petrolina-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bode Assado Anita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271019_a7aa6251-e7a2-4c2c-b587-fffb236ca170.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/bode-assado-anita-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Super Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704060928_9c657bd2931f4ba1bb33f84b2a53aaa3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/restaurante-super-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante China Em Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300820_29497fda-814f-442d-900c-733cc46b5ba2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/restaurante-china-em-casa-areia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Onishi'S Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291324_f1622b90-1c67-4380-bb25-fd0c680db92f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/onishis-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Empório Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281248_94f0a22ec58f47159b018b6e62a155b4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/sushi-emporio-oriental-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Gourmet Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291227_eb9f2e79-a6a7-4fd1-a880-0e70f5df6078.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/emporio-gourmet-hamburgueria-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Berinjela Matuta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040918_BERIN_ATUTA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/berinjela-matuta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero Cubano Pizzaria & Creperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020929_8ff397a5-05af-4bf9-90d1-bb159e96a54e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/tempero-cubano-pizzaria--creperia-vila-eulalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261102_01892ea3-fb81-4c77-bd10-0ce08bd226ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/mister-food-vila-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toq Belga Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021129_69269c38-8994-47af-a1f8-beeaa6b745dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/toq-belga-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Maluca Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161652_TIAMA_TARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/tia-maluca-marmitaria-vila-moco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Go! Temakeria - Petrolina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/go logo_gotem_olina.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/petrolina-pe/go-temakeria---petrolina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PETROLINA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

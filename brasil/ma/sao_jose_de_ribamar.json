@@ -1,0 +1,59 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240913_fa4a4cdd-c63f-4daf-abc3-1d9923f30628.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-de-ribamar-ma/mega-pizza-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DE RIBAMAR",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Club Cohatrac",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230654_e9106a51-39c6-4720-80a5-37f4d49f153a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-de-ribamar-ma/pizza-club-cohatrac-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DE RIBAMAR",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Maiobao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_IOBAO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-de-ribamar-ma/subway-maiobao-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DE RIBAMAR",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza no Porão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031437_4d480485-ec71-45eb-ba15-007e8c6826ec.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-de-ribamar-ma/pizza-no-porao-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DE RIBAMAR",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,1516 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191150_39e9b31a-c665-4c7d-be21-5d18de967623.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/dominos---olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181639_fbc55fee-eab9-4ccc-937a-ce64d2f6db79.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/china-in-box---olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken Express Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161153_9df5ab40-8d6b-4312-91c2-3bb6b611a5ae.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/chicken-express-olinda-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yuu Sushi Cave",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081849_6d7270d3-ba1a-476d-ad9f-8022149b23f3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/yuu-sushi-cave-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291018_66e3be92-f9ad-4868-9959-616e62646c77.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/subway---olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacana - Lanches E Sorveteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701171046_SORVE_ACANA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/bacana---lanches-e-sorveteria-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Degust Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Deg_DEGUS_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/degust-lanches-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passira Pizzaria - Rio Doce",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca pas_passi_odoce.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/passira-pizzaria---rio-doce-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jacaré Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241307_3eff13ba-6373-47f5-b1b0-bf64a173e12d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/jacare-burguer-varadouro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Atlântico - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo2_atlantolinda.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-atlantico---olinda-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brokas Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110714_11ca326e-2bb0-4306-8f54-074ecf5916bc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/brokas-burguer-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESTRELA DO MAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201603_178afa72-dd87-4134-8fd1-d647143a9e71.png",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/estrela-do-mar-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passira Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311008_b8b0a237-55dd-454b-8355-ca8c060d6bdd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/passira-restaurante-e-pizzaria-jardim-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Restaurante Sabor da Gente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141150_cfed90c0-5896-4d75-b83a-8a6b6e4bc660.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-e-restaurante-sabor-da-gente-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Parolle",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/parolle_resta_rolle.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/restaurante-e-pizzaria-parolle-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200040_31147d4a-bedb-4171-aa77-f9119f683812.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/brasileirinho-delivery---olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alô Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161336_c72f938b-0e1c-40bf-9e0e-278d856ef238.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/alo-pizza-delivery-sapucaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271314_fcc93efc-eaf6-4502-a5b0-280b68503f53.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/acai-mania-aguas-compridas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burgerflix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Burguer Flix_BURGERFLIX.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/burgerflix-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feijoada da Tia Lia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140820_383a89eb-d71f-4c1e-9330-9a974a73b8bc.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/feijoada-da-tia-lia-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GIRASSOL GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051110_408e312f-28c3-43b4-be9b-26612e04c7ac.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/girassol-gourmet-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HASHI TEMAKERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300922_e425f763-7635-462c-aeec-fa8a0c1f3b1c.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/hashi-temakeria-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaizoku Temakeria Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301235_9ccff88c-a8c8-4aac-9020-16edc9cce27a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/kaizoku-temakeria-express-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lotus sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710221249_c6527be7-de2f-4764-b3b1-cb05145e2c0d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/lotus-sushi-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mário pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251307_48568def-6bff-43fa-a4bf-dab722ed5301.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/mario-pizzas-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA TÁ MASSA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310925_fbd7d84f-709c-4f2b-b051-1b3f97134997.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-ta-massa-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Passira Pizzaria e Rest - Casa Caiada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091020_2103d451-9cdf-431f-9844-80fdfc56e86c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/passira-pizzaria-e-rest---casa-caiada-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Nápoles",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280909_f74b372b-231e-453f-b57c-e88dfdf70410.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-don-napoles-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE E PIZZARIA DO CHICAO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5adc2d50-fcf1-4f95-a8bc-4db8da6309f6/201712181935_logoc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/restaurante-e-pizzaria-do-chicao-fragoso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SURUBIM PIZZA - DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111750_c6765c33-8305-4157-962d-58b714d3863d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/surubim-pizza---delivery-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Lula - Comidas Típicas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131839_a38abc3a-d070-4e64-98f3-3544748cfa2c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/seu-lula---comidas-tipicas-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Space Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040946_bf8cf6ff-739a-4575-9904-445add072a3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/space-burguer-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi do Mago",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210922_f3515389-9b6b-49c2-a492-eb41fecbcd22.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/sushi-do-mago-sapucaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VAPOR18 COFFE SHOP",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191706_b2964ba9-2bd5-4fc3-ab50-27e553cb4999.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/vapor18-coffe-shop-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ANDRÉ PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301258_f31e338b-f684-49bb-8df9-68e9ce97751b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/andre-pizza-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Divina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca coz_cozin_ivina.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/cozinha-divina-varadouro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Praça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261523_39d77879-89e6-460c-aefa-8988c1b3dff3.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/cantinho-da-praca-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GREENLIFT - COMIDA SAUDAVEL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710130912_fadea0ed-c5f0-4bdb-83fe-800aac5533b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/greenlift---comida-saudavel-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotta Do Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_rottadoacai.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/rotta-do-acai-guadalupe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Patriota",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061304_d66e32b9-6363-4ec3-863c-cc430abe4df1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-patriota-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121302_890a6b58-68d7-4a20-ace0-2f2c6c0c570f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/skina-da-pizza-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Na Praça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181223_82e39e2b-35ef-4910-87a6-0ae597ef5cbd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/restaurante-na-praca-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Katashi Comida Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_kat_KATAS_ONESA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/katashi-comida-japonesa-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bong's Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201334_e5b5d841-4a52-4ff9-b7d8-4f2385cefde7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/bongs-sanduiches-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D avilla crepiocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_davil_caria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/d-avilla-crepiocaria-jardim-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Do Bonfim Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708271244_1d00e70a-4c0a-46f5-849f-74bd56680452.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/sabor-do-bonfim-pizzaria-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Haro Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706140821_2fc360e6-3bc6-4ecb-93fe-33fc505d5444.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/haro-sushi-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandwichs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sandwich_sandwichs.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/sandwichs-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gibi Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201148_abba6d27-f318-46f4-a74d-5d1039a8aa22.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/gibi-olinda-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sherlock & Dog Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Sherlock_SHERL_LINDA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/sherlock--dog-olinda-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUSHINOBI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271157_385372bc-f55e-4a16-a6ad-a83bd5e5c834.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/sushinobi-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Suco Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031719_79f48ca8-c547-4ebd-93e1-72748dd96ffe.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/seu-suco-comedoria-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231005_1a444a1f-8fca-4ca4-aee7-bba1ac303d3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/donna-massa-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Osteria Italiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181611_2fb0f9d4-8d17-42ae-8a64-2994f2afd1f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/osteria-italiana-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Gusta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281601_34ed9bb0-f832-425b-ac0e-14f4a29f213e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/dgusta-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241116_cd2a5863-0fb4-4cb7-a37b-b10c8085829d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/expresso-burguer-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Da Pizza E Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200834_13692ecd-6473-4818-9947-14276ea25f86.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/point-da-pizza-e-acai-sapucaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guinashi sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030849_3c74e8a2-8767-487e-8057-049fde3348e0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/guinashi-sushi-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mizu Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGOMARCA MIZ_MIZUT_KERIA.JPG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/mizu-temakeria-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Cucina Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1_lacuc_zeria.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/la-cucina-pizzeria-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Burguer - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291629_5b26875e-ab87-4025-a225-7f47ac5588cd.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/mega-burguer---olinda-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bakana'S Sorvetes E Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704190825_08c21b60-3b42-4406-82f6-5cd89c6e9f7c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/bakanas-sorvetes-e-lanche-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A FABRICA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_afabr_pizza.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/a-fabrica-pizza-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QuemTinha? Delivery Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706300845_60d5143d-a8c3-404c-b6f0-4281d4410483.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/quemtinha--delivery-gourmet-bultrins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point do acai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211605_005bff1e-c2f2-47a7-ba7b-4e6c659c0de1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/point-do-acai-salgadinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Comer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca D'C_DCOMER.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/dcomer-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "N&R Delivery Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181400_3ef776d3-dae3-451e-88bf-96172a990ea1.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/nr-delivery-oriental-peixinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Zap Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca piz_pizza_doria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizza-zap-comedoria-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cone Like",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cone_conelike.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/cone-like-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fut Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704220926_be5c9c91-0504-42c4-b8d1-8bbb3256baf2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/fut-burguer-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DO GORDO OURO  PRETO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281632_23527149-b386-41be-8b68-39d33295963e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-do-gordo-ouro--preto-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comedoria Cruzeiro do Mar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141507_2b9a20d5-4e41-4c91-a2d9-cf533d82f49d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/comedoria-cruzeiro-do-mar-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Gordo Tabajara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703071441_PIZZA_AJAR01.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-do-gordo-tabajara-varadouro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bode Do Nô - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bode_boded_linda.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/bode-do-no---olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzapraça Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/marca_pizza_p_pizzapix.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzapraca-olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Clube Da Pizza - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Clu_CLUBEDAPIZ01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/clube-da-pizza---olinda-varadouro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gostinho Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031208_GOSTI_SEIR02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/gostinho-caseiro-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Show Do Mar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_temak_doma01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/temakeria-show-do-mar-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Henargio's - Hamburguer e hotdog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011054_ffcffea0-f1ba-4b20-be24-652cf268742e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/henargios---hamburguer-e-hotdog-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150913_63453778-3f17-4b3e-8bd2-e04e0f8341b7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/master-china-ouro-preto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Benetti Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ben_benettipizza.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/benetti-pizza-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bultrins  burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709112051_8890a530-4d4a-4812-ac99-d8540d487a9c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/bultrins--burguer-monte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capricho Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_CAPRICHO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/capricho-restaurante-e-pizzaria-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jack's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712151416_af2cc4d5-e358-4223-abd6-4eb206eeceee.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/jacks-burger-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Klepsy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/klepsy_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/klepsy-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laça Burguer - Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_laca_bur_LAÇAB_LINDA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/laca-burguer---olinda-bairro-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magrila´s Burguer Olinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Magrila´s Oli_MAGRI_LINDA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/magrilas-burguer-olinda-peixinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Pizzas E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mixlanchespizza_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/mix-pizzas-e-lanches-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Natura Light",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021117_19f50f0f-6014-4d35-8340-48a5a7488ffb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/natura-light-bonsucesso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Lazer Pizzaria E Churrascaria -Caiada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/olazer_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/o-lazer-pizzaria-e-churrascaria--caiada-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Lazer Pizzaria E Churrascaria Rio Doce",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/olazer_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/o-lazer-pizzaria-e-churrascaria-rio-doce-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Odara comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191948_05ae0031-9f86-4cd9-968e-f7e67ded9c2f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/odara-comedoria-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Viciu S - Rio Doce",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca vic_pizza_odoce.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/pizzaria-viciu-s---rio-doce-rio-doce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMAKERIA O BATATÃO HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (4)_temak_ueria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/temakeria-o-batatao-hamburgueria-peixinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yumi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021022_9d55670b-fef7-4a95-8038-3b1123482341.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olinda-pe/yumi-sushi-casa-caiada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLINDA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

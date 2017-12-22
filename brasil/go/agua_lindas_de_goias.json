@@ -1,0 +1,31 @@
+   [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog&Burger Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201310_5363528b-74c3-4969-8604-89d4d3234f91.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aguas-lindas-de-goias-go/dogburger-fast-food-jardim-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AGUAS LINDAS DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baiano's Pizzaria e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081333_3b9fccad-e696-4943-b697-09854c09df01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aguas-lindas-de-goias-go/baianos-pizzaria-e-lanchonete-recreio-das-aguas-lindas-iii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AGUAS LINDAS DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

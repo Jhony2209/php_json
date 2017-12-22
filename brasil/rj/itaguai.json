@@ -1,0 +1,95 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "K­DELICIA BOM D+",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061904_1ec498d0-77e6-4f15-a10c-852f64d28b69.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaguai-rj/kdelicia-bom-d-chapero",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAGUAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi GO!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sushi_DELIV_SHIG01.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itaguai-rj/sushi-go-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAGUAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061140_fedd6ead-e326-4791-9467-dad5e6b9f6f4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itaguai-rj/imperio-das-pizzas-engenho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAGUAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Donald's - Itaguaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200253__MCDON_AGUAI.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaguai-rj/mc-donalds---itaguai-jardim-veda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAGUAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabiana Cristian Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120729_6834bd47-191f-4d00-9a16-ffc053fbea20.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itaguai-rj/fabiana-cristian-restaurante-vista-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAGUAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Siri Com Câimbra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo siri_siric_imbra.png",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/itaguai-rj/siri-com-caimbra-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAGUAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

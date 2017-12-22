@@ -1,0 +1,1708 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habib'S Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241039_634e17b3b6fc4d2ab2f2c371549d737d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/habibs-caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Edo- Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221326_8b6d4914-6040-436b-8928-853ecec33eb7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/edo--sushi-bar-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fábrica Di Chocolate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311524_657eb5ee-dba9-4c5a-afca-0ab07ba5d6cf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/fabrica-di-chocolate-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milk Shake Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240720_269a271f-e77e-4938-8a29-fffd9c42e036.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/milk-shake-mix-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dudulícia Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021523_eefa68a2-0be4-4f71-9ad9-ed08b7d1fece.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/dudulicia-gourmet-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaideli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291512_17ccf638-59d0-458f-9ffc-72a9a7e403c9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/acaideli-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Sport Club",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201658_ded2cb9b-6b5a-4835-a72a-de273fcfb349.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/acai-sport-club-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAÍ ONLINE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061620_1570012a-b3c4-4a61-b9e8-b66134c376da.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/acai-online-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Insano'S Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ins_insan_ueria.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/insanos-hamburgueria-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patroni Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301941_b8c6ce48-6edc-40f7-ba4d-a1969b3621e2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/patroni-pizza-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petisqueiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca pet_petisqueiro.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/petisqueiro-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Do Arrumadinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca poi_point_dinho.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/point-do-arrumadinho-jardim-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Atlântico - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703111427_PIZZA_RUARU.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pizzaria-atlantico---caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/central_centr_rgue01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/central-burguer-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Massa Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/looogo_lamas_iver01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/la-massa-pizzaria-delivery-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pães e Delícias Caruaru Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241059_66661555-af8c-4b30-87cb-2eeafed12c17.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/paes-e-delicias-caruaru-shopping-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_RUARU.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/subway-caruaru-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quanto Prima - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/marca quanto _quant_ruaru.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/quanto-prima---caruaru-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laça Burguer Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171600_LACAB_RUARU.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/laca-burguer-caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alex Comedoria Regional",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261559_69f23090-9df5-4aee-a54a-c0e72548449e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/alex-comedoria-regional-divinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paladares Petiscaria Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101111_a63db14b-ff54-4b6a-9cb9-734e7023adc6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/paladares-petiscaria-bar-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cais Restaurante Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705032116_f0273db8-6ad8-439f-bf44-7bf12b4bdd38.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/cais-restaurante-caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Asa Branca Central",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141056_25fbec31-5e3d-42cb-8498-1aad78715e44.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/churrascaria-asa-branca-central-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pães e Delícias - Shopping Difusora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101718_75d632cc-3f14-4945-8541-b7ee3e13b1cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/paes-e-delicias---shopping-difusora-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARRETADO BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141906_02349dcf-bdeb-4ab4-bdb1-3e1b9e1b4c9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/arretado-burger-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobó Shake",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111810_07b2131f-2d7d-46a2-9445-c0b66d90ddf5.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/bobo-shake-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cafe.com",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161144_df41739b-58e7-4302-8137-b88cf9fabaaa.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/cafecom-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chefinha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211343_2a6ff7f1-07db-4b6d-864b-2cc849178642.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/chefinha-delivery-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche Online Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131322_e0d5637e-77fa-4bd6-bfd9-f60c3e9ce47a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/lanche-online-caruaru-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Locca Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241027_f3b441f7-8a22-46c6-9e90-b28b1971f8d0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/locca-acai-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221435_44fbd579-afe4-4407-9dcb-528b8fda3460.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/mega-pizza-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bell' Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251106_ea143193-bcc4-4980-be87-19e57c8d5736.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pizzaria-bell-italia-rendeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RM DELIVERY CARUARU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120706_234b3a3e-83fc-4ff4-b156-29ce70d24266.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/rm-delivery-caruaru-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Supetão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211207_8d767dee-dddd-4123-904e-e542ffa80860.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/restaurante-supetao-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Lanchonete Espaço da Rose",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141033_2a8da71b-419f-4014-94c6-24694b28a693.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/restaurante-e-lanchonete-espaco-da-rose-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "THE BROWNIE FACTORY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221141__THEBR_CTOR01.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/the-brownie-factory-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tadashi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tadashi_TADASHI.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/tadashi-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapiocaria Premium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231854_ce5e8b0c-03e9-4a58-aafc-2903dc2816da.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/tapiocaria-premium-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carnívurus Steak & Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210830_8393d616-4dd7-47cb-aedc-d5b77e3962cc.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/carnivurus-steak--burger-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Da China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_sabordachina.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/sabor-da-china-centenario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tárta Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191834_c655fc6f-2188-42f5-b41a-a9253c57519e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/tarta-burguer-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amazônia Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/log amazonia _amazoniamix.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/amazonia-mix-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ROYAL BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/e24644ff-11f0-4b92-bbbb-4ba71985ac84/201710101852_logop.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/royal-burguer-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Esfiheiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161253_442aa509-8675-4d1d-8930-e749591d20f6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/o-esfiheiro-riachao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAMUTE BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301110_8df74f12-8e7f-488d-b34a-9734262a6cef.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/mamute-burguer-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Benvenuti Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091601_bdf41443-a800-4fb6-a050-d54aed5ab668.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/benvenuti-gourmet-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E RESTAURANTE FORNADA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708082043_05c7d525-abea-4ba1-9ca2-f996c126486b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pizzaria-e-restaurante-fornada-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mão Na Massa Pizzaria - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/massa_maona_ruaru.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/mao-na-massa-pizzaria---caruaru-centenario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fioruccio Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_fioru_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/fioruccio-pizzaria-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pomodoro Itallian Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241032_9b911664-9920-4e30-bcf1-a99efe1709ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pomodoro-itallian-pizza-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caçarola do Visconde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311605_a36a598e-9c2b-4d4e-bed5-8a6de2660fbe.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/cacarola-do-visconde-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Napoli Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702141549_NAPOL_RGUER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/napoli-burguer-divinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tupy Dog Burg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061347_7116d7cc-06cd-4d1d-8ea3-c69479867044.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/tupy-dog-burg-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota97 Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260936_1e1a2706-8c1e-4725-800f-d5d1fe008e42.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/rota97-hamburgueria-gourmet-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá em Casa Creperia e Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710130844_7766e841-fd2e-4f4f-a10b-36873b8f2804.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/la-em-casa-creperia-e-bistro-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salatta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_salatta_salatta.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/salatta-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOCÃO HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310802_62a4eb0a-19ce-41e0-a6a6-f2d905d80d8e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/bocao-hamburgueria-divinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yohei Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/yoheisushi_lo_yoheisushi01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/yohei-sushi-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nyoko Temakeria & Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca nyo_nyoko_hibar.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/nyoko-temakeria--sushi-bar-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dedim De Prosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271057_DEDIMDEPROSA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/dedim-de-prosa-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Pizza Pastelaria E Hamburgeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/big_bigpi_geria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/big-pizza-pastelaria-e-hamburgeria-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011219_4a0383f5-4938-4b9d-9e01-75fb29db7d24.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/big-dog-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr Boteco - Hamburguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041424_4a1af023-5b1d-4e80-aacd-d43e2765f130.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/sr-boteco---hamburguers-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Sabor Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sabor_pizza_list21.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pizzaria-sabor-paulista-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca top_topacai.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/top-acai-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eiji Cozinha Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_eiji_eijic_onesa.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/eiji-cozinha-japonesa-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Talmidim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712132228_873f2743-8677-46fe-9d36-dd00df5e3460.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pizzaria-talmidim-rendeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor do Matuto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041016_637b3c84-3c74-4906-bc03-d81cf426be09.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/sabor-do-matuto-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMAKI ARRETADO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca tem_temak_etado.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/temaki-arretado-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakissoba Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701261423_YAKIS_PRES02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/yakissoba-express-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE VIA REGIONAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161607_1ba7101d-d94e-4aca-a6a5-dc85da2102eb.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/restaurante-via-regional-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Macaxeira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca don_donam_xeira.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/dona-macaxeira-caiuca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/art_artgourmet.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/art-gourmet-nova-caruaru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NATURALIS NR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091436_460727f1-b3f8-4638-a4c1-334434e3385a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/naturalis-nr-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Napolitana Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/napolitana_napol_zari03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/napolitana-pizzaria-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rood Bike Club",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rood_roodbikeclub.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/rood-bike-club-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rs Pizza Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca rs _rspiz_seira.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/rs-pizza-caseira-salgado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701190835_MIXPI_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/mix-pizzaria-e-restaurante-centenario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pé de Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161845_278e275a-5d6a-4537-960b-2ebef0750d30.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pe-de-acai-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061023_4c63dd76-701e-4299-89ec-c8954a0fb56b.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/sr-acai-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Point Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131059_eab0a39a-7298-4a3e-96bb-985148b9b7b7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/acai-point-delivery-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Kilo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/47210245fcc4e_PIZZA_OKILO.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/o-kilo-pizzaria-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cadilac Burguer - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca cad_cadil_ruaru.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/cadilac-burguer---caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi House Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sushi_iver15.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/sushi-house-delivery-centenario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JOMON JAPA SUSHI DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041708_8b855427-cf5a-4293-965d-daa22e257c82.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/jomon-japa-sushi-delivery-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feijoada Da Fernanda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021159_2015983c-f836-4ab5-9b25-87909654d2fd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/feijoada-da-fernanda-cedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cafundó Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141135_747181e1-3f39-4921-b676-394a5bf422b9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/cafundo-comedoria-indianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Da Perua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/da perua_resta_perua.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/restaurante-da-perua-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091518_2c02646c-db6f-4e4c-9c31-2b0d40f36e0d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/pizza-house-deputado-jose-antonio-liberato",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUPETÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061756_5570c89e-11aa-4292-aab9-26a2072f6aaf.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/supetao-jardim-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Takaji",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/takaji_takaji.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/takaji-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria 111",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ham_hambu_ia111.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/hamburgueria-111-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PANINI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_panini01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/panini-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hut Dog Dogueria e Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221043_97b02b4c-ed7a-4dd2-a61e-a12da6394064.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/hut-dog-dogueria-e-petiscaria-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ozaka Express - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311233_0b3dd94c91674efb88e8194264ad7899.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/ozaka-express---caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tony Pizzaria & Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tony pizzaria_pizza_lari03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/tony-pizzaria--pastelaria-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "vitalino comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251316_8b006a8b-96db-4322-917c-85d15af7c965.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/vitalino-comedoria-nova-caruaru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Donald'S - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo - McDona_MCDON_RUARU.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/mc-donalds---caruaru-mauricio-de-nassau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Heleno Churrascaria & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_helen_zaria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/heleno-churrascaria--pizzaria-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SEU CACHORRO GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/SeuCachorro_L_SEUCA_URMET.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/seu-cachorro-gourmet-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POINT DA SOPA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281111_06328d28-7845-4497-be83-9194e39a34e4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/point-da-sopa-nova-caruaru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beach Burger - Caruaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121115_8b4aa597-5aad-4b02-b97d-b299de201c20.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/beach-burger---caruaru-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giardino Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705180849_4f89e120-9c8a-4d90-a16a-fe7d8e6ba217.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/giardino-delivery-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191831_b043c8d4-dacc-439c-869c-8c5a95738874.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/divino-sabor-deputado-jose-antonio-liberato",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Paladar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240947_14de74aa-2fca-4987-9187-cb49e5ccd48a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/don-paladar-rendeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Entre Amigos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/entre amigos_temak_migos.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/temakeria-entre-amigos-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Whatsaçai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705020718_db6d58c3-caee-40ec-928f-7c414902d243.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caruaru-pe/whatsacai-divinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARUARU",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

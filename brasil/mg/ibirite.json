@@ -1,0 +1,74 @@
+   [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prata Foods",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231224_e119bc67-fd49-41c0-bf41-d6544282183f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ibirite-mg/prata-foods-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IBIRITE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Oliveira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710151423_a7330eb6-9bae-40fc-8e65-15c8727cfe0f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ibirite-mg/padaria-oliveira-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IBIRITE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAITERIA LULU BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071243_f5bfaa12-6d03-49c6-b11d-8195ffe98559.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ibirite-mg/acaiteria-lulu-burguer-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IBIRITE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Speed Stop Espetaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020907_f54ecc07-49f1-482a-b8f6-2f173cadc742.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ibirite-mg/speed-stop-espetaria-e-hamburgueria-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IBIRITE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e pizzaria IBIRITÉ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_RESTA_ACANA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ibirite-mg/restaurante-e-pizzaria-ibirite-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "IBIRITE",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

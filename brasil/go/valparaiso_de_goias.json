@@ -1,0 +1,209 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051827_f9d6047e-6e60-4a2f-a741-9fdd79d0fb25.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/rei-do-acai-valparaiso-i---etapa-b",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas - Valparaizo Posto Antares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200318_98b2466a-db2f-4457-9cbf-3c87280c1186.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/giraffas---valparaizo-posto-antares-novo-jardim-oriente",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Savassi Carne de Sol - Valparaíso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701191046_SAVAS_RAISO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/savassi-carne-de-sol---valparaiso-parque-rio-branco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cruzeiro do Sul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280831_65d36df2-1899-4ee1-9f1c-05e381e53520.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/cruzeiro-do-sul-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog Do Edelson",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo edelson_HOTDO_ELSON.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/hot-dog-do-edelson-valparaiso-i---etapa-a",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Brenda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110716_ddd0ad55-44fc-4cc3-8ea4-e93d83b590ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/pizzaria-la-brenda-novo-jardim-oriente",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rocks burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/rocks-burguer-parque-rio-branco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nonna Mia Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo nonna mi_nonna_zari03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/nonna-mia-pizzaria-parque-sao-bernardo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Bella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702140754_PIZZA_BELL15.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/pizzaria-la-bella-parque-esplanada-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ZU'S BISTRO CULINARIA ITALIANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051052_aee5d1f4-312b-4001-895b-8782e7248377.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/zus-bistro-culinaria-italiana-valparaiso-i---etapa-a",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Favoritos Pizzaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180720_64a59e9f-a251-489c-afd9-d8d079db3b3d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/favoritos-pizzaria-e-restaurante-parque-esplanada-ii",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nikaia Cozinha E Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_nikai_aebar.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/nikaia-cozinha-e-bar-valparaiso-i---etapa-a",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paradiso Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703041031_PARAD_ZARI01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/paradiso-pizzaria-parque-sao-bernardo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Geléia Burger - Valparaíso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/geleia_gelei_raiso.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valparaiso-de-goias-go/geleia-burger---valparaiso-parque-esplanada-v",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "VALPARAISO DE GOIAS",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

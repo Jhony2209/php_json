@@ -1,0 +1,47 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guacamole de Las Tia's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121518_a5e871b7-b649-4623-9780-0b4fa7fc9ae0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/barra-do-pirai-rj/guacamole-de-las-tias-muqueca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA DO PIRAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Family Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161306_BIGFA_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barra-do-pirai-rj/big-family-delivery-oficinas-velhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA DO PIRAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE MISTURA FINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mistura _resta_afina.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/barra-do-pirai-rj/restaurante-mistura-fina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA DO PIRAI",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

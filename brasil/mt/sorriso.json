@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOI NA BRASA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101004_d782a578-17e9-4435-ab1e-68e63fa9eb23.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorriso-mt/boi-na-brasa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SORRISO",
+            "addressRegion": "MT",
+            "addressCountry": "BR"
+            }
+    }]

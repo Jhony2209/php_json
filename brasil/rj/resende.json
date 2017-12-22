@@ -1,0 +1,574 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Russo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230922_71e45890-653a-4e70-93a4-89f4a99876a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/russo-lanches-jardim-jalisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forte Apache Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704010954_05868841bc9241dd867b958aa72c2314.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/forte-apache-lanches-comercial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710092056_4601ce6d-4172-4791-89af-96f2341451b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/cafe--cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto -  Resende",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sapoleto_vr_a_spole_sende.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/spoleto----resende-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Resende",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071336_ed5852b2-86bc-444e-b39f-a32f301315e8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/dominos-pizza---resende-comercial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arak's Burger's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091231_1badd0ce-1f0e-4ff5-b88b-450b3bd9b80a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/araks-burgers-vila-santa-cecilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brownies da Rose",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181415_59e43366-cb0c-4ee0-84c1-0f82a7cca5ed.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/brownies-da-rose-vila-julieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASA DA ESFIHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160846_bc1017c8-4fea-4652-ba04-2b652bca123a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/casa-da-esfiha-manejo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cartola Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281809_4f10a776-1838-4cd3-9b67-29c55729595d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/cartola-lanches-campos-eliseos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicia Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111816_ce713f37-7c04-42e0-b302-a9a443b77c36.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/delicia-caseira-morada-da-colina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FULINMEM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711121436_8ff63fb4-c269-4158-a979-0d7b73403f66.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/fulinmem-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria da Carol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200902_e84e8d8e-058f-4f08-a0a5-87e19853e548.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/marmitaria-da-carol-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ned's Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281145_455cc220-daf2-4f2a-9365-a3f568aa8146.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/neds-pizza-delivery-morada-da-montanha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PETISCO EXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091324_c4599386-a3a6-45da-a7bb-4ed093bc6f06.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/petisco-express-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza na Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170817_6e3de08e-f890-4b0e-9218-1cbd0a5086b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/pizza-na-lenha-itapuca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mamma Mia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140827_8d3971c6-a63c-4f4a-83a1-1b332c71f9f1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/pizzaria-mamma-mia-morada-do-castelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Empada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190736_8c329b72-49e8-47a5-9bef-723eb81d1e6f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/rei-da-empada-morada-da-montanha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santo pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110732_2e5a9750-bbf8-4fbf-8e86-a03189720bea.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/santo-pastel-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sucomix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121352_a8f551e2-8d88-4fe5-8f7a-b89916580879.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/sucomix-manejo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TONTINA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250944_dad0a4af-dcd8-442c-abe9-82bc45cca5d4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/tontina-pizzaria-manejo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakissoba Mandarim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210828_fed52a92-1711-47e8-aa67-50cade68d217.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/yakissoba-mandarim-manejo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Feitinho Restaurante e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201324_cda6a87b-4803-4bf0-8d53-d8830cbdfe14.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/bem-feitinho-restaurante-e-lanchonete-campos-eliseos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias Paraíso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709252011_ce1eede0-c0bd-495f-875c-e011295a8a1d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/delicias-paraiso-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fry Frangos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704070901_7c439b0e35954019be9104ed92d83b16.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/fry-frangos-manejo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nosso Trailer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111008_4e84a5aa3a2345ef888248d9b3f1aa06.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/nosso-trailer-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CONTAINER GOURMET SANDUÍCHE ARTESANAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210900_e88514dc-f5c9-4bef-8fdd-8fc76c9aabe6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/container-gourmet-sanduiche-artesanal-cidade-alegria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Resende",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291028_420da393-3eb1-44c9-a9ce-e9fc144585ed.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/subway---resende-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031407_3c6eb186-80c1-4c6e-91c3-204054df78eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/real-pizzaria-cidade-alegria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Petisco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120950_7551c4eb-fc39-44f6-9342-57c7b6f2e8c1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/rei-do-petisco-vila-julieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche Carioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041144_16d562bfc1124fa9b96fecb7c6f3df0e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/lanche-carioca-cidade-alegria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Al Quadrato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050830_a79b71a4-e33d-4b19-995e-738cf01d7bc9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/pizza-al-quadrato-manejo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Youburger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291643_0d2f272bd2fc442d9c6f6e43d59cd98c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/youburger-jardim-jalisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Donald's - Resende",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200253__MCDON_SENDE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/mc-donalds---resende-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Farias Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191756_4ebc50c2-ab1c-4dff-986c-f44a122ca30a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/farias-burgers-jardim-primavera-iii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kem Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kem sush_kemsu_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/kem-sushi-delivery-nova-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Jú Lanches Saudáveis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291059_8d369f8d-c6cd-4a56-8822-88689ba7de93.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/resende-rj/tia-ju-lanches-saudaveis-mirante-das-agulhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RESENDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

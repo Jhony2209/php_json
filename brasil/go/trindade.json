@@ -1,0 +1,31 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kyume Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231141_6b30cb0c-e5ed-4adc-938a-55ec0dba95e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/trindade-go/kyume-sabores-santuario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TRINDADE",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Caramella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231250_19fc49c5-ad91-48c0-8c16-ba6ab4a3ef8d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/trindade-go/pizzaria-caramella-jardim-ipanema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TRINDADE",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

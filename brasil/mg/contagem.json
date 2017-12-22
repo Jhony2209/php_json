@@ -1,0 +1,3238 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Burger Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/11fa6aae-22c6-49de-b404-d9c0d033a6ca/201709301914_img_3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/american-burger-delivery-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rock-band-bur_rockburger01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/rock-burger-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino's Pizzas Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dominos gleba_DOMIN_TAGEM.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/dominos-pizzas-contagem-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181617_9f2f6b93-b5ad-4d20-a209-381fdd6835a8.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/china-in-box---contagem-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bela gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141023_c0146f86-ce26-4342-b38b-cb3bfd612aaf.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bela-gula-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gelado Sorvete e Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011446_8a1fb197-a003-48cc-966b-afe29340f769.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/gelado-sorvete-e-acai-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Industria da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291059_d90e5bb5-6a98-485a-9d1e-2f62d885e301.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/industria-da-pizza-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Tempero Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121313_562ec16a-425b-47ac-a16c-89838d0e28cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-tempero-mineiro-fonte-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WAVE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090755_b0ade1a8-05cf-4b37-841f-aae51401a8f0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/wave-fonte-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mellina Dogs & Spaghetti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708110847_8deb1e59-e913-425c-8508-0778f01beb70.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mellina-dogs--spaghetti-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carlos Crepes e Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_CARLO_ASSAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/carlos-crepes-e-massas-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Muxocaxuxa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201403211009_MUXOCAXUXA01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/muxocaxuxa-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BelisQ Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250830_6d26884b-0dbb-4b3e-9de5-270801fd11b8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/belisq-delivery-santa-edwiges",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAR DO SABÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311001_8dd8611c-d3b6-4f55-b842-51b7d74dc6b7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bar-do-sabao-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Django Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701130735_DJANG_RGUE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/django-burguer-cabral",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Tia Cleuza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ifood_hambu_leuz01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hamburgueria-tia-cleuza-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Betta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707021528_76cceada-db36-47a4-818e-4f5682c7ee48.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sushi-betta-inconfidentes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lan Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo b_lanburguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/lan-burguer-praia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza lider",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080812_7afc9ea9-3f0b-47cc-9b7b-76deb860a9fd.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizza-lider-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo Dos Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111020_7084c0881ec24b899e7fccd4b4723bcd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mundo-dos-salgados-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Digão Lanches - Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701260851_DIGAO_TAGEM.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/digao-lanches---contagem-ressaca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA SABOR MINEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310817_4f4f19ef-974a-4aa0-af49-44f9490d771b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-sabor-mineiro-jardim-bandeirantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jon Gastrohouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171611_0d9501ff-ac3a-4fe5-afcb-591d321048b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/jon-gastrohouse-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Extra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza ex_PIZZAEXTRA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizza-extra-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberu Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181331_TABER_URMET.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/taberu-gourmet-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropeiro & Cia - Eldorado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161221_TROPEIROCIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/tropeiro--cia---eldorado-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria Santana-Paleta Mexicana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161313_785bbeab-f281-4fbe-9bd2-27f26aeeffa2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sorveteria-santana-paleta-mexicana-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Piarello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-pizzaria_pizza_rell03.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-piarello-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Ponte Nova",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271401_34c00bb1-1827-4033-ba3e-8da07d01772e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-e-pizzaria-ponte-nova-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calábria Pizzas E Massas - Eldorado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081557_CALABELDO.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/calabria-pizzas-e-massas---eldorado-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_frang_ican03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/frango-americano-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sicilia'S Pizzaria Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sicilias_sicil_reper.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sicilias-pizzaria-hamburgueria-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Quick Snack",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707232036_73be462a-ce72-41cf-89bb-fa739658631a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hamburgueria-quick-snack-vila-sao-paulo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faraó Hamburgueria E Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041004_5a1cfd6216d7418d841ec8a8a22bbb9d.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/farao-hamburgueria-e-acai-cabral",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit Stop Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Pit Stop_PITST_NCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pit-stop-lanches-novo-progresso",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papaleguas Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251623_d0faf039-b33b-42c6-bda7-03a0529622a3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/papaleguas-pizzaria-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Acaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171312_02ea7d53-5ecc-4a60-936f-40d92aeb34c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mega-acai-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bull Fine Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030744_6e81547e-1e97-4710-9573-b8e6b02b982e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bull-fine-burger-eldoradinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Norte Sul - Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231635_b160466f-b2f2-4a90-818f-97defed37564.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-norte-sul---contagem-retiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/11894599_4671_DOMBURGUERIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/dom-burgueria-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Gerradon Burger's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181053_9de57422-1eb1-40f4-a6e5-9cdc0a00d302.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/don-gerradon-burgers-kennedy",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA BIANCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bianca_pizza_ianc01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-bianca-tres-barras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Estação da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709292031_02709299-565d-44e9-9995-979a10c5f9b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-estacao-da-pizza-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubão Tele-sanduiche e Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sandubao_sandu_pizza.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sandubao-tele-sanduiche-e-pizza-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Mix Novo Riacho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mix log_ACAIM_IACHO.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/acai-mix-novo-riacho-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Altas Horas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_PIZZA_HORAS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-altas-horas-jardim-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ACAI RAIZ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708271153_898a81e5-6a44-43ea-baff-e3e4a13284e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/acai-raiz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_pontodapiz05.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/ponto-da-pizza-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamma Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702011717_MAMMAMIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mamma-burger-conjunto-agua-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stop Beer Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702071224_STOPB_CARIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/stop-beer-petiscaria-jardim-bandeirantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano - Eldorado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Frango A_FRANG_ORADO.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/frango-americano---eldorado-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planeta Pizza - Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051654_ca4969ab-d440-4ce0-8049-8ea1958430f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/planeta-pizza---contagem-tijuco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Jardim Riacho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria-jard_pizza_iacho.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-jardim-riacho-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Amazonas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Telepizz_PIZZA_ZONA01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-amazonas-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí.Mix Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181150_c7b3e97b-ac19-441a-b823-7d243e4cad04.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/acaimix-contagem-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Fast",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131349_a62e915e-c4c0-448a-b451-0720bb44ea26.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/acai-fast-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Hamburgueria Brasil Tropical",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_BRASI_UERIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-e-hamburgueria-brasil-tropical-novo-progresso",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Japa Chan - Cabral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sushi_sushi_s_SUSHI_ABRAL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sushi-japa-chan---cabral-cabral",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Uai Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211136_cc1e22fd-ca61-40a0-b364-d60780e534cc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/uai-pizza-jardim-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Madri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281158_e2f9e461-78eb-4f56-94b6-399409423d30.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-madri-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia do Frango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290918_89ba2bf2-9b88-4217-aaa3-887e4a4af164.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/choperia-do-frango-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Amor e Alho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080751_0d9e838e-27eb-4c29-87a3-5bf65d05e646.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/cozinha-amor-e-alho-flamengo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha de casa marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240644_63a0cdf2-efd8-4655-bb3b-3cdf4a524157.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/cozinha-de-casa-marmitaria-parque-turistas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712070848_b2d60e3d-b09a-46be-b39e-4a0e68519005.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/divino-sabor-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Sabor Gerais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090731_890e4e11-c23f-4874-bee7-8c66b0cc08b7.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/emporio-sabor-gerais-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOT DOG CENTER LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201304_92d68a2d-978d-4a28-918a-17bf4205e6ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hot-dog-center-lanches-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130819_0f1474d5-f758-4fd0-9cac-9b8d3c9ef9d2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hot-dog-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Fast Hamburqueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271248_53a0156e-e694-4f9c-9e65-29622250af3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/jet-fast-hamburqueria-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA CHAPA HAMBURGUERIA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201437_3af2a6fb-4bd3-4fbb-b6fb-e25cec61da54.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/la-chapa-hamburgueria-gourmet-morada-nova",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Madruga Drinks Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131535_fec391fa-1085-4180-8156-7342f6202f23.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/madruga-drinks-delivery-arcadia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Matula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080954_84ec716b-b105-4f23-9e5d-ad7bbe89f841.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/matula-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nobre sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211212_2618b748-4e4d-4959-bb3e-dc21034044c7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/nobre-sabor-conjunto-agua-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novo Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110854_112e46a4-ebd8-41ed-8695-4ba005352d9e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/novo-sabor-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O SHI SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081213_cb1b5b22-621c-4a0c-9bb1-9fccf5bf93de.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/o-shi-sushi-recanto-da-pampulha",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Saborosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061823_10eda91b-4c49-4ef7-adfc-6761f16e8201.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-saborosa-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Castanheira's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220757_d5af9af3-36f3-44c9-917a-7a862cfa592b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-e-pizzaria-castanheiras-conjunto-agua-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante sabor do peixe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230951_381c8cb1-16d5-40c1-ba6d-865eae4108e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-sabor-do-peixe-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Route Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051245_243e1fc3-8c33-4cfd-bc1e-d010e373becf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/route-burger-fonte-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados Veganos BH",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181505_5a37c83f-4625-4558-8347-37ac180ce063.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/salgados-veganos-bh-parque-sao-joao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Taste Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140823_c6177807-aa83-476a-9167-786bf6435c28.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/the-taste-burger-ressaca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ligeirinho refeiçoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291311_3c5752b6-405e-4f6f-9376-5cecb7da7dc4.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/ligeirinho-refeicoes-fonte-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Paladar Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo paladar _resta_neir04.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-paladar-mineiro-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Margarida Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061021_16d107d4-c690-430e-a52d-ae50c539b4d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/margarida-restaurante-gloria",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hortipote Saladaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171709_efd05518-4f00-4eee-a7f7-04fd30548242.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hortipote-saladaria-delivery-cabral",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Do Peixe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291159_6d1d86cb-152e-4217-b2df-b1557a7f9211.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/ponto-do-peixe-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DUCHEF- FOOD IN BOX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/79fd11db9fa67_DUCHE_INBOX.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/duchef--food-in-box-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702020841_CHINA_ZARIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/china-pizzaria-pedra-azul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Do Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/PontoBurguer_PONTO_RGUER.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/ponto-do-hamburguer-parque-sao-joao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271147_73643b31-c0b2-44b3-8859-40b3208580ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/casa-do-pastel-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Center Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/01_cente_nches.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/center-lanches-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/foto food hou_foodh_eiros.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/food-house-novo-progresso",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo Gelado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131014_ffbcacd8-cf68-4be5-abec-ddfe1677a1be.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mundo-gelado-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza MG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091056_e7779eb9-ef93-4602-b826-668ff91c80a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bella-pizza-mg-industrial-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DIGUS BURGUER ARTESANAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281042_7969632e-121a-4979-a7bf-a85873f451e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/digus-burguer-artesanal-bandeirantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pitbull Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (2)_pitbu_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pitbull-lanches-industrial-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAISON TEMPERO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3ab22287-3153-4665-b7bb-7854a020ddc2/201708051341_maiso.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/maison-tempero-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Las Viegas Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261020_c05805f9-a4bf-45f8-a1b8-d174c0a2e296.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/las-viegas-burger-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Tradição Riacho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100826_9d4772d3-c05c-4997-b1c7-3fa63ef1e915.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-tradicao-riacho-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAIS VIGOR SALADAS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710252219_dd06e7ea-8bb4-4bbc-ba14-5404f8ba3328.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mais-vigor-saladas-delivery-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Blitz burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211055_43cec6d3-40ac-46f9-b917-493391fe5612.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/blitz-burguer-jardim-laguna",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tô Na Praça Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/TÔ NA PRAÇA_L_TONAP_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/to-na-praca-lanches-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperio Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241118_IMPER_URME02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/imperio-gourmet-jardim-laguna",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Dona Augusta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311513_0010da27-4081-4d28-b13a-d252beabab87.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-dona-augusta-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011112_9e7774c8-b68e-4893-89b3-3ef8749daf6d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/rota-burguer-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropeiro Do Zezé - Monte Castelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tropeiro do z_trope_ozez.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/tropeiro-do-zeze---monte-castelo-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COMIDA CASEIRA VIDE BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261525_28bdb024-7d85-43ab-b440-5a3140745500.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/comida-caseira-vide-burguer-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Constance House Of Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080907_5bc49a82-d806-4cd5-8eb2-f5bc285885d1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/constance-house-of-burguers-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dani Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703030927_DANIS_IVERY.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/dani-sushi-delivery-gloria",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPAGHETTI & TROPEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141502_34f77f5a-6a4a-455f-9cee-4e82ac1f2342.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/spaghetti--tropeiro-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog Do Julio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/at_hotdo_julio.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hot-dog-do-julio-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ligeirinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705230945_9d1ca69f-8d31-447c-9dd8-42ca6c6ade64.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-ligeirinho-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sapore Della Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040938_SAPOR_PIZZ06.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sapore-della-pizza-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jarbas Fine Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703220822_21c6d6c41c3e4030b561cdf6e8d55ec9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/jarbas-fine-burger-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SarAçaí Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131509_cfff8836-5d6f-4111-a2bf-b93d21b128fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/saracai-acai-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Castelli Tele Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201403311431_CASTE_PIZZA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/castelli-tele-pizza-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUICKMIX FRANGO E BURRITOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120930_5c91c640-11c0-4528-a331-2e8ca4fa97a5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/quickmix-frango-e-burritos-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Burger - Eldorado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo exp_expre_urger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/expresso-burger---eldorado-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapllis America Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chapl_rguer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/chapllis-america-burguer-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bueno Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011424_6382ce51-aa94-4b80-ace4-645c8703061c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bueno-pizza-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Cristao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231413_ESPAC_ISTA01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/espaco-cristao-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brutus Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704281900_76dd9d2e-0b9c-404a-a5d4-c236bb951c0f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/brutus-burguer-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kome Mais Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/komemais_komem_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/kome-mais-lanches-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Farley Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703240712_5f46cc970fde432f9629df7b3cf306cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/farley-burger-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "topburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708282028_af74971b-4b9a-485b-9fb0-5c39beee0fc6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/topburguer-arcadia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mirage",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261323_5dd001e3-171a-428d-9bca-3b5f9396c600.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-mirage-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quero Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311105_7af29539-8b61-4639-92b5-a3bd0db260a7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/quero-lanches-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias Cottinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711112043_d68a6278-1b4d-42d2-9622-340c87fc6baf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/delicias-cottinha-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vegas burger bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710040839_91946a78-ab55-4d56-a8fc-3163057fc058.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/vegas-burger-bar-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Pizza Minas Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161113_9d705b3e-13dc-4986-86a0-36195305b0ca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/tele-pizza-minas-italia-tijuco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lugs Shopping Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271903_23887a16-72a1-43dd-9727-deacf4b8c8d6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/lugs-shopping-contagem-cabral",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Burgueria Palate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311335_97891d3d-d0ad-4291-a13f-4f1b83d3316d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-e-burgueria-palate-conjunto-confisco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051150_bba0b12e-31a9-4029-aaae-6a743ff1f80c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/mineiro-delivery-contagem-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaiolo Contagem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaiol_pizza_tagem.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaiolo-contagem-tres-barras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brutus Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703170951_BRUTU_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/brutus-lanches-oitis",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Della Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar2_empor_pizz05.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/emporio-della-pizza-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Sabor em Pedaços",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo oficial_PIZZA_DACO01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-sabor-em-pedacos-bernardo-monteiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Tal Pai Tal Filha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tal pai tal f_resta_filha.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-tal-pai-tal-filha-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cascelli Tele Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_casce_pizza.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/cascelli-tele-pizza-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bocas e Bocas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301353_1911b65e-95f5-4484-a347-825642352663.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bocas-e-bocas-agua-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropeiro & Cia - Castelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090843_fb64e2f4-197b-4a3d-a06a-93248efb6467.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/tropeiro--cia---castelo-bela-vista",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Chic",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pastel c_pastelchic.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pastel-chic-petrolandia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabi Burguer Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705080956_cd8d7382-3aac-4428-8081-c4779610580a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/fabi-burguer-artesanal-milanez",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALTAS HORAS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO MARCINHO_BOMDE_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/altas-horas-lanches-santa-helena",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Mineiro Food Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101001_b3b96ca9-66eb-4932-9ae0-4870bf41c6f3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/chef-mineiro-food-delivery-jardim-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA PIU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211839_0fc2e3b9-2512-4f5c-a810-03b016308817.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-piu-chacara-sao-geraldo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacon Paradise - Eldorado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo delivery_BACON_ORADO.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/bacon-paradise---eldorado-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eh Massa!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/59c7b51a-c81a-492c-88c9-a59e8a3f3238/201711292130_1057d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/eh-massa-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shalom Pizzaria Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_SHALO_PRESS.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/shalom-pizzaria-express-colonial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shizuoka Restaurante Japones",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161631_SHIZU_PONES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/shizuoka-restaurante-japones-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Uai Sô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051141_0f54a201-7ac2-4fc5-83fa-4999089e0011.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-uai-so-industrial-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dob's Fine Burguer Tropeiro e Pastelão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241443_b483639d06a84899b438c16e947c4869.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/dobs-fine-burguer-tropeiro-e-pastelao-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria e Pizzaria Saborear",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021105_9f84edd9-7297-430b-8284-c521a133551d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pastelaria-e-pizzaria-saborear-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados Cottinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271337_ba5fe4e7-c5ba-4083-9ba4-5b7bc224b105.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/salgados-cottinha-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quick Mix Frango No Balde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1234567890_quick_rando.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/quick-mix-frango-no-balde-cabral",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vovó Meméia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061623_e980b5f4-7bdd-426c-bc65-ff0342618d6d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-vovo-memeia-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vovó Marly Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201836_5fad2016-721d-4e43-a3b1-3be81cb4bd99.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/vovo-marly-massas-parque-turistas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151109_8dd9f13b-c6f7-4a1c-b646-e8204f870842.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sabor-mineiro-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Della Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705220833_93b83076-4cdd-4fda-9d4d-7b581ec00d9d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/casa-della-pizza-inconfidentes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burgerlândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709171436_48fad0e0-6004-464a-8e68-9982ff6f0736.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/burgerlandia-xangri-la",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casarão Churrascaria E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo casarao_casar_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/casarao-churrascaria-e-pizzaria-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DON MARIO RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111408_d22cd189-71d4-461a-906a-7827d2ec733a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/don-mario-restaurante-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jhango Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jhango_jhang_rguer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/jhango-burguer-flamengo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Pasta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181445_d2f4737e-c163-452f-8e76-ac3a2cc8c9ef.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/la-pasta-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BUDEGA'S PUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261438_ac2eab3b-ae23-4497-bbfa-d9e3191630a4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/budegas-pub-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vida Saudável Fitmais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250819_995dcf95-7a4d-4226-96a2-bce96b36a11e.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/vida-saudavel-fitmais-milanez",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taisho Sushi Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/taisho-sushi-_taish_oung02.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/taisho-sushi-lounge-guanabara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/kkkkkkkkkkkkk_resta_seira.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-comida-caseira-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Laguna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141216_322c94d4-a8fc-40e6-9a77-d7f95320af43.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-e-pizzaria-laguna-jardim-laguna",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rasta Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-rasta_rastaburger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/rasta-burguer-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feijao tropeiro Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171408_a9f53166-96b0-479e-afa7-a95cbfafe4b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/feijao-tropeiro-restaurante-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Medeiros  restaurante & peixaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300942_4e8e638e-9b9e-416c-a4cb-edc60bcc3ecf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/medeiros--restaurante--peixaria-jardim-laguna",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Tempero Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tempero _resta_neir03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-tempero-mineiro-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados Nobres Restaurante & Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221230_12542b87-6b5b-4a08-b108-e88479914748.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/salgados-nobres-restaurante--lanchonete-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Bão Hot Dog E Hambúrguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/11111111111_dubaohotdog.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/du-bao-hot-dog-e-hamburguer-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/big gula - fi_biggula.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/big-gula-alvorada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Le Divin",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091619_b8553a3c-d593-480f-a10a-a364cc012967.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-le-divin-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fasto - Eldorado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703021639_FASTO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/fasto---eldorado-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calchorros Dogueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701131409_CALCH_UERIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/calchorros-dogueria-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabinho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fabinho logo_fabin_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/fabinho-lanches-fonte-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Força do Querer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251106_f4cdfef0-aaeb-4d64-9df2-d863d9ce26eb.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-forca-do-querer-canada",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burge'S House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/f2a0c15c-7abd-4344-b9b4-b740153b0538/201708311816_novai.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/burges-house-sao-goncalo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA BELLA NAPOLI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251141_599f431d-f00b-4a5c-b151-969e49e7e3ed.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-bella-napoli-vila-belem",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero de Mãe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131733_abe5b193-7943-4890-b8bf-d78018218f6a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/tempero-de-mae-conjunto-agua-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terraço Caipira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708180920_350789f6-af6c-4d7f-94e0-7b97fc1db5bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/terraco-caipira-inconfidentes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Efraim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704092012_a194920241b94f40a48fcd63cd9f4003.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/efraim-tijuco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Do Chefao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271159_745c52e0-4a99-4ce3-b4a1-49a84bf7c8f3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/hamburgueria-do-chefao-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seara do Trigo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_searadotri01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/seara-do-trigo-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Strogonoff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_casad_onoff.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/casa-do-strogonoff-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushikan_delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709010904_b4e62d1e-01c7-4e24-9d5e-db12c2362610.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sushikandelivery-fonte-grande",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA CHEFAO BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250621_1b6ae80c-35c3-4cf8-bf0b-3da0ca9a26d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-chefao-burguer-quintas-coloniais",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Tasca Recanto do churrasco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210814_e8d919d7-0599-412c-ab20-a2ed0002b7cb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/la-tasca-recanto-do-churrasco-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "J.Jota Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031054_d481d244-9d58-490d-8a02-acb6b4b24dce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/jjota-bar-e-restaurante-inconfidentes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ô Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702250949_OSUSHIBAR.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/o-sushi-bar-jardim-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Divino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280926_6ad16c64-7c7d-4361-8cfe-c756328e61cc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/sabor-divino-estrela-dalva",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Kuka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071234_eb3dc7781b07453e835d80e2c93b3983.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/massas-kuka-agua-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Abreu Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310837_fa4f39fb-0f19-4b42-aa13-fe6450ff33ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/abreu-burger-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dani Burgue Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2_danib_urmet.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/dani-burgue-gourmet-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pac Mam Restaurante E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703152330_PACMA_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pac-mam-restaurante-e-lanches-perobas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno Grill Pampulha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fornogrill_forno_pulh01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/forno-grill-pampulha-itapoa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nosso Cantim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031124_c488f435-9a59-4475-8db0-da6d7fc88fc4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-nosso-cantim-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Os Brothers Pizzaria E Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_osbro_iches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/os-brothers-pizzaria-e-sanduiches-perobas-2",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí com Chocolate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291410_e8ce541b-f2ad-47cd-abae-fb0e0b9afca7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/acai-com-chocolate-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CONFEITARIA BOMBONS DELICIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051233_2d755b2c-81ec-41f4-b902-e51586597841.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/confeitaria-bombons-delicia-tres-barras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia do Assado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271452_7863dc45-d9b5-4acc-bb64-c0b94ae6e335.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/cia-do-assado-jardim-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Container Bar & Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/container-bar--hamburgueria-beatriz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jonhy'S Point",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180854_JONHYSPOINT.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/jonhys-point-tijuco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Valdete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051100_429c5c7b-7475-4400-a5bb-b2ac6fa2df2f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/lanches-valdete-cinco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza PUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710132128_25db659b-6232-45dc-905c-20e9862af2cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizza-pub-riacho-das-pedras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Da Gegê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201405221050_PIZZA_AGEGÊ.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/pizzaria-da-gege-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Hamburgueria Las Vegas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151241_4c4e8030-10dc-4568-a467-50924d03c8d7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/restaurante-e-hamburgueria-las-vegas-novo-eldorado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota dos Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo marca._ROTAD_BORESjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/rota-dos-sabores-parque-recreio",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roxim Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141058_09d4af71-dbc1-4ae0-bf9a-6f708e37f725.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/roxim-acai-santa-cruz-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seara Do Trigo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201404101635_SEARADOTRIGO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/seara-do-trigo-monte-castelo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOP SALADAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121055_f5c1b77f-0054-495c-8a13-4ce2d7e1d8f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/top-saladas-novo-riacho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Uai Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080941_e8a45141-3f8c-4188-b57e-25ef24164b61.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/uai-fit-inconfidentes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vovó Andréa Panquecas Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703190038_VOVOA_URMET.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/contagem-mg/vovo-andrea-panquecas-gourmet-bela-vista",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CONTAGEM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+]

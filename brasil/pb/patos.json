@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "delicassi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041741_847345b4-2194-4378-ba51-bdc8a1e47551.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/patos-pb/delicassi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PATOS",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }]

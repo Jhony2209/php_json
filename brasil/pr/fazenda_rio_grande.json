@@ -1,0 +1,47 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fome Zero na madrugada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301236_53ebead1-3e36-416e-82fa-5dc2ce87e813.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/fazenda-rio-grande-pr/fome-zero-na-madrugada-eucaliptos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FAZENDA RIO GRANDE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Antônio Bebidas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131311_f1728cc4-726a-4290-ab47-7bfa27ac6020.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/fazenda-rio-grande-pr/seu-antonio-bebidas-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FAZENDA RIO GRANDE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ké Pankeka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271213_KEPANKEKA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/fazenda-rio-grande-pr/ke-pankeka-eucaliptos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FAZENDA RIO GRANDE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

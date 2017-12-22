@@ -1,0 +1,1197 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí 100 Igual",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141035_44e02f47-35c5-463b-8f54-2ba5c76bf556.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/acai-100-igual-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REDE LEVE PIZZA CABO FRIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310912_4d1ff8fa-4fad-4ef2-bbd2-04b4643bc0fc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/rede-leve-pizza-cabo-frio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante da praia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080721_e5632f90-0f7e-41ea-b226-069ab9f95cbe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/restaurante-da-praia-florestinha-i-tamoios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rick Doçaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712070728_6e704e73-0047-4aec-8b3b-111c02ccccb4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/rick-docaria-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aloha Sacolé Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020953_6c1578bc-665c-4063-a570-8a05ade263d5.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/aloha-sacole-gourmet-praia-do-siqueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "mania de pizza e grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708312047_dcfc137b-8b09-4407-a047-13a3567d6007.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/mania-de-pizza-e-grill-pero",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Mole - Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181708_5cbfa071-d991-4ed6-848e-496cdaba0d6f.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/la-mole---cabo-frio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191102_27df3bf4-93ec-4c1e-9cc4-1a56edce87f0.bmp",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/dominos-pizza---cabo-frio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amigos Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301001_6256e11d-3e89-42c7-9d94-aa1b303acaa6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/amigos-restaurante-e-pizzaria-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arts Pizza Express II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211200_c46ee17b-af31-4101-9216-7f19debdf6c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/arts-pizza-express-ii-aquarius-tamoios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BamBam Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191731_f4cdf932-53d8-4db9-9601-d6f280f74319.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/bambam-burguer-jardim-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batata Mania - Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090821_4a324b55-5f5f-4add-a9e8-4987c937f426.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/batata-mania---cabo-frio-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bruto - Pizza N Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021511_c10b7d48-5859-4997-9ffe-c01d52f13758.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/bruto---pizza-n-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dams Açaiteria e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051308_6a37a9f1-478b-4ed5-954c-950bb32489a4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/dams-acaiteria-e-lanchonete-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ds Saladas Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051324_8a4cea28-55e0-4534-a53a-475917405a8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/ds-saladas-gourmet-jardim-excelsior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NO BECO  Bar e petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711021242_d982f950-8f19-499e-8604-1f59dd1520ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/no-beco--bar-e-petiscaria-jardim-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pires Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101118_32b3f167-9e54-403f-b95d-05c28e419a25.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/pires-burguer-delivery-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "So Alegria Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161603_9886be84-2a73-4dc7-b7be-cc5415135a9d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/so-alegria-restaurante-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapioca do Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081704_664ddffa-c145-48f0-8939-fccc1d52e841.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/tapioca-do-cheff-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vegzzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231432_e17d6f3b-0e7b-41ca-8853-3c477728008b.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/vegzzaria-pero",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vida Leve Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271021_e8705e5f-f35e-4d3d-bcb3-ff3af76b0936.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/vida-leve-cabo-frio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yuri lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131814_ecaf6642-38d4-4b81-bc16-1f64dd76b03b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/yuri-lanches-jardim-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "dinos burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291000_2fd98595-fedb-4abc-b8e5-ace2b8a5748f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/dinos-burguer-jardim-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FATURINI PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230810_84242f06-ad9a-4684-acc9-550a165a5996.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/faturini-pizzas-guarani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "July Marie Culinária Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011331_0e85e99f-767c-4026-9099-ed13fa6563d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/july-marie-culinaria-artesanal-parque-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Colherada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131756_cd3f055d-36ef-4e80-b284-fdd5dcbddeb0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/colherada-jardim-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Smoker Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071127_b9290eb0-2177-4b39-91e5-056fa2c0674a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/dom-smoker-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santo Sanduba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071037_e66723be-6027-4e62-b39a-9aa78a17e3dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/santo-sanduba-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "2TONS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Dois Tons_2TONS_NOMIA.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/2tons-delivery-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Casa Massas Frescas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311301_42ec1669-3db0-4057-b5fc-ed7dc084b698.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/la-casa-massas-frescas-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOUSE BURGUERS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706160819_d9651da2-a777-4cbd-ac7f-0fe9eb460834.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/house-burguers-delivery-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPAGHETTI CABO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261326_19352dad-67aa-4273-be2c-dd77b004eec7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/spaghetti-cabo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hopi Burritos Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703250817_ab8a134a7aaf42009fcf0e9f295dbf37.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/hopi-burritos-cabo-frio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog do Moinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211035_4d3d06ac-ec3d-4f00-8612-553218cc841d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/hot-dog-do-moinho-pero",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapiocaria Sensações",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111410_5de492ca-d975-4a61-b25d-575822338f80.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/tapiocaria-sensacoes-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Apreciatta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300736_7ecc10ae-f20b-4a6b-9dc0-4b1025237327.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/pizzaria-apreciatta-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Johnys Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705160942_3879a7b1-63d8-4612-b473-b7424b2d52fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/johnys-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mar e Sol Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021556_5add416d-0e86-442c-a5e0-05dd956f5d50.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/mar-e-sol-restaurante-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paelo Smoked Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041305_840feb0b-bf6f-4a63-8662-26fa5e186d8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/paelo-smoked-burger-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Original Burger Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rabit_ORIGI_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/original-burger-delivery-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111458_53d9cff5-2c32-429e-b0d3-f32a329d8d94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/casa-do-hamburguer-guarani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Instituto Fome de Pão Sede de Deus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280959_69f598f3-9e23-4e62-8078-78af55fb48f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/instituto-fome-de-pao-sede-de-deus-jacare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Insônia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161316_cce4d26a-e975-4fa3-9eee-19480da59564.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/insonia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOP SFIHA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041721_7d8dd0ec-258d-4622-814a-00019ab2ca99.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/top-sfiha-delivery-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090720_d67918e4-fb78-4b66-b4fd-caf8109ad0b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/fast-fit-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Requinte Pizzas, Esfihas e Caldos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081133_3b6913b0-27ff-4c30-9b7e-563feaf554b5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/requinte-pizzas-esfihas-e-caldos-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ELITE BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041405_a47e087c-040d-4950-8d52-376d9b09b34b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/elite-burguer-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terraço Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701201258_TERRA_ZARI02.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/terraco-pizzaria-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italian In Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251601_e03a0f14-914a-4dbe-95c4-814eaf5fee48.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/italian-in-box-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba da mi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171244_740f6fd4-dcff-46d5-9694-7ff0b4b14d33.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/yakisoba-da-mi-jardim-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Onda Lanches Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210828_46e402f1-c15b-4329-8fc2-d9c352d6843d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/na-onda-lanches-artesanais-jardim-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mar e Sol Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301201_7fd9040b-dd61-4f8b-b4f8-a50b42eeb38a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/mar-e-sol-restaurante-e-pizzaria-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Titas Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710130835_8b098971-6123-4c18-a671-b20a86ddc95e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/titas-pizzas-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OX BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301131_9d75de92-339a-4347-b320-6ffe955b632c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/ox-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Love Salad",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281052_2d9050c4447c4b47a5105bb80e0d9039.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/love-salad-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacana's Lanches - Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121759_e1967a02-6113-4761-a70d-024da9b3db67.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/bacanas-lanches---cabo-frio-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Pizza - Cabo Frio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180940_TOPPI_OFRIO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/top-pizza---cabo-frio-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D'Angelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241507_35a40a33-e21f-4ae8-a5ce-527b2389547b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/pizzaria-dangelo-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nakasa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nakasa123_nakas_ivery.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/nakasa-delivery-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Em Ksa Pizza e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281103_b0bd4d5b-918f-48a6-a4d4-a93d8ee552e0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/em-ksa-pizza-e-cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPACE BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101501_18a24f11-dae8-41a3-a02e-4e91bd91c9da.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/space-burger-jardim-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grill Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c56e6cee42e22_GRILL_IVER02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/grill-delivery-jardim-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "crafts alimentos e esfiharia Ltda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031811_0bbb6e52-48ab-441a-a2cb-405d0a13b8f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/crafts-alimentos-e-esfiharia-ltda-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fábrica De Quentinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141456_35396a4f-e71c-4417-bd68-ebd2ee38fb6c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/fabrica-de-quentinhas-passagem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dhaori sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040815_016b0c5d-be9c-4d5b-b657-62edde94df6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/dhaori-sushi-delivery-jardim-excelsior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete palmas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171023_43e38918-edbc-4945-a9dc-17601f3fb567.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/lanchonete-palmas-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tudão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251302_TUDAOLANCHES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/tudao-lanches-nova-california-tamoios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Comilao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301016_e5ac7969-2f39-482c-b65c-31a73a883245.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/restaurante-comilao-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japatower Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211043_eb782b7e-f507-404c-a770-e4b5103b09b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/japatower-delivery-jardim-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche Da Familia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704240913_40a4367e-0015-4d29-8340-61e503aa3e47.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/lanche-da-familia-aquarius-tamoios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Belisco refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/belisco_BELIS_ICOE01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/belisco-refeicoes-pero",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gourmet Saúde Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_gourm_iver02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/gourmet-saude-delivery-parque-burle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Das Barcas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705040930_447014da-b832-430c-ae97-07b8185bf375.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/rei-das-barcas-delivery-verao-vermelho-tamoios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Gourmet Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706011005_ddc1b67c-29e7-4854-aca5-10f23d10d216.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/the-gourmet-grill-unamar-tamoios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pub casa nova restaurante Eirele ME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141426_6bf9b512-566a-47b0-91f3-13e35bc11bd7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cabo-frio-rj/pub-casa-nova-restaurante-eirele-me-jardim-flamboyant",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CABO FRIO",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

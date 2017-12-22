@@ -1,0 +1,47 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Imperatriz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261304_e56302ee-3d57-4df5-8c61-68f1fc8753ca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/imperatriz-ma/brasileirinho-delivery-imperatriz-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IMPERATRIZ",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Rangoo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080819_31cfad23-9e57-4bc9-a57a-38c04c6d6588.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/imperatriz-ma/hamburgueria-rangoo-tres-poderes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IMPERATRIZ",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ipan - O Verdadeiro Sabor Imperatrizense",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231120_b3cc6f44-2285-49c2-8df2-888ef371eb84.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/imperatriz-ma/ipan---o-verdadeiro-sabor-imperatrizense-jardim-oriental",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IMPERATRIZ",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }]

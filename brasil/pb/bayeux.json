@@ -1,0 +1,47 @@
+[{ 
+"context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deguste Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231022_92ade1c8-bc23-4a20-9bdc-a933f1274bf1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bayeux-pb/deguste-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BAYEUX",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedro do Galeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251512_efc9e0ef-9f4d-4f1b-a0a9-23693daf07ed.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/bayeux-pb/pedro-do-galeto-tambay",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BAYEUX",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Goiamum Matuto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180816_GOIAM_ATUTO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/bayeux-pb/goiamum-matuto-alto-da-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BAYEUX",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }]

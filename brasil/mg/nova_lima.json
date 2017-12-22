@@ -1,0 +1,299 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Terni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-terni_massastern02.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/massas-terni-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bue Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711151150_22ed1094-777b-49f6-aff2-7be4b874f6cf.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/bue-burger-vila-da-serra",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinhos da Bruna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250857_aff6ae82-83b6-44a5-bfa2-c48a8170b933.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/espetinhos-da-bruna-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Formula Pizzaria Vila da Serra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091934_3f6b4596-83da-4346-8287-e5868d09ba10.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/formula-pizzaria-vila-da-serra-pau-pombo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E RESTAURANTE MANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040732_627f08c9-1e46-4656-b59e-dcbed5f0b10b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/pizzaria-e-restaurante-mana-matadouro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ryôdo Japonês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091800_09b92508-35f3-49e9-a9c7-be9dd729014a.PNG",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/ryodo-japones-padre-osvaldo-b-pena",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santino's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270951_4d940e20-be20-4102-a344-77c64c7bfd50.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/santinos-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shinjimasu Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201325_f7f84225-518f-4f13-a0ac-616f36dd4e55.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/shinjimasu-temakeria-parque-industrial",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mocca Coffee & Meals",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180802_7e2bd956-ba29-4a47-8fde-7edbe24412f4.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/mocca-coffee--meals-vale-do-sereno",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Serra Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ser_serranatural.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/serra-natural-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Easy Ice - Açaí e Sorvetes Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071013_5f6adc09-04cd-41d5-83ef-7ab1698502dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/easy-ice---acai-e-sorvetes-artesanais-vale-do-sereno",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Kibomba Lanches E Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091018_347dde09-64dc-4019-a09a-02febeca9940.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/point-kibomba-lanches-e-delivery-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Akemi Oriental Fusion",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/akemi_akemi_usion.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/akemi-oriental-fusion-vila-da-serra",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POMODORI VILA DA SERRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701060724_POMOD_SERRA.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/pomodori-vila-da-serra-vale-do-sereno",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "68 La Pizzeria - Vale Do Sereno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logo302_104_68LAP_ERENO.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/68-la-pizzeria---vale-do-sereno-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Olegario Villa Da Serra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_pi_pizza_serr01.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/pizzaria-olegario-villa-da-serra-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NOVA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231837_729ceb5a-4975-4f5f-916a-68913206bd2e.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/nova-gourmet-matadouro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota 95 Espeto&Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708061718_9de7ee4b-d856-4bde-b7ac-445a96f94e45.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/rota-95-espetoburguer-cascalho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eddie Fine Burger - Vila Da Serra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - eddie _eddie_serra.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/eddie-fine-burger---vila-da-serra-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Di Pasta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bistro_bistr_pasta.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/nova-lima-mg/bistro-di-pasta-vila-da-serra",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVA LIMA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,119 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cariri Center",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711060948_f246ff3e-caf0-4d08-9bb9-47bc1e635e31.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/cariri-center-lagoa-seca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131936_56b542a4-2522-4359-8049-5219b061a99a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/mineiro-delivery-santa-tereza",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonaparte - Cariri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111931_2c067e3b-15cc-4bc9-8113-d66fda3720e5.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/bonaparte---cariri-triangulo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kalifas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071952_ba59b0de-7469-40b1-8210-c1f8bbf739c5.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/kalifas-salgadinho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Gringo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171347_8adb7ab7-4072-4b5b-8d14-8c7d53edcdb9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/seu-gringo-lagoa-seca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu Juazeiro do Norte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bebelu 2_BEBEL_ICHE01.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/bebelu-juazeiro-do-norte-triangulo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot N' Tender - Juazeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703131015__HOTNT_ZEIRO.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/hot-n-tender---juazeiro-triangulo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deliverydelicariri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161023_eb713e87-96b9-47eb-9eb2-497d92e7b5be.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-do-norte-ce/deliverydelicariri-sao-miguel",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO DO NORTE",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

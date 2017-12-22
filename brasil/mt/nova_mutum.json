@@ -1,0 +1,31 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog&Dogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dogedogs_dogdogs.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-mutum-mt/dogdogs-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA MUTUM",
+            "addressRegion": "MT",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway-Nova Mutum",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707070207_8a79c122-809c-4b2f-9749-759fe7e8b6aa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/nova-mutum-mt/subway-nova-mutum-lirio-dos-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA MUTUM",
+            "addressRegion": "MT",
+            "addressCountry": "BR"
+            }
+    }]

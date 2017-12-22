@@ -1,0 +1,31 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu Parnaiba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181631_6260a2fe-777d-462c-aeec-15b8f4a64758.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/parnaiba-pi/bebelu-parnaiba-reis-veloso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARNAIBA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bambu Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241207_c91159e1-db79-4c62-9c43-3a4898d289b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/parnaiba-pi/bambu-sushi-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARNAIBA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GARAGE BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031309_d3bc62c7-117e-42dd-bce5-4e6c472aa3e7.JPG",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/altamira-pa/garage-burger-jardim-independente-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ALTAMIRA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

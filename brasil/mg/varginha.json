@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temperatto Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261320_0e3a75cb-c3bf-4a6c-a207-058f06cf98b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/varginha-mg/temperatto-gourmet-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARGINHA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

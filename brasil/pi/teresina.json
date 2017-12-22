@@ -1,0 +1,1277 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181649_8720a9be-30e7-498b-bf23-0c62d8a8fb31.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/china-in-box---teresina-horto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs River Side Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192325_c9502bf7-ceed-4817-97af-6e74834c70cb.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/bobs-river-side-shopping-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOCA DO AÇAÍ TERESINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190737_ed286321-7a14-4b0d-932c-5fa3ed2febec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/toca-do-acai-teresina-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magus - Riverside",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_magu_MAGUS_RSIDE.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/magus---riverside-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Agua Mineral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291114_d8ffd8c0-964b-4095-8eab-660913fe0178.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/subway-agua-mineral-agua-mineral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY SACI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291115_a6e54fa0-1369-4039-bcc7-91c4db0339b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/subway-saci-saci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Sorveteria Nossa Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nossacasa_pizza_acas01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizzaria-e-sorveteria-nossa-casa-itarare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Crek - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301358_7b5e9cb4-599e-4305-8bd9-18eab220227b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizza-crek---teresina-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY - SHOPPING RIVERSIDE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291115_c466b90d-0941-4743-a482-ca650a4665a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/subway---shopping-riverside-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Savori Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271701_41bbbf2a-17d6-4119-a026-2b4f8f18e67e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/savori-pizza-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200307_74dedb62-7c18-4d36-b549-ca87a5d448fa.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/giraffas-teresina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carne De Sol De Picui",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261019_0821b490-9e61-4874-9e3a-97c56ab6adc5.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/carne-de-sol-de-picui-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PETISCO INBOX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091448_51d44f04-a89f-46d5-906e-ab694f159e1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/petisco-inbox-monte-castelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MORDIDELA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281438_dc50d8fa-40f1-4162-8594-c9a8052496f4.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/mordidela-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza Zona Sul Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191045_faf33068-27a6-4048-a2e3-144be077435b.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/dominos-pizza-zona-sul-teresina-tabuleta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza- Morada Do Sol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191109_62093c54-b68c-42ea-ba7a-05657c630a03.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/dominos-pizza--morada-do-sol-morada-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Comida Típica",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200046_6215fb6b-aa00-4f31-81bc-37c3a172e781.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/brasileirinho-delivery-comida-tipica-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí marajoara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091047_a6651cc1-723e-4112-9d5c-645ff4a44b20.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/acai-marajoara-tabuleta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar do leme",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080924_2885204b-c649-4481-a9b7-f6d6b15cfea1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/bar-do-leme-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Blend's Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090948_8fb85655-fc7b-4826-a6f3-d35d658f10fc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/blends-hamburgueria-morada-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261233_7821d058-ae75-4179-a4ea-2e6e94fde29a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/casa-massa-santa-isabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coco Bambu - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo coco bam_cocob_esina.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/coco-bambu---teresina-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão Burguer - Saci",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191628_17a98170-aa84-4e3e-a976-3fc95324c0b1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/dogao-burguer---saci-saci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão Burguer- Delivery Leste",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200927_46854554-9b9d-4b44-8adf-f4730436edb4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/dogao-burguer--delivery-leste-morada-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão Burguer- Dirceu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191215_a3e65678-9ce9-4204-baea-0c2cbca11a28.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/dogao-burguer--dirceu-itarare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Nelore Bar e Churrascaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281253_21b44cbb-e061-4aeb-9b93-2d652c3a8a73.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/dom-nelore-bar-e-churrascaria-parque-ideal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAWKS BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080820_5c0f4a49-0ebd-49e0-a5a5-bd306b48cb64.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/hawks-burguer-mocambinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Alla Mama -",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711070926_c6cf707e-5976-477c-a5e0-b7b8ad9accca.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizzaria-alla-mama---morada-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Minhocão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161405_fb80ea1b-e70c-4273-b223-90b436296fa2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/restaurante-minhocao-morro-da-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR SUPREMO --",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271134_10991e6c-3409-4fcb-af22-b528dc72312e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/sabor-supremo----centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saintgermain Refeições Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091050_175a8c8b-d61a-4b2a-9639-aceced06766d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/saintgermain-refeicoes-delivery-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VIENA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711200558_77ddde53-4e9a-4ca4-97ac-de6c95792bd4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/viena-gourmet-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cão Bravo Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191941_ac2482ae-d015-48f2-854d-ec576a532160.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/cao-bravo-burguer-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barneys Burger - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051359_2c68620d-3b34-44fb-9e88-10d71f9ae9b5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/barneys-burger---teresina-horto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gallo Chef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120846_030c1bf2-8175-43f3-9d3e-bee4b49e2cdd.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/gallo-chef-horto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GARAGEM ROCK HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291258_410ffa1c-134b-477a-8d4f-c854212b528e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/garagem-rock-hamburgueria-acarape",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUMO SALAD - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101750_4c30f9d9-91fb-4951-8ed4-6d6a7457b140.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/sumo-salad---teresina-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinatown Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cinatown_china_esina.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/chinatown-teresina-noivos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Express Japanese Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231016_4d073061-aaa3-4998-9cce-b7dc7bfdb62f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/sushi-express-japanese-fast-food-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "San Paolo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/esse_sanpaolo.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/san-paolo-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nippon Temakeria E Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo nippon_nippo_hibar.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/nippon-temakeria-e-sushi-bar-morada-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251019_690691bb-acb5-4125-86d9-0863e48fa728.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/forno-paulista-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mappa Mundi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021812_19f2f2a8-e81b-488c-a032-b8e40f114c7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/mappa-mundi-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - João XXIII",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291115_6d992624-1b57-4d70-8322-2569c04adff4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/subway---joao-xxiii-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr.Tim Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703070829_MRTIM_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/mrtim-pizza-delivery-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mais Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251104_80d1e517-c0c5-4148-9245-fb310b3474d5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizzaria-mais-sabor-saci",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forno à Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251113_fa933c5a-4c51-447a-acd6-b2f0850ed908.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizzaria-forno-a-lenha-acarape",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Da Pizza - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo forneria_forne_esina.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/forneria-da-pizza---teresina-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Concept Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705272158_2dbeeb9a-3339-42a1-a892-cc4dbb3e5cc5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/acai-concept-teresina-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pense Leve",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709160829_43004f80-3db1-4bf1-9a6e-1f6d87af42da.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pense-leve-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261117_c441efe6-7235-4772-a251-8a8e21b90d06.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/chopizza-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgo Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081127_0ad18bd7-7f95-4e7c-a787-6a3d8e037bc9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/hamburgo-hamburgueria-ininga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob'S Drive Dirceu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192351_6d07b92e-4f7e-4d01-8719-4858a266f38a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/bobs-drive-dirceu-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fcb American - Ininga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703051347_FCBAM_NINGA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/fcb-american---ininga-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spetitos- Churrasco & Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705150959_322fa9ea-d10e-40f8-ba95-263c5f33324e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/spetitos--churrasco--pao-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temaki comida oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031424_be618b34-9e61-49e0-8912-258c4a0aee4c.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/temaki-comida-oriental-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "São Cristovão - Pizzaria e Churrascaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281900_10aaa29d-2854-46f0-b5bb-ead630b6210f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/sao-cristovao---pizzaria-e-churrascaria-picarreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wayne'S Burger Star - Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101608_06f332b3-ad5b-41f0-924f-e42a3e38a6f6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/waynes-burger-star---teresina-morada-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giga Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191159_cb78bea0-b3c5-4645-874a-227f87b0ae74.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/giga-pizza-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Leste",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221527_3d421c83-f64d-4264-b61d-ad54c58c960d.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizza-leste-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bellinatti Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061324_bc17e26e-7b0a-4887-b69f-af0857232c55.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/bellinatti-pizzaria-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080848_eb1009d6-5ee9-4329-85b6-502d6d0542f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/skina-sushi-vale-quem-tem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Boca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca la _laboca.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/la-boca-picarreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Burger Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291345_5d7dc875-0111-4f75-b2ea-59d1dc4f0de3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/art-burger-teresina-horto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Boa Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cantinho_canti_pizz09.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/cantinho-boa-pizza-lourival-parente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cowboy Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251352_b96f0b23-f441-4682-8710-5a4571bef339.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/cowboy-hamburgueria-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Noris Cozinha Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031047_072af65c-4e46-48f8-a311-ab91dca49807.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/noris-cozinha-saudavel-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temperos Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261413_49489272-c05f-47ee-87f4-94cd64017293.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/temperos-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASA DA PICANHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031519_c5622e37-7416-433f-9e64-913f941c7908.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/casa-da-picanha-itarare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grilled Burger Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708242337_e54a0da5-9e31-481d-9efe-0cd7e147265d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/grilled-burger-delivery-horto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291620_0ae2f116-c0a8-441a-bc09-aaea2f148930.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/sabor-do-lanche-mocambinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doces encantados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706191020_a70cc7f7-2d2b-44f5-bdfb-61a8c7c0d905.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/doces-encantados-horto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espeto Mania Norte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo espeto m_espetomania.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/espeto-mania-norte-marques-de-paranagua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu Teresina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bebel_esina.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/bebelu-teresina-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Prediletto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011406_5ec7358b-c452-41d3-af23-d222b82d3e78.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/pizzaria-prediletto-esplanada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Nossa Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041301_f6abbfb2-cf19-4e5c-81e6-c0ee7d23b39c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/cantinho-nossa-pizza-redonda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jorge Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_JORGEPIZZA.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/jorge-pizza-renascenca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novo point da Picanha norte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210842_2e47df6b-10ef-452d-ae2d-779a8f79b683.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/novo-point-da-picanha-norte-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Madruga Pub Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo seu madr_seuma_istro.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/seu-madruga-pub-bistro-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Texas Picanharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040951_b8c49b29-037b-4626-a399-0432efa89420.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/teresina-pi/texas-picanharia-joquei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESINA",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,128 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maxsushi - Santarém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030829_7ec367b1-e489-462b-b4b3-9327296de46e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/maxsushi---santarem-santarenzinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Parque Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191145_d7bbceb5-e10d-4228-a941-f18ab4ba3b27.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/dominos-pizza---parque-verde-aldeia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomi Sushi lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111417_9858b184-3d31-4fa5-a2cf-44296a2a1b48.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/tomi-sushi-lounge-aldeia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/massabor_massabor.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/massabor-prainha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO BRASILEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151441_674b953f-d595-4da0-98e8-cfd8dd56039d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/tempero-brasileiro-prainha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grand Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709210916_de90012d-dcae-49cd-8ac5-e6a7ddb7e5fc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/grand-pizza-delivery-santarenzinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Santarém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121140_0e4159df-90b1-4be3-9867-19a7824f6de8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/sushi-santarem-aeroporto-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Santarém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131008_5ff8962b-a4f7-47b2-9dd7-336a08fd6eec.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santarem-pa/dominos-santarem-aldeia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTAREM",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+]

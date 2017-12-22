@@ -1,0 +1,5042 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "KONI CABO BRANCO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081559_d23ad9d2-c1c5-4b3a-b77e-32d8fb6b1629.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/koni-cabo-branco-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China In Box - Epitácio",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181629_1d6b8eb9-97a1-4e2f-bf9b-20fb36d4164c.bmp",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-in-box---epitacio-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China In Box - Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181619_35eb748e-0882-4cb0-a706-fdeb9717a771.bmp",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-in-box---manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Habibs Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111441__HABIB_ARIOS.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/habibs-bancarios-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Habib'S Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111441_6145e927-c78e-4ff8-80ec-139a0eb87e2c.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/habibs-manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Domino S Pizza- Cabo Branco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191154_f9663a94-129d-4c93-88f7-da25a2323529.bmp",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/domino-s-pizza--cabo-branco-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Aroy - Comida Tailandesa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Aroy_AROYC_NDESA.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Tailandesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/aroy---comida-tailandesa-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ESCALA FAVA BAR E RESTAURANTE LTDA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180714_e368cf94-7ac8-46c3-a39a-2cf8e95f26bf.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/escala-fava-bar-e-restaurante-ltda-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fast Food da Alice",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071344_0284d031-3806-4dca-b024-374925354cbb.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/fast-food-da-alice-portal-do-sol",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Feijão de Corda Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300939_d2d131d4-82c9-4d9f-8626-8cdab3a08cf3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/feijao-de-corda-restaurante-roger",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jampa Juice",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100941_efd0045d-1551-42b3-a2e7-017ced740f2f.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jampa-juice-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Low Cost Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712070928_b69db4cd-a580-4359-b873-b95101401fb9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/low-cost-restaurante-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Passaporte Doceria e Cafeteria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211229_0ab560d9-c74f-45f0-b344-efed6dfa0713.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/passaporte-doceria-e-cafeteria-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante e Soparia Donna Preta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021154_558c32a5-173b-46f6-b392-9d44c42c9f3a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/restaurante-e-soparia-donna-preta-planalto-boa-esperanca",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ridá Sushi Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171302_f8f986cf-6648-4943-beb0-7e803ad13b31.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/rida-sushi-delivery-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway - Jardim Oceania",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_EANI01.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/subway---jardim-oceania-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vó Rita Quentinhas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191540_8aab89ad-8580-4b74-befa-dc810c5b37c4.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/vo-rita-quentinhas-ernesto-geisel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China Foods Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161038_6a86504e-7915-4d92-b350-db0aedb550e8.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-foods-delivery-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Al Dente Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_430x300p_alden_ivery.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/al-dente-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ethic Natural Food",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201645_17ba19a7-b140-4a69-8858-0f0213e5d73f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ethic-natural-food-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CAPITÃO MARÍTIMO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_capit_itimo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/capitao-maritimo-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lollas Lounge Bar e Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200848_aabfb4a4-e1a8-4834-9ca1-4ab765923630.png",
+		"priceRange": "$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lollas-lounge-bar-e-restaurante-portal-do-sol",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sakê Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/temake_sakeb_arios.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sake-bancarios-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bendita Lancheria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251017_56f99e0d38384bc2976561f08528c2ae.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bendita-lancheria-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PMG Parmegiana Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311429_94074f99-06b3-46a2-8510-fdbb2351ad4f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pmg-parmegiana-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Massas Prime",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_massasprime.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/massas-prime-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ristretto Café Bistrô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221103_254440bb-3915-46cb-ae28-5547988efbd1.JPG",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ristretto-cafe-bistro-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lambreta 79",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Lam_LAMBRETA79.jpg",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lambreta-79-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "NUTRILEVE JP",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nutrileve_nutrilevejp.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/nutrileve-jp-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório Nutri",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241143_4ae7727a-df6c-414c-9b0f-1f471b64b279.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/emporio-nutri-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dna Natural João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dna 1_dnana_essoa.bmp",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dna-natural-joao-pessoa-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AÇAÍ CONCEPT - CENTRO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701251326_ACAICONCEP01.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/acai-concept---centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ali Kebab",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_ALIKEBAB.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ali-kebab-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Coffee Office Cybercafé ® (Manaíra)",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081325_667c77e2-086e-4313-96e8-a9e61112dd9d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/coffee-office-cybercafe--manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Canteiro'S Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221118_CANTEIROSBAR.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/canteiros-bar-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lotus Sushi Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2b938e8b-3cf2-4832-becc-9e5b8dee46e0/201712061215_carto.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lotus-sushi-temakeria-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tábua De Carne - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111040_TABUA_ESSOA.png",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tabua-de-carne---joao-pessoa-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bob's Drive Tambau",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131415_80313728-c1a4-4437-bba5-9bd10e8fb5c1.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bobs-drive-tambau-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Muito Massa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705090755_806f32bc-affa-452b-a17f-71c77ee000fa.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/muito-massa-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delivery Sabor Nordestino",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041338_d31abc60-6e22-411e-ad87-82dab842e365.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/delivery-sabor-nordestino-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Picui Praia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708182126_6cc3f673-51e9-41a2-83d5-a6b0d9dc2a33.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/picui-praia-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "República do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171307_b6c938cb-c450-455c-a4d5-6e450e94f9f7.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/republica-do-acai-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Nonna Anaia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca non_NONAANNAIA.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/nonna-anaia-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mineiro Delivery - Jd. São Paulo Pb",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mineiro_minei_paulo.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mineiro-delivery---jd-sao-paulo-pb-jardim-sao-paulo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pimentão Verde",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251213_13555ef7-18f8-4790-92fc-fb87dbdca6b0.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pimentao-verde-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DUBISTRÔ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101750_2b27fc80-b83b-4922-b3a4-d9d29a9ee06f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dubistro-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Top Temaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_topte_tdame.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/top-temaki-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Churrasco E Cia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701041543_CHURR_OECIA.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/churrasco-e-cia-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China Praia Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2_china_rante.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-praia-restaurante-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Recanto do Picuí Regional",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171242_5afb18f8-3f33-4a16-891a-9d30cb749a71.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/recanto-do-picui-regional-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bambu Oriental",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291538_6a04d1e4367245fb9d0a6efd4521c2d0.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bambu-oriental-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Meraki Gastronomia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051341_d5a7b60d-74ac-4db8-a444-975dec3cd16f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/meraki-gastronomia-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway (Bancários)",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291008_aa356573-82eb-448f-9976-df6e1bb52fa0.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/subway-bancarios-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DELÍCIA CASEIRA DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_delic_tari01.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/delicia-caseira-delivery-jardim-sao-paulo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Churrascaria Pilão de Ouro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230901_0169e140-7584-4e0b-ab56-c42bfcc322f5.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/churrascaria-pilao-de-ouro-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China Oriental",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705131210_94bb22db-7bde-4d84-9591-96b4cde4ad62.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-oriental-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Point Sul",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3a1babb3-52d8-4d01-9cb4-e343979b76f4/201712140926_logot.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/restaurante-point-sul-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marmitaria Sabor Real",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271127_4fe346fc-cb70-49e0-88b0-bcbbb63c0856.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/marmitaria-sabor-real-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SELF SERVICE SABOR NA PANELA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301514_e56d0909-bf8e-4a69-8ace-a6506a168bcc.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/self-service-sabor-na-panela-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jampa Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251440_7eeaa335-78b4-4477-8d7a-a119cd1326e9.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jampa-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bonaparte - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Bon_BONAP_ESSOA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bonaparte---joao-pessoa-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway - Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291009_22804a38-8c14-40f0-9615-12814be99e56.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/subway---centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kasuki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031315_6d7ff633-c286-4148-a8b5-94dc726baafd.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kasuki-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China Taiwan",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Tai_CHINATAIWAN.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-taiwan-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bar'tista Parmegiana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031105_127daa4d-7ab2-4849-a162-3930f008fe69.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bartista-parmegiana-ipes",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Novo Oriente",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061629_b5be1f2a-600a-4f99-835b-b93c45a43cd6.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/novo-oriente-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ponto Do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pontodoaca02.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ponto-do-acai-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Flor De Sal Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041103_7855b4f6765c47e7b01b6dd4190ec239.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/flor-de-sal-restaurante-tambauzinho",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China Oriente Avenida Ingá",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704161248_a9993fafff65466aa35e5db4ec671885.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-oriente----avenida-inga-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291008_80b95349-376d-4610-9919-fc13712efd86.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/subway---joao-pessoa-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CAFÉ CLUB LIGHT",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706191226_e24a3b9c-6a04-456e-b426-ea9fc2d61c93.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/cafe-club-light-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Levíssimo Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101639_RESTA_SSIM01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/levissimo-restaurante-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Texas Grill Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091346_d8742526-69fd-4750-bfdf-9e9b60780965.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/texas-grill-restaurante-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "De Leve - Alimentação Saudável",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709140850_dc588e43-7004-4e11-8d30-25fe9e00b374.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/de-leve---alimentacao-saudavel-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China Taiwan - Cabo Branco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo do cabo _china_ranco.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-taiwan---cabo-branco-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fava E Feijoada Do Cacau",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fava_favae_cacau.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/fava-e-feijoada-do-cacau-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Parmeggio Grelhados E Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo parmeggi_parme_nches.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/parmeggio-grelhados-e-lanches-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório MF",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturarado_EMPOR_ENTOS.PNG",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/emporio-mf-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgueria Do Bairro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Hamburgueria _TARTA_AMBAU.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hamburgueria-do-bairro-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gibão Churrascaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281433_8a17759c-757c-4dbf-994a-2dac17b4a0f0.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/gibao-churrascaria-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Crustaceos Bar E Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7779/logo.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/crustaceos-bar-e-restaurante-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Villa Sull Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IMG_1017_BARDOGRINGO.JPG",
+		"priceRange": "$$",
+		"servesCuisine": "Bebidas",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/villa-sull-restaurante-brisamar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Douglas Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_dou_dougl_ueria.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/douglas-burger-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Recanto Baião de 2 Rubacão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221422_42ac9976-712d-4b2a-b89a-4740c0225a0c.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/recanto-baiao-de-2-rubacao-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Canoa Dos Camarões",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_nova_can_CANOADOSCA.jpg",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/canoa-dos-camaroes-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jl Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo jl deliv_jldelivery.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jl-delivery-ipes",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante à paraibana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181024_9d6fe148-e69f-4d20-a6ff-fe70329e929a.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/restaurante-a-paraibana-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Quanto Prima-Mangabeira",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704292045_bed4a715-506b-4d70-9e53-757eb8b9baec.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Mediterrânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/quanto-prima-mangabeira-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marítimos Fast Casual",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_marit_asual.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/maritimos-fast-casual-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TIA RITA RESTAURANTE E TAPIOCARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1_tiari_caria.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tia-rita-restaurante-e-tapiocaria-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Minerim",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111646_66b0acf949ce43b6ab8b700c04ec432d.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/restaurante-minerim-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Buongustaio Ristorante Praia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_nova_BUONGUSTAGR.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/buongustaio-ristorante-praia-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pinto No Balde Gourmet - Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/w0DH7VTx._PINTONOBALDEjpeg",
+		"priceRange": "$$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pinto-no-balde-gourmet---manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "London Food",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo london_londonfood.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/london-food-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tartaruga Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca tar_TARTA_RGUE01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tartaruga-burguer-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oriental E Cia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201037_ORIENTALECIA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/oriental-e-cia-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lucci Restô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/32836c87-8480_LUCCIRESTO.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Francesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lucci-resto-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Nirá",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171050_ac89ee76-15b5-4f3f-9285-67dcbcfb3f41.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/restaurante-nira-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Domino'S Pizza Bessa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191035_63d2bbdd-f7a4-491d-87c5-7974be555fd4.bmp",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dominos-pizza-bessa-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Hut - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200232_2f83a4a5-5d93-4919-9b19-ff7d98af7253.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-hut---joao-pessoa-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Rio",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza ri_pizzario03.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-rio-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ADRIANA AZEVEDO DOCERIA DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050954_1ba5f53e-caef-4b24-8a29-364244069b45.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/adriana-azevedo-doceria-delivery-industrias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AMORE DI LATTE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140919_17ca5fff-20c0-4b5e-abaa-77d40e8538cb.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/amore-di-latte-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Beiju de Goma",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090643_14075fed-6757-4ca0-a244-ff4f9853fa08.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/beiju-de-goma-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Boteco Entre Amigos Jp",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701090844_BOTEC_GOSJP.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/boteco-entre-amigos-jp-tambauzinho",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cia da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300921_9fad3007-d541-4525-bcf7-568d5c696d73.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/cia-da-pizza-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D' LA MARIA PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250728_6ab52430-636a-4309-b79d-b65c156f9df7.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/d-la-maria-pizzaria-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Viana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141342_81e4a856-dae1-416b-9b45-a1cc047eabdd.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dom-viana-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Eclético's Bar e Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040924_e0b24cc4-19a8-4cac-89b6-44a4ca0e4afd.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ecleticos-bar-e-restaurante-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Feijoada.net",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010857_0a003b89-5f01-4695-8b6d-488b1045a586.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/feijoadanet-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "GastroBar Cafeína",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161245_e42f7dff-f27c-4862-b10e-798ed615341b.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/gastrobar-cafeina-expedicionarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HEROES BURGER STAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130833_a12f9904-7728-4a11-9256-0e54477a8777.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/heroes-burger-star-brisamar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kell's Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281134_25ac5a1f-57d3-4dc9-8458-76c40186ba03.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kells-pizzaria-cruz-das-armas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LA VERITA PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IMG_4817_LAVER_ZARIA.JPG",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/la-verita-pizzaria-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LEGENDS SPORTS PUB",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260859_47903b03-6684-4ea3-a6a2-303a66bf61bd.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/legends-sports-pub-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Laçai Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071051_84652479-6a8e-405c-a7e7-b3a2d5a5bcf6.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lacai-bancarios-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Manaçaí - Bessa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201617_358eed5b-9596-43fc-93fd-0ef98ef31175.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/manacai---bessa-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mig Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141641_1ff4adac-c246-482f-904d-55b493ea808f.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mig-pizza-brisamar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "OXENTE BURGER BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711060819_3b326188-5b7d-4010-b01f-9c6e0036fab4.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/oxente-burger-bar-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZA CRISTO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201333_3d617a45-4a6f-4b5b-8e0e-60c21cb2342c.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-cristo-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paulista  Fast Pizza - Mangabeira",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081016_99da355a-7ac2-40ec-9702-2474ccac2f13.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/paulista--fast-pizza---mangabeira-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Peixada Farofa Carioca",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220925_c91d1d6d-ddfd-4c46-9fcd-4af63ae6bd40.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/peixada-farofa-carioca-portal-do-sol",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pit stop",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071348_e268ae22-fa84-48dd-9fc4-62e18ca99f56.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Asiática",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pit-stop-joao-paulo-ii",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Forno D' Italia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091941_275d3281-b19e-490f-abca-2e4bec7ff7a2.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-forno-d-italia-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria gummybear",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231813_214c5752-8647-462f-9343-592419279961.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-gummybear-gramame",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ponto da Quentinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170731_c9a819a2-4ed2-4822-ba67-78de9f68bee9.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ponto-da-quentinha-ernesto-geisel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Puro Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271106_9788b55a-f7aa-445d-821f-ec5314f7e854.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/puro-acai-altiplano-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rango´s Petiscos e Hambúrgueres",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061833_d0283007-887d-40ef-a835-ffd077ee32cf.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/rangos-petiscos-e-hamburgueres-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Recanto Sul Bar e Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291351_51348d91-c9e1-463c-9ff8-d085e33e5620.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/recanto-sul-bar-e-restaurante-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rocket61 Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041158_117be82c-22f0-4565-b17c-99b0a8499ccf.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/rocket61-pizzaria-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SALGATTORE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121511_668b2d7a-a605-4671-93c5-dd79bbd6e21a.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/salgattore-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "So.Cal. Design & Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220815_8a7b4094-b50d-40f6-88db-6b33d042fef8.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/socal-design--bar-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sorveteria E Hamburgueira Pigelatti",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291334_63b71f73-2ddd-4bef-9542-61a15658dcd2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sorveteria-e-hamburgueira-pigelatti-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sukasa Sushi e Temakis",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300740_82537e89-6dbe-40e9-a9fa-b5cd89bab642.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sukasa-sushi-e-temakis-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Top sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071222_48313b01-5a52-43fe-8ef1-f4b00e29444c.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/top-sushi-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tramonto WineBar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170925_874dea6f-99c7-4d0c-ab02-a2dd2bb4c4c0.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tramonto-winebar-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hot Dog Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270953_086ca792-71ab-41f3-ab07-b8fb013c11a7.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hot-dog-express-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MORDE'S",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011609_6479e940-54dc-4ca2-a244-5103154ed72c.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mordes-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ky Temaki Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/temaki_kytem_keria.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/ky-temaki-temakeria-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Quintal - Gourmet e Café da Manhã",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081621_604476d9-e33a-4b4f-9fc3-caf5d884bd6b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/quintal---gourmet-e-cafe-da-manha-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Now",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221327_e0ce071f-5969-43a0-b314-12d0bbf39ffc.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-now-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seu Teta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/aafcfb07-63ca-46dd-b82e-589d608199ee/201710110944_seute.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/seu-teta-alto-do-mateus",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sapporo Sushi & Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201825_f4288b52-c519-4075-b549-a369e05ffd15.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sapporo-sushi--temakeria-ernesto-geisel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brutu'S Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704201535_a53f8a2c-0456-461e-9d04-2696705a2142.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/brutus-burger-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kital Temaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca kit_kitaltemaki.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kital-temaki-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jampa Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/SUSHI 40_JAMPASUSHI.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jampa-sushi-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HOT DOG SHOW GOURMET",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131445_bbfb3ecd-e470-4e16-a8a9-27b1b2b9f500.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hot-dog-show-gourmet-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Dobom",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sushi do_sushidobom.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sushi-dobom-pedro-gondim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dog Paulista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021419_bb1adb5e-e2d0-42af-a0fd-143216eef6dc.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dog-paulista-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jampa Sushi e Temakeria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711051534_78fb5aee-4861-43a7-b6cd-3a0d19f67dd3.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jampa-sushi-e-temakeria-delivery-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delícias da Aninha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201036_90f4e10c-76dd-446c-a673-f61b40012c1c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/delicias-da-aninha-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "O Imperador Coxinhas Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200833_24d33ae9-eb23-4bd6-ae87-12ffecfc3efc.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/o-imperador-coxinhas-gourmet-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Temaki Da Villa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/temaki_temak_villa.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/temaki-da-villa-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lá em Kza Tapiocaria & Lanchonete",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo la em ca_laemk_onete.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/la-em-kza-tapiocaria--lanchonete-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kanpai",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Kap_KANPAI.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kanpai-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hot Dog Monaci Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201412_HOTDO_ARIOS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hot-dog-monaci-bancarios-jardim-sao-paulo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jardim Comedoria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021303_5c1ae455-8e42-46a0-be42-ca43ff72f596.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jardim-comedoria-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Donna Itália",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031648_b806f148-cb73-46ce-8188-3ca11b3e53d9.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/donna-italia-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Brasil - Valentina",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702242051_SUSHI_NTINA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sushi-brasil---valentina-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mundial Lanhes Jaguaribe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051913_3935f2a0-df8e-476a-8edb-39dd19ca0145.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mundial-lanhes-jaguaribe-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Fetta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704100909_ca2576c0052d478b968bf1d970f470ed.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-fetta-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Point do Açaí Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3fc24903d77a6_POINT_IVER01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/point-do-acai-delivery-industrias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cousins Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251004_cdc200e7-b8f6-43cb-8f4e-690871d1455a.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/cousins-burger-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pinto no balde - Bessa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701130925_PINTO_EISEL.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pinto-no-balde---bessa-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Estupendo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701241107_ESTUPENDO.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/estupendo-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Paulista Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210851_28065aa4-4909-4ec1-9585-6eeabb3b673b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-paulista-express-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Skin Sushi Bar E Temaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca ski_skins_emaki.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/skin-sushi-bar-e-temaki-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_pizza_pres12.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-express-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cachorro Quente Do Zé Praia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702201252_CACHO_PRAIA.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/cachorro-quente-do-ze-praia-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Comida Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/comida expres_COMID_PRESS.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/comida-express-treze-de-maio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PHILIPE SANDUICHES ESPECIAIS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/philipe sandu_phili_ciais.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/philipe-sanduiches-especiais-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Drops Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705060851_2b06306a-aa24-4541-9007-b779b242bb24.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/drops-pizzaria-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Home Sushi Home",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701180941_HOMES_IHOME.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/home-sushi-home-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tomatelle",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tomat_ambau.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tomatelle-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tarandella Pizza Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061027_cb3426af-7cd6-4d2f-9b70-ba3202d768f2.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tarandella-pizza-delivery-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "KIZU",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041838_2bd29ebb-a537-45ef-9ac3-8957e3896b89.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kizu-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Matterelo Casa De Massas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo  mattere_matterello.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/matterelo-casa-de-massas-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bang Bang Pizzas E Burgers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_BANGB_UERIA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bang-bang-pizzas-e-burgers-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CANTINHO DA EMPADA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221421_f562a38e-e1d3-4b3d-aaa0-025777ad6e4f.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/cantinho-da-empada-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "OFICINA DA PIZZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161004_159fad59-be66-463a-b506-cf99924a2705.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/oficina-da-pizza-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dosha Temakeria &Amp; Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701160924_DOSHA_OUNGE.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dosha-temakeria-amp-lounge-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lasca de Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/10d7f4cc-7e0b_LASCADEPIZZA.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lasca-de-pizza-pedro-gondim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kasa da Empadinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061032_0ff6c963-3090-469f-9b04-e782a57d5b38.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kasa-da-empadinha-tambauzinho",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kdog Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231725_2f835a4a67c549b1896c68b7a194f51a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kdog-burger-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cachorro Quente Nocaprixo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031158_280bcde8-8664-4fd6-8125-4679739ddac7.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/cachorro-quente-nocaprixo-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Manaçaí Bairro dos Estados",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_MANAC_TADOS.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/manacai-bairro-dos-estados-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sr. Grão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211123_90b67237-3773-4863-9f2b-64fe352c0081.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sr-grao-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rafa's Pizzas e Massas Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021046_aa18f41d-8614-4360-b650-6ce8ce5e5d93.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/rafas-pizzas-e-massas-delivery-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório Pastelli",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704050822_06498af0ae884896b0e9897d626d5060.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/emporio-pastelli-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delicious Food's",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251355_3a11058d-3efd-4fac-8f84-a87402365b46.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/delicious-foods-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Feijão Amor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707232242_a501e84b-b492-47ea-9fbc-f266685aa44a.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/feijao-amor-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marítimos Praia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130828_15c6776f-5e84-43c3-8382-32d8f773bac5.png",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/maritimos-praia-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paulista Fast Pizza - Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/9cd74c5f-240e_RODIZ_NAIRA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/paulista-fast-pizza---manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MUNDIAL LANCHES BESSA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031444_f6621211-7b5f-465f-843a-7d049dc7c71a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mundial-lanches-bessa-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Galeto'S De Ouro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701250821_GALET_EOURO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/galetos-de-ouro-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Nackaasa Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708061258_c3e66616-275c-4591-aeb9-46176ef66b25.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/nackaasa-restaurante-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pomar Doces",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021319_2a6ee66a-1c49-4956-9a5c-2f270713b1ac.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pomar-doces-tambauzinho",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Akira Sushi E Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705130832_80073b95-a9bf-4c5f-be7f-28a612ef7393.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/akira-sushi-e-temakeria-varjao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kayo Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kayo del_kayodelivery.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kayo-delivery-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mazinho Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240831_935527a9-d9b2-4b87-a432-6246739efa45.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mazinho-delivery-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SABORELLE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161309_cc41bde7-09d7-4b4b-967c-3d1a815d0e5b.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/saborelle-expedicionarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paulista Fast Pizza - Bessa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/9cd74c5f-240e_RODIZ_BESSA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/paulista-fast-pizza---bessa-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Yellow's Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041727_fd325efa-f279-4720-bca9-614adcb75320.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/yellows-lanches-padre-ze",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Do Paulista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_lista.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-do-paulista-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marguerita Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/marguerita lo_margu_zari01.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/marguerita-pizzaria-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO PIZZA CH_PIZZACHEF01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-chef-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Armazzém D'Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704260833_b0dc7329-eedd-4419-9950-fa897e48a0bf.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/armazzem-dpizza-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hambúrguer Insano",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281003_62292971-eeeb-44bc-8285-b48e61c43c2e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hamburguer-insano-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bell restaurante e pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251228_8acb7d44-0537-454e-bca7-03dc2aaf2e22.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bell-restaurante-e-pizzaria-alto-do-ceu",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seu Portuga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231344_99fb2a77-3ea2-4523-bc89-5e50583d8ffb.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/seu-portuga-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pastel Da Tia Abí - Anatolia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Tia_PASTE_TOLIA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pastel-da-tia-abi---anatolia-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Le Cuscuz",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ecfa351a-3d68-4a03-8219-770d13315eca/201710271454_noval.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/le-cuscuz-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China em Kasa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031728_89287aac-a67e-4818-9b88-35736b6d0b33.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/china-em-kasa-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Jiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_SUSHIJIRO.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sushi-jiro-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tia Abí Pastéis & Burguers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tia_tiaab_steis.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tia-abi-pasteis--burguers-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Pronta Entrega",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza_pizza_trega.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-pronta-entrega-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PREMIUM PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo premium2_formu_essoa.gif",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/premium-pizzaria-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hotroll Sushi E Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo hotroll_hotro_keria.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hotroll-sushi-e-temakeria-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paulista Fast Pizza - Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/9cd74c5f-240e_RODIZ_LIST01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/paulista-fast-pizza---bancarios-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BONNA PIZZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201035_a1ff2d62-7955-4ff1-9c81-871b419a1cb8.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bonna-pizza-agua-fria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Judan Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709241213_60e6b961-6735-432f-9aa1-0cb818cb4261.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/judan-sushi-cruz-das-armas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Original Franguitto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211626_LASANTE.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/original-franguitto-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HAMBURGUERIA HIGH HOURS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100956_d70e1bf2-bd63-4520-a391-965604277189.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hamburgueria-high-hours-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "John Burger Sanduiches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706191029_74ad6828-7d43-4910-aa84-59da5b799883.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/john-burger-sanduiches-industrias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Thyta Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704040824_9607b9d163b0437e88e6ac0a1d7e109f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/thyta-hamburgueria-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rockabilly Sanduicheria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_rocka_heria.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/rockabilly-sanduicheria-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sans Lanchonete e Sorveteria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020759_e552beed-7923-45e2-9b8c-0c7f88f0314b.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sans-lanchonete-e-sorveteria-ernesto-geisel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Toka Da Esfiha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_tokadaesfiha.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/toka-da-esfiha-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Croasonho João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Cro_CROAS_ESSOA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/croasonho-joao-pessoa-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Ollo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Piz_PIZZAOLLO.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-ollo-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Filetto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111026_956952c1-e8ee-46f0-950a-7769cbc07d54.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/filetto-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Saúde no Pote JP",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260811_eabc8de0-74c9-4833-b3dd-559bd6b42300.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/saude-no-pote-jp-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "POTE FIT JAMPA DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200758_86c2ca3f-ef17-4417-b55f-cd0243bb38c5.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pote-fit-jampa-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "VILA DO SABOR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050829_6920bb38-c0be-490e-9084-bab5a0fa9dcd.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/vila-do-sabor-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Parmegiana Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Par_PARME_PRESS.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/parmegiana-express-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "M&N HAMBURGUERIA ARTESANAL",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150923_5f2f72cf-2788-4ffd-8d08-8a4df05787df.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mn-hamburgueria-artesanal-portal-do-sol",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Príncipe Coxinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706300823_ed4a6ca7-30ab-453d-82a0-8e09eadc9b03.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/principe-coxinha-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bistrô Das Flores",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705170822_54f5aca3-cee4-4473-87d4-734bbb48cfe2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bistro-das-flores-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Forno Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702110917_DOMFO_ZARIA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dom-forno-pizzaria-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Armazém do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050915_38df4c2e-a7a4-40dd-b84d-164224ccc3ba.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/armazem-do-acai-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mundo Dos Pastéis",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091501_MUNDO_STEIS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mundo-dos-pasteis-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101300_f1dd378f-16b2-4236-8fec-412e16441158.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/casa-burguer-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oca do Pastel",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011922_42ab1bcd-9a62-46a1-bf96-e91931d2a987.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/oca-do-pastel-anatolia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZARIA MASSA FINA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705200949_1dbe1984-e713-4e0d-b3be-7ad7b8c8e968.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-massa-fina-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gaúcho Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709210958_a10f700b-c551-4806-9a9a-cf044e3ba24f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/gaucho-burger-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dux",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_duxco_liepp.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dux-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Manacai",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo manacai_manaçaí.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/manacai-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Capitão Farinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091817_3dd14e8c-83ea-4e3a-b367-b1e8d8d800d6.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/capitao-farinha-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Samaritan Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081649_fb0f124b-f25f-49f1-9825-96a060c3b3bf.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/samaritan-hamburgueria-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Salgado Maromba Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261510_d7841788-4fac-4bf1-816a-95fbf479dbaa.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/salgado-maromba-gourmet-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delivery In Box Gleyze Lima + Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101246_5fcde16492484ccb941f4cd4d13a67e6.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/delivery-in-box-gleyze-lima--chef-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Manaçaí Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Manaçaí_MANAC_ARIOS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/manacai-bancarios-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "La Litza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251010_b545a488-85f1-45c0-8dc0-38cd415be5dd.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/la-litza-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Takashi Temaki Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_takas_ounge.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/takashi-temaki-lounge-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fillings Pastelaria Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_filli_urmet.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/fillings-pastelaria-gourmet-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Forno Di Roma",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211556_fed0cb6d53754d7b943f93ca24fc76ec.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/forno-di-roma-altiplano-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hall",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707222030_3daa8e62-c3d6-47e3-a705-9a3d371dd617.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hall-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dellivery Bom De Mais",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703141015_DELLI_EMAIS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dellivery-bom-de-mais-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "specialle pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221439_5c2242bb-de6f-4a45-afec-65c83a8b0337.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/specialle-pizzaria-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZAEL DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/esse_pizza_iver30.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzael-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Torre Di Pizza - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo torre di_torre_essoa.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/torre-di-pizza---joao-pessoa-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Laça Burguer - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_laca_burgr_sand.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/laca-burguer---joao-pessoa-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Au Au Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702242141_AUAULANCHE01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/au-au-lanches-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Playboy Das Coxinhas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_playb_inhas.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/playboy-das-coxinhas-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZARIA GUIMARÃES",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111757_77279d4f-9f6d-4de8-bac0-e36b26ea3028.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-guimaraes-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Eu Quero Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101428_1afd15f6-aed3-42f2-bcdc-c4b7014d0632.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/eu-quero-pizza-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CAPITAL DOGUERIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010913_384101a8-e358-45da-be8d-e17a3e98b07e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/capital-dogueria-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bom Cardapio Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703172056_BOMCA_IVERY.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/bom-cardapio-delivery-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dogão Delícia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_dogaodelicia.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dogao-delicia-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Capitão Farinha  Massas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261841_cbab833d-4ff1-4b69-acb6-14bdaddc9d55.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/capitao-farinha--massas-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Estação Do Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702170731_ESTAC_SUSHI.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/estacao-do-sushi-ernesto-geisel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RODIZIO DO TEXAS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Piz_PIZZANOSTR02.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/rodizio-do-texas-miramar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "UP CAFETERIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291546_3f977c47-223e-43de-b656-89b91fec5790.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/up-cafeteria-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kento",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702140958_KENTO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kento-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Manaçaí Cabo Branco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Manaçaí_MANAC_RANCO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/manacai-cabo-branco-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jampaçaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705060906_78799ba3-9993-4a95-b551-cb59cc9d178d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/jampacai-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria Dos Estados",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_tados.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/restaurante-e-pizzaria-dos-estados-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Time",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704161132_e283754e024b401b8640791e2b7b8acc.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sushi-time-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mundial Lanches Tambaú",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080938_557b1e06-4767-47b2-b5a3-7bc6991396d7.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mundial-lanches-tambau-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Feijoada Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301416_13beb4f8-8918-4bf7-967a-4ed940fafaf8.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/feijoada-express-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PF Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221445_ae386643-c98e-49e8-922e-4315b8bacfa0.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pf-delivery-tambia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hot Dog Du Pabllo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171903_42fc3e69-af96-4849-a9ec-641fd02c5065.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/hot-dog-du-pabllo-varjao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mundial Lanches - Bancários",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281055_a3545004-ba9a-4f81-8be8-823696a6e8fe.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mundial-lanches---bancarios-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Express pizza da hora",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230826_68178625-91d7-4f37-b337-a312b13e88cf.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/express-pizza-da-hora-paratibe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pão Com Gergelim - Altiplano",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca (1_paoco_plano.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pao-com-gergelim---altiplano-altiplano-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Wayne'S Burger Star - Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Way_WAYNE_NAIRA.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/waynes-burger-star---manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Johnny Rockets - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061054_ecf99237-d376-4aa6-aa15-a83af4ff3e4e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/johnny-rockets---joao-pessoa-tambau",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lavauto Bessa, Bar e Petiscaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231425_9539b927-732d-474e-ac58-2c90075a57de.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lavauto-bessa-bar-e-petiscaria-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Concept - Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231414_ACAIC_NAIRA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/acai-concept---manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Cave Bar Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291321_e981a60d-72bd-43b9-8a4e-fb5e0714c8f1.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/the-cave-bar-express-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pinto No Balde",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311343_c04c5ac0-9f43-4751-9fe2-018227fbdf29.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pinto-no-balde-tambauzinho",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sr. Coxinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121032_19f806d4-8bf0-4602-a34d-143175a2b3db.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sr-coxinha-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Alô Pizza Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703121037_ALOPI_PRESS.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/alo-pizza-express-cidade-dos-colibris",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AGUA NA BOCA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_AGUANABOCA01.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/agua-na-boca-pedro-gondim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papa Antony Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_papaa_pizza.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/papa-antony-delivery-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Boteco Manaíra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070841_70007c7b-238b-468f-88fc-f32477611617.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/boteco-manaira-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Creperia Sabor dos Deuses",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110721_cb8efbc5-a840-4229-bcd0-2dc8c21e2d2f.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/creperia-sabor-dos-deuses-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Czar Pizzaria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Cza_CZARP_IVERY.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/czar-pizzaria-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dubistro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo1_DUBISTRO01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dubistro-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Beiju De Goma Tapiocaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210935_BEIJU_CARI01.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/beiju-de-goma-tapiocaria-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AIDA - Restaurante e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211115_55e8e1e1-75ff-4bda-8da0-078a943735f9.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/aida---restaurante-e-pizzaria-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kin San Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_kimsamsushi.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kin-san-sushi-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LALA LANCHES",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221958_6aed96eb-a7cc-4e92-88ac-c7a5b3f33d6e.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lala-lanches-agua-fria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fast Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101805_FASTLANCHES.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/fast-lanches-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Nordeste",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301102_7272b6dc-29be-4580-88cc-ddf71d479f4d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-nordeste-alto-do-mateus",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Kingdom Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704171419_e3a3bbc3b77942e48365020db9528365.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/the-kingdom-hamburgueria-brisamar",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sampa Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061452_07726bec-d704-4530-99c3-7e9d842978b4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sampa-lanches-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Sul Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241454_PIZZA_IVER45.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizza-sul-delivery-valentina-de-figueiredo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Sukkot",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101045_aa5bc6b0-99d4-463b-be14-9b6aec265e9a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-sukkot-cuia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mexicando Tex Mex",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111648_85620dc8-df4e-461f-a73c-cc1a334b2610.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mexicando-tex-mex-portal-do-sol",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tartaruga Burguer Cabo Branco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca tar_TARTA_RANCO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tartaruga-burguer-cabo-branco-cabo-branco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fofos Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/13cd916e-deae_FOFOS_RANTE.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/fofos-restaurante-ernesto-geisel",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "La Cocina fit",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091504_74d752d2-27fc-4211-8681-a2564149b084.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/la-cocina-fit-jose-americo-de-almeida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria e Pastelaria Fred e Vilma",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291020_52403100-d705-43db-82d3-fbb076645b5c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzaria-e-pastelaria-fred-e-vilma-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sublime Torrão Cafeteria & Doceria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161954_3ec80666-4431-4af6-b9a9-0bd0a94ddedb.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sublime-torrao-cafeteria--doceria-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pinto No Balde Estados",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701050950_PINTONOBAL01.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pinto-no-balde-estados-estados",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzarella - João Pessoa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria logo_PIZZARELLA.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pizzarella---joao-pessoa-jardim-cidade-universitaria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marmitar Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181714_8ad848a5-56f9-4659-8f9d-a092094ce19f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/marmitar-delivery-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Caramel",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (9)_caramel.png",
+		"priceRange": "$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/caramel-torre",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fast Coxinhas & Espetos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708131334_f7bd73f7-caab-4f57-8e25-cbddfc076df2.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/fast-coxinhas--espetos-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Thelma's Cardoso bar e restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121021_8ab8a304-518d-411b-b98c-7efa137ba20c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/thelmas-cardoso-bar-e-restaurante-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Suco É Suco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo suco_sucoesuco.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/suco-e-suco-aeroclube",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brigadelicia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241551_71ee8465-69b2-4432-8e32-303aa9ceb48f.png",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/brigadelicia-cristo-redentor",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D´Pot Salada Delivery Jp",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701230655_DPOTS_ERYJP.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/dpot-salada-delivery-jp-ernani-satiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kingyo Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8220/logo.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/kingyo-temakeria-jardim-oceania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanches Rapidos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121108_0b525cc4-e111-4227-9e19-9f152a0e6159.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/lanches-rapidos-tambia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mister sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181324_4e85dee7-1a40-4beb-8f55-524888807994.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/mister-sushi-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pastel Portuga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703041107_PASTE_RTUG01.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/pastel-portuga-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Piemonte Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/piemonte-pizzas-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Qualitá Pizzaria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/qualita-pizzaria-delivery-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sr. Coxinha Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101811_0d5afe9f-dc6f-42b6-ba4f-d9bd78a8f0af.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sr-coxinha-truck-bancarios",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sua Pizza Jp",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_suapizzajp.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sua-pizza-jp-bessa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sua salada",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120836_bc397cd4-005b-4d1c-8b31-1120d4065e36.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/sua-salada-jaguaribe",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Subway-LOGO_SUBWAY02.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/subway-manaira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tambiã Pastel",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/tambia-pastel-tambia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Toda Hora Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181100_89851d00-6cdc-442a-bd1a-e43ae6859709.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/joao-pessoa-pb/toda-hora-acai-mangabeira",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JOAO PESSOA",
+			"addressRegion": "PB",
+			"addressCountry": "BR"
+		}
+	}
+]

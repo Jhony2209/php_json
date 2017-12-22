@@ -1,0 +1,63 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Charlotte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181956_6141bb58-2bd3-43d6-b293-593b26c7610a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piraquara-pr/charlotte-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRAQUARA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete e Petiscaria Wakabana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181448_5bf004dc-6261-45c6-a43c-e0451e61a14d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piraquara-pr/lanchonete-e-petiscaria-wakabana-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRAQUARA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Fumaça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211220_c8fc5cf2-9da2-4030-ae3b-d131a8f34cef.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piraquara-pr/maria-fumaca-vila-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRAQUARA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Delicias & Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271507_f8573b26-44c6-4733-94d7-c45399830ec2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piraquara-pr/pizzaria-delicias--sabores-guarituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRAQUARA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,111 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BENDITO SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201324_d9048508-b7af-49d9-af76-9be183d5ff26.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/bendito-sabor-porto-da-roca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Hambúrguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091042_c34d5e0e-0e0d-42f3-b57d-2804958fa003.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/casa-do-hamburguer-ipitangas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem dos Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180900_ae6c5ef5-2ac8-4019-a861-feeecd4e3914.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/garagem-dos-pasteis-bacaxa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rico Pizzas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100911_4ae0785e-e282-4450-9cfb-b7ffb716b530.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/rico-pizzas-delivery-bacaxa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit Stop Saquarema",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170831_5fda686f-4d9d-4896-a1b9-83d56dfdd16e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/pit-stop-saquarema-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Burger House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161052_4f1822bb-fa5f-4f90-83cc-7d750a5c9e33.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/american-burger-house-praia-da-vila",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Alegrense Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121644_ccc06631-6bed-4ce7-ae6b-ea2567c90ec7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/saquarema-rj/nova-alegrense-restaurante-e-pizzaria-porto-da-roca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAQUAREMA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

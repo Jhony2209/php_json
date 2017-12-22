@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deguste",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091529_a22d3c4d-b6f9-4509-b0aa-3bb671a30fdc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paulo-afonso-ba/deguste-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULO AFONSO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

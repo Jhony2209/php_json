@@ -1,0 +1,95 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Churrascaria Verdes Mares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_mares.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maraba-pa/pizzaria-e-churrascaria-verdes-mares-nova-maraba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARABA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Marabá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708100928_67f08ecd-fe3a-4bfe-9bb0-01a196a6994d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maraba-pa/brasileirinho-delivery---maraba-nova-maraba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARABA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big x Picanha - Maraba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708061320_e2afb85d-c9e6-4a38-8282-ed0a49aeb147.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maraba-pa/big-x-picanha---maraba-nova-maraba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARABA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Paulista de Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301753_e078a7be-ebf1-493c-8ceb-557c538f6b0b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maraba-pa/cia-paulista-de-pizza-nova-maraba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARABA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer Brother",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707231525_5b9ca675-4957-4014-a8ef-bc0a1502203e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maraba-pa/burguer-brother-belo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARABA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeria da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181125_c0d8cf25-f45a-4294-ad18-d8aa42b8a8f7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maraba-pa/galeria-da-pizza-nova-maraba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARABA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

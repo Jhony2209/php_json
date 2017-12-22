@@ -1,0 +1,299 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Romana Caucaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131455_8297b486-9bc9-49e3-bf1c-3a4a9e856a8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/padaria-romana-caucaia-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAMINHA PRIME STEAKHOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091723_08eab7f3-932f-4d6c-9f49-bbcd3acc3dc6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/maminha-prime-steakhouse-nova-metropole-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Léo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201228_2ecf8960-a7a9-4e66-b80c-a5acf92f7c5d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/acai-leo-parque-guadalajara-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina da Jace",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300920_cf615485-ba90-463c-8651-3ae6de7fd5ac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/cantina-da-jace-tabapua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto do Camarão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230756_2d4590a3-5b03-42b4-bc80-1be629b75e73.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/canto-do-camarao-planalto-caucaia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feeling Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091620_3c32c8bf-11c0-48a1-acbc-e18123afc19f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/feeling-hamburgueria-nova-metropole-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Labareda Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231449_300ca36b-3e45-4048-a26b-4d126b852709.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/labareda-pizzaria-padre-romualdo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Melhor Bocado Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230628_45a73f79-1910-4217-9d2b-d1ef56117b22.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/melhor-bocado-burger-padre-romualdo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Opção Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221951_4bc4310c-090e-4328-b1fc-f6d06da536ad.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/nova-opcao-pizzaria-padre-julio-maria",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza da Gulla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111550_6fd012a5-fc71-414d-a71e-0df339f96032.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/pizza-da-gulla-tabapua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D'M Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290922_b075e525-c591-4ecd-98aa-353dcc2c7b56.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/pizzaria-dm-delivery-araturi-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pop Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171442_0c256aab-5e71-452a-be68-9a2ebbf5281e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/pop-pizza-tabapua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vaca Loka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180954_c50b3035-b93a-4595-857c-1abb06f1c53a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/vaca-loka-padre-romualdo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ITome Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161019_d0c35ad7-068c-463a-a8e0-db6f18f61ea5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/itome-acai-araturi-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Madu's Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261617_b70d837f-d147-458f-954a-4241bf63a6f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/madus-pizza-delivery-tabapua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alow Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291016_721147da-8c17-439c-8173-2ddf0688a184.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/alow-pizza-delivery-padre-romualdo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zuggy Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061155_80578ae9-1b56-421b-9007-548815294305.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/zuggy-pizzaria-araturi-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camarão do Chefe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060920_90e22905-ae85-4450-84e7-b58d2b7ee7c8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/camarao-do-chefe-marechal-rondon-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Balaio Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031048_8e1316ec-ce93-41e0-8a98-1f447361085b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/balaio-restaurante-e-pizzaria-nova-metropole-jurema",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031449_7dc2cf2f-62bb-44bc-ba26-2959ba18b8f7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caucaia-ce/bistro-da-pizza-tabapua",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAUCAIA",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

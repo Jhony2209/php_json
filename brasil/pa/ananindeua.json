@@ -1,0 +1,721 @@
+  
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200050_bbc54891-2ba4-4e17-b517-e0b701d67d1d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/brasileirinho-delivery-marituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RENATO PIZZAS FAST DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712012059_b0928def-a431-4333-81e2-d5b573b39a2f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/renato-pizzas-fast-delivery-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casserole Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031448_69823c4f-8bef-437f-94a6-0b25954cbe10.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/casserole-delivery-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Caranguejo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061015_53bbc837-b4b5-4f72-b41e-866fdf5acc3e.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/sr-caranguejo-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Coma Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051115_7fbddad4-b0de-4692-9906-45d246d4cff1.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/restaurante-coma-bem-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primes Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/19225918_1889_PRIME_IVER02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/primes-burguer-delivery-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El TORO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031414_7af44717-4da9-400b-aeac-a33fd63eaf04.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/el-toro-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BR Point",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071717_9fa966e2-b861-4955-8d3b-b2c1467336a5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/br-point-marituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bengalão - Seu Sanduíche em Metro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261316_722b9b42-482b-4939-803f-4144411d23a2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/bengalao---seu-sanduiche-em-metro-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Ferreira Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270918_cd5bcfd6-a27e-4514-9082-65b8383ab724.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/dom-ferreira-pizzaria-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Egua du Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250846_b30f5337-857d-457c-8b2e-cdcbabcbe697.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/egua-du-hamburguer-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Truck Pai D'égua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111523_523e334d-3286-455b-9ee3-29b3bd57ffb8.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/food-truck-pai-degua-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GALEGO PIZZA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121324_e43eeae3-d7ee-4d04-ac5e-0aa937e1e1fa.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/galego-pizza-delivery-quarenta-horas-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JC CHAPAS E LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291106_4e931c1b-10a0-4746-ae39-f3e2b7988f05.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/jc-chapas-e-lanches-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131241_0652c467-cdf3-4cc7-8cad-e46de6a1d348.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/king-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MASSA FINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291019_9ec56c84-8e20-48f6-84f2-660f9cf66355.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/pizzaria-massa-fina-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Herança de Deus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091010_1271b9c8-4b86-462e-9b0f-542ff4d11c97.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/pizzaria-heranca-de-deus-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ice Hot",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161513_3638ac4e-5625-4072-8b09-7a1c3a891a5f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/pizzaria-ice-hot-curucamba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sauros Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131425_5e6fe878-67f8-442b-8d54-a0f53b2c6b3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/sauros-restaurante-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Smith Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191419_43ab8aeb-31f6-45d3-a5fe-055d84588e1b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/temakeria-smith-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mais Croissant - Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261029_8433c6e1-56cc-4ac9-a492-51d50cdea4ac.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/mais-croissant---delivery-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Delivey inkasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091344_e54ba876-deb6-4ebb-abf5-98acb8803715.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/sushi-delivey-inkasa-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dinner Pizza's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071152_de9ac300-8700-4a93-8c46-1806bb852279.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/dinner-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padelivery pizzaria e hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280940_88269fcd-54d3-4058-b91c-cbf5ad0021d5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/padelivery-pizzaria-e-hamburgueria-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "METROPOLIS BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/75527070-6a62-4c08-9403-99130d4d4419/201711241459_burg.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/metropolis-burger-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gunkan Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300921_040ac367-ab9f-4f54-b3df-f1cb80ea669a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/gunkan-sushi-quarenta-horas-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KoniSam",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311432_f1ed7f28-e186-4960-b626-f5bcbc784ef2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/konisam-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Heroes Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041459_0969e42a-463c-43a1-ab5e-11c492b45df3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/burger-heroes-food-truck-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "America's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040834_1253b976-8a35-4daa-9afa-33770b8d1d6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/americas-burger-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Paulista de Pizza Cidade Nova",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707260738_b1988c1f-b70f-4314-969a-f84df8739037.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/cia-paulista-de-pizza-cidade-nova-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croissant Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161613_75aaeec9-5e62-4d5e-b572-8a17aecdb284.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/croissant-gourmet-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espeto do chefe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241244_e53cae11c38b48ca801498ed9a442947.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/espeto-do-chefe-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Sogra Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141036_e6d3087e-ad93-41de-b755-1bd23b858390.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/casa-da-sogra-sanduicheria-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Napoli Pizza Delivery - BR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo napoli d_NAPOL_ERYBR.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/napoli-pizza-delivery---br-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Blaus Lanches E Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_blaus_enova.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/blaus-lanches-e-pizzas-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza do Papai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251537_97b7af2a-d6c6-401d-a8fb-4545d919d8cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/pizza-do-papai-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Sophi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Doce sophi._DOCESOPHIAjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/doce-sophi-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "THE BEST FOODS FACTORY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051006_e615f270-baf7-4722-92ed-8cb5a872ded4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/the-best-foods-factory-jiboia-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Banzai Sushi E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131525_d640efb2-a585-4d4d-82cb-ffdbd70fadf0.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/banzai-sushi-e-restaurante-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ice Bode Cidade Nova",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241614_fc54ebb6c1a349d39b9f87498d6a17d5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/ice-bode-cidade-nova-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maluco Beleza Bar e Restô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211111_13fcdd22-154c-4a35-97e6-dc80aa3afcb3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/maluco-beleza-bar-e-resto-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TARON CHEFE PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311122_ed62593d-030e-486b-ad57-a8bf9fa27c55.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/taron-chefe-pizza-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUSHI ANANINDEUA EXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101428_3d11da6c-cbd2-4e79-9116-5cf401ec17f0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/sushi-ananindeua-express-aguas-brancas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TERAPIA DO CHEF",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121834_32ca1c34-4c16-4bad-8cf7-f08e211d9e82.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/terapia-do-chef-coqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tf Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-tf-burge_tfburgers.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ananindeua-pa/tf-burgers-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ANANINDEUA",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }
+]

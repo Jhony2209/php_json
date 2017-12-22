@@ -1,0 +1,149 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camaçari Plaza - Plaza Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301058_8efc4c8f-9c2a-434f-9ebc-3f6c1e138137.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/camacari-plaza---plaza-grill-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA SÃO PAULO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281526_682ce3af-db7d-4fdc-aac2-279bd3b6c423.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/pizzaria-sao-paulo-abrantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Manchelly",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281011_7e366cf4-5b4d-4249-a0e1-ca822980345e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/pizzaria-manchelly-gleba-b",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Take Out Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160839_168dacae-ce6b-40db-84e1-dbb3469ae17a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/take-out-pizzaria-delivery-abrantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VILLA GOURMET COMIDA CHINESA E ITALIANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180756_20e2ae33-7bef-46cf-bd23-b49d1922297c.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/villa-gourmet-comida-chinesa-e-italiana-abrantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Lenha Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221108_0b48081e-cbca-46c3-9339-2a88c8eab236.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/dlenha-pizzaria-catu-de-abrantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabrica de Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071038_deb2fe60-4134-43ae-b851-17a46b10a284.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/fabrica-de-pizzas-inocoop",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BACELAR GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251218_a65cc47c-2060-4e41-9758-3102ad856955.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/bacelar-gourmet-catu-de-abrantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Acaraje Da Rosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031840_1fa82d21-dc22-4e3f-97c6-d1729db5626c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/o-acaraje-da-rosa-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ky Delícia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290956_d82e47d7-803e-4a41-8178-9fb6d9304705.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camacari-ba/pizzaria-ky-delicia-abrantes",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "CAMACARI",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

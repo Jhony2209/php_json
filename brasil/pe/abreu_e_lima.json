@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KANIMAKI SUSHI DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040923_3242817e-9ae6-4c71-b59e-a6738c323922.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/abreu-e-lima-pe/kanimaki-sushi-delivery-boa-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ABREU E LIMA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Avalom Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061137_12672e61-a4b3-4457-b710-ed1af40b6251.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/corumba-ms/avalom-bistro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CORUMBA",
+            "addressRegion": "MS",
+            "addressCountry": "BR"
+            }
+    }]

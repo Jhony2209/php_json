@@ -1,0 +1,3800 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ohana Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181432_8c9489b9-14e4-48f7-8dd7-f2ea1f36f796.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ohana-acai-parque-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Chilenita Empanadas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020834_0c843e5f-27f2-4273-856f-9eded3528ceb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/la-chilenita-empanadas-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donsabore Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311343_8f42dfa4-4fe3-4eb0-b6fb-a479f831378e.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/donsabore-salgados-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DONATO SALGADOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311411_109253b6-6927-4558-87e4-fec18109011e.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/donato-salgados-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091246_a2ecdeff-b176-413d-8d1f-541038b97261.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rei-do-acai-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Horta no Potinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280723_3d7c7638-2206-4bd6-b744-400503fb4edb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/horta-no-potinho-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Adore Brigaderia Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201152_a05b6360-d2fe-4ccc-9431-4d3165e78103.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/adore-brigaderia-gourmet-zona-armazem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Bom Prato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708131358_490d74c4-f933-4b3f-a1e7-07408df42ba5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/massas-bom-prato-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seto Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707060949_91319125-21e7-4cc3-a5fb-789d41c4b500.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/seto-culinaria-oriental-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 430 x 28_reidaesfiha.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rei-da-esfiha-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roberto's Pastel Av. Bento Munhoz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261146_d84dc49d-ff3f-499f-8cd7-f542dda2522e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/robertos-pastel-av-bento-munhoz-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Beat Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702141457_ACAIB_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/acai-beat-delivery-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Unicesumar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291013_1347c3c4-32e0-470a-8abc-bfc890446c3e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/subway-unicesumar-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias Olivia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702010906_DELIC_LIVIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/delicias-olivia-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Chef Lanches Av. Mandacaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101118_ab52842c674f4e6eaf0ed9fa4ed85202.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/meu-chef-lanches-av-mandacaru-vila-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Off Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291930_67758635-8ccb-4239-ac17-70175cfad826.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/off-acai-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Praça Manoel Ribas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291013_1153113f-8178-4828-9453-caa2b441effd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/subway-praca-manoel-ribas-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Staut's Restaurant Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706300845_4411f53e-2e43-41b4-abfa-dfce291bd1e0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/stauts-restaurant-express-parque-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Pancrepe Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_gril03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-pancrepe-grill-vila-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob's-  Avenida Center Maringá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708192356_02064cee-8cd8-4c36-b0d1-56d525fc7a13.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bobs---avenida-center-maringa-zona-03",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Maringa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200039_b7cbe1fe-618e-4359-a34c-206f6fb7d4a8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/brasileirinho-delivery-maringa-vila-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Marmita Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041616_3fc191b8-21d6-471b-aa23-f38675dd56b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/a-marmita-delivery-jardim-santa-alice",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Brother lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131344_3340495a-94b8-41b5-bb8c-c0316d0ac0ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/big-brother-lanches-conjunto-residencial-santa-terezinha-iguatemi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHAPA´S GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011050_a04d1a7c-b4fb-4eb4-98c6-2c77697403dc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/chapas-grill-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cazon Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711051233_15b798ae-b328-4206-b8c4-27b1dd292542.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/cazon-pizza-delivery-conjunto-habitacional-inocente-vila-nova-junior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Boturi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261306_e354b80c-8f05-4667-a970-712755a5e455.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/don-boturi-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatella Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160733_b45b9d2b-c0be-4c71-b776-8fd5fba343d4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/donatella-pizzaria-jardim-novo-oasis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXAGERUS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711060821_fe4555b1-d24f-4a5a-b0d2-128fcef2be81.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/exagerus-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Saboroso Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711060930_d905ed6a-e4fd-4835-b894-7de4ad07d6cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ki-saboroso-lanche-jardim-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130644_2dbe4304-3b26-4775-acae-0df9a2741f16.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/king-espetinhos-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kioski",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031325_66934f20-e229-4211-b58e-0a3f44d3f284.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/kioski-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mangiare Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281035_b7ebaad8-e69c-4cfe-b1df-c625d3d0e265.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mangiare-pizzaria-delivery-vila-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Matsuri Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181314_ab10f859-51c0-4143-aaae-0975344bd29b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/matsuri-express-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pamonhas do Cezar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110739_04106db1-b2e6-4c42-a9f2-05cbdd884193.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pamonhas-do-cezar-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza-Ki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130851_7ae10cd0-12a5-45e0-9e1a-272146a21453.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pizza-ki-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Polaca Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031057_f0ece714-e553-4797-90fe-3286d339ef65.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/polaca-lanches-parque-residencial-tuiuti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RYC Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071217_051d2a85-edcb-4849-b015-9bc3269c5fa3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ryc-sushi-vila-cleopatra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rabi Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131623_31bc3afd-28de-416b-b75e-4e149fb8000b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rabi-esfiharia-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Só Na Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141759_345ea450-94e1-425b-8585-6858777d513c.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-so-na-brasa-parque-residencial-tuiuti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotisseria Fernandes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201700_68f51e9c-f58b-44a8-95ad-e1312c6ae2c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rotisseria-fernandes-zona-05",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saldanha Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110739_5432ac8c-47ff-4279-80ba-f3e1ddfb44b0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/saldanha-marmitex-conjunto-residencial-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stop Dog Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110816_53beb4cb-d62d-42aa-b71d-40f13b1bceee.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/stop-dog-lanches-conjunto-habitacional-requiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Av. Tuiuti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712101641_5c2785af-422a-4e57-9918-1329153d6b74.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/subway-av-tuiuti-vila-morangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Rua Paranaguá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712101942_84df3124-f379-4d59-afd2-a24e5ba3224e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/subway-rua-paranagua-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161109_814a395a-a212-450d-925a-23c93118dfb5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/super-lanches-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Ducarmo Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301406_5f1b117a-2f27-48a0-b8fb-75fc67eb24ac.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tia-ducarmo-marmitaria-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yup Donuts",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131307_7f1348a3-0348-4f8f-8009-3a818f225f32.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/yup-donuts-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água Doce Cachaçaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031619_f1264eab-fa19-402d-af20-9d9cb71e0519.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/agua-doce-cachacaria-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lima Burger & Coffee",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/20708100_1566_LIMAB_OFFEE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/lima-burger--coffee-jardim-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Scali Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061049_cb1ced55-b05b-4d7c-94c1-d01f8a77c275.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dog-scali-burger-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Tuiuti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161422_LANCH_UIUTI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/lanches-tuiuti-parque-residencial-tuiuti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Legrand Restaurante & Fast-Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061326_LEGRA_TFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/legrand-restaurante--fast-food-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Harmoniza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121130_9f4ac5a5-3a1b-4ce1-95cc-9596ab7dbecf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/harmoniza-delivery-vila-marumby",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARMAZÉM DO PETISCO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706011418_3db50c01-d08c-4aba-8a3f-7553e53130e2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/armazem-do-petisco-vila-morangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habanero Grill Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706050844_6342b124-e9bd-4938-a22d-1f1b3e2a6c76.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/habanero-grill-restaurante-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Al.Pappone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705090838_52c62235-1e23-4bf9-98ca-5324ce1107b2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/alpappone-zona-05",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero da Nona",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_tempe_anona.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tempero-da-nona-zona-03",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna Mineira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081050_7b275863-788c-4f6f-ace1-4483c10885e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/taberna-mineira-jardim-dourados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hora do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171430_727812ad-1b3e-4a2c-a0d9-13027eca7e11.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/hora-do-lanche-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Mãe Joana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701190813_CASAD_JOAN01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/casa-da-mae-joana-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parada da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-p_PARAD_PIZZA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/parada-da-pizza-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinaria Marmitaria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020836_fe170347-6720-420a-8501-3b8997cd3343.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/cantinaria-marmitaria-gourmet-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cravo & Canela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5e6c3be4-3c26-4c75-ad5d-ad5bb6fefb90/201712080715_cravo.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/cravo--canela-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boliche Pinos e Bolas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708262044_4bfd8fc7-32f2-4f44-b811-e3fdc7eed51f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/boliche-pinos-e-bolas-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tonelada Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241430_f6fa6b96-a1fd-45e7-b8d0-477dfb241f26.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tonelada-lanches-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedala Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703271124_8a5a9ab54c4f400c97b47442c63c9785.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pedala-burger-zona-08",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fast sus_fastsushi.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/fast-sushi-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705060842_65190bce-20de-4021-9057-80cba096a0f3.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pizzaria-artesanal-zona-06",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dedo de Moça Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011022_458e1a09-ed84-4779-a052-2b870d3bdce7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dedo-de-moca-restaurante-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Urbano Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201357_0a15e362-eb58-4113-a92b-9d1e0a7add45.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/urbano-natural-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aloha Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181102_ce643dc6-8659-4f0c-9429-7b615c16a0bb.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/aloha-gourmet-zona-05",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Chef Gaucho Preto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081347_49c62028-81b1-48ad-aed4-fabbec299537.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/o-chef-gaucho-preto-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TAPIOH! - TAPIOCARIA GOURMET -",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151619_0a078dee-7826-4806-bd3f-6b1a35f88f6c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tapioh---tapiocaria-gourmet---zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261139_7e71e988-8e46-4b9a-b482-787b51ee7ca1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dogao-lanches-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Das Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704221252_dfec7182-c63b-4e6d-954f-ee50f0b11082.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/casa-das-porcoes-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Daásu Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031603_02cca269-c924-4645-af05-8e07aa56f3a7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/daasu-sushi-bar-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Piccola Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/la piccola pi_lapic_zaria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/la-piccola-pizzaria-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberu Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-t_TABER_PRESS.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/taberu-express-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Container Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261444_676dd7c4-b26f-419e-acf6-629b08d104db.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/chef-container-hamburgueria-conjunto-habitacional-inocente-vila-nova-junior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Margherita Pizza Pasta e Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201143_01147a00-d567-4b41-8634-cf3fd80910df.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/margherita-pizza-pasta-e-grill-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jura Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702281422_JURALANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/jura-lanches-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba Delivery House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_yakis_house.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/yakisoba-delivery-house-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Hamburger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rei_reido_urger.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rei-do-hamburger-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jardins Pratos Executivos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291641_433f451c07d84293a3518572a698dc86.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/jardins-pratos-executivos-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habanero Grill Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091433_6e5b94c0-aa97-423e-9492-32d7b2f30fe6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/habanero-grill-burger-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sta Gema Omeleteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061421_86f5d3c0-40d7-4d10-98d6-2914311151d2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/sta-gema-omeleteria-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papaluna Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111233_035050cd2c1545cc8b707d478ab3104c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/papaluna-lanches-conjunto-habitacional-karina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornassa Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011639_daaf8a9acda447c2b3f14bb162c2b744.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/fornassa-pizza-delivery-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DaKsa Lanches & PanKeKas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241446_DAKSALANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/daksa-lanches--pankekas-jardim-colina-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bento Onegai Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071349_92dfe13f-7146-4b52-936a-653f43261d72.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bento-onegai-japanese-food-zona-03",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110747_908c4186-f6ca-4859-99f8-3102d27fd188.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/santa-pizza-conjunto-habitacional-inocente-vila-nova-junior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061536_ec41c8c3-0120-4f94-9287-136eb1b6d6fd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rota-lanches-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Formaggio Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-f_FORMA_RANTE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/formaggio-pizzaria-e-restaurante-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alabama Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081356_23a9961f-3675-4c8a-8cfa-aa4c4f0c0ae7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/alabama-hamburgueria-artesanal-parque-avenida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bella pi_bellapizza06.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bella-pizza-parque-das-grevileas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "kigostoso Lanches & Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101714_eb09eaf6-3280-4c06-ac1f-0810675c8b19.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/kigostoso-lanches--pizzas-zona-08",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Origem Gourmet Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021025_bb055a5a-70bf-4442-85ff-34f4c9156ea3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/origem-gourmet-lanches-zona-08",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flávio's Pizzaria & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100806_9117a2e5-d171-4063-b460-bc0f5dbce942.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/flavios-pizzaria--restaurante-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gallo Loco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705211734_799cff17-fefb-4a33-8020-1c8d9ad7f490.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/gallo-loco-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aquino Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131540_008a7784-17f4-466f-a4f7-7a0bdc526d95.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/aquino-lanches-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Favoritta Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-lafavori_lafav_ivery.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/la-favoritta-pizza-delivery-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Austin Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 1_austinburger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/austin-burger-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milão Pizza Pasta & Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706030944_db60cb0e-85a4-43e3-ae96-a1c823e24f58.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/milao-pizza-pasta--grill-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Zona 7",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231751_669e7616-cfd9-413f-9cb5-04cc01c6101c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pizzaria-zona-7-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Formaggio Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo formaggi_FORMA_RANT01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/formaggio-restaurante-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock and Honda Zona 7",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/- maringa_rocka_ringa.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rock-and-honda-zona-7-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FAST BURGUER DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281456_fed75ea1-1c01-49f6-a076-a4b6d245b2ae.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/fast-burguer-delivery-jardim-colina-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "R.A School Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_rasch_rguer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ra-school-burguer-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog King",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dog_dogki_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dog-king-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém Português",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061213_6dd0602b-08fa-4a49-a9ba-15e13858e4e2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Portuguesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/armazem-portugues-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOLHAS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-b_BHOLH_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bolhas-lanches-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bugga Muu Steak House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131350_ccce7265-70ef-462d-94e2-7442b02ced4f.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bugga-muu-steak-house-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Perk",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_burgerperk.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/burger-perk-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baguncinha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170723_5f318034-4a23-4b55-8fb9-e2a41a4c7427.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/baguncinha-lanches-jardim-sao-silvestre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lorenzze Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181908_c5a70648-1574-41da-addc-96e160b2c5a1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/lorenzze-pizzaria-delivery-zona-08",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tentazione Pizzaria e Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241306_TENTA_CARIA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tentazione-pizzaria-e-petiscaria-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BS Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704050929_dc54e95626f14dcc9f6a603bc05a063f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bs-lanches-conjunto-habitacional-inocente-vila-nova-junior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Makariu´S Lanches & Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040823_MAKAR_CARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/makarius-lanches--petiscaria-jardim-dourados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nattú Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031545_4074f682-a34d-4998-b268-54e3cf082f3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/nattu-restaurante-jardim-cerro-azul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zé Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241447_c8d17285-5ac6-432d-81e4-8799e085e150.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ze-grill-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rabi Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_arabi_hari01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rabi-esfiharia-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casarão Da XV",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030700_9b7532cc-0644-40bc-a6ec-813fb87219a6.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/casarao-da-xv-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Belém Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231627_e7bd41d3-0fed-4fd2-a22f-7f1b4d3886a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/belem-hamburgueria-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca Das Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo toca das_tocad_rcoes.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/toca-das-porcoes-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tai Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_taibox.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tai-box-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sal e Pimenta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301017_d25625d9-2799-41b2-a8fc-5960e2dde56c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-sal-e-pimenta-parque-das-grevileas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tadashi Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311201_0a66f3cc685241cfa97b3483ee46d4f6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tadashi-japanese-food-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ipanema Pastéis, Tapiocas E Beirutes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011130_0907eb596a0e4de7a846747132893f11.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ipanema-pasteis-tapiocas-e-beirutes-jardim-ipanema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aki Dog Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241847_20304e4c-8383-4ebc-b645-30e8b1b9d434.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/aki-dog-lanches-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Carnívoro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_domcarnivoro.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dom-carnivoro-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prime Espetos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-p_PRIMEESPETOS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/prime-espetos-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sakura Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sakura-logo_SAKUR_KERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/sakura-temakeria-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baradel Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080723_90a2dcbc-cb77-465e-8eb1-bb7ce1adf35e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/baradel-lanches-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna Portuguesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_taber_guesa.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Portuguesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/taberna-portuguesa-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Vó Nita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701211732_MARMI_ONITA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/marmitex-vo-nita-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Silva Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704151255_e5d5d55a3f704f50b758d9919ea8fec0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/silva-lanches-conjunto-residencial-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shanghai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291757_c1e4daed-d361-40bc-afba-870e3c3487ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/shanghai-jardim-canada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tatibana Japanese Cuisine",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_TATIB_ISIN01.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tatibana-japanese-cuisine-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradicional Disk-Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071525_b365633d-25dd-445e-b031-bde3c4b8952f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tradicional-disk-marmitex-vila-marumby",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Chef Lanches Jd. Aclimação",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/r4sv_sqp_meuch_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/meu-chef-lanches-jd-aclimacao-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pra levar pizzas e massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712192123_f4997efe-91ef-4396-af87-39b9d6290fcf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pra-levar-pizzas-e-massas-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master King Lanches e Prensados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271051_acc0e1b2-de47-4005-a39e-b348dfc5f57c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/master-king-lanches-e-prensados-jardim-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Chef Lanches Av. São Paulo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707032304_eb27cf9b-ca2e-4e7f-baf4-7f498c309376.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/meu-chef-lanches-av-sao-paulo-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Della Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211246_358ec28a-c422-461f-b7cc-3a299d78d6ea.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/della-pizza-jardim-cidade-moncoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_kingpizza.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/king-pizza-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Osteria Casa de Massas e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo osteria_oster_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/osteria-casa-de-massas-e-pizzaria-jardim-copacabana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Pizza - Maringá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021639_694fcfac-0c0a-41e8-b0e6-0372c23f0bab.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/donna-pizza---maringa-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Raffa Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261542_13f9a74e-3b7d-4adf-bbd0-3bbc183a6bd8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/raffa-hamburgueria-zona-armazem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Box Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091135_MISTE_XFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mister-box-food-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eats Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706151305_cb090963-2b0d-43c8-8799-b06385725ba8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/eats-burger-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Scooby Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/scooby_scoob_nche01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/scooby-lanches-jardim-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock Grill Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704120920_fc6a4cb51ddc4fefaffa6e0f22717cb7.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rock-grill-hamburgueria-chacara-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calábria Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241429_d4c29ebedfe54a6f9bf92cd303eb44a6.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/calabria-pizzaria-delivery-jardim-los-angeles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Genevitta Healthy Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_healt_tfood.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/genevitta-healthy-fast-food-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinatown",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/r7ek_sqp_chinatown01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/chinatown-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Seu Pedaço",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_edac01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pizzaria-seu-pedaco-zona-08",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dia A Dia Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_diaad_taria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dia-a-dia-marmitaria-vila-marumby",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Street Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101305_b2332a3a-1e74-4ff7-8d46-2f908ba5c33a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/street-burger-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAÍ LIFE DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051130_01d189fb-0079-4156-a0e0-ce88b0e947de.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/acai-life-delivery-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperio Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo imperio_imper_nche01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/imperio-lanches-jardim-novo-oasis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181210_FRANG_ICAN05.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/frango-americano-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESFIHA DO CHEFF",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261129_2226473f-ce03-41bb-b7db-4556e3a9b478.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/esfiha-do-cheff-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fiuu Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701160744_FIUULANCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/fiuu-lanches-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tabib's esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300725_113a2f5f-593b-48ea-924a-ba3d5f657d36.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/tabibs-esfiharia-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Maringá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_minei_iver01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mineiro-delivery---maringa-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Grill Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161407_c5bc285f-0390-4686-833f-8fd3d9c6758a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/le-grill-restaurante-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria 7 Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701100802_PASTE_BORES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pastelaria-7-sabores-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Chef Lanches Jd. Alvorada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131355_ec0402a6-04a7-4555-86ff-be1b4f49a0b4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/meu-chef-lanches-jd-alvorada-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinezinho Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chine_pres01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/chinezinho-express-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snack S Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo snack's_snack_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/snack-s-burguer-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer.Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251045_390d1a7a-20f4-40a4-b945-049cee5d9610.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/burguerfit-zona-06",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mini Japa Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171018_66d153e0-78fe-4127-a395-b0a727f8fe1c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mini-japa-restaurante-zona-05",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rafa Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo rafa_rafalanche01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rafa-lanches-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nabarca Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280859_f2aaa7d8-9605-4942-964f-3c378517ba2f.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/nabarca-oriental-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Martignoni Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702240822_MARTI_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/martignoni-pizzaria-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Momiji",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121056_39a45be1-f7bf-4c6d-8d79-c609ec1ed10a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-momiji-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Na Brasa Av. Mandacaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_FRANG_ACARU.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/frango-na-brasa-av-mandacaru-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Sabor & Art",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291541_7203619d-ee88-4dee-81c5-5cd351597e77.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/recanto-sabor--art-vila-morangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Elite Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251400_3de3e203-55a4-4ce5-8c91-87f04007e124.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/elite-lanches-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kikão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190817_878d22fc-2ab2-4065-907a-fe491988b123.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/kikao-lanches-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kimi Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kimi_kimis_ivery.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/kimi-sushi-delivery-vila-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nipo Brasil Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704130901_97f75371ecd845e68b37cfd99648755b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/nipo-brasil-sushi-zona-03",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria 19",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091153_4f169fff-a605-4648-a74d-31c1578c6dbc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/hamburgueria-19-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sabores da Terra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171056_3f20eba2-f1cf-441b-b6be-727a0e09c0fe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-sabores-da-terra-jardim-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Danke Bier",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190902_3efe2239-cedb-4749-8269-407a97d93bc9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/danke-bier-gleba-patrimonio-maringa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha & Cia Ii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_esfihaciaii.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/esfiha--cia-ii-zona-02",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Budega 18",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161307_a2e02e14-ccc1-4973-a1c2-9c93af968d55.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/budega-18-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italiano Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701140840_ITALI_ISTRO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/italiano-bistro-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Banzai Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705170831_2a788424-5e10-43ad-a678-a7a0ed02d245.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/banzai-temakeria-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rede Take And Go",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705172313_c1c61ee6-a450-400c-83a8-2fe83bce078e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rede-take-and-go-parque-das-grevileas-3-parte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Container's Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191212_58fda830-6f98-43da-934e-5348b7f5aab4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/containers-pizza-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "R.A CREPES FRANCES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061410_e21a560f-29d3-438e-a899-dca1dff57f98.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/ra-crepes-frances-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suprema Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251239_0db3d5ab-afd1-4fa3-b276-7594acd62b2c.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/suprema-pizza-conjunto-residencial-ney-braga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Frito & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091659_65a1f4f6-e44d-49da-a920-8c5f85f26441.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/frango-frito--pizzaria-vila-morangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Abacat's Lanches & Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011134_601f0f71-0047-4922-a12f-afcb518ef208.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/abacats-lanches--porcoes-zona-06",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kome Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061014_909ced3d-42db-43b5-a192-cc89bc9a4889.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/kome-bem-vila-morangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zucchini Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ZUCCH_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/zucchini-pizzaria-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Australia Gourmet Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo alterada_austr_zabar.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/australia-gourmet-pizza-bar-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria E Pizzaria Fim Da Picada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marron n_churr_icada.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/churrascaria-e-pizzaria-fim-da-picada-zona-05",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Grelhado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281034_cf9b9f4e-b26c-4d60-8e21-f8b232204392.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bom-grelhado-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pamonhas do Cezar Av. Paranaguá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041033_a7f863b5-6837-495c-9880-4cac72d070eb.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/pamonhas-do-cezar-av-paranagua-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Samba Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/samba_resta_mania.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-samba-mania-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dubai Esfihas E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dubai_dubai_secia.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/dubai-esfihas-e-cia-vila-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiharia & Pizzaria Shekinah",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081422_4aabd4a8-6d33-4877-9533-7ff0ab4758f0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/esfiharia--pizzaria-shekinah-parque-residencial-tuiuti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundial Lanches e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_mundi_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mundial-lanches-e-restaurante-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sabor da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141025_8031039b-4866-4e03-a817-dfde9a471a3d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-sabor-da-vovo-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Lanches & Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703300849_9fdf791129d44f038fec357ce50dd6c3.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/expresso-lanches--pizzas-jardim-internorte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gourmet Self Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281204_c21f80ee5a394c6b867df93bd44bcadc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/gourmet-self-service-gleba-patrimonio-maringa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheri Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_cherisushi.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/cheri-sushi-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers House Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081008_878da945-d019-4d79-8447-2bf1d495f1f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/brothers-house-lanches-vila-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MONKEY HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061020_9e1bbb4b-e0ea-4799-a9e1-d14965d4aded.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/monkey-hamburgueria-vila-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "New York Pizza & Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061403_NEWYO_GRILL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/new-york-pizza--grill-gleba-patrimonio-maringa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rede Take and Go",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161654_6bc5eccf-66bb-448c-91de-a5f1637dabc4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/rede-take-and-go-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lavezzo Restaurante & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081326_cdb81a0a-41db-43a9-94eb-b16c9f604afc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/lavezzo-restaurante--pizzaria-conjunto-residencial-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Apizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281408_52123069-fe01-4e1a-ae40-0a9c1b8b49c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/apizza-delivery-jardim-copacabana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alibabar Gastronomia Arabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201328_58d7d9a5-d248-4a81-8003-3c96178ad04c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/alibabar-gastronomia-arabe-zona-05",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Holy Hops - Tap Station",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291211_ee5e4840-5491-4ffc-82a1-1af53ac7ab3e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/holy-hops---tap-station-zona-07",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gil lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709160838_e5e7dda4-8628-49c5-982c-31b3e17fae1c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/gil-lanches-parque-das-grevileas-ii-parte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícia Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281255_51ce885e-333d-4010-a9c3-9afae9c4a63b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/delicia-caseira-parque-taruma",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "2 irmãos Restaurante e Costelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2 irmaos_2irma_laria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/2-irmaos-restaurante-e-costelaria-zona-03",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alecrim - Marmitaria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ALECR_URMET.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/alecrim---marmitaria-gourmet-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amaral S Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_amara_zaria.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/amaral-s-pizzaria-vila-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beer Happy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-b_BEERHAPPY.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/beer-happy-parque-residencial-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bread Fast",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281238_ac80dda3-d37f-462d-bf4b-3b64681a6f8b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/bread-fast-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camelo's Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_CAMEL_HARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/camelos-esfiharia-vila-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Frito & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/frango-frito--pizzaria-vila-morangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gebon sorvetes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707270928_d1786235-fcd8-4f0b-8974-fb73a4129d88.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/gebon-sorvetes-jardim-tupinamba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_king_KINGPIZZA01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/king-pizza-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mandaca Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121530_MANDA_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mandaca-lanches-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Ingá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061049_89137182-34e2-4865-a63f-d1cf7d528cc2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/marmitaria-inga-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Matsuri Sushi Garden",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_MATSU_ARDEN.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/matsuri-sushi-garden-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mesa & Sobremesa Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181429_adf88028-a1f5-4e33-8019-80606dcc550a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/mesa--sobremesa-gourmet-jardim-alamar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Chef Lanches Alphaville",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011736_c0f3ec2e-6432-4543-8290-70f85581271e.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/meu-chef-lanches-alphaville-parque-industrial-200",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monte Cristo Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_monte_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/monte-cristo-restaurante-parque-da-gavea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oliveira's Comida Brasileira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/oliveiras-comida-brasileira-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paris Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_PARISVERDE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/paris-verde-zona-04",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Fruto da Terra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/restaurante-fruto-da-terra-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161320_3781b09f-e038-4e41-ab03-d13d9ade6271.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maringa-pr/temperos-pizzaria-conjunto-residencial-cidade-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MARINGA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

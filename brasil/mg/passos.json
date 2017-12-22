@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Power Fruit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111315_7065b9be-8aa2-443a-880a-494e20bbe564.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/passos-mg/power-fruit-umuarama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PASSOS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

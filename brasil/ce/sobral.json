@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu - Sobral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181637_0e62db5a-c476-480b-a988-7c2501c5a8dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sobral-ce/bebelu---sobral-alto-da-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOBRAL",
+            "addressRegion": "CE",
+            "addressCountry": "BR"
+            }
+    }]

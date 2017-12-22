@@ -1,0 +1,239 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Marmitex Empório Da Esquina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261942_7e229f43-de8c-466a-bb0d-e5359e0d7a45.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/tele-marmitex-emporio-da-esquina-monte-carlo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai & chocolate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706222118_0352e25d-b441-42f0-88af-17fabd2eec5c.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/acai--chocolate-padre-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mixpão Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271119_0c7f0c47-c699-4f52-a406-6df91e326d56.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/mixpao-pizzaria-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081735_dc73bdef-81e2-4622-a894-5d1f6fd03991.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/mundo-do-acai-pousada-del-rey-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Hamburgueria Forno Quente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111130_cab51a05-2803-40f5-8164-59bd4985e456.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/pizzaria-e-hamburgueria-forno-quente-duquesa-i-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante do Bojô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041029_aa645f1b-97d0-4ed0-8952-4919df9de345.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/restaurante-do-bojo-vila-olga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Friends Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301315_d968ef52-7067-440a-9c29-fc3c858ce25f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/the-friends-burguer-baronesa-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MK SABORES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081124_dcbd0465-b196-4d34-ae8b-b283bf56d15c.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/pizzaria-mk-sabores-londrina-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto do Sanduíche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710081141_35ad9641-8586-4039-932a-48841270b92d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/ponto-do-sanduiche-monte-carlo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dois Irmãos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2 irmaos_pizza_rmao04.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/pizzaria-dois-irmaos-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ART MACARRAO NA CHAPA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051125_b3010bb6-611e-4c2a-802f-6291c4024239.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/art-macarrao-na-chapa-sao-cosme-de-cima-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boutique Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709122029_7a9284bb-e139-4413-9c8d-aebfb0ca7994.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/boutique-cafe-monte-carlo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bhem Buteco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211144_2040fe3d-81fc-444c-8ddf-b8f095feb74f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/bhem-buteco-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR DE MINAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191239_64d3cd01-bc48-47f7-b722-c1c5ebb4a2cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/sabor-de-minas-duquesa-i-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Poct Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709031213_619107c8-ba9a-4a34-a512-e1daa9bd01b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-luzia-mg/poct-pizza-belo-vale",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA LUZIA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

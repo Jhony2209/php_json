@@ -1,0 +1,717 @@
+[{  "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291021_3958e1fe-56b5-48d5-8c6c-244281af5b4b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/subway---pinhais-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Emiliano Perneta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291022_ad061f2c-a653-4d1a-9daa-041ab8275ab5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/subway-emiliano-perneta-emiliano-perneta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOG SHOW LANCHONETE E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011938_6af00ceb-6577-4b1e-83a1-a8f5658a8acc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/dog-show-lanchonete-e-pizzaria-emiliano-perneta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LIDY lanches e pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711142326_e8029f34-44e4-4df0-9b45-3193f11673f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/lidy-lanches-e-pastelaria-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POINT PIZZARIA E CHOPERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021032_f0e7046e-b986-45da-a2da-0941ae2bb91f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/point-pizzaria-e-choperia-jardim-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOMASI PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020911_49d314cd-683b-4c0d-a7cc-d2feaf6b47fc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/tomasi-pizzaria-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sausage Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_sausa_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/sausage-delivery-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KI-LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311849_39fceb56-0537-4529-9225-5fe582f6a244.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/ki-lanches-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Silva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241446_1ab10eca-6c8b-4748-b89c-7efa277b7859.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pastelaria-silva-alto-taruma",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famintos Lanches artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031530_a6feb963-f81e-4206-879f-002c2919f2e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/famintos-lanches-artesanais-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701211012_PIZZARIAPOP.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pizzaria-pop-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Retrô Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081036_708adc90-72ad-469a-a611-9fe0dc1ebda7.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/retro-pizzaria-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia Skina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701282152_CHOPE_SKINA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/choperia-skina-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Avenida Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701270804_AVENIDAGRILL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/avenida-grill-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gianfranco Massas Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_gianf_press.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/gianfranco-massas-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Casagrande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_pizza_rand03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pizzaria-casagrande-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nonna Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061046_3946874f-b82d-456a-aad5-e2246d6182ea.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pizzaria-nonna-maria-emiliano-perneta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Casa Nostra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110952_5bb4c533-7858-4d35-ba03-404a547941c5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pizzaria-casa-nostra-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deluma Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061433_b782c01b-0616-4764-9a53-07e49e5d8812.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/deluma-pizzeria-maria-antonieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RECANTO ITALIANO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706090923_99d2fc75-e33b-47ca-bab6-60dd6c529539.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/recanto-italiano-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Pippow",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704081124_bff338c2e0f24bb2b1d2e3b0628dd2ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pizzaria-dom-pippow-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Adachi Cozinha Oriental E Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo adachi_adach_keria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/adachi-cozinha-oriental-e-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kurumim Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702042149_KURUM_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/kurumim-lanches-jardim-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041610_e95c43e1-2489-4700-8131-c0c2a4e03495.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pizza-americana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Pizzaiolo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041038_895489e1-ce1f-49f8-9509-5af2871348e3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/o-pizzaiolo-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Kebab",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111302_5e95c21c-1e69-4af3-bbe0-42b789c40452.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/mr-kebab-pineville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barbarô Sushi Delivery Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061054_BARBAROSUSHI.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/barbaro-sushi-delivery-pinhais-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor e Prosa Hamburgueria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041848_a05d3c4c-2792-4d15-bf72-f43d1ceb96a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/sabor-e-prosa-hamburgueria-e-restaurante-maria-antonieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nosso Japa - Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/japa_nosso_nhai01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/nosso-japa---pinhais-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bug Picanha Delivery - Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bug_bugpi_nhais.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/bug-picanha-delivery---pinhais-pineville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Cantinho da Ge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211113_d47f5df1-c835-42a6-83f6-ece1fb5d8ada.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/restaurante-cantinho-da-ge-emiliano-perneta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Família Hamburgueria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171056_ad2cb664-be42-4e98-b87e-4f8aa3b5bd16.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/casa-da-familia-hamburgueria-e-pizzaria-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dugurungas Hot Dog & Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707070736_a29719de-ad88-4493-8293-3457595d1681.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/dugurungas-hot-dog--burger-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oma Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709262008_b7b8d11b-4586-4abd-b719-446d106035bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/oma-hamburgueria-vargem-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Geração 80",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231129_3bff9981-0a3d-4053-a76f-aab388ef26f1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/geracao-80-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Move Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011012_7841a878781b4d909b35e630d61de83e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/move-hamburgueria-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Fast",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290859_0e2ce703-7899-4a5a-aa25-764893be6b04.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/jet-fast-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Pizza Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo top pizz_toppi_nhais.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/top-pizza-pinhais-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PASTA DUOS CHEFS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221518_9a78415d-494f-46be-bc6c-5f615770854c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/pasta-duos-chefs-weissopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano - Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_frang_nhai01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/frango-americano---pinhais-estancia-pinhais",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Retrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101647_65e6b594-c0d8-46df-a539-7b82b66af04a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/hamburgueria-retro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Company Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704131902_7ff6521c1c4c48f788fcf13900cfb2f3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/company-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frangão do Thiagão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040850_87676f7b-c080-401d-857a-5f2574e89598.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/frangao-do-thiagao-alto-taruma",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Premium Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_premi_iver02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/premium-pizzaria-delivery-estancia-pinhais",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xeffão Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291217_4f105524-bd31-4420-813b-99a3aae6ec71.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pinhais-pr/xeffao-food-truck-atuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

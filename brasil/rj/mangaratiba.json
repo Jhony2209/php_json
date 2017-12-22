@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CARNE & ETC",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311412_1f75ebcb-7ea4-4cb1-9a4c-f437d091f722.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mangaratiba-rj/carne--etc-ibicui",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MANGARATIBA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+  [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Experimenta Lanches Guapimirim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_EXPE_EXPER_MIRIM.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guapimirim-rj/experimenta-lanches-guapimirim-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUAPIMIRIM",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CITY PIZZA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150937_3137a9c8-c567-4ed8-8acc-d95dc8314820.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/juazeiro-ba/city-pizza-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JUAZEIRO",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Olho Azul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041418_86e4b6af-3682-482a-9ed9-3550b345f6b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/raposa-ma/olho-azul-vila-maresia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RAPOSA",
+            "addressRegion": "MA",
+            "addressCountry": "BR"
+            }
+    }]

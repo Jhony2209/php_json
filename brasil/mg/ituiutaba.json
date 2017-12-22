@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mordidela Ituiutaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090915_d69d00b4-a9cb-4856-8a3d-432ca1fbf85c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/ituiutaba-mg/mordidela-ituiutaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITUIUTABA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

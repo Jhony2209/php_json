@@ -1,0 +1,31 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Burgers Picos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311409_40fc45c1-4336-48ed-a504-645832a5824f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/picos-pi/the-burgers-picos-jardim-natal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PICOS",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu Sanduiches- Picos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bebelu_BEBEL_PICOS.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/picos-pi/bebelu-sanduiches--picos-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PICOS",
+            "addressRegion": "PI",
+            "addressCountry": "BR"
+            }
+    }]

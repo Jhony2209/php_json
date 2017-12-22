@@ -1,0 +1,878 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Comercial Rui Barbosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200000_b7350b09-206f-4a47-8c7b-6ecc36b301b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/bobs-comercial-rui-barbosa-ina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Do Vovô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311108_851e44d6d305417c8cbd31f6d781cb21.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/lanchonete-do-vovo-afonso-pena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Por Você",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201036_845a3a42-04ba-41ab-97d1-33ec71a7572a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/delivery-por-voce-aristocrata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY - São José dos Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291059_275d4b88-83fd-4749-bb97-99bd6b65c8ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/subway---sao-jose-dos-pinhais-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Shawarma Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291728_08845c5e-704d-4b02-8294-b1ac1c2aca37.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/casa-do-shawarma-gourmet-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "+ Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071010_e86dbc9d-d9c4-46ed-a4cb-a476f5a54c1f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/-saudavel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco do goiaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251112_55465101-ea7c-470a-b0e0-687562cb1315.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/boteco-do-goiaba-ina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BurguerFlix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111054_b649953e-3cbd-4608-9891-358928992246.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/burguerflix-bom-jesus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mestre Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091141_7360d991-a5c3-4aaf-8da1-13dd2aa6435f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/mestre-pizza-parque-da-fonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Napoli's Disk Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191124_c87edf5b-a9e8-4cce-a6b3-03179cd0d587.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/napolis-disk-pizza-roseira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria  Don Gabriel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161740_27ff2dae-3019-4b42-9565-994d9192f76e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria--don-gabriel-roseira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pérola Negra Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081338_94dc038b-ab94-494a-94bd-b8eada386c2e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/perola-negra-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Império",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131009_665720e9-fba6-4f0d-8e14-24c442d3c556.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/restaurante-imperio-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rizzard",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201325_533cdcd6-cfc5-4b16-aa7e-06c4392c3a72.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/rizzard-parque-da-fonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TA NA HORA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710081448_e1533312-d8db-46eb-84ca-2ba9bbac7c12.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/ta-na-hora-parque-da-fonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "San Pepperoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011117_54b55492-bb03-4b8d-835e-c6546cd5e407.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/san-pepperoni-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAR DO PARMERA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221049_d7f9fff4-86a5-48f2-9e2f-ecb94c78dc3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/bar-do-parmera-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XIS GAUDÉRIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221104_cc0ce27d-29a7-4648-aaa5-9bdebaab5bcb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/xis-gauderio-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Da Maddu Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO DA MADDU_DAMAD_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/da-maddu-pizzaria-afonso-pena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Quiosque Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231439_cea0685e-83b4-4a1f-8510-a8668c58b31d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/o-quiosque-pizzas-afonso-pena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chateau Pizzaria - Sjp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO CHATEAU_CHATE_IASJP.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/chateau-pizzaria---sjp-sao-domingos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiman Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231353_9feee1be-9e2e-469e-b4be-a335bcebc910.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/sushiman-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fábrica Do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fabrica _fabri_astel.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/fabrica-do-pastel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parceiros Burger Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704260834_0838c274-fefa-4b10-bb7b-9ff7206e8e66.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/parceiros-burger-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Arthur Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701311130_REIAR_UERIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/rei-arthur-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fatuche Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fb_fatuc_urger.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/fatuche-burger-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chawarma Cafe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290837_5f9ae902-fae1-4f64-8484-1584ff2022a9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/chawarma-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Happy Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701281440_HAPPY_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/happy-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Batata Suiça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707231039_0778f731-de3b-468c-b4cb-f8e043857507.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/cantinho-da-batata-suica-boneca-do-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Fernandes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709290905_9e469034-c838-41c4-bab8-4ec8bd74d008.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-don-fernandes-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mister Giuseppe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mister g_pizza_seppe.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-mister-giuseppe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hora Da Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_horadabatata.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/hora-da-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Esfiharia Dom Pietro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707010721_c1968b04-a10e-4ddd-a1e0-c35d5bc728c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-e-esfiharia-dom-pietro-boneca-do-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Lancheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705241218_ebe91017-76f5-4ce1-9fe0-b0dc3f46b3cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/a-lancheria-afonso-pena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Vinicius - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081741_79068b3b-f379-43fa-8c8d-1a13aae3142a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-dom-vinicius---centro-silveira-da-motta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E HAMBURGUERIA ESPAÇO CENTRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051335_17253daeb2c74e18b4f66586bd575faf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-e-hamburgueria-espaco-centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baggio Pizzeria & Focacceria - Sjp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo._BAGGIOSJPjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/baggio-pizzeria--focacceria---sjp-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Canto da Roça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260825_e281b2c8-a632-4f43-98b4-ca9296945435.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/marmitaria-canto-da-roca-ina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Kajú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081915_d9ebba90-a5ec-44c3-b758-2c993124181b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pastelaria-kaju-afonso-pena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Vinicius",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300914_993875d4-4997-4e2c-971e-563c14775296.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-dom-vinicius-boneca-do-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confraria da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708131407_fee4242a-d821-4d92-ab10-b9a6d74a6c5e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/confraria-da-pizza-parque-da-fonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog do Tchê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161120_03f04ce7-cfef-4040-b2d8-03180c7f3ac6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/hot-dog-do-tche-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piantare Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161208_a061d983-7a3f-4033-b151-cb7bfb1c64ed.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/piantare-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches da May",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051201_9368b795-b88c-400a-a0d5-794747cfb1e6.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/lanches-da-may-bom-jesus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Geek Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221304_385bb892-8abe-43ec-9e71-6b2ff377af33.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/geek-burguer-parque-da-fonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Dom Raphael",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031047_aba5edb9-0828-4719-986f-92ad7fd71b67.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/restaurante-dom-raphael-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NOSSO JAPA - São José dos Pinhais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nosso japa_nosso_nhais.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/nosso-japa---sao-jose-dos-pinhais-ina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TERRITÓRIO PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121011_c09ec519-690f-411b-8961-3850431efbc9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/territorio-pizza-afonso-pena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Brutus Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311143_6fe7c8633bce4158ae887bdde59d68a7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/los-brutus-pizzaria-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO MASTER L_MASTERLACHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/master-lanches-aguas-belas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE HANNA GABI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709222040_28d6f5c0-4d9d-440e-98b4-23ddc137176f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/restaurante-hanna-gabi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO SKINA PI_SKINA_RANT01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/skina-pizzaria-e-restaurante-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MARANELLO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161742_b472d277-1feb-4ba3-80cd-be64888a902c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/pizzaria-maranello-academia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano São Jose Dos Pinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo frango a_frang_nhai02.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/frango-americano-sao-jose-dos-pinhas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MM snacks & cakes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221033_f86397f0-0c38-4f1d-887c-a297fa615ba0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-dos-pinhais-pr/mm-snacks--cakes-borda-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE DOS PINHAIS",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

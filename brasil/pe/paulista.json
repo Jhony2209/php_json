@@ -1,0 +1,574 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "mottas frango frito crocante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181037_c4906441-3c3a-4992-a853-9724660f102f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/mottas-frango-frito-crocante-maranguape-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Costelaria Lins Burg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161231_dd5fbf81-f9c6-4c3d-97b5-19643ae29128.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/pizzaria-e-costelaria-lins-burg-pau-amarelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taiyang - Comida Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704231021_e779827d-5d45-4c5d-a1e8-86248c343681.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/taiyang---comida-oriental-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Akemi Sushi e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210947_3c07adb5-e9ca-43e2-b79a-348291f3454c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/akemi-sushi-e-cia-artur-lundgren-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonaparte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo bona_bonaparte.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/bonaparte-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Burguer - Janga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201357_844a6600-8a0d-4187-a6f5-c45e3d2a00a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/mega-burguer---janga-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planeta das Coxinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121654_4e0de13d-cc0b-4672-a093-7048863c7dbc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/planeta-das-coxinhas-maranguape-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oficina dos Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261141_b0ae7080-6f71-48c5-a566-577e6eae698e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/oficina-dos-sabores-pau-amarelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominus Sabore",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dominus_domin_abore.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/dominus-sabore-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Fábrica Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708050946_59e61a69-08a7-480e-96e4-ac32bbcf8688.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/a-fabrica-pizzas-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Design",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201241_ce1f8d27-44ed-4c15-bbbc-63073532eebf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/acai-design-artur-lundgren-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Heimer Pizzas Burger & Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221053_93c2f458-3922-4625-a36d-45f8c9e476e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/heimer-pizzas-burger--sushi-maranguape-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Fábrica Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080905_35446630-fac6-4d8c-b4c7-b96d89f29fe4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/a-fabrica-pizzas-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eiko Vida Alimentos Saudáveis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051539_7b4e0887-7e37-4b7d-8fc3-e32abd812371.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/eiko-vida-alimentos-saudaveis-maranguape-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Montes food trailer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271138_e24bfe1e-32f1-4784-807f-f73465b196e5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/montes-food-trailer-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MANAS CREPES E BISTRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031104_bf998944-ca97-413f-93cc-61fec77cec23.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/manas-crepes-e-bistro-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "world acai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261309_8cd19930-4094-463b-9e98-bad1522ac27c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/world-acai-maranguape-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto do Temaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706160825_2e17f81a-b6d8-4a22-a65a-0c7476fb857e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/ponto-do-temaki-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O ESFIRREIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031517_789d690a-ec8b-4328-8c5c-aeead22c7d0a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/o-esfirreiro-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Park",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051432_32083619-b77b-449d-ae77-b6f02468945d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/jet-park-maria-farinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno Quente pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291418_74d7bc2d-f1cf-4054-85d5-05802088ff9d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/forno-quente-pizzaria-vila-torres-galvao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SERTÃ EXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171201_3e15866a-97e5-474d-bbcd-909764c99a5c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/serta-express-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camino Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091141_0bef095f-c81a-4f60-be33-471526874c95.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/camino-pizzaria-delivery-maranguape-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Prime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181801_177714ce-798d-48d5-a621-ac7f45b12a0a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/emporio-prime-pau-amarelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Das Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211017_abd8c0ff-5e88-4d7d-bc71-902c9c18a499.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/emporio-das-massas-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Let'S Roll Temakeria E Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca let_letsr_hibar.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/lets-roll-temakeria-e-sushi-bar-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "N&N FOOD DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081150_23ef539a-87d0-45b1-9cc2-fbf79f41231a.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/nn-food-delivery-maranguape-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vick's pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291420_ba7b5f32-45f4-43ed-b797-d4a6c908fa15.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/vicks-pizza-paratibe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Fuxico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260816_f2ba5566-73cc-40c7-9121-020464a8b285.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/hamburgueria-fuxico-pau-amarelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Musoko Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_musok_ivery.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/musoko-delivery-tabajara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dogão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709132029_00e3a266-0949-4a7f-8a03-d6db34344aa9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/pizzaria-dogao-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Loka Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca lok_deliv_pizz01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/delivery-loka-pizza-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261150_67c43280-ee0f-46ba-b8b1-37d75b3f3545.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/estacao-da-pizza-maranguape-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galo Grill Rotisseria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705050821_fd96baf1-9cdf-482f-aad8-5accb9f75f99.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/galo-grill-rotisseria-delivery-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milk Shake Mix Rota Burgue - Janga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091011_23c38f00-593a-4888-a399-50f9716f5967.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/milk-shake-mix-rota-burgue---janga-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Lazer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/olazer_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/paulista-pe/o-lazer-janga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULISTA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

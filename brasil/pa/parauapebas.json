@@ -1,0 +1,15 @@
+   [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macaroni Restaurante de Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711060708_cfffae7a-04c3-4b62-ac0b-a7e3dc3c7981.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/parauapebas-pa/macaroni-restaurante-de-massas-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARAUAPEBAS",
+            "addressRegion": "PA",
+            "addressCountry": "BR"
+            }
+    }]

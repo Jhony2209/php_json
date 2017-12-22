@@ -1,0 +1,31 @@
+    [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Teófilo Otoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708110729_24ab5352-078d-41b6-b0f5-9d470506449b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teofilo-otoni-mg/brasileirinho-delivery-teofilo-otoni-jardim-das-acacias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TEOFILO OTONI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEXAS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211001_a422a824-26b9-4087-b78b-0f423e6137d3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teofilo-otoni-mg/texas-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TEOFILO OTONI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

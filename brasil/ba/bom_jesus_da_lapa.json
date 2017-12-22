@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Bom Jesus da Lapa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291116__SUBWA_ALAPA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bom-jesus-da-lapa-ba/subway-bom-jesus-da-lapa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOM JESUS DA LAPA",
+            "addressRegion": "BA",
+            "addressCountry": "BR"
+            }
+    }]

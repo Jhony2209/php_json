@@ -1,0 +1,48 @@
+[
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forno a Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705290817_675fe7fe-63d7-4bab-ad8e-717f380eda87.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paranagua-pr/pizzaria-forno-a-lenha-alto-sao-sebastiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARANAGUA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PARANAGUA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091114_422d2797-e360-472c-a48a-9ba140f9d450.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paranagua-pr/paranagua-delivery-costeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARANAGUA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Light Refeição",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703250917_a6fa13511c7c4628adeba648705c00b9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paranagua-pr/sabor-light-refeicao-campo-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARANAGUA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

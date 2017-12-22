@@ -1,0 +1,47 @@
+   [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopptime - Itumbiara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281717_baa267de3b7241c1a85e8b7435bf8a42.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itumbiara-go/chopptime---itumbiara-alto-da-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITUMBIARA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Iate Club Restaurante Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071401_8e155943-da3e-4785-b3cb-4ddae3b9735b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itumbiara-go/iate-club-restaurante-bar-village-imperial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITUMBIARA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Trattoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161435_63570a19-192a-4a1b-baa1-6cf4d546f3ea.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itumbiara-go/la-trattoria-alto-da-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITUMBIARA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

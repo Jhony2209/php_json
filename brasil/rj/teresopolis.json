@@ -1,0 +1,542 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oficina do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141229_ca8648ae-1bc3-45bd-8896-9328c6ccb174.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/oficina-do-lanche-barra-do-imbui",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021053_f32b4e48-3c2e-4dd1-bdc4-efe0e27a1432.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/disk-gourmet-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viva Itália - Mercatto  Pastifício",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709032239_cf58119e-c998-4816-9edd-df27d15b5f06.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/viva-italia---mercatto--pastificio-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante & Pizzaria Casa das Pedras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301302_379e229e-2c0d-4c6b-8f1f-bf17a7eeb8f5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/restaurante--pizzaria-casa-das-pedras-bom-retiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jack s Burgers -  Teresopolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291420_56d15c54-7fe3-4e23-835e-c1dceb95e49d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/jack-s-burgers----teresopolis-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery (Teresópolis)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171550_e5bdec89-c567-4d2a-a1fe-72d0f00ef4ec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/mineiro-delivery-teresopolis-bom-retiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quentinha da Tia Elane",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706151150_53c73d36-edbf-47df-a55d-f25c59bc08b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/quentinha-da-tia-elane-tijuca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kentinhas Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270824_95cbe1e3-c4c4-4d28-9c37-a4a9d8b76ff4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/kentinhas-brasil-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Olícios",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271754_a08b5e2c-c61f-4ade-92f7-3a4f3ae913c3.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/restaurante-olicios-carlos-guinle",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viva Itália - Cantina É Vero!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131048_ef2a7a69-9bf1-458a-b219-a33435356002.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/viva-italia---cantina-e-vero-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barão de Albuquerque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131614_b0712499-b5cf-4c6c-acec-108f4e031cab.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/barao-de-albuquerque-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Make Pizza de Teresópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221035_2b57dbc0-2de5-4ad1-8d5b-b4f0dc87e8e5.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/make-pizza-de-teresopolis-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "São Pedro - Pizzaria e padaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261051_2692f0c8-0a01-4efc-ad7e-92d946e2fe63.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/sao-pedro---pizzaria-e-padaria-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zzapi Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706010951_a803daae-93af-435e-8231-46dcd1099071.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/zzapi-pizza-tijuca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FM Salgados Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710081453_1e3cfa69-49f0-4839-bc1e-106c030d3b0a.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/fm-salgados-delivery-barra-do-imbui",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paraíso Agriões",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051311_cc7903cc-d5f7-4097-a963-2bfd29dd3dad.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/paraiso-agrioes-agrioes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point do Pulinga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707220905_29e851f3-d5bf-43c5-b4c0-cdc228eb78d7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/point-do-pulinga-tijuca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DISK SUSHI - Teresópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101645_74912e2d-4d15-4c7c-9ea0-65996069fc01.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/disk-sushi---teresopolis-fazendinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fry's Burgers - Teresópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo frys_FRYSB_POLIS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/frys-burgers---teresopolis-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mille Matti Pizzaria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280745_3ab62296-1580-425c-9c28-c807ce9bf5c0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/mille-matti-pizzaria-gourmet-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "iPizza Delivery - Teresópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081635_78e3e532-32d3-41fe-93ea-ae286a407e6c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/ipizza-delivery---teresopolis-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crepe Du Cheff - Teresopólis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706151010_4eb79206-918b-459a-88ac-aedc6d4e34a5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/crepe-du-cheff---teresopolis-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trend Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031454_a2367142-111b-4816-b6e5-680e29dc47e2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/trend-sushi-bar-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petit Poulet - Terê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311427_dd6ecf68-e848-4be8-8554-cc9091168158.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/petit-poulet---tere-agrioes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Arretado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251339_d83ebe00-20a7-41d8-94d0-ad7929d11ecd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/chef-arretado-agrioes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "3Porks",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171128_935e4a79-47aa-4230-9b25-8ad43faab010.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/3porks-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OLICIOS DELIVERY PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071521_918e0ca1-216f-43c1-b563-aa3465ff60c6.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/olicios-delivery-pizzaria-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quitanda Gourmet Pizzaria E Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111014_7abf69aa8fd746b6825c42a585f34474.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/quitanda-gourmet-pizzaria-e-hamburgueria-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kingyo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261141_d75d2d20-dfce-49f8-96e9-4201ae74d6af.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/kingyo-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jm Assados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180705_83f3d1de-4542-432a-8089-06aa06f4e025.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/jm-assados-jardim-meudon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tere Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281003_d44eb20b-4626-4fea-b789-8cdab6b3ade7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/tere-lanches-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Universo Das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGOMARCA_UNIVE_IZZA03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/universo-das-pizzas-artistas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saikai sushi - Teresópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121644_500696af-1973-4236-8622-213da21aa71b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/saikai-sushi---teresopolis-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Good Burger -Teresópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281119_a2c32153-28a4-4d63-b3a8-8dc9dfa3fae6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/teresopolis-rj/good-burger--teresopolis-varzea",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TERESOPOLIS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

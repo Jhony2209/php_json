@@ -1,0 +1,1214 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290956_b6333c34-5a68-45a1-b104-9bfe2af55c69.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/subway---centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703011632_PASTELECIA05.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pastel-e-cia-regiao-do-lago",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Cascavel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_croas_cavel.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/croasonho-cascavel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211823_e712dd26-7e09-4a7e-8337-fa8e7fe40f26.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/esfiha-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buenos Ice Hamburguer Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo buenos_bueno_erice.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/buenos-ice-hamburguer-artesanal-parque-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manja Cozinha Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/manja_manja_davel.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/manja-cozinha-saudavel-ciro-nardi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Maria Luiza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191423_d45a7bf8-66ea-4dc2-9ac2-b8e1df6355e3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/subway---maria-luiza-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bao Story vegan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141408_3affde59-cbb2-4281-98aa-9190124aed2f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/bao-story-vegan-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duff Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020737_4e83f028-830e-4753-8bfb-2ffbb4abf65a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/duff-lanches-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Europoint Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241528_99b50e5f-f043-4aaa-a75d-ab291b129bd5.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/europoint-pizzaria-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Executive Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250946_a34bddd9-e0b7-4535-8404-f516e69b1db1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/executive-burger-periolo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GORDÃO  BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712101505_cb6bc0cf-fce9-4fac-8a32-4d54fda68a01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/gordao--burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080905_c7602b07-09d4-4cf8-b972-33ce17518db4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/la-pizzaria-country",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panificadora Correia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191204_91c70f0d-f2f8-41b6-a47c-ca928943589b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/panificadora-correia-floresta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Do Rapha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251149_5f0bf9cb-389e-4f5b-8cc4-374314889169.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizza-do-rapha-pacaembu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Rovinni Jardim Universitário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712031625_aff7a5ff-31ee-405e-81e7-0d0c2633f675.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-rovinni-jardim-universitario-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Restaurante Mangiare",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111237_2e457678-f4a6-40e6-a6ae-70505b2e3bf4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-e-restaurante-mangiare-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Riso i Pasta Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071309_1501226e-fa63-4eb8-a37e-ad896601c7ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/riso-i-pasta-delivery-parque-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ronda Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241019_710ba170-7a70-46ca-b1d4-3b45f7c62af5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/ronda-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Talentus Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231535_5f001a15-b8b5-46cc-bc71-c87459eb3ff0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/talentus-pizzaria-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WPPanquecas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101343_7e699858-5172-4bd8-ac7f-bdd254ba816b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/wppanquecas-brazmadeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercedita Empanadas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021031_36f8f97d-06ea-49e4-91e8-4f33d7185a55.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/mercedita-empanadas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog Dogueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/old_olddo_ueri05.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/old-dog-dogueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Blend's Burger Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140938_4b65211e-a372-445e-8da8-a5ad35e4d962.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/blends-burger-delivery-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog King",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231151_a0e98c29-c1c4-4a0d-9293-b3e9f201a62c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/dog-king-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SORVETES E CIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251037_0374676d-bdd0-49d8-b1d6-734f16632f8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/sorvetes-e-cia-maria-luiza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suki Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081037_a21e2916-65a2-46a4-b325-78cd4ba6fef1.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/suki-sushi-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche da Mamãe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091031_c39d2370-6a37-4849-90b1-b043d3f79c8a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/lanche-da-mamae-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Harlem Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081313_f9aa735f-1471-4c26-891f-699719e09809.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/harlem-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old West Brew Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705300822_5299bbba-203b-4cb4-916d-5c94f54f3133.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/old-west-brew-pub-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Para-Ti Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061532_330cd186-e141-451a-bb36-33adf8748aae.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/para-ti-burger-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alcatrão e Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711041000_754d412e-785c-4ff1-9464-8a0f87bfec3b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/alcatrao-e-brasa-recanto-tropical",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Orraio Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701271117_ORRAI_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/orraio-sushi-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CADILAC AMERICAN BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_cadil_urger.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/cadilac-american-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shogun Sushi Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211324_032276e4-13ad-4677-9b95-9d971caa6c70.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/shogun-sushi-bistro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Taitõ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710110940_1c0ad042-7712-49d1-8b4e-7e89188d9c27.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/sushi-taito-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sensei Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sense_hibar.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/sensei-sushi-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Chawarma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301411_ac1673fa-be70-4f01-8d72-3d32b367f2eb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/casa-da-chawarma-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cascavel Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041034_d494e2d4-00c5-49b4-b471-7c1ab32f125d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/cascavel-sushi-ciro-nardi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kami Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141923_3a127129-711f-49be-8f27-b25cfd63629b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/kami-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aero Burgers - Avenida Food Park",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101130_73cc5089-8a9c-4155-b0db-4ad54ee2a5ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/aero-burgers---avenida-food-park-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/frango_frang_ican02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/frango-americano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Pizzas II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281101_e7dc3afa-42bb-40eb-9fe3-c438cab70306.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/art-pizzas-ii-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Presley Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_presl_rgers.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/presley-burgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panificadora Cancelli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231324_17e7db0e-011c-441f-a2bf-320473db5518.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/panificadora-cancelli-cancelli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Rock",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/esseeeee_pizzarock003.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizza-rock-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Detox",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231019_1c9b72db-144f-464b-91fa-89acb09e78df.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/espaco-detox-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Noca's cantina de massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/25de328145827_NOCAS.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/nocas-cantina-de-massas-nova-cidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Rocca Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_laroc_rguer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/la-rocca-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Alkimia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo alkimia_pizza_kimia.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-alkimia-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Di Nápoles",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tipo_pizza_poles.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-di-napoles-parque-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706090827_e0d7e9af-cae2-4378-8e4a-1ef6f7f483ac.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/central-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vagão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705190957_419e5bb8-89a8-46d9-b1f4-cf41c3d8db69.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/vagao-lanches-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capricho Caseiro Refeições Transportadas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo capricho_capri_tadas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/capricho-caseiro-refeicoes-transportadas-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planeta Pizza - Cascavel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo10_plane_cave01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/planeta-pizza---cascavel-alto-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Água  Na Boca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051523_a3cdc752-b456-4559-ad18-26c4218c401b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-agua--na-boca-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicago Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo chicago_chica_urger.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/chicago-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oba! Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111342_ec875ad8-fafa-4669-8d78-4c804411ae91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/oba-pizza-regiao-do-lago",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Del Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (2)_domde_zaria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/dom-del-pizzaria-regiao-do-lago",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante & Lanchonete Figueiredo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051516_2fc61323-a144-4f5d-a72d-cc4e0b13240c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/restaurante--lanchonete-figueiredo-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MISTER PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080907_e2291b20-f26b-4010-9273-542e0b1f1298.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/mister-pizza-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_artpizzas.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/art-pizzas-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mubarak Comida Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181102_MUBAR_ARABE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/mubarak-comida-arabe-coqueiral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chang Lee Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_CHANG_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/chang-lee-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Giga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizzasgiga.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzas-giga-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111510_7469d7f8-e63f-458b-944c-353060a63bcf.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/restaurante-china-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tokyo Sushi Cascavel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703100947_TOKYO_CAVEL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/tokyo-sushi-cascavel-cancelli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água Doce Cachaçaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221458_87e180d4-ff27-4e91-b0d1-a9af53b33218.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/agua-doce-cachacaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gaúcho Americano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311536_c5da47dc-8eea-4a31-b2c5-bedc93ca2fd9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/gaucho-americano-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Furna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021044_786d6d5a-76d6-434e-b247-7a926683d759.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-furna-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Thiago's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091423_ee0c8e9c-c8f2-4ef8-947d-b85a1176c1e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/thiagos-pizzaria-periolo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planeta Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270922_636e7f39-1457-4e31-9ec3-02c5af8d2c64.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/planeta-hamburgueria-alto-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Chicken Cascavel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101959_21a9d826-b4e3-4830-825e-6caaa1380490.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/jet-chicken-cascavel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Furninha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria furn_pizza_ninha.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/pizzaria-furninha-alto-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JOHNNY FOODS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191417_069fb487-1674-45d9-89f7-c154e5d3a5fb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/johnny-foods-14-de-novembro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kanji Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cascavel-pr/kanji-sushi-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CASCAVEL",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+]

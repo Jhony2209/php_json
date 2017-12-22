@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Grill - Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706200718_7b70f692-a718-4293-b53f-68e812452abb.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-del-rei-mg/real-grill---restaurante-varzea-do-faria-bonfim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DEL REI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

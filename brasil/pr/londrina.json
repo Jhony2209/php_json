@@ -1,0 +1,4662 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Açaí Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161431_5e5c39a4-bb63-4c8f-bd68-932c4a66c50b.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/doce-acai-delivery-sabara-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Carmim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100959_fbc5fa9a-3a98-4575-b548-ccf3b877595c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/doce-carmim-jardim-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Mel Aurora Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010805_7d55b90f-b17b-43fd-9d8d-0110b050c950.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pastel-mel-aurora-shopping-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pão Nosso Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171418_6ef3e601-3c1c-4290-931f-0304981d2421.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pao-nosso-sanduiches-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VILAREJO NATURAL DO SUCO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060730_de930fb0-f5cb-483d-b4ae-5a32e93d9352.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/vilarejo-natural-do-suco-lima-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viva Fit Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061106_f885d620-475f-49ea-901a-cbbf9656b181.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/viva-fit-cafe-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vitamut",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_VITAMUT.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/vitamut-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Strogonofferia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181427_STROG_FERIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/strogonofferia-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mamma Dushy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-p_PIZZA_DUSHY.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-mamma-dushy-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche Universitário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//lanche-unive_LANCH_TARIO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/lanche-universitario-portal-de-versalhes-3",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Av. Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703280917_9951d82d2ee246acb9636831ee67c35d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pastel-av-paulista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Freddo Gelateria - Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709132219_d6973e6d-b039-4f13-87e2-536959684aa7.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/freddo-gelateria---londrina-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria das Caverna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-h_HAMBU_VERNA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hamburgueria-das-caverna-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kiberama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cardapio_balc_kiberama01.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/kiberama-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kero Ke Ry",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logkerokery_KEROKERY.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/kero-ke-ry-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dedo Doce | Doces E Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/875dc9c0-896f-4428-b54b-f64401c47ddc/201711291403_11655.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dedo-doce--doces-e-salgados-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paninos Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201216_42cee543-ff58-42f3-b3f4-580f40631832.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/paninos-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "mango juice",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131231_5dbb4581-7dec-4665-85f4-6b40cfb7c911.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mango-juice-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Alameda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291011_eae65633-dea1-41ea-9400-5bf84ba9f4c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/subway---alameda-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha De Lourenço",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (2)_cozin_renco.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/cozinha-de-lourenco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VIRA VERÃO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081525_11ab2246-53a6-4770-b546-53d527285812.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/vira-verao-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PF Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pf-grill-140_PFGRILL.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pf-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PUTS BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131155_c9283351-62d6-4ef6-8749-1cb6c9e96d6c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/puts-burguer-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel do Fernando",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Pastel-do-Fe_PASTE_NANDO.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pastel-do-fernando-jardim-agari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Croasonho_13_CROASONHO004.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/croasonho-londrina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob's Catuaí SH Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251257_54b28985-2023-4972-af18-a493ce20aef6.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bobs-catuai-sh-londrina-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Biggs Lanches Av Maringá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/biggs2_biggs_ringa.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/biggs-lanches-av-maringa-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Av. Maringá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291010_22c2d976-8925-4ebe-a518-224fe542c11b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/subway-av-maringa-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barile Armazém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051223_919ff538-6b21-4c4f-a84a-a4689427e230.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/barile-armazem-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PADOKA - PANIFICADORA E CONFEITARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705270800_c008e236-a8da-45a8-b5f1-db224431047a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/padoka---panificadora-e-confeitaria-bancarios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Do Imperador",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241601_f1da5643-88cb-408a-b0e2-57e8d99ffd1c.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hamburgueria-do-imperador-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Av. Higienópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291011_e880f319-7739-4e3d-a013-2829c3651e6b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/subway-av-higienopolis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boleria Dom Leonardi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-b_BOLER_NARDI.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/boleria-dom-leonardi-vila-larsen-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOMINO'S GLEBA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dominos gleba_DOMINOSGLEBA.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dominos-gleba-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Bancários / Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181639_126207e4-c48d-4640-997e-c0bb56204490.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/china-in-box---bancarios---londrina-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231731_BRASI_ENTRO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/brasileirinho-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Centro / Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181621_2bcbee82-3c58-44ba-ac0c-71fdb5e33527.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/china-in-box---centro---londrina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino’s Londrina Norte Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071129_35b99976-a47e-4fee-81bd-9ec1f58f2032.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dominos-londrina-norte-shopping-pacaembu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALLO PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231818_1807418f-9856-40c3-871a-26804bb128db.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/allo-pizza-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Al' Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171239_5763e718-13b2-4754-bf79-0d678dd2a69c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/al-burguers-conjunto-vivi-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazém 112 Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131348_bfb0b603-55d9-48b3-bb61-c892430b94ba.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/armazem-112-restaurante-jardim-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ateliê da Torta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091024_582872fc-81b8-4eba-95fd-d28b60fbb340.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/atelie-da-torta-antares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bohemio`s Restaurante e Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081451_c938d6d2-2d48-4a92-a8f9-699ee87c1880.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bohemios-restaurante-e-petiscaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bora Churrasquear",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260938_54ef6db5-603e-44d0-a791-5e67dc163854.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bora-churrasquear-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brito's Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270744_c16c8ddd-0dbd-4b57-8bee-81bf729f4925.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/britos-petiscaria-maringa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Vento Sul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271518_3a3eeee5-e247-4e05-93a1-e7f9b34fe557.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/churrascaria-vento-sul-jardim-shangri-la-a",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Com amor, Bolo.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171257_f44e304e-34a4-4ca1-bad9-c60fedde4b85.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/com-amor-bolo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DON JHOSÉ - COMES & BEBES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101758_b26afb13-cf78-43ee-929e-a627ad8d13a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/don-jhose---comes--bebes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Caprio Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-d_DICAP_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/di-caprio-pizzaria-antares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Errejota-Aretto Gastronomia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010804_7eea43ed-2c0c-49f9-997a-18a3e11a6d75.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/errejota-aretto-gastronomia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Mineiro Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291131_b26b5bd3-c5de-47ce-8777-aedd92d9bdee.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/espaco-mineiro-grill-jardim-shangri-la-a",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fatto a Mano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201012_f4eea284-2d03-4858-a138-e6873220ec5a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/fatto-a-mano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garden Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020804_fcda342b-906c-4a77-b4de-19f120c8b1f2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/garden-beer-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Komedas Costelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712132034_163dc67a-1897-453e-8357-d2e57d4093ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/komedas-costelaria-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Mutacos Taqueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311316__LOSMU_UERIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/los-mutacos-taqueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MORDIDELA LONDRINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090945_063e5bd7-0b48-46b3-9767-4a31ab232064.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mordidela-londrina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mango Juice",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712100910_7cd460d4-0040-475b-8d3f-6a7de6d57c1b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mango-juice-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mestre Fish",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080756_b1e0f874-cf62-4d0e-9436-f77e77a395ae.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mestre-fish-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mexicolombia Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010808_0e7dbf10-f8c4-4c68-a260-195e14036d15.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mexicolombia-restaurante-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mustasche Light food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080727_b6c2e7fe-508e-4758-be28-4b681f2ed3fb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mustasche-light-food-jardim-neman-sahyun",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OLIMPIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200829_0926271b-9f29-4774-8202-6787a947f408.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/olimpizzas-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papaléguas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291217_0775747c-fa28-4852-aab4-0ddccb08028a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/papaleguas-lanches-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Mel Bellagrícola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051007_53102128-cb02-41fa-a11d-3b1513b0d05f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pastel-mel-bellagricola-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Mel Higienópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020925_729d369a-729c-4f8e-b298-3713efe26f5a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pastel-mel-higienopolis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Show",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711020837_f4478f67-0a56-441b-a5ae-0cc2e315ba16.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-show-portal-de-versalhes-2",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Borellucio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090737_925e3861-02f3-4a2a-bef4-806a9b67bfbb.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-borellucio-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quero Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301229_6a33e99c-dfdf-4a8a-99c0-fb329f9e8ced.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/quero-pizza-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Café Olympia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711210957_1370e25b-ea9f-4b5d-94e5-209168264966.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-cafe-olympia-parque-residencial-alcantara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Pinheiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300632_cf1bc112-eb9e-4d15-b911-fbcc333cd720.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-pinheiros-parque-jamaica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rosso Pomodoro Higienópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260845_cd966975-bcf2-4a4f-92b8-734f8d80b379.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/rosso-pomodoro-higienopolis-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STROGONOFFERIA ZONA NORTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201710_470c76b3-dc0e-4796-b0a8-af12a4e226a6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/strogonofferia-zona-norte-ipanema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santana Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130730_b8df4569-9888-4dcd-8a5c-1ff8580a0a78.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/santana-burger-pacaembu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhor Dog Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011152_21fa32b2-4751-4544-bb1e-8c44f5cd1c7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/senhor-dog-delivery-jardim-joquei-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhora Cozinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281846_3857a0a6-cd5b-4064-8977-5b156a174544.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/senhora-cozinha-aquilles-sthengel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushimaki Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021515_0c480ccf-e121-4d1c-892c-5e5b21d24491.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sushimaki-delivery-jardim-delta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tortitias Culinária Tradicional e Vegana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020936_b70572ca-4658-477d-994b-5c813fe2890b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/tortitias-culinaria-tradicional-e-vegana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Omega Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705100836_f4b88d3c-87ea-4f2e-80e0-639cc68f6e4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/omega-lanches-aragarca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moinho Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705132045_5f43f266-5e72-4e94-8047-bd2c7e3f60b2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/moinho-grill-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zaki Sabor Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081758_f0d3df2d-e9cf-4229-9f5f-d4d8dcd49738.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/zaki-sabor-arabe-ipanema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ratinho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151323_ecbf3241-c6d1-4487-b512-f22ec59cdc0f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/ratinho-lanches-rodocentro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "London Burgers Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-burger-4_londo_ueria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/london-burgers-hamburgueria-coliseu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quê Tempero Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051210_094d8acf-bf9f-441e-b110-b74297d34a76.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/que-tempero-restaurante-rodocentro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Regalo'S Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702171936_REGAL_ASSAS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/regalos-massas-jardim-londrilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NYC BURGUERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151755_92f88491-5363-4b37-b567-32c723fb190e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/nyc-burguers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Silvan Cult",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050946_c80d3d43-c545-4041-8560-249b249264e8.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/silvan-cult-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pantano Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/f23ce72007672_PANTA_NCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pantano-lanches-jardim-nova-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Massa Fera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101359_PIZZA_AFERA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-massa-fera-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Somos Todos Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710121457_9cea0e06-7bda-41fd-ae96-913af6b00cef.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/somos-todos-gourmet-vila-larsen-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snoobar Culinária Libanesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Snoobar_SNOOB_ANESA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/snoobar-culinaria-libanesa-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paulinho lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301214_b62e3b9f-1ecc-4228-bf5f-5de745d4cd3b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/paulinho-lanches-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete do Fábio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271402_e4e6141a-fb6c-4fcd-b08b-1e7558f9df64.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/lanchonete-do-fabio-conjunto-cafezal-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Pequizeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161112_f71a4765-5487-4b91-a529-3672f5249b0f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/o-pequizeiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Da Pizza - Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizaria_pontodapiz03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/ponto-da-pizza---londrina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Serafinni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221640_64f6fcbf-b0fe-4845-a4f1-db35170df4b1.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-serafinni-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giovani Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//giovani-lanc_GIOVA_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/giovani-lanches-vila-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Royal Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706160858_f8f90938-cc5e-4368-aa3c-50fed0f00f42.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/royal-gourmet-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Larica's Factory",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091535_b333fc29-d89c-4fb7-a016-2964d9e5d62a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/laricas-factory-jardim-moncoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161804_736d323e-1ea1-49eb-a07a-b4b3318dcad7.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-mania-sabara-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Grill Gleba Palhano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/103877335861d_realgrill.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/real-grill-gleba-palhano-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolo da Vilma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301145_3e9254c6-4e0d-40de-b3f6-697b6b80944e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bolo-da-vilma-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aero Rangus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_aerorangus.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/aero-rangus-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suprema Pizza Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191817_a6535bfc-5214-4392-979e-64c428ab39c7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/suprema-pizza-londrina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YOI-DON JAPANESE FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/YOIDO_EFOO01_YOIDO_EFOO01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/yoi-don-japanese-food-jardim-londrilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Flipper",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301113_7d20c8b7-8345-4799-b83a-a7a8a94327a9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-flipper-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hiper Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703101444_HIPERLANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hiper-lanches-parque-residencial-joao-piza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO MANERO 2 da Praça - Rua Sergipe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//tempero-mane_TEMPE_RGIPE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/tempero-manero-2-da-praca---rua-sergipe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mão na Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-m_MAONAMASSA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mao-na-massa-conjunto-cafe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza & Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo1_pizzapizza01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza--pizza-andes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conde Prime Burger - Matriz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110914_45cf13c3-2d81-4e09-bb00-91b2b3ba7daf.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/conde-prime-burger---matriz-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vulcano Pizzaria E Choperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_vulca_peria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/vulcano-pizzaria-e-choperia-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Cachaça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311513_5a40879c-c250-4689-a1e5-5de6ddb0215c.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/casa-da-cachaca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Firmino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111049_75be72a9-168c-482c-8010-044c8f861431.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-dom-firmino-heimtal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ayumi Lanches - Vila Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//ayumi-lanche_AYUMI_RASIL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/ayumi-lanches---vila-brasil-vila-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante O Espanhol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo espanhol_resta_anhol.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-o-espanhol-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Luau Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709240822_a6574d68-90d1-44a7-9467-b329b33c783e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/luau-lanches-ouro-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Best Burger's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311742_89c55adb-0664-4c0c-98de-741a26a20a7c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/the-best-burgers-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Bentô - Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mr.bento_mrben_drina.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mr-bento---londrina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100725_b38376a8-3b11-4dc7-a7c3-c5ddb47557df.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hamburguers-bela-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caco Mais Saude",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301351_cecaa3ae-b4c9-48dc-bc6a-9ce5dacafebf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/caco-mais-saude-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Donatello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logo-donatel_PIZZA_TELL03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-donatello-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Belunardo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712031609_7e4581b0-22f1-4eda-bd53-7c0ab3548f01.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/belunardo-pizzaria-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOP BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/top burger_lo_topburger.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/top-burger-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Club Palhano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703091630_PIZZA_LHAN01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-club-palhano-terras-de-santana-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Incríveis - Pizzaria & Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241822_abed41a0-664c-4726-b112-f1a57231ee0c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/incriveis---pizzaria--hamburgueria-aquilles-sthengel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock And Honda - Bela Suiça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/corte logo_rockandhon01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/rock-and-honda---bela-suica-bela-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna Dumont",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703051512_TABER_UMONT.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/taberna-dumont-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bibo'S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_biboslanches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bibos-lanches-marumbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Ale Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041811_50b4d5ba-896b-44af-8de2-bb2b77e49d89.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/old-ale-hamburgueria-artesanal-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Craft Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/87ee5808-f351-4196-b3c9-90f4c184a772/201712201606_25532.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/craft-burger-jardim-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conde Prime Burger- Filial",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121125_807bdfbe-f0a8-4d5f-9ff0-73def81eee4f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/conde-prime-burger--filial-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Moinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021729_e30fa3e7-1e2e-4974-bd74-00759d2786b8.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-moinho-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Club Av. Higienópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701221905_PIZZA_POLI12.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-club-av-higienopolis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ayumi Lanches - Jardim Bandeirantes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//ayumi-lanche_AYUMI_ANTES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/ayumi-lanches---jardim-bandeirantes-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picwich Sandwicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181718_cdcd090b-0253-4b95-8276-a46846d2617a.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/picwich-sandwicheria-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Roma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703131118_PIZZA_AROM05.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-bella-roma-conjunto-habitacional-violim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Pantanal Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_kebabgrill.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-pantanal-grill-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Club",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pizza-club-1_PIZZACLUB.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-club-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viva Fit Alimentação",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca viv_vivaf_tacao.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/viva-fit-alimentacao-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papa gulla lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701051332_PAPAG_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/papa-gulla-lanches-marumbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//the-burgers-_THEBURGERS01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/the-burgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taiwan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/taiwan_logo-0_taiwan.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/taiwan-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doutor Sanduba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/788601c8-c2df-4f1d-b5f9-e8d9e761df4a/201711291850_logon.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/doutor-sanduba-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "New Pizza Pan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_newpizzapan.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/new-pizza-pan-aurora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Chic Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/4b3daa8f-3305-4756-a18b-92a5632be79c/201711300939_11146.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/casa-chic-restaurante-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Do Canto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-r_RESTA_CANTO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-do-canto-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor e Vida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311600_7605beb2-7f22-4ff2-9595-8173eae3472c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sabor-e-vida-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Gondola Trattoria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_lagondola01.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/la-gondola-trattoria-e-pizzaria-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Orients Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/orients_orien_press.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/orients-express-vila-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Palhano Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191109_d44d6da6-4a81-4758-9e1e-117426b24b80.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/palhano-grill-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Laluxa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bb0db5db-5133-4705-9c1c-3fac7c8d4484/201712032308_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dom-laluxa-lago-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Coluna De Fogo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_resta_efogo.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-coluna-de-fogo-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MASSARIA ARTIGIANALE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 430 x 28_massa_anal01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/massaria-artigianale-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vegas Burger Av. Maringá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081203_41bac0ab-c8b9-407b-b361-5b69ef4f4b37.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/vegas-burger-av-maringa-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Movie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logopizzamovi_pizzamovie.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-movie-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOG BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171132_0a21f758-778a-43f6-8583-a729e50d1e19.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dog-burger-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delitália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//delitalia-14_DELITALIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/delitalia-vila-casoni",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jantarmonia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701050923_JANTARMONIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/jantarmonia-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rios e Mares Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Logo_1366599_RIOSE_NCHES.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/rios-e-mares-lanches-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291349_063eeda1-ff47-445e-aba5-cf7676e54a7c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sr-hot-dog-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE LA MESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271731_36bbdb66-b1b8-4ed6-bc33-e403083258f2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-la-mesa-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Famille Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281306_e2198f24-5d37-4672-bc6e-ef7c82d86281.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/la-famille-restaurante-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YALLA YALLA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240840_debcd250-d1b8-4d9c-b200-af3b49888afc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/yalla-yalla-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "London Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311358_e57a2a91-93fd-43b6-b08b-3f5632dcb0df.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/london-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bora lá Degust",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//borala-degus_BORALADEGUST.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bora-la-degust-rodocentro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galpão da Costela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200843_3fefdd35-1f6a-48b2-89ce-bfe8841fc2d0.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/galpao-da-costela-judith",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LUKA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180949_6ab84d01-133e-4930-b9c9-3fe2f39d222c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/luka-lanches-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hop'n Kombi Tap House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111531_412cdc5f-148d-4004-ac20-990a0c0753d3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hopn-kombi-tap-house-judith",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fábrica da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Logonova_138_FABRI_PIZZA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/fabrica-da-pizza-vila-siam",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabulosos Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031012_FABUL_URGER.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/fabulosos-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ao Tempero Caseiro | Pernambuco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/48037ad4-5bfe-47f9-8a97-d69e247f148d/201712170407_logod.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/ao-tempero-caseiro--pernambuco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Do Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701190908_REIDODOG.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/rei-do-dog-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PapaDog Lanches Saul Elkind",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_papad_lkind.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/papadog-lanches-saul-elkind-conjunto-vivi-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caçarola Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_cacar_urme01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/cacarola-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forneria Pagliano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151633_c5effef2-8463-43bd-9c40-3cce142a134b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-forneria-pagliano-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barraco Da Sopa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_barra_asopa.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/barraco-da-sopa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Caseiro Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//sabor-caseir_SABOR_GRILL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sabor-caseiro-grill-rodocentro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maneco Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//maneco-sandu_MANEC_HERIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/maneco-sanduicheria-bela-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701050751_SRBURGUER002.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sr-burguer-leonor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Shalon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701141039_RESTA_HALON.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-shalon-marumbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051148_39a1217e-5f6c-44f0-bd95-c60576385620.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/esquina-da-pizza-jardim-londrilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papaburger Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140838_947098e1-a425-41cb-85b5-8341084e6e67.JPG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/papaburger-hamburgueria-rodocentro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Veneza Pizza E Cozinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_venez_zinha.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/veneza-pizza-e-cozinha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/casa_casadapizz07.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/casa-da-pizza-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fornelli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271119_e129db83-f344-4f3c-8789-c6a99b44326c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-fornelli-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Jora | Parigot de Souza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-h_HAMBU_SOUZA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hamburgueria-jora--parigot-de-souza-conjunto-parigot-de-souza-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SHIKI SUSHI BRASIL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709022031_dad70394-6e07-47fa-b53d-7459fe750db6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/shiki-sushi-brasil-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gelobel Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/gelobele u_gelob_ivery.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/gelobel-delivery-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedros Burger e Tapioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pedro's-burg_PEDRO_PIOCA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pedros-burger-e-tapioca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Da Elma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_cozin_aelma.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/cozinha-da-elma-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Restaurante Valentino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251804_8c21d332-3b17-4092-b486-84ffb8671874.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bar-e-restaurante-valentino-maringa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOC Wine Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061451_bd3e1de4-6d61-4e39-b637-383a66d2d53c.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/doc-wine-bar-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Florença",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131320_dd026ad2-95ce-4689-b6a8-107a120e862a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-florenca-conjunto-parigot-de-souza-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Germanos Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_germa_zari01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/germanos-pizzaria-pacaembu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bollogna Massas E Carnes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_bollo_arnes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bollogna-massas-e-carnes-jardim-shangri-la-a",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Robs Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/image_robsdogs.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/robs-dog-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante K",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_restaurantek.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-k-santa-rita-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Matsuri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-m_MATSURI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/matsuri-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Isaura Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/isaura logo_isaur_taria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/isaura-marmitaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tsuyu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c2a40a91-a59b-49e0-ad13-e3033370dd2c/201711291159_20170.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/tsuyu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOM Burger House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708052209_8afebcb1-eae4-4c57-9050-8c464f294118.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dom-burger-house-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shanduella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311359_a6fba737-fc89-49c9-a7a8-6f4ae328a008.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/shanduella-vila-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor e Pimenta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-s_SABOR_MENTA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sabor-e-pimenta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakihouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-y_YAKIHOUSE.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/yakihouse-conjunto-habitacional-alexandre-urbanas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE ASSAD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281116_d9ba8cf2-cc6c-41e9-81de-023bba2410ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-assad-ouro-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Paranaguá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/feito_pizza_nagua.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-paranagua-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Brasil Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703191105_VILLA_RANT09.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/villa-brasil-restaurante-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Dog | Saul Elkind",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//big-dog-|-sa_BIGDO_LKIND.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/big-dog--saul-elkind-conjunto-vivi-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Minas Burguer House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241251_99bc2583-1ebd-4ba7-9d9a-f5cecb355d1c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/minas-burguer-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oriental Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//oriental-del_ORIEN_IVER01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/oriental-delivery-marumbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzeria Torre di Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-p_PIZZE_PIZZA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzeria-torre-di-pizza-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Madê Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708250840_237b11f4-e4f0-4dad-ab1e-37cc070b3cd6.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/made-burger-judith",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guglielmi Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181050_2f438b84-fa9b-4c96-ab6b-e4e887ffd627.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/guglielmi-massas-quebec",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinafood Londrina Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_china_iver07.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/chinafood-londrina-delivery-jardim-meton",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vegas Burger Av. Henrique Mansano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704141316_23a2e65bc4cb4ca99fffe098457c8410.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/vegas-burger-av-henrique-mansano-alpes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famiglia Sanfelice Spaghetteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041509_616e88bf-3c29-4cb2-9e0e-ff5ff20a05c1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/famiglia-sanfelice-spaghetteria-jardim-shangri-la-a",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kifak",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041446_c63ceaaa-85e4-4d1b-b995-00a7b3420c1c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/kifak-jardim-imagawa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria BellaFit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091543_38b0c1d6-344a-43e8-b024-2046c0717bfa.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-bellafit-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eat Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121151_1c159115d24f41e2b0d28fe9be16afc6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/eat-potato-igapo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boussolé Gastrobar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041950_8af25189-6194-49fc-a314-7e824cd7269e.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/boussole-gastrobar-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Empada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060940_e3efd5a7-e47c-40f1-b844-2cf69eecac2d.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/a-empada-dom-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hao Chi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230800_9faebe13-2006-433b-a8e2-b9487d796288.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/hao-chi-bela-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Lanchonete UNICA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708150918_aa554e24-0158-4198-8bef-d16143f0fa7c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-e-lanchonete-unica-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza 10 - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logocamadas__PIZZA_ENTR02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-10---centro-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Captain Flint Gourmet Burgers & Beers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5d3a2543-e652-40fb-b891-8b3e1f1e8d9b/201711301800_20170.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/captain-flint-gourmet-burgers--beers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar R2",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121142_61c98b2f-adc8-4c0c-9f0f-905d5b33699f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bar-r2-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flavios Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//flavio's-lan_FLAVI_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/flavios-lanches-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão do Bodão | São João",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Dogão do Bodã_DOGAO_OJOAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dogao-do-bodao--sao-joao-antares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Webistro - Marmitex Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707042012_df029913-4e26-4f9f-ab7b-7f972b943389.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/webistro---marmitex-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto da Costela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707021831_3ebabf51-9434-402c-b0f1-2dc95bc2ad34.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/canto-da-costela-leonor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Ninja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-p_PIZZANINJA01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-ninja-jardim-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches, Dogueria e Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jo_lanchesdojo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/lanches-dogueria-e-refeicoes-vila-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MUGA FOLK BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100845_d6ab8193-c7e1-4de2-bf25-0f84d485db32.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/muga-folk-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DR RANGO - RESTAURANTE E HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710081355_8774de6a-ffa9-43a0-b428-8b279a61bef6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/dr-rango---restaurante-e-hamburgueria-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Polo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//china-polo-1_CHINAPOLO01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/china-polo-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Florença Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131616_6c44dd0c-108d-48e5-8839-fecd91c22a83.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/florenca-pizzaria-antares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo big lanc_bigla_fazer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/big-lanches-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Umai Jardim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191410_8e118a96-ce79-40a3-8494-392f45fd10f9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/umai-jardim-bela-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Palhano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/palhano_lapal_toria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizzaria-palhano-bela-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA CLUB SAUL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/club_PIZZA_LKIND.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pizza-club-saul-conjunto-habitacional-violim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Carneiro Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211603_6259fe10-1f2c-4b1c-99fd-44e6ffbe29eb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/casa-do-carneiro-grill-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Telepizza Londrina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161011_ec27a15f-d38c-4648-a918-ddf53606f66d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/telepizza-londrina-jardim-shangri-la-a",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Drago Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161451_DRAGOBURGERS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/drago-burgers-santa-rita-2",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Custom Restaurante e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707021113_fed8bee8-abf4-4677-8129-10b87833e5c7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/custom-restaurante-e-lanchonete-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sabor da Avenida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141445_84c1f7bd-788f-4f6b-808a-fb822cf8c09c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-sabor-da-avenida-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BWF - BURGER WAFFLE & FUN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707030850_93dbffb1-0bbb-4f0a-ac5f-01524d1021dc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bwf---burger-waffle--fun-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXP Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300813_fe31ee94-bf2c-4cdf-8680-1cab2c562b79.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/exp-burgers-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Fama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bellafama.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bella-fama-jacomo-violin",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasiliano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311432_19a98745-0403-4d83-8a9a-2bec980a7369.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/brasiliano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gfc Frango Frito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_gfcfr_drina.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/gfc-frango-frito-vila-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monstro Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707060758_7d2727b1-b8d2-41f9-a49e-3c82b2cc7e77.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/monstro-burger-jardim-tokio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOX d'Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711200710_3a6221bb-8fe0-4cf7-be91-5b71311bfb62.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/box-ditalia-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Niwa Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121315_8aa04255-fc30-46bd-a9e2-1215ef8153c3.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/niwa-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Via Fratelli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-v_VIAFRATELLI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/via-fratelli-pacaembu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Double Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261500_38f789c8-8bd3-4dc7-b0c9-1bff4f113bd1.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/double-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707150810_756b181e-ba65-4381-8d17-9ac480177c5a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/food-express-ipanema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercado Guanabara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//mercado-guan_MERCA_ABARA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mercado-guanabara-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051035_f54d70aa-aa02-4aaa-b659-16d956c25a2f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/mega-dog-cafezal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolos da Nora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131529_706dbe4f-9116-4801-b56b-6eaa9d8154b5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bolos-da-nora-jardim-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BURGER HOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181007_4ceab024-eed5-49fe-ba65-b68609940abb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/burger-house-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR DA CASA LANCHES E PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041149_c8ad4afc-d5b2-43ac-9c37-fae4a3198ce6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sabor-da-casa-lanches-e-pizzas-jardim-nova-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Costelaria Jardim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181455_1dd4eceb-f312-453c-9a82-a5ce43b2ebae.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/costelaria-jardim-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bacana Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100942_6b40cde3-b153-4256-bbda-c43a100c7828.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/bacana-acai-conjunto-vivi-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santoíche Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_SANTO_UERIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/santoiche-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Akamaru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//temakeria-ak_TEMAK_AMARU.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/temakeria-akamaru-vila-larsen-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SushiBox",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//SushiBox-Log_SUSHIBOX.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/sushibox-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Filé Gleba Palhano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041525_6aece6d6-2819-400c-9399-d6b38ecbc241.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/fast-file-gleba-palhano-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oliva Gourmet Pizzas Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311758_1814e941-40d4-452c-88fa-024a4c6afb4a.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/oliva-gourmet-pizzas-burguer-jardim-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santo Graau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061507_179a966b-f410-41cf-bc8f-f050ab6c71a1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/santo-graau-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261222_c93684e7-62b7-4b44-8610-e14329c6e7a5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/fast-china-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Robertos Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-r_ROBER_ASTEL.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/robertos-pastel-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOTEKO GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261055_da0fa04f-f5aa-4ccb-9398-1ce49a722975.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/boteko-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto Do Sabor Disk Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701111154_CANTO_MITEX.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/canto-do-sabor-disk-marmitex-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Itália Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709220929_2e77f80a-7bbf-4a9f-acf6-6ce6848e749d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/villa-italia-ristorante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante O Casarão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211155_daa8299e-1938-428f-bc9a-6bb1085a277c.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-o-casarao-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RECANTO CHINES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241632_7121eff0-2aef-45f0-81d0-bf646c9565bd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/recanto-chines-jardim-strass",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropical - Esfihas & Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201034_d94dd83c-60ab-4563-bd4b-1ed46203e518.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/tropical---esfihas--pizzas-marumbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020902_c5ea56af-0cf1-4060-8308-c56ef3639062.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/cantina-brasil-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Chinesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cdfe03d7-ca6e-4921-a2fc-ac74defdc428/201710171316_17426.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/casa-chinesa-conjunto-vivi-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Na Caixa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311455_2f29c7b0efcb4ef2a2a61c8ba9136b45.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/frango-na-caixa-conjunto-vivi-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Cheiro Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251024_cb610a290414465ab6ccbda72860da3e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-cheiro-verde-jardim-sabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Beat - Lago Igapó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031028_e009cc69-4bb2-43a0-ac1b-e34fa60befcb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/acai-beat---lago-igapo-jardim-do-lago",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango na lata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//pes_avatar-f_FRANGONALATA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/frango-na-lata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GG e-Sport Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181440_17da64cc-79c2-4596-b1c2-f4a73ae02812.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/gg-e-sport-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Home Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo home bur_homeburgers.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/home-burgers-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Komida's Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220819_436be865-827f-421f-9c96-c0a69e3c4362.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/komidas-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete & Choperia Bahamas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190844_34f2f121-3ce5-46d7-b16f-891c0b12c5a5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/lanchonete--choperia-bahamas-monterey",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macedos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_maced_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/macedos-lanches-jardim-tabapua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pão Nosso - Sanduíches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150751_9cdb2f9d-1d0f-44a4-b274-6fd799676915.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/pao-nosso---sanduiches-gleba-fazenda-palhano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante O Espanhol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_RESTA_ANHO01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/restaurante-o-espanhol-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUPREMO BURGERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100738_b2afb5df-327a-4802-b8d1-a45aa5c60837.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/supremo-burgers-jardim-imperio-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomattus Risrotante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tomattus_tomat_rante.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/tomattus-risrotante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropicália Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705120900_40820e09-bcd2-4404-be48-aa75c09310e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/londrina-pr/tropicalia-acai-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LONDRINA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

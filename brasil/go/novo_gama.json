@@ -1,0 +1,44 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point do Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030856_30d29e44-eb27-43c0-850c-ed4630620b75.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-gama-go/point-do-acai-parque-estrela-dalva-vi-pedregal",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVO GAMA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango No Pote - Novo Gama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//e4ec30b629d4_FRANG_OGAMA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/novo-gama-go/frango-no-pote---novo-gama-nucleo-habitacional-novo-gama",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVO GAMA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamute Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261414_7b2b33f3-df97-4119-9818-777e25efb1c2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/novo-gama-go/mamute-fast-food-nucleo-habitacional-novo-gama",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "NOVO GAMA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

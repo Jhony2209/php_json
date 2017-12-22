@@ -1,0 +1,238 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dalpra's  Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311943_8e0ed7e5-a0bd-43fe-b4e1-06612e40de15.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/dalpras--pizzaria-costeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Porta Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712070944_2542d064-fe68-4abc-b9a1-97b707a2ff87.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/restaurante-porta-caseira-costeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TKT Distribuidora e Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021045_335ff913-8410-46c3-93f7-7dadbee76a85.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/tkt-distribuidora-e-petiscaria-costeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Õnoõ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101020_78881029-a662-4084-9dfb-b39a85a51244.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/onoo-fazenda-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Divino Dog And Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/SrDivino_Logo_JOSIA_CARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/sr-divino-dog-and-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rookie Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231547_cdfef7c5-ef69-4968-b8b8-bc349ba4cfbc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/rookie-hamburgueria-cachoeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Villa Nostra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030719_ee9ccb7e-c482-42e5-9e73-3a40e50e1776.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/pizzaria-villa-nostra-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Like Burger Delivery De Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703121440_LIKEB_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/like-burger-delivery-de-lanches-passauna",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Nato Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211543_46a39576-a01e-4985-865c-55e8432d9534.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/don-nato-pizzaria-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ginas Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706300754_d79fadd8-4a9f-48c6-ba28-edc17735c1f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/ginas-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hot",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizzahot02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/pizza-hot-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagee Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271746_bd17c23b-3660-4e0f-8c23-f841aa98dae4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/garagee-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mania Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011758_83a40c80-73de-4e63-a9d0-e451e5051066.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/mania-lanches-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Fogazzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Bella_BELLA_ZARI17.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/bella-fogazzaria-fazenda-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Nilda Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_donan_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araucaria-pr/dona-nilda-lanches-porto-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAUCARIA",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }}]

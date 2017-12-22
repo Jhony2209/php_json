@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria pão de queijo gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021941_572fdb99-dd7b-4365-b1ac-113b0b416a26.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ouro-preto-mg/hamburgueria-pao-de-queijo-gourmet-nucleo-historico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURO PRETO",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

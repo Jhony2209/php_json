@@ -1,0 +1,1170 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AçaiDera Delivery Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241411_3ddb4623-2cf1-4dac-8652-8a258fb2a888.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/acaidera-delivery-betim-niteroi",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mana Ice",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040734_33aa242c-7586-4288-9b23-1ef814ead0b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/mana-ice-jardim-teresopolis",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MR. FIT FAST Food-Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707112154_5acbcd92-71bb-48e6-bf1a-f8274ba47278.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/mr-fit-fast-food-betim-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JapaZ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041211_16b3622a-149a-49d9-bb6e-51c83ab1aae6.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/japaz-jardim-casa-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Açaí Yanni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260729_691a97a3-e020-4822-a1c6-75535ca1b923.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/delivery-acai-yanni-imbirucu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rede Açai.com Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280921_d072af52-9c38-4a0c-be52-5661b6e6932a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/rede-acaicom-betim-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fry's Burgers - Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201145_4b134012-a068-45f8-b942-10ba7b400107.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/frys-burgers---betim-inga-alto",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí a jato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231908_89ecc4b5-cfd6-4276-9c45-babc396e397e.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/acai-a-jato-novo-horizonte",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Tileila Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_PIZZA_IVER56.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzas-tileila-delivery-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200022_a569457c-59a8-4922-8ee5-61a428f3262d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/brasileirinho-delivery-betim-brasileia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHAPA REAL LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221709_d543ca74-4bb3-4c27-8623-885484a1ba4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/chapa-real-lanches-capelinha",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chucky's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101052_689985c6-e5e1-4535-a392-49ca92761a43.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/chuckys-burger-jardim-das-alterosas---2-secao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog do gral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281408_32d3bb87-547c-48d2-9969-0aaa2217a2ec.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/dog-do-gral-jardim-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jessi Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081419_88419ea7-46f0-426e-8612-772eb2781469.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/jessi-acai-jardim-casa-branca",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MINEIRO DELIVERY - BETIM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712171124_769446d2-ab51-428c-99ac-612b0b1fc426.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/mineiro-delivery---betim-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petit Crepe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241447_1f3b18f4-03ad-4683-b5bd-2e32cadc76f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/petit-crepe-cachoeira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mastercheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711120950_491e2046-7632-4bff-9c0d-014c335d56f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-mastercheff-filadelfia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Papaléguas PTB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021059_e7661564-8346-48b7-a765-9b91db739763.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-papaleguas-ptb-santa-cruz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Chefe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121336_bea251d4-a22a-47be-a756-c70b714ef3fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-do-chefe-novo-horizonte",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061310_c1b4dadf-c2b7-428a-b1b2-026ba5d89cab.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/primos-lanches-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rosana lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180643_ae435263-cbb9-404d-9c77-38defe0aff92.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/rosana-lanches-cidade-verde",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados da Vovó Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101029_e5021dce-dcf2-46f8-a0b1-1d0d720253cc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/salgados-da-vovo-maria-petropolis",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria do Frutos do Brasil - PDV",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280846_e873aabc-e475-48a9-bc79-26ec093b3d14.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/sorveteria-do-frutos-do-brasil---pdv-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakissoba Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291657_360023ac-7c07-4664-afdc-15fccf7e4a7a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/yakissoba-express-vila-universal",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Kbça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kbca_pizza_okbca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-do-kbca-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria E Restaurante Comida Boa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702061546_RESTA_DABO01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/hamburgueria-e-restaurante-comida-boa-industrial-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rd Grill Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301215_0a5151f2-ed80-4786-beb4-2e0e8af5f687.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/rd-grill-burguer-amazonas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHINA´S COOK DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ssssssass_china_iver06.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/chinas-cook-delivery-brasileia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lagreepe Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251452_7cff1864-4298-4687-bc99-a8312179d880.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/lagreepe-hamburgueria-imbirucu",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cowboy Burguer E Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121229_COWBO_EACAI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/cowboy-burguer-e-acai-niteroi",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rafael Lorenzo Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705120854_a20c37b4-c433-4187-9a00-299ebce0a0db.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/rafael-lorenzo-hamburgueria-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARMITEX DO CHEFE DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121219_85dc1a76-8824-4fcd-883e-be7675002075.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/marmitex-do-chefe-delivery-filadelfia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bartô Gastronomia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2f07e470-6180-4c0f-85ff-eba0a97b46ce/201712011813_perfil.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/barto-gastronomia-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garoto Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091707_1cc73535-1bc4-4911-82db-30f8676947ee.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/garoto-lanches-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MINEIRINHO BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_minei_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/mineirinho-burguer-jardim-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KARAMBAS TELE BURGUER E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo karambas_karam_zaria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/karambas-tele-burguer-e-pizzaria-distrito-industrial-bandeirinhas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bahamas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bahamas_pizza_hamas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-bahamas-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311013_b356ad41-d069-4ab1-ac95-80434e3d7a0c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/point-mix-vila-cristina",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushicam Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704081047_e929e673c17b4212a52e40efa4cceea4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/sushicam-betim-niteroi",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704120820_2d24414eb946410caa2519ac30905529.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-dom-cheff-renascer",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kazoku Sushi Delivery Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/17952502_1191_KAZOK_BETIM.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/kazoku-sushi-delivery-betim-conjunto-habitacional-bueno-franco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ta Tudo Di Bom Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Ta tudo _PIZZA_NGOLA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/ta-tudo-di-bom-pizzaria-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor dos Reis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710100914_794b01dc-df3a-41a8-8c96-16542858b958.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/sabor-dos-reis-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZAIOLO BETIM - DITA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123456688990-_pizza_pizz10.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaiolo-betim---dita-pizza-cidade-verde",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza do Chef Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251139_ca1da6bb-a422-4c95-b3f5-7119fa36c9dd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizza-do-chef-delivery-dom-bosco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_BELLAPIZZA15.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/bella-pizza-jardim-teresopolis",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BETIM PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031202_cca18549-cf2d-4c09-ba25-a1eff6626664.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/betim-pizzas-senhora-das-gracas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOM DE BOCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710220934_2db8fa8e-342d-4bfa-b91a-b55862853a70.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/bom-de-boca-conjunto-habitacional-bueno-franco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alternativa Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_alter_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/alternativa-lanches-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rdm Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704120821_3384311cef71470cae28461448312056.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/rdm-lanches-dom-bosco",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zeu Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241113_5e354163-07bd-46e0-ae7f-746188f30d07.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/zeu-pizzaria-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria In House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111308_42827f99-2d32-4e40-ab4c-bd52f4fae198.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-in-house-bom-retiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080856_ae2d6ccb-74df-4627-9834-7082c6457982.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/panquecas-delivery-jardim-nazareno",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Massa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/a massa_amass_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/a-massa-pizzaria-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Family Space",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081353_cad2dcd1-9dca-4221-8d14-0447419d8338.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/family-space-ponte-alta",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boi Burguer Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181120_e7b2b444-12f6-4014-9b08-e9719df0f616.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/boi-burguer-restaurante-e-pizzaria-laranjeiras",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FEST BURGUER DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120901_23affe8c-cf7e-4a4c-9f53-1014bcaabdb4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/fest-burguer-delivery-jardim-das-alterosas---2-secao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASA DO HAMBURGUER GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181538_072925bb-f93f-4e00-8eec-810fcf084edf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/casa-do-hamburguer-gourmet-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311138_8cbf6341-099c-4c39-81dc-f0e965b882cc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/mega-lanches-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tô no Rango Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291430_e7ed1f6b-b939-4105-a0a6-de3f40fd144f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/to-no-rango-lanches-jardim-teresopolis",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deker Steak House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/deker logo_deker_house.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/deker-steak-house-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Poracaso Cervejaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251409_4099e94c-07f7-4e2f-9f50-bfc18846025f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/poracaso-cervejaria-angola",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704100933_7660d3144fb44e669efde4ee4285cf8f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/sabor-caseiro-senhora-das-gracas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dus Primus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711051853_375ee145-001d-40d0-b4f1-801dc3395768.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-dus-primus-jardim-das-alterosas---2-secao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Delivery 3 Irmãos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301412_ff4d4bc1-cda2-410b-a576-590ad905e507.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-delivery-3-irmaos-senhora-de-fatima",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Morada do Trevo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101943_d0bf3cd0-7c1d-4d89-801a-c4f9429cd5a4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/restaurante-morada-do-trevo-morada-do-trevo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESPAÇO CAIPIRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161138_b3848f78-574c-438e-80cc-eea8b99ab11f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/espaco-caipira-chacara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Americano Betim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_frang_betim.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/frango-americano-betim-inga",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog Show",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706070804_6c868f0b-2b2c-4aee-920b-3a792eb9de25.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/hot-dog-show-guaruja",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gandras Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191555_20efc943-991e-410b-a606-09b4d8390b0e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/gandras-burguer-nao-cadastrado",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atena Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141024_49550d1d-6dff-477d-9686-8547ad8fbd59.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/atena-beer-chacara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e restaurante Peixe e cia.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708262207_c62858a3-6456-4127-8ebb-4e15552fdb7f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-e-restaurante-peixe-e-cia-centro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca do Tuga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705292338_7a54a30d-0d2a-4486-81e0-7e568777547e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/toca-do-tuga-chacara",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Boi Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141144_4db4c116-c59a-4ac4-a8eb-f06229e209f8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/hamburgueria-boi-grill-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King's beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261425_284ea5aa-87ae-4520-bccb-3043b928af80.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/kings-beer-sao-cristovao",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Beto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_pizza_obeto.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/pizzaria-do-beto-residencial-taquaril",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REI DAVID CHURRASCARIA E PETISCARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo rei davi_reida_cari01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/rei-david-churrascaria-e-petiscaria-nova-baden",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor de Minas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708140932_d3527f25-0226-4ae3-8fbf-e0fc1094cad8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/betim-mg/sabor-de-minas-bom-retiro",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "BETIM",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+]

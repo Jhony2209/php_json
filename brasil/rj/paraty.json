@@ -1,0 +1,31 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e esfiharia Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190814_4b9f175d-4d15-4804-971f-3824b181f424.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paraty-rj/pizzaria-e-esfiharia-express-mangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARATY",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mari Terê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271406_b128e6a2-ae59-43de-89d4-8a5c719c2a93.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/paraty-rj/mari-tere-mangueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PARATY",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

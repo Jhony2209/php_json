@@ -1,0 +1,615 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Açaí Jardim Luz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131735_9d95ea15-e1e9-474b-9f4c-16431570fcb7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/fast-acai-jardim-luz-setor-jardim-luz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Mania Hot Dogs E Açai I",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703280842_0d1040c953a347c68493e2039bfd2e9b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/dog-mania-hot-dogs-e-acai-i-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Fit - Aparecida de Goiânia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091339_a90ea5d0-114a-4136-b593-baca4a79edcd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/mr-fit---aparecida-de-goiania-vila-sao-tomaz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ateliê da luxa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251123_da33feba-72c8-4830-a900-fcaf6e16f507.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/atelie-da-luxa-jardim-das-esmeraldas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canaã Pizza & Burger Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171319_49feb49b-77a1-42c9-b501-088167df3414.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/canaa-pizza--burger-gourmet-sitios-santa-luzia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Club Mais Grill Rest. e Sanduicheria-",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131312_41611f2f-2d8c-48ed-84ed-6cdce3d95df0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/club-mais-grill-rest-e-sanduicheria--rosa-dos-ventos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DD distribuidora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291745_56fe42cd-a1ba-4c2d-a497-b67a5e111061.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/dd-distribuidora-papillon-park",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "K-edson Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101050_d4527990-8d78-4ac1-8f3c-59342ec01c70.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/k-edson-sanduicheria-jardim-nova-era-acrescimo",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moinho's Bar Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231846_5df48e6a-e12f-49ff-a3ea-f0462424bbdc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/moinhos-bar-restaurante-e-pizzaria-vila-rosa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DO RUBÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051240_3d5aef9f-0881-4056-b64e-a63baed491ea.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/pizzaria-do-rubao-vila-sao-tomaz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradicionalle Pizza Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081652_4080ec1e-61ec-40c5-9a21-462b2b6c5349.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/tradicionalle-pizza-express-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super San Sanduicheria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_SUPER_IVER05.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/super-san-sanduicheria-delivery-setor-dos-afonsos",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE E PIZZARIA KI-FOME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190856_20466927-4a2a-4b0c-b268-72b8d8270e3d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/restaurante-e-pizzaria-ki-fome-jardim-das-esmeraldas",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Rei - Bar e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251144_ae0e7650-0c8c-4dda-affe-72a4bab224ad.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/frango-rei---bar-e-pizzaria-cidade-vera-cruz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "santa gulla massas e grelhados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211600_b454fa01-7af0-45e8-bb89-ad1e37a5a1ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/santa-gulla-massas-e-grelhados-jardim-buriti-sereno",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG BURGUER 02 CRUZEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231345_5e7f2926-82f4-4649-9315-cd01644b2b3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/big-burguer-02-cruzeiro-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KERO + SANDUICHERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261000_15c8e5ce-2e47-4abc-b980-ad7fb4d7aa2c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/kero--sanduicheria-jardim-nova-era",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frajola'S Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/frajola_frajo_heria.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/frajolas-sanduicheria-vila-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020952_71a58aed-f3db-4be5-91e6-c3c9195ada36.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/big-burguer-cardoso",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Tacos Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020959_1015300a-1072-42c7-94bb-552f288e652d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/los-tacos-sanduicheria-vila-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nathely Pizzaria Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702201320_NATHE_PRESS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/nathely-pizzaria-express-vila-rosa",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Da Massa Macarrão Italiano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702071135_SABOR_LIANO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/sabor-da-massa-macarrao-italiano-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ELITE BURG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201351_d12577df-fa0a-4792-9c7c-4f222fe18f54.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/elite-burg-jardim-nova-era",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza z",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizza z_pizzaz.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/pizza-z-jardim-nova-era",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "inbrasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090910_084eef99-4993-44e0-875f-2bcdcec5191b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/inbrasa-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VARANDA BAR E RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071240_9501f93e-7013-48a7-9799-8f28e751f67a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/varanda-bar-e-restaurante-setor-jardim-luz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cascais Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281544_a8640cae-1a31-4399-bfbf-8a913d8a2788.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/cascais-grill-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Só pra contrariar ( SPC)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261723_f2aade6e-3278-4426-a974-66dcb923f5d4.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/so-pra-contrariar--spc-conjunto-estrela-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aero Burg sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021104_8157685e-f17a-4a2e-b92d-ce504003f13c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/aero-burg-sanduicheria-conjunto-residencial-storil",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Satélite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705120720_2c7e8758-7ec4-4bc7-a6e6-19eb3bf7bce8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/pizzaria-satelite-cidade-satelite-sao-luiz",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Status Sanduícheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706080900_7f7a9aea-2117-4ddf-88a7-59f07ae26bba.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/status-sanduicheria-nova-cidade",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Katana Sushi House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181448_61a53009-5ede-4fa7-bf35-6024d50dab78.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/katana-sushi-house-vila-cruzeiro-do-sul",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAYATO SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301055_5ecdfa54-59d3-49dc-9c1d-f452c8a0a8e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/hayato-sushi-jardim-maria-ines",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du'Cheff Pizzaria - Aparecida de Goiânia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211715_7e0a1f42-e930-48c6-a72a-5d7e65665ff0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/ducheff-pizzaria---aparecida-de-goiania-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du'Cheff Pizzaria - Vila Brasilia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221254_13013b78-a603-493d-b1eb-6891b473c7c0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/ducheff-pizzaria---vila-brasilia-vila-brasilia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TICBY Sanduicheria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031314_1b1517ec-c3b5-4479-85ce-69d92b336862.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/ticby-sanduicheria-e-pizzaria-setor-central",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NK Lanches Sanduicheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011014_11315429-6f75-4326-9b41-e95b2a605a05.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/nk-lanches-sanduicheria-jardim-copacabana",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CIA DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ciadapizza05.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/cia-da-pizza-setor-belo-horizonte",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburguesas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701241043_HAMBURGUESAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/hamburguesas-jardim-nova-era",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La boca restaurante e pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031308_40f16836-3435-4f2f-b438-8963fc464a09.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/la-boca-restaurante-e-pizzaria-setor-santa-luzia",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vegas Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo vegas_VEGAS_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aparecida-de-goiania-go/vegas-pizzaria-vila-alzira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "APARECIDA DE GOIANIA",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+]

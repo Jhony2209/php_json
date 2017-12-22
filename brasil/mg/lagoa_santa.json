@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GIRO STEAKHOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051040_2e4667f6-790b-4385-963a-2f31a1b440ed.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/lagoa-santa-mg/giro-steakhouse-joana-darc",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LAGOA SANTA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,47 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090927_aca54c20-0123-4cfe-8b24-3c542dbd1f03.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catalao-go/real-dog-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATALAO",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WOW Food Burger & Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705270857_1c17dadd-7afe-4cf2-ab7e-6e20fae103db.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/catalao-go/wow-food-burger--grill-loteamento-parque-das-mangueiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATALAO",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707130848_5ef37e69-30a2-4aeb-ade4-02967affe9bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/catalao-go/pizza-food-setor-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATALAO",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

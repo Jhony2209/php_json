@@ -1,0 +1,32 @@
+[
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sinhorpizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210726_038cf052-f8d8-4882-90c2-23489b32431c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jatai-go/sinhorpizza-vila-jardim-rio-claro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JATAI",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'ITALIA GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231353_b64b6125-e6a7-4ace-906c-2b4f5b7c9ea3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jatai-go/ditalia-gourmet-setor-granjeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JATAI",
+            "addressRegion": "GO",
+            "addressCountry": "BR"
+            }
+    }]

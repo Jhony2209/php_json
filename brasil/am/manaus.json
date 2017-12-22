@@ -1,0 +1,5522 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DuCaboco Café Regional",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121211_e5f6bd58-e18c-4a93-9fe8-0612b28975dc.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ducaboco-cafe-regional-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Café Regional Naíza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151011_9146773f-0029-4a0c-899a-4a516230bff4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cafe-regional-naiza-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Escangalho Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061106_9eb1c342-812f-4d90-9cbd-24d7e07d2210.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/escangalho-gourmet-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China In Box - Cachoeirinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181648_07a6a0ea-5848-4147-9275-457117e06769.bmp",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/china-in-box---cachoeirinha-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China In Box - Chapada",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181648_2d2d2b97-4d46-4887-91b3-9c4e24630677.bmp",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/china-in-box---chapada-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brasileirinho Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bc9388b7-75ad-4680-8c82-950fba26e8ba/201712070943_logo_.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/brasileirinho-manaus-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Domino's Pizza - Vieiralves",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091423_4f9e75c2-3808-4dec-9eb9-f79e830eb936.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dominos-pizza---vieiralves-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Hut Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170716_226e2be5-501b-4ea6-9c7f-dea5cf8e80af.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-hut-manaus-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "+Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011930_6d655af5-023f-4d14-b4d5-bc84f18b861b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Amazonas Steak House - Eldorado",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/amazonas stea_AMAZO_ORADO.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/amazonas-steak-house---eldorado-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "B's Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231436_deae551e-c392-4122-b378-a73115b0243a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bs-burger-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BAR CHOPP BRAHMA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280728_44632fff-5638-45e8-8b51-d081f143042b.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bar-chopp-brahma-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BRONTUS BURGER",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191030_5dc5a3bc-0fb7-4535-94c6-30013a883534.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/brontus-burger-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Batatinha lanches e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712022106_2751351e-452a-4365-873d-787bf90f5a3e.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/batatinha-lanches-e-pizzaria-nova-cidade",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Batelao Brasserie",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160929_a795070d-6caf-428f-86d4-f1bdf8d1764b.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/batelao-brasserie-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bella Itália Pizzaria e Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081039_1538e920-904c-4ca9-90da-d2883c38eb60.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bella-italia-pizzaria-e-delivery-novo-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brasileirinho Restaurante e Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071835_a4f87e9f-be29-4708-96f4-b18bbb7c8c97.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/brasileirinho-restaurante-e-bar-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Buona Massa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111855_4c5e08aa-035f-4995-a5f6-3d06ef845198.PNG",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/buona-massa-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cali Sushi House",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010851_50b34587-2d8c-44ba-a665-a2177c316349.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cali-sushi-house-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Camarão Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111202_6e14a377-4841-46a8-a892-90230603bf6a.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/camarao-express-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Celeiro do Mocó",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271521_2c7b61b2-fb52-4453-90f3-33175afec09e.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/celeiro-do-moco-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chez martina Bistrô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011326_99851328-c4d4-4979-b535-030d150ee4d7.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/chez-martina-bistro-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Churras Premium",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231050_0f006f8d-c8af-495e-8dc5-a01fbfd2dd20.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/churras-premium-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Coliseu Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/coliseu logom_COLIS_ZARIA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/coliseu-pizzaria-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Comandante Geral Bar e Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191142_ae7ca1d5-80eb-4c9f-8fae-f731dfb4f7bb.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/comandante-geral-bar-e-restaurante-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cupim Paulista Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071416_4e8c704f-21e5-454f-a12c-e978fc2294ea.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cupim-paulista-manaus-colonia-terra-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DECK SUSHI BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231144_68698346-5871-4df8-89ca-a5e633aa2227.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/deck-sushi-bar-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DI FRATELLO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/_IMG_000000_0_DIFRATELLO01.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/di-fratello-novo-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DL Gourmet Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091004_fab2c5fc-1e76-4bef-9486-f35e3958ca6f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dl-gourmet-delivery-novo-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Di Bella Pizzeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061235_6faedc7d-4825-4794-bc86-a8921ba872b6.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/di-bella-pizzeria-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Domus Enogastronomia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091523_1a388de5-5c00-401e-9cc8-e0d2435ae23e.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Francesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/domus-enogastronomia-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "FAROFA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271259_4b2572ca-2f9c-4c59-86cb-d8418b9feeac.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/farofa-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fornalha Dos Medeiros - Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091441_6dd55a00-59e6-4969-a559-a82b46458db0.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/fornalha-dos-medeiros---pizzaria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gostosuras & Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051621_6104dc4c-f4d0-4a06-bf25-6a37d2949d49.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/gostosuras--grill-colonia-terra-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgo Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121218_2be75eaa-1d3b-4bba-8576-5029ef7b15b3.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/hamburgo-gourmet-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "I Love Filet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281254_13d2c99f-03c1-47c9-9d14-29f7a424676f.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/i-love-filet-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LIVRE LEVE - ALIMENTACAO FUNCIONAL",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081603_79ce388c-9015-47e2-8ade-de3c6a995765.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/livre-leve---alimentacao-funcional-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "La Chapa - Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121132_97b1c1cd-f833-4476-a17f-9d833f4c7150.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/la-chapa---pizzaria-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche Do DJ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180806_be29b9e3-789a-4c63-abe3-3d517cbbcc4b.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-do-dj-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche do DJ Evandro Jr",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131119_e01b61e3-3300-4058-aab5-d0426608521f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-do-dj-evandro-jr-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche do Nepô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181443_d954a2a7-ae5b-4017-ab99-279f70959ff1.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-do-nepo-redencao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete e Pizzaria Brasil",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170705_a9ba4f41-89fa-4e2f-a74c-b43067ba52df.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-e-pizzaria-brasil-colonia-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Le Croissant Café",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131617_a36bf416-edc6-4676-a8b1-5ed816740c7e.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Francesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/le-croissant-cafe-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mahalo Poke Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171028_8636ae6e-de39-41c8-a246-57f69da2481c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mahalo-poke-bar-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Megi Restaurante e Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021001_e63f1391-1dc3-44e1-87f6-760e669d53c8.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/megi-restaurante-e-bar-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Merendeiro Food Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131159_01f528ac-99cd-4571-abf9-8266524aabd9.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/merendeiro-food-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mr.Sushi Pizza Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080803_5a7be12a-12e2-4a38-aae8-d52680b199f3.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mrsushi-pizza-delivery-planalto",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Naoca Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221704_b3b344d0-a72c-4a51-b360-05d6668b04b5.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/naoca-express-nova-cidade",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Nevada Brigaderia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140751_ce2a399a-5ff7-4339-8449-9c5aed60137b.png",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/nevada-brigaderia-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oásis da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170806_ea08a038-8c97-4250-a388-8a968171bb82.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/oasis-da-pizza-betania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PAPA PIZZA - Cachoeirinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231344_5136dc44-6698-4508-938a-7363ea5e632e.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/papa-pizza---cachoeirinha-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Panificadora Art Pan",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091130_29e7cf15-6f99-4fcb-b9d6-5e832570a3d2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/panificadora-art-pan-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papis Street food",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131210_af46e5b2-0bb8-4b2f-bed8-96fe2d246278.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/papis-street-food-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Peixaria Tio Ita - Paulinho",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300833_e5402f90-fa84-4e67-a95f-6d0de53fd818.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/peixaria-tio-ita---paulinho-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria do Bel",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091309_330fe30a-635b-4d73-9658-55c7ac66dbbc.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-do-bel-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria e Lanchonete Fogo no Rabo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171658_534cdc6b-9dc0-4d89-a14f-8bf4bbd5fb09.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-e-lanchonete-fogo-no-rabo-nova-cidade",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Priscila lanchonete e pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081723_cc66c72f-0256-42fd-8053-25b7b4f03b6e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/priscila-lanchonete-e-pizzaria-redencao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Regional burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181133_755ea082-2940-47b7-9e13-c9e05fc240e1.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/regional-burger-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei Do PF - Parque Dez",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061657_137bb81f-50ce-42ee-86ac-14e23ee48668.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/rei-do-pf---parque-dez-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "República Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704031418_5aebcc30997d4abd83fbc451019fee97.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/republica-bar-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SALOME BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061729_a4aa0924-b3f3-4da7-83a4-397f431b1e25.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/salome-bar-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Saboremix",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261023_8ee19660-d419-427b-8a72-85ec8e2c14d5.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/saboremix-japiim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Salade Delice Bistrô e Vinho",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140734_7ec8367d-e894-4f39-a8bf-4e75b13478e8.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/salade-delice-bistro-e-vinho-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "San Fusion Food",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101411_2339ac2c-92a6-4c6f-a324-aaf19704497f.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Asiática",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/san-fusion-food-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sophia Café",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191558_4a34fdac-0c7e-4592-8755-33a05b39dc6c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Bebidas",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sophia-cafe-sao-francisco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131607_2a7438b9-f113-4de9-9c0c-ec1f94690895.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "T & D lanche e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091056_39b36123-b95e-4e43-a8ce-e05165db226e.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/t--d-lanche-e-pizzaria-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TAMBAQUI AQUI PEIXARIA E BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191818_1828ad4a-dee1-4aaa-bb81-8dca33047a45.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tambaqui-aqui-peixaria-e-bar-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Umami Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131000_97f1ee7b-fbe2-414c-9649-e985a5bcd935.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/umami-pizzaria-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "V8 Sushi, Bar e Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181252_8cfbdb92-04f9-4de5-83bb-b0545fc5ea06.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/v8-sushi-bar-e-temakeria-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Wilson's Pizzaria & Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161312_d8a498b9-a0b3-4e10-8ba4-6090b052f905.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/wilsons-pizzaria--restaurante-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Os Barés Culinária Amazônica",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_osbar_onica.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/os-bares-culinaria-amazonica-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mr Cheney",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030908_a1e1994d-c4ec-4e38-9769-6bb4e3da88ae.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mr-cheney-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Doce Manu Cafeteria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021110_f1667888-3642-424c-9653-531157ec3a28.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/doce-manu-cafeteria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Scooby Dogs",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111127_5650b051-4784-4372-9590-f18b2297995c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/scooby-dogs-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Me Gusta Churreria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171044_52f1707d-6223-4399-a619-a6b808c696f9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/me-gusta-churreria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mercato Brazil",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031234_0d07e327-3be1-4339-abc9-8da10be140f8.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mercato-brazil-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Village Casa de Comidas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280747_39dd7a94-bf76-4c41-a67e-2082d9cd38ee.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/village-casa-de-comidas-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Happy Ice",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091010_41cc0ad5-d9ea-443a-b858-3b5cf3f49605.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/happy-ice-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mindu Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131510_453ae19d-1e41-47ae-9803-f4cfe43c50b5.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mindu-burger-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Filet do Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo filet_filetdochef.png",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/filet-do-chef-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Senhor Espeto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/senhor espeto_senhorespeto.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/senhor-espeto-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jsk Burgers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3a110bb2-d02a-490a-9948-76850bbd0f1a/201710212023_14592.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/jsk-burgers-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Guloso Food Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/guloso logo r_gulos_truck.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/guloso-food-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PRECIOSKA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041443_1117a1c5-87c4-4533-925a-416ddf175270.jpg",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/precioska-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "El Patron",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo  el patr_elpatron01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/el-patron-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PER TUTTI - POLLOS, PASTAS & STEAKS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011931_1aa4cd4d-70dd-4562-9da8-c6fd5e7d7cba.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/per-tutti---pollos-pastas--steaks-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Piz-Zás Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/db3fc985eff34_PIZ-Z_IZZAS.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/piz-zas-delivery-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei do Espeto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280843_a72ca41f-a4c8-47a5-a5b3-ca65deb2937c.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/rei-do-espeto-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SRA. SALADA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241302_1bb3204a-c283-455b-8d36-18e90e64a012.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sra-salada-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Auto Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707270937_220ae36c-b9d9-4469-a0b4-e5323c52c295.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/auto-burger-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BISTRO DO ASSADO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020845_7b124fe6-3cb9-4888-947f-fcee6d0bd383.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bistro-do-assado-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Novo Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/novsabor_pizza_sabo12.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-novo-sabor-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tauros Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/73062e66c883a_TAUROSBURGER.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tauros-burger-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DELIVERY FORNALHA  FORNO À LENHA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712171958_5ad94c92-483c-4416-aeb4-ea9cf64bbb72.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delivery-fornalha--forno-a-lenha-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lulu Pães & Doces",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220905_2e093244-5067-4269-9c32-dd41207f58a2.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lulu-paes--doces-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SONHERIA SANTO SONHO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281337_e9b42482-cee6-4f1e-b24d-56e5d9ac29c1.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sonheria-santo-sonho-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BROCA LOGO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/b5db6cd8171d1_BROCALOGO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/broca-logo-sao-francisco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Yu´Sara",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701311535_YUSARA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/yusara-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Homes Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/burguer_homeburgs.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/homes-burger-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LARANJA COM PIMENTA GASTRONOMIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo._LARAN_NOMIAjpeg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/laranja-com-pimenta-gastronomia-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vernazza Culinária Italiana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702081328_VERNA_LIANA.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/vernazza-culinaria-italiana-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Torino Massas Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_torin_ivery.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/torino-massas-delivery-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Buonna Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091105_BUONN_ISOBA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/buonna-pizza-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sás Pizza E Lanche",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703271634_e6eab79e66e5469b9385679b6429929b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sas-pizza-e-lanche-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza do Italiano",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza do_pizza_lian01.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-do-italiano-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "I LOVE PORTUGAL",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo i love p_ilove_tugal.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Portuguesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/i-love-portugal-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brother´s Burgers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271901_7cc3ee66-7818-4042-9029-ad9005e572fb.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/brothers-burgers-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "No Balde Comida de Verdade!",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121942_fce412e7-d044-4f3d-9ee3-090832822c76.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/no-balde-comida-de-verdade-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Froes Peixaria & Picanharia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/img-20160830-_froes_xaria.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/froes-peixaria--picanharia-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PICANHARIA PORTEIRA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGOTIPO_PORT_ASSADOSCIA02.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/picanharia-porteira-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delivery do Gui",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011001_7f0c0df1-4b43-4953-9ecd-03d4097a2bb9.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delivery-do-gui-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria E Lanchonete Do Arilson",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211310_PIZZA_ILSON.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-e-lanchonete-do-arilson-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mineira Refeições",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711060858_dc15a805-ea5b-4be8-a557-e99592e2e7a6.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mineira-refeicoes-presidente-vargas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Crepes E Crepes",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/crepes e crep_CREPE_REPES.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/crepes-e-crepes-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cervejaria & Hamburgueria da Praça",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191838_77a7b80b-2e7a-4053-8606-9a02b572e838.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cervejaria--hamburgueria-da-praca-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HAUS BURGER",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010829_149abd4d-de7f-46bc-8a48-e95acc5bc76e.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/haus-burger-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Aiii Caramba!!!",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_aiiicaramba.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/aiii-caramba-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "VILLA VASSALLO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091237_bc980a88-1545-437c-af02-bacb8b4304a8.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/villa-vassallo-ponta-negra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Carnis Steakhouse Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301059_363b9680-1d68-48e0-8753-0518b547f0b6.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/carnis-steakhouse-delivery-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ribeiro's Pizza e Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081116_2fe2222e-eb37-4ea2-ac61-3a053f68f8d4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ribeiros-pizza-e-burguer-sao-raimundo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Di Famiglia Pizza Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702240919_DIFAM_IVER01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/di-famiglia-pizza-delivery-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza 2 Go",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza2go.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-2-go-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dieta Do Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261624_33e7107c-672b-4659-bdde-b55891ca1896.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dieta-do-chef-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tank Burguer Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251252_0084ddb6-9bdc-4c32-bb18-680948a66447.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tank-burguer-hamburgueria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sabor Gostoso Pizza Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/0e8eff52-f817-4913-b42e-4e859f7304bc/201711291109_11705.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sabor-gostoso-pizza-delivery-betania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sakura Sushi Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tipo nov_SAKUR_HIBAR.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sakura-sushi-bar-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Consulado Do Hambúrguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081132_8ef59dd7-9210-4d3f-a5b1-914940f15999.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/consulado-do-hamburguer-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SALADAMIX",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081241_56470f46-2913-4e94-b3ba-30c5624e78a9.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/saladamix-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete Das Torres",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5b461fba-c467-4089-897b-b408275c7e02/201711211100_semtt.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-das-torres-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Point do Goiano",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710121420_14ab2964-1967-4f63-a2ea-14da2340800f.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/point-do-goiano-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kitop Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_kitopsushi.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/kitop-sushi-sao-geraldo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "FRIULI PIZZAS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_friuli.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/friuli-pizzas-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santé Saudável",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221106_SANTE_DAVEL.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sante-saudavel-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche E Pizzaria Do Barriga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131059_LANCH_RRIGA.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-e-pizzaria-do-barriga-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Toppy Lanhe e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121633_aa1bb01d-1a45-4a8c-8708-f4d2365f193e.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/toppy-lanhe-e-pizzaria-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "La Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071023_9909384b-ecdf-4ae4-987c-b49c043cab80.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/la-pizza-raiz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Massa ki Só food truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141005_9fc78bf1-2644-4b2c-9f2c-f1a632e526f4.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/massa-ki-so-food-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Motor Food Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca mot_motor_urger.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/motor-food-burger-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Espetitos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703141007_ESPETITOS.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/espetitos-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AIFOME",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240920_6fc4441c-a94c-4c0a-9459-41f8736d650b.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/aifome-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paladare Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711272148_4ec4513f-3324-4bf7-80e5-45fa2fd8238a.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/paladare-pizzaria-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cosa Nostra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101756_b737776f-26c5-4e61-9a75-37cc0bf0a7d7.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cosa-nostra-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PAPAI RESTAURANTE E PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707310736_5188d493-ff17-47cf-af2c-fb6887f37df0.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/papai-restaurante-e-pizzaria-sao-geraldo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papaléguas Filial Praça 14",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/papaleguas lo_PAPAL_AÇA14.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/papaleguas-filial-praca-14-praca-14-de-janeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Don Mingoni Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo don ming_donmi_izzas.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/don-mingoni-pizzas-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "A Pizza De Brownie",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3bd67d18-c946-4503-9208-c19ca38cc366/201710121706_logop.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/a-pizza-de-brownie-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Delivery Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281141_59b5ddf4-8cf5-4e25-bc2c-5ec43b775189.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-delivery-manaus-monte-das-oliveiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chef Pizzo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703290922_02f6633932a14db0bf1ca9ca8a6b8476.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/chef-pizzo-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Ghiotto Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031830_da0f6a93-46cd-4244-884f-3d42acfec893.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cantina-ghiotto-pizzaria-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "House Sushi Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/house sushi_house_anaus.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/house-sushi-manaus-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SS Bar Restaurante e Café",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ss_SSBAREWASH.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ss-bar-restaurante-e-cafe-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Snack Rock Burguer - Food Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181059_51295a49-6b35-431a-82e2-c2f9b2a8e1e1.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/snack-rock-burguer---food-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chef Espeto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo chef esp_chefespeto.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/chef-espeto-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Metal - Frango Frito e Petiscos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071009_1cfce084-ce2f-45ba-a5ff-8ddf270e3269.bmp",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/metal---frango-frito-e-petiscos-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AÇAÍ DELÍCIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230831_d341a4f4-8f45-4a2f-8fae-926021f872a3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/acai-delicia-japiim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Esfihaiolo -  Esfiha Paulista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301435_c5f4e853-6439-4a3d-b65a-b286a7ace357.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/esfihaiolo----esfiha-paulista-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Só Sopa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011051_5ea46f9b-2ff2-43f3-8d03-087fa4a69641.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/so-sopa-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jafred",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301033_JAFRED.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/jafred-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lisboeta Cozinha Portuguesa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_lisboetacoz.jpg",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Portuguesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lisboeta-cozinha-portuguesa-nova-esperanca",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tropical Burger Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo original_tropi_ueria.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tropical-burger-hamburgueria-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mercado 153",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311349_7bed7c3b-ddde-46f1-94f7-a35158171ac0.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mercado-153-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Premium Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201018_c9688260-2571-49d9-8fae-72b8e829bd1d.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/premium-burguer-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE TRADICÃO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081059_a455ab12-f9d0-4ae7-bb88-4bc74656e784.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/restaurante-tradicao-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Habanero  Mexican Taquería",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705110739_01e456ab-de0b-4b14-82a3-98f7bc44320f.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/habanero--mexican-taqueria-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D'GUST DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080920_498d2132-32fa-439f-8ccd-2e690351889f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dgust-delivery-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mangiare Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_mangi_zaria.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mangiare-pizzaria-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgassa Hamburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo hamburga_hambu_ueria.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/hamburgassa-hamburgueria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Combinados",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080859_079169ec-fd86-4da6-8075-add94ea2d19d.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/combinados-lirio-do-vale",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Joel Lanche",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110835_12ca3252-6864-4f56-9b4a-921cf940c387.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/joel-lanche-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ichiban Sushibar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121035_ICHIB_HIBAR.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ichiban-sushibar-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Filex",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_filex.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/filex-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santa Grelha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706070139_683ca9db-8615-41f7-af05-2a9faccb53ce.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/santa-grelha-planalto",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "FASCINO DI PIZZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fascino _fasci_pizza.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/fascino-di-pizza-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Donatoni Pizzaria e Fornalha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo marca D._DONAT_NALHAjpeg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/donatoni-pizzaria-e-fornalha-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mega Lanche Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250809_ab92169f-f8d3-40c1-b5e8-44e8b5cc9407.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mega-lanche-delivery-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Barão Cervejas E Empório",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/barao - marca_barao_porio.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/barao-cervejas-e-emporio-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Bistrô",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708232021_88fe0df5-f211-4420-941d-a42483e74d74.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-bistro-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório do Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201304_e74a32ab-dd8f-4f11-ac60-7357176c5d13.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/emporio-do-acai-betania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzie Brownie",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704050911_b33480a3bf8a4431b64ffe2794321d1c.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzie-brownie-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Suco Saúde",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_sucosaude.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/suco-saude-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lady Donuts",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280939_844fb906-6cd5-4734-a6fe-8e8f4428c8fc.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lady-donuts-ponta-negra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tá Massa (Caseira e Fresquinha)",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711182229_ef1ac0fe-e2dc-4b0c-a288-79a4dfdc75d4.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ta-massa-caseira-e-fresquinha-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria D'Hora - Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231143_d558c2cb-1766-4c8b-ae3f-26656cfb20d9.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-dhora---delivery-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Papaléguas Cachoeirinha - Baré Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/papaleguas lo_PAPAL_RINHA.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/papaleguas-cachoeirinha---bare-burguer-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Flash Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/img_20160725__flash_iver01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/flash-delivery-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Wtf Burger Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/wtf_wtfbu_rchef.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/wtf-burger-chef-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tambaqui Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131510_TAMBA_IVERY.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tambaqui-delivery-distrito-industrial-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Peixaria Laranjeiras Beer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_peixa_sbeer.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/peixaria-laranjeiras-beer-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Café do Goiano",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151740_c6955de5-20eb-4efc-9ba8-aeaf42a11324.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cafe-do-goiano-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Churrascaria e Peixaria do Gilmar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221015_f5632c27-55a6-4338-ba57-415978d22702.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/churrascaria-e-peixaria-do-gilmar-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Garage Burger - Vieiralves",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/[logotipo_garageburger.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/garage-burger---vieiralves-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rota da Sopa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301620_51f27380-c1aa-4322-a387-c2b951e64ad7.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/rota-da-sopa-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vila Pizza'S E Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/vila_vilap_rante.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/vila-pizzas-e-restaurante-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paradiso bistro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181157_ae902473-f550-4db7-ad9c-33bf1f907f0e.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/paradiso-bistro-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Duo Sushibar E Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo duo_duosu_keria.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/duo-sushibar-e-temakeria-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Buscapé Rangos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251334_851a26b5-d54b-4174-b972-3ee4fce420f0.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/buscape-rangos-coroado",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bamboo Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bambo_keria.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bamboo-temakeria-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SABORES DO CHEF PICANHARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sabores do ch_sabor_oche01.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sabores-do-chef-picanharia-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Saladá",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291602_defe38d9-acd8-44b8-9d5c-95aed4c83ffc.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/salada-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ville Gourmet Crepes e Tal",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301715_aa760e4b-68a5-46a4-8e31-ca871c605fb4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ville-gourmet-crepes-e-tal-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Waldemar Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo waldemar_walde_nches.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/waldemar-lanches-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fest Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fast_festsushi.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/fest-sushi-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Dos Amigos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221447_SUSHI_MIGOS.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-dos-amigos-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lugs Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/arte ifood_lugsmanaus.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lugs-manaus-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Café Tropical",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281556_b3fcc971-4a96-471e-90c5-70f49e20dcfd.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cafe-tropical-sao-francisco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CIA DO ESPETTO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bc726e2a-c590-4964-bdec-3b75f670f9af/201711291740_logoc.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cia-do-espetto-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mineiro Delivery - Praça 14 De Janeiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231721_6db486949cb94b569fbb6aaec7b63f93.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mineiro-delivery---praca-14-de-janeiro-praca-14-de-janeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Shangai Restaurante Chinês",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191119_dd9ba539-2637-40c9-935f-dde77a7f2297.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/shangai-restaurante-chines-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Espeto Misto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120821_4c6c3f5e-bca7-4e96-9d35-d677811720ed.png",
+		"priceRange": "$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/espeto-misto-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Franco´S Pizza E Subs",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/francos pizza_franc_esubs.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/francos-pizza-e-subs-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jj Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jj_jjdelivery.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/jj-delivery-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DOUG LANCHE E PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201120_65f07628-6301-4c79-8c9b-0c254a583c43.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/doug-lanche-e-pizzaria-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Di Caputti Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/novo logo di__dicap_alves.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/di-caputti-pizzaria-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Na Lenha Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/na lenha pizz_NALEN_ZARIA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/na-lenha-pizzaria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Doggers e Burguers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161757_3a2b175b-e7bf-49d3-aae5-ca8f44ff8383.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/doggers-e-burguers-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mineiro Delivery Flores",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311621_f7708969-5a8b-40f3-bce9-1843c51ceaa9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mineiro-delivery-flores-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "El Dino",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704091952_e9f974d511854f27bd0be44d4d2bb160.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/el-dino-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina La Farruca",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051749_65f85242-46ec-4649-865d-2cb91da35fe6.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/cantina-la-farruca-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Klebs Truck - Cozinha Regional",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101423_0cbd34f5-ae5a-4cca-b70e-d31a63f53917.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/klebs-truck---cozinha-regional-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TBF Gourmet - Burger na Brasa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707270803_23912bb7-95ed-40dd-97cc-a787098def94.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tbf-gourmet---burger-na-brasa-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delícias da Madame",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281427_4279c331-21d6-454c-b521-6baa977290af.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delicias-da-madame-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Esfiharia e Pizzaria Papa-Leguas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130954_ace04c8a-5ce4-4e72-adc3-cc18ec0a06b9.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/esfiharia-e-pizzaria-papa-leguas-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Street Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111554_9a657957-af83-41ce-9b04-424fd1514a6e.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/street-burger-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Old Cauldron",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701191228_OLDCALDRON.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/old-cauldron-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DUDIS PIZZAS E LANCHES",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101053_869d2b34-24a3-4149-a065-a5d3724d3f1e.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dudis-pizzas-e-lanches-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Levita Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704290706_33ee7e69-372e-4baf-a66f-b168518dce5b.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/levita-pizzaria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Stop Lanche Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/stop lanche_stopl_press.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/stop-lanche-express-gloria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "WEST SUSHI",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291149_f24a9b08-ad7d-4dfb-b28f-b93e9b73ee6d.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/west-sushi-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Távola Redonda Pizzaria e Massas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tavola_tavol_assas.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tavola-redonda-pizzaria-e-massas-sao-francisco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HAUTE CUISINE DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181521_HAUTE_IVERY.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/haute-cuisine-delivery-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa da Esfiha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310936_1424b9f3-d838-4e06-9c91-3dacceabe240.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/casa-da-esfiha-colonia-terra-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza à Bessa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061515_a3e71559-93d1-4a20-9a58-64979a257ac4.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-a-bessa-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ponta Negra Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ponta ne_ponta_izzas.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/ponta-negra-pizzas-nova-esperanca",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vitrine Amazonica Gourmet Regional",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_vitri_ional.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/vitrine-amazonica-gourmet-regional-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Soparia Papa-Sopa Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709241052_ebb217c0-a115-49a8-8ce4-b0bc882a389a.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/soparia-papa-sopa-delivery-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Grelhados do Ceará",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191036_33d8df7e-eeac-43eb-8c55-b794ffb05863.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/grelhados-do-ceara-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "O Remador",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701110853_OREMADOR.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/o-remador-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Beef Burguer Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_beefb_rante.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/beef-burguer-gourmet-japiim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CASTELO LANCHONETE E PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090722_7edefc79-d2b8-4db1-af05-ccbd23c04ba3.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/castelo-lanchonete-e-pizzaria-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Barreto Restaurante E Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171449_DOMBA_GRILL.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dom-barreto-restaurante-e-grill-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gula-Gula Lanchonete E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702021746_GULAG_ZARI01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/gula-gula-lanchonete-e-pizzaria-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Splash Pizza - Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-splash_splas_entro.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/splash-pizza---centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "WAKU SESE AMAZÔNIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706272325_02bd8baf-a6ce-49b3-92c5-5a10f156b46d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/waku-sese-amazonia-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Topmix Salada E Grelhado.",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo sala_topmi_lhado.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/topmix-salada-e-grelhado-praca-14-de-janeiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway - Manaus",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291012_bafbf05e-92b9-4b30-b9d5-0787382e7cec.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/subway---manaus-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mr. Pizzo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111646_MRPIZZO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/mr-pizzo-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delicious Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121336_defe91a3-711c-4505-bbd5-bbd7d720f917.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delicious-lanches-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche E Pizzaria Opções",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221641_e8dd174a-2349-4db2-82df-d4e889f734e8.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-e-pizzaria-opcoes-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kiñapira - Delícias Amazônicas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251412_48ad0a2e-d291-4ca3-a104-1983a997a407.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/kinapira---delicias-amazonicas-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fast Temaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fast temaki l_fastemaki.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/fast-temaki-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei do PF Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061540_553b6a7e-0370-4f01-9fe8-dccd104f5821.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/rei-do-pf-restaurante-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SABORES DO LIBANO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141043_f0ac41d2-7474-4af7-b0ef-b9bcb317bd1c.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sabores-do-libano-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Soho Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702071449_SOHOLOUNGE.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/soho-lounge-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "BOBYS LANCHE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281214_8e59b9a3-6288-4692-b345-0af1ad4e1c69.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bobys-lanche-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Japa Mix Temakeria - Dom Pedro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712171937_4e319740-0921-4dab-a7d2-6c2c0f1692fa.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/japa-mix-temakeria---dom-pedro-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Splash Pizzaria V8",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo splash.p_splas_zzav8.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/splash-pizzaria-v8-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete e Restaurante Do Edy",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171027_a22fab6e-b2ff-4ab6-9629-fca0df34d135.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-e-restaurante-do-edy-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Cone das Torres",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705100026_140364c1-893e-4c47-9312-37d008d0487d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-cone-das-torres-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Japa Food Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7801/japa food ifood.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/japa-food-temakeria-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "One Burger and Beer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041338_6d018f9c-fba8-436d-bf16-e5f20d6e6b35.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/one-burger-and-beer-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oriental Sushi Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706181934_82ffc84f-097f-42d2-9d7d-d00a58d0f276.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/oriental-sushi-bar-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fino Sabor Cearense",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_finos_rense.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/fino-sabor-cearense-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete Sortidinho 2",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sortidinho_lanch_inho2.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-sortidinho-2-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Splash Pizzaria - Ponta Negra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/splash logo_SPLAS_NEGRA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/splash-pizzaria---ponta-negra-ponta-negra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Super Guloso Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201452_768aacd8-d5d0-4c17-af87-5e4f35591f7a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/super-guloso-delivery-raiz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Taykô Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tayko_TAYKO_RANTE.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tayko-restaurante-planalto",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete E Pizzaria Do Camarão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031123_LANCH_MARAO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-e-pizzaria-do-camarao-lirio-do-vale",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Loucos Por Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703150856_LOUCO_PIZZ02.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/loucos-por-pizza-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oh My Fries and burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704091743_2ee6a80e6ec340f78919776875003f9c.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/oh-my-fries-and-burguer-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Niguiri Sushi E Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo niguiri_nigui_keria.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/niguiri-sushi-e-temakeria-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Carlluccio Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702021918_CARLLUCCIOP.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/carlluccio-pizzaria-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Baron Picanharia e Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261426_0caa6f63-5075-49e8-860a-cad99ad6e740.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/baron-picanharia-e-temakeria-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jorys Restaurante Lanches e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Jor_JORYS_ICOES.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/jorys-restaurante-lanches-e-pizzaria-japiim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "O Lenhador",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021204_98004d39-2e19-4c42-8524-d60a84533ae2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/o-lenhador-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Ponta Negra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702042242_SUSHI_NEGRA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-ponta-negra-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Picanha MANAUS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281507_90001d3d-dcc3-462b-b211-67a1cf3fb681.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/picanha-manaus-novo-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Nihon Sushi Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231234_c2cfb597-847b-49de-a26c-509bf8b4eb1c.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/nihon-sushi-bar-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Filho Da Fruta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo filho da_filhodafru01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/filho-da-fruta-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Amazon Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_amazonsushi.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/amazon-sushi-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delivery Da Tina",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703071711_DELIV_ATINA.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delivery-da-tina-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Axerito Frango Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091041_2a14a5d9-db53-46d3-80a0-13aaf5355282.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/axerito-frango-express-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bem Gostoso",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bemgostoso_bemgostoso.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bem-gostoso-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SUSHI INKAZA DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707130919_0b8a6a8c-a91a-4495-a927-f3732a488b31.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-inkaza-delivery-zumbi-dos-palmares",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SUPER COXINHA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240946_3073c633-ffe3-423f-b1d7-dfcf2154f45d.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/super-coxinha-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gusta Food Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021121_0860b022-1fe3-43f9-b4ac-884273b19403.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/gusta-food-pizzaria-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria E Lanchonete Da Praça",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lanchonete da_pizza_prac01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-e-lanchonete-da-praca-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Japa Mix Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702140945_JAPAM_KERIA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/japa-mix-temakeria-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Aburgueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - a burg_aburgueria.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/aburgueria-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Cebolinha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301435_PIZZA_LINHA.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-cebolinha-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Splash Pizza - Dom Pedro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-splash_SPLAS_PEDRO.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/splash-pizza---dom-pedro-dom-pedro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sanduba Mix Lanche e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091802_91271a7c-9051-4f22-be03-d9ae540a64a2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sanduba-mix-lanche-e-pizzaria-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Via Lanche",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301047_9e20f220-e05a-4552-8ce7-8e5b92ac8dc9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/via-lanche-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Comida Caseira Da Vó",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705172212_f50156c7-fbd9-4247-9415-d29f5d2995d6.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/comida-caseira-da-vo-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Faceburg",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100944_FACEBURG.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/faceburg-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Edmilson Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo edmilson_edmil_nches.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/edmilson-lanches-armando-mendes",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sabor do Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241034_cdb51b49-536d-4e4e-82ac-02d22be86d4a.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sabor-do-sushi-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete e Pizzaria Tudo De Bom",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141339_07ec8efb-030c-4c29-ab8e-b3c49cb8e1bc.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-e-pizzaria-tudo-de-bom-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Japa Beer Sushi Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Jap_JAPABEER.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/japa-beer-sushi-bar-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tambaqui De Banda",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702041512_TAMBAQUIDE.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tambaqui-de-banda-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ALTAS HORAS LANCHES PIZZARIA SOPARIA E G",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_lanch_hora01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/altas-horas-lanches-pizzaria-soparia-e-g-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Júlia Sushi Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271143_e920281c-c6ae-4f3b-8544-56f88f7daccd.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/julia-sushi-delivery-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Gourmet Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231310_bc7d6074-c8ce-4a6e-a85b-fd684a18c3ed.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-gourmet-express-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Picanharia Fino Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030923_7e639036-accd-463b-a50b-3392167e257c.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/picanharia-fino-sabor-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tribo Saúde & Low Carb",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181910_5f6bf997-f9b4-40b6-9dac-b56b12d36d2f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tribo-saude--low-carb-redencao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bubuia Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702171816_BUBUI_RANTE.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bubuia-restaurante-distrito-industrial-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Angelim Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/angelim deliv_angel_ivery.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/angelim-delivery-betania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Zanmai Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7911/zanmai ifood.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/zanmai-sushi-chapada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Oliver Burger Grill 88",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201303_d591e699-9bfe-4cea-a328-bbdf328e107b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/oliver-burger-grill-88-sao-jose-operario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Komaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030927_c12eeb8c-5615-4a51-8717-6f4bdf06ff9f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/komaki-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Ao Quadrado",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Pizza ao Quad_PIZZA_DRADO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizza-ao-quadrado-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lucas Pizzaria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251505_c9f284e0-9718-42fb-9a43-a72394a85cd9.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lucas-pizzaria-delivery-sao-jose-operario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Peixaria Poronga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191255_c9ed6e2d-651c-44ea-ba7a-02f1384c773d.png",
+		"priceRange": "$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/peixaria-poronga-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Quero Mais",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231632_1067c9b6-efce-4c8a-8b0e-402590a8bf66.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-quero-mais-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sabores Do Ceará",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702041056_SABOR_CEARA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sabores-do-ceara-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pitukus Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061838_87f36089-4c45-420e-ae2e-f9449fcd742d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pitukus-pizzaria-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Felice Pizzeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704070848_76a39fcb83794c30bb7ba7b9c755807e.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/felice-pizzeria-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casinha Amarela Pizzaria e Lanche",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011343_9f916627-2863-4777-a2a1-1d167483832d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/casinha-amarela-pizzaria-e-lanche-sao-jose-operario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Calçada Alta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241655_8b64a23b-0f6c-4bc6-b7b0-8d7e06adc610.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Portuguesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/calcada-alta-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rfortes Refeições",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311359_bbe1f6fa-355e-41fc-b6de-515da7b25995.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/rfortes-refeicoes-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Let's Go Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091142_779afc67-5dc8-4a1d-8865-328f32886586.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lets-go-delivery-compensa",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kyoto Sushi House",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210822_a75aa1fd-f972-4a0b-bf34-81ea93f41ec3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/kyoto-sushi-house-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delivery Tudo Assado",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707220945_1687886e-9bc5-4e4b-96f2-780fc1b77683.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delivery-tudo-assado-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Latorre",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191429_6ab61dc0-0a29-4423-a8a9-b78b28aea60a.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-latorre-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Manuella",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280847_f553ad68-c713-4f28-907a-942b1e4e7752.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-manuella-santa-etelvina",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Naoca Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Naoca PV_NAOCA_RANTE.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/naoca-restaurante-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Zen Sushi Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/f_zensushibar.bmp",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/zen-sushi-bar-cachoeirinha",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche vai garotão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230922_b44256bd-b06b-40be-b169-63a9e14567ce.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-vai-garotao-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Meu Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151209_cfe7a82a-99d5-4bff-8bb2-b2222feba6d9.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-meu-sabor-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PASTA DI NONNO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031008_705fc037-493a-439e-abdc-a2d9be656b80.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pasta-di-nonno-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante e Lanchonete Queiroz",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161215_8421263f-e728-4c4d-b011-dadabf9d6a23.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/restaurante-e-lanchonete-queiroz-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TAMBAFAST",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051552_bf97dda5-31a2-412a-ae9a-0abaa14a0244.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/tambafast-planalto",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bodega Da Vila",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bodega_bodegadavila.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bodega-da-vila-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Speto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sushi sp_sushispeto.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-speto-distrito-industrial-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete E Pizzaria Altas Horas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo altas ho_lanch_hora02.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-e-pizzaria-altas-horas-sao-jorge",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Delivery do Naldinho",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091422_a22af942-6d06-4792-9565-c3e8db0c0f42.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delivery-do-naldinho-santo-antonio",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Sabor Caseiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121043_f1388951-a77f-456a-a8f9-1737721238d3.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/restaurante-sabor-caseiro-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fast Picanha Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fast picanhar_pican_anaus.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/fast-picanha-delivery-paz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Petisco Di Buteco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705061333_41c99ea8-33ab-41aa-aa21-70188b679026.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/petisco-di-buteco-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Cantinho Manauara",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301434_RESTA_AUARA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/restaurante-cantinho-manauara-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hayato Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_hayatosushi.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/hayato-sushi-monte-das-oliveiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gosto Caseiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141238_0f90054b-7b5a-4ee3-a028-43575efc9334.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/gosto-caseiro-taruma",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "AMIGO BRASIL FOOD",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011358_7f8ef9dd-5bef-45ef-97cb-57c4eddd9b5e.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/amigo-brasil-food-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brut`s Pizzadog",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261117_0c26435e-d57a-4333-b628-bc59e1cb7f13.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/bruts-pizzadog-ponta-negra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa da Picanha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705240915_84179211-6243-458a-bcb5-1c440bc54325.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/casa-da-picanha-alvorada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DELÍCIAS DA ROÇA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041027_b9850060-c289-4022-845c-fab585e1600a.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/delicias-da-roca-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Di Fratello Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7783/di fratello logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/di-fratello-pizzaria-raiz",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dieta Do Chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/dieta-do-chef-parque-10-de-novembro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Embaixador Da Picanha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_embai_canha.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/embaixador-da-picanha-sao-jose-operario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Família Labib´s",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271203_20671a5d-83a7-44b5-83f7-b29b8952d700.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/familia-labibs-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Imperial Pub",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo imperial_imperialpub.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/imperial-pub-aleixo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "LIBORIO'S Food Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240747_35e2cf2e-ad01-476f-b3df-95f5c0ac91ad.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/liborios-food-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche da Tatha",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110733_3ec4bdd6-0b3f-472c-a7d4-899dab919114.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-da-tatha-nossa-senhora-das-gracas",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanche do Bonitão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110947_940583f9-dec2-4f3a-a322-062347df5c6d.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanche-do-bonitao-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lanchonete e Pizzaria Du Pará",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221451_e3aeb515-dd8d-4176-a7b9-dd96bea2e516.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-e-pizzaria-du-para-petropolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Non Solo Spaghetti",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702170942_NONSO_HETTI.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/non-solo-spaghetti-adrianopolis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Phd Da Culinaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300832_c5bb5cfc-3a47-4d28-8b1a-58131448c594.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/phd-da-culinaria-sao-francisco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Piccolino Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7838/piccolino ifood.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/piccolino-delivery-coroado",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Da Penélope",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211338_c208d37e-99d5-4f15-9c91-7dd9645075a7.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/pizzaria-da-penelope-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Reis Da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701281117_REISDAPIZZ01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/reis-da-pizza-zumbi-dos-palmares",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Lene",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708240932_c7206520-9d21-4a10-8e3b-12777fbb91d5.png",
+		"priceRange": "$",
+		"servesCuisine": "Vegetariana           ",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/restaurante-lene-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sabor da Vida Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sabor-da-vida-delivery-betania",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Samurai Sushibar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081025_SAMUR_HIBA01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/samurai-sushibar-planalto",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Splash Pizzaria - Via Norte",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_splas_norte.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/splash-pizzaria---via-norte-monte-das-oliveiras",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway - Vieiralves",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/subway---vieiralves-japiim",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Mania Japonesa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091157_e053c1d1-7b8d-42ea-9caa-25b64884a2c4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/sushi-mania-japonesa-colonia-terra-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Two Guys Food Truck",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_twogu_truck.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/two-guys-food-truck-flores",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "lanchonete casa do chef",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705202107_d584b3f9-db9d-46e8-87ec-e5f77a61cbb4.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/manaus-am/lanchonete-casa-do-chef-cidade-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "MANAUS",
+			"addressRegion": "AM",
+			"addressCountry": "BR"
+		}
+	}
+]

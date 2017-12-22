@@ -1,0 +1,207 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boutique do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301731_027d0aa3-1d9d-4fca-b616-5226adb68bdf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/boutique-do-lanche-jardim-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meu Chef Lanches - Sarandi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211058_d5096770-354c-4196-b780-86a0a1e2e8a9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/meu-chef-lanches---sarandi-jardim-independencia-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ks Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041403_d3cf7d1f-9ab9-49a8-ba75-c70aced817eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/ks-lanches-jardim-nova-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer dos Reis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281056_3aa0cccc-02a6-432c-bf3d-6cc2318c2130.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/burguer-dos-reis-novo-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches No Limite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051649_97f20188-5bd3-4b6b-ac24-4f24e0eb88a9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/lanches-no-limite-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Kazzanova",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201320_7d2ef4a2-b2ef-43a2-aa7c-5ce79bff8ac6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/restaurante-kazzanova-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MM Esfiharia e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050912_51d421d6-f8ee-484b-91d8-355caefc047f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/mm-esfiharia-e-pizzaria-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamuthy Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071325_19330602-9c05-4485-a2f9-9bc17741b60b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/mamuthy-lanches-jardim-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kedog Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061110_5e5a73cf-cad1-41ad-acf4-d811c32b4ba1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/kedog-lanches-conjunto-floresta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snack´S Esfiha E Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111845_f2031d77-57b5-4a7f-9d8e-464fd2882f25.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/snacks-esfiha-e-pizza-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mariano´s Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140904_43b49873-7547-451f-a509-331c9de61caf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/marianos-pizzaria-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Desfrutta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo defrutta_desfrutta.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/desfrutta-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gato Preto Porções e  Costelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151012_d6884745-4b20-4279-bfd3-54981648d585.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sarandi-pr/gato-preto-porcoes-e--costelaria-jardim-nova-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SARANDI",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

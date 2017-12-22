@@ -1,0 +1,31 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundial Cervejaria e Gastronomia Inter.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211553_2a6d2c73-def2-4401-befb-d60c4c2638b9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araxa-mg/mundial-cervejaria-e-gastronomia-inter-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAXA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wok Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060919_6a2df470-3d00-4a0a-a7c6-d95de0204048.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/araxa-mg/wok-delivery-jardim-natalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAXA",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

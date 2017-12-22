@@ -1,0 +1,59 @@
+[  {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandubaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311431_39862323-58d7-4a90-a853-bd2548ad0e04.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/marechal-deodoro-al/sandubaria-massagueira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARECHAL DEODORO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Burguer Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709260848_b8503d5e-d88a-4f79-8cbf-c052b450d98d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/marechal-deodoro-al/big-burguer-pizzaria-praia-do-frances",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARECHAL DEODORO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Luar do Frances",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011445_e6a22385-be5b-497b-af11-7f487da9d7c5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/marechal-deodoro-al/restaurante-luar-do-frances-massagueira",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARECHAL DEODORO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }
+   ,
+    {
+    "@context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Fellini",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121151_12245a76-da3b-48f2-bc90-4458427b8ad8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/marechal-deodoro-al/restaurante-fellini-barro-vermelho",
+        "address": {"addresstype": "PostalAddress",
+            "addressLocality": "MARECHAL DEODORO",
+            "addressRegion": "AL",
+            "addressCountry": "BR"
+            }
+    }]

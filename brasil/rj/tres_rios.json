@@ -1,0 +1,31 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Doc - Três Rios",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza do_pizza_srios.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/tres-rios-rj/pizza-doc---tres-rios-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TRES RIOS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Temaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704191636_6c96ba89-4e69-4500-a76a-fd633a300876.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/tres-rios-rj/japa-temaki-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TRES RIOS",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

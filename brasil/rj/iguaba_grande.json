@@ -1,0 +1,47 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches da Pesada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031313_8310db9d-c893-488c-88ec-3e41dbaa749a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/iguaba-grande-rj/lanches-da-pesada-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IGUABA GRANDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leo Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271407_f9fcf63a-4822-428e-866f-0fe522980141.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/iguaba-grande-rj/leo-mania-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IGUABA GRANDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "House Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031427_b1120cff-f277-449f-8cd9-7f2111a1ac17.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/iguaba-grande-rj/house-burgers-capivara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IGUABA GRANDE",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nativa Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cbdf743e5cb5a_NATIV_ONETE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-mateus-es/nativa-lanchonete-guriri-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO MATEUS",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }]

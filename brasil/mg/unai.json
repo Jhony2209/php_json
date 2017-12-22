@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UNA GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291404_4db37802-d361-488b-b819-89c146277d82.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/unai-mg/una-grill-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UNAI",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

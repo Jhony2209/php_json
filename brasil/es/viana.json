@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria Fino Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141935_6322f386-354a-40d3-b7fa-4ba030db59af.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/viana-es/sorveteria-fino-sabor-marcilio-de-noronha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIANA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Daniel lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201127_9cd1cd19-4a83-4777-a528-d6aa3fa4436a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/viana-es/daniel-lanches-marcilio-de-noronha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIANA",
+            "addressRegion": "ES",
+            "addressCountry": "BR"
+            }
+    }]

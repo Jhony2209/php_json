@@ -1,0 +1,255 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza- Barra Mansa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191155_722ee6db-b1b0-41cf-863e-6419e633c585.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/dominos-pizza--barra-mansa-ano-bom",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Barra Mansa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200021_f8c3b79a-1791-48e7-b657-2f1c2c7ab288.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/brasileirinho-delivery-barra-mansa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu José Pizzaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010959_b97c2f82-200a-4d41-8ac3-8374406326db.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/seu-jose-pizzaria-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Crunchy Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081033_PIZZA_ERYBM.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/pizza-crunchy-delivery-ano-bom",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tunico Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tunico_tunic_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/tunico-lanches-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Izu Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121033_f760ad4b41974ab4be106a47daad6335.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/izu-oriental-food-ano-bom",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031041_f4e4291a-fa15-4b23-a46d-b087a47ece23.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/rei-do-lanche-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Família Maluca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710122221_6a24fbde-dc54-4380-9a7c-e50912615501.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/restaurante-familia-maluca-sao-carlos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moleka lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_MOLEKALANHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/moleka-lanches-colonia-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_kingpotato.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/king-potato-jardim-guanabara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NAÇÃO CARIOCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710022017_a3c5a90e-d07f-4ed3-9255-26d579d87623.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/nacao-carioca-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kings Burguer e Culinária Italiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241418_d3aa0dd5-e364-4d7b-81d0-dad4f519b7d4.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/kings-burguer-e-culinaria-italiana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cordel Tapiocaria & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_corde_caria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/cordel-tapiocaria--pizzaria-ano-bom",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D´Itália Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701211020_DITAL_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/ditalia-pizzaria-delivery-vila-orlandelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXPERIMENTA LANCHES - BARRA MANSA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Experime_EXPER_MANSA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/experimenta-lanches---barra-mansa-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sal Da Terra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_resta_terr02.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barra-mansa-rj/restaurante-sal-da-terra-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA MANSA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

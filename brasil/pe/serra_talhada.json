@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Serra China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280729_5fe5b425-6cdb-46d1-a123-ce4e29d510e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/serra-talhada-pe/serra-china-nossa-senhora-da-penha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SERRA TALHADA",
+            "addressRegion": "PE",
+            "addressCountry": "BR"
+            }
+    }]

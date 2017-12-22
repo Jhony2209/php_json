@@ -1,0 +1,223 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fominha Lanches E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090733_781fa2c2-ede3-49df-acb2-7bfdc336e9a3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/fominha-lanches-e-cia-jardim-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GASTRÔ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251057_b108b260-8c7a-4e5c-af63-b5a338f93b88.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/gastro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MailBurger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191027_a1c3965a-a5ac-465e-b884-f1564fedc56b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/mailburger-country-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedaçaria - Maior e Melhor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100958_358ab459-01d2-4032-b03e-95cd755c2484.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/pedacaria---maior-e-melhor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria M & M Paradiso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011018_1b5f2699-f694-4ca2-a843-99ef79c969ba.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/pizzaria-m--m-paradiso-jardim-quisisana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANSHI SUSHI-BAR E JAPANESE FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071318_390c6d41-ebe3-4ff8-b5bb-8d9635c2f054.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/sanshi-sushi-bar-e-japanese-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "iFOME BURGUER AND SHAKES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201019_24e1927b-9c51-4876-a3fd-75b8c98ffdca.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/ifome-burguer-and-shakes-country-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YPeixes Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Ypeixes_YPEIX_RANTE.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/ypeixes-restaurante-jardim-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogueria Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241337_b1190889-8f24-44a9-ae95-0803027c704f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/dogueria-brasil-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X-Calota Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121611_0ed5ba78-dc75-4550-9e79-20af9f64d32a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/x-calota-bar-e-restaurante-jardim-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria da Mama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711262308_197deb00-1b7b-460f-8e99-9f4065bddc67.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/pizzaria-da-mama-jardim-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sakura Pizzaria, Lanchonete e Doçaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261038_c9a6a5e4-e988-4dc6-a455-5c78deb99bb4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/sakura-pizzaria-lanchonete-e-docaria-vila-togni",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob Pizza Quadrada & Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701091717_BOBPI_PACAI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/bob-pizza-quadrada--acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Katarino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702261820_RESTA_ARINO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pocos-de-caldas-mg/restaurante-katarino-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POCOS DE CALDAS",
+            "addressRegion": "MG",
+            "addressCountry": "BR"
+            }
+    }]

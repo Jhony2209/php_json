@@ -1,0 +1,31 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway- Guarabira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341_1fa996dc-14d0-4c3c-9428-0c773c6a55bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guarabira-pb/subway--guarabira-centro",
+        "address": {
+            "addrestype": "PostalAddress",
+            "addressLocality": "GUARABIRA",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Cantinho Doce",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241026_fcbd17f9-90b8-4405-a0ba-3c1a5250fd9a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guarabira-pb/lanchonete-cantinho-doce-esplanada",
+        "address": {
+            "addrestype": "PostalAddress",
+            "addressLocality": "GUARABIRA",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }]

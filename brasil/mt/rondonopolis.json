@@ -1,0 +1,77 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pão Doce Pão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071853_71dddea4-9e4f-46cb-93e9-3d4a9fd8ea6c.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/rondonopolis-mt/pao-doce-pao-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "RONDONOPOLIS",
+			"addressRegion": "MT",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Recanto de minas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180957_7c052a1e-d32a-47d6-8237-ed804724ca09.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/rondonopolis-mt/recanto-de-minas-jardim-atlantico",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "RONDONOPOLIS",
+			"addressRegion": "MT",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Bella Massa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171013_0aec37bd-50cd-45fe-8e91-7a2b648e5a01.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/rondonopolis-mt/pizzaria-bella-massa-vila-aurora-i",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "RONDONOPOLIS",
+			"addressRegion": "MT",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa Do Pastel",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161229_CASADOPAST01.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/rondonopolis-mt/casa-do-pastel-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "RONDONOPOLIS",
+			"addressRegion": "MT",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria - Roberto O Big Pizzaiolo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704070713_c9ed155bb9694e96afd3514d5531fa51.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/rondonopolis-mt/pizzaria---roberto-o-big-pizzaiolo-coophalis",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "RONDONOPOLIS",
+			"addressRegion": "MT",
+			"addressCountry": "BR"
+		}
+	}
+]

@@ -1,0 +1,2013 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211441_44cd154f-f6a5-4cea-a51a-2ee373343c05.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/spoleto-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí do Devid",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210955_a32a55ef-4dd3-41ab-9bae-74c03039d21d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/acai-do-devid-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O ASSADÃO RESTAURANTE E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010902_f723f8c4-a1dc-4efd-b22d-5d49886723ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/o-assadao-restaurante-e-pizzaria-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ofisu Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161152_8a1f070d-16dd-47d3-af06-c9a38afc2469.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/ofisu-temakeria-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Brasília",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090715_e3f81e30-a3b3-47d1-b664-2a477959007f.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-brasilia-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lampião Aceso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/af282f943c740_LAMPIAOACESO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/lampiao-aceso-tres-irmas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Good China Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca goo_goodchinamix.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/good-china-mix-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Do Galeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza do_resta_aleto.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-e-pizzaria-do-galeto-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria ÔSabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710081614_67b501c1-33f8-43a4-8dc5-ce4f5118e7b0.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/marmitaria-osabor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Taiwan - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_china_rand02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/china-taiwan---campina-grande-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE LAYCHINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041625_aaa7e029-a80b-4b4d-8b43-8270c692f3a6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-laychina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201042_ESPACOCAFE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/espaco-cafe-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor da Serra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180835_6c5ae609-f7e7-49d9-84bc-c8f19a8d310e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/sabor-da-serra-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Matutinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca A M_AMAMUTINHA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/a-matutinha-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- mega ac_megaacai.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/mega-acai-itarare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiaky Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702171602_SUSHI_LFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/sushiaky-oriental-food-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bebelu- Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181637_9ac17d7c-6d48-4c63-b6be-9382c648b3e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/bebelu--campina-grande-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Baixinho Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca o B_OBAIX_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/o-baixinho-restaurante-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Lindao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo- Restaur_RESTA_INDAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-e-pizzaria-lindao-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOCA DO CUSCUZ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190854_3131ce5c-caeb-455a-9142-4fd6e75f6821.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/toca-do-cuscuz-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Brasileirissimo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca bra_resta_ssim02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-brasileirissimo-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panificadora Nasci",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261332_961aeb64-096e-4700-8415-7e9f2682eeb3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/panificadora-nasci-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Finna Culinária",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo- Restaur_RESTA_NARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-finna-culinaria-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garfo & Faca Refeicões",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bdef072e-9639-4eb1-94a4-37085cddb1d0/201711290924_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/garfo--faca-refeicoes-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giraffas - Extra Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200320_0c873e2b-e579-47f9-99d5-59a5d89665d2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/giraffas---extra-campina-grande-jose-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Galiotto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_casad_rant02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/casa-galiotto-lauritzen",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Do Cuscuz E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bar do cuscuz_bardo_rant01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/bar-do-cuscuz-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Anastácia Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tiaan_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/tia-anastacia-refeicoes-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290952_41cdcf3b-6c5e-4e0d-888d-fc9c69a04d12.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/subway-campina-grande-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Avenida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041430_cf418b8c-85ee-4f94-a0ee-920ebaddc77f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-avenida-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ceceu Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261533_cd80506a-7a34-4380-a9b1-cbaff99695bf.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/ceceu-culinaria-oriental-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Braga Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110759_9afab425-6f9a-418d-a56f-d20effcf3c10.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/braga-acai-serrotao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aldo Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGOMARCA ALD_ALDOR_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/aldo-restaurante-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'CHER DELICIOUS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141447_9d97ab9e-1038-4d6c-85de-76db6a54e04f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/dcher-delicious-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091202_0894df4e-ae6b-47c2-960b-8085f827ebc5.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/tempero-caseiro-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marcelo Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200935_07be86e7-975f-4112-b218-633191ffba3b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/marcelo-delivery-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Taki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281655_70ec054b-edcd-4971-8414-93b9b8ad3cf2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/china-taki-serrotao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buongustaio - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- buongus_buong_rande.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/buongustaio---campina-grande-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191110_b738e263-ab79-45c8-adba-dcde9d4493eb.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/dominos-pizza---campina-grande-jardim-tavares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CLIC BEBIDAS  E PETISCOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111600_427a5100-af93-4eed-8f9c-5b0c23094fc2.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/clic-bebidas--e-petiscos-quarenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Classic Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061504_07330e84-9dd1-411c-b52c-febf81086d32.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/classic-burguer-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperial Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240831_ea83a660-735c-40ef-bfb6-632a07d8adde.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/imperial-pizza-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051841_06c4e625-a9ae-4625-b019-db7a9296fd65.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/jet-pizza-serrotao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Lopes Dias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281429_2b90a112-2bb1-402c-8bc3-5c59b1c76d8d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/lanchonete-lopes-dias-jardim-paulistano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Madame Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290952_51fee528-8912-472d-a64b-d53e20f64dd0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/madame-coxinha-jose-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MegaPizza do Bigodão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041854_61313999-5267-403e-91a4-5ac09ea8cf8b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/megapizza-do-bigodao-sandra-cavalcante",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O PAPADOG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220911_542bcb5d-4907-430a-bb5c-bdb5ee1e3392.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/o-papadog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O assadão grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051713_c3bea4a1-2e19-44a1-b9e9-38de36cd4f5d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/o-assadao-grill-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA CLUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711120535_9a10fd72-bdb5-4435-922c-85e46bf84074.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizza-club-sandra-cavalcante",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza do Valente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141125_87d1b48a-c913-4dcb-9e3e-1a7461425ba0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizza-do-valente-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Sertaneja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171022_b752c74f-7c19-454d-9fdb-9ff0879ebf9d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-sertaneja-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Pimenta verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090954_b670a5a4-0fb1-4abb-aa79-eec893bb30bf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-pimenta-verde-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Splach ploc",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240842_2574c4f4-b7b2-4007-8b96-ea8d7c799bbe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/splach-ploc-jardim-paulistano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império do açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191932_a609ad2e-15c1-4049-9cdf-2d0a145cf351.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/imperio-do-acai-bodocongo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Peixe Frito Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180729_88a242cd-9638-48e3-942f-858c449dc864.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/peixe-frito-delivery-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SKIN TEMAKERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291515_39de9055-efff-4f96-a63b-96ad551403db.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/skin-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021421_78949db7-6cdc-4a14-acd3-a60023019c62.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/acai-burguer-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Torre's - Pizza | Burguer | Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/375daeff-ed8b-4769-858c-9c0b38f85215/201712011124_logot.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/torres---pizza--burguer--grill-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kone De Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca kon_konedepizza.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/kone-de-pizza-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gourmecinda Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121257_GOURM_TARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/gourmecinda-fit-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA DO TAVARES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071432_3154c356-1341-4caf-991f-da532e885f89.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizza-do-tavares-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Daikon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/loomarca daik_daikon.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/daikon-prata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petisq Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211851_3c6162f2-4518-48a8-a6d9-a7291236e08f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/petisq-delivery-bodocongo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchão & Cia - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lanchão_LANCHÃOECIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/lanchao--cia---campina-grande-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suc Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- sucacai_sucacai.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/suc-acai-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moires - Hambúrguer Rústico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301030_d2bdd32e-4bce-42ae-96ce-cea3a12c3c13.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/moires---hamburguer-rustico-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Pastel Do Catolé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-_kipas_atole.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/ki-pastel-do-catole-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Expresso 63",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251509_1baec29e-a9b7-4054-bd45-639b5609b787.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/acai-expresso-63-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Otarquia Restaurante & Soparia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200817_cbfd0baf-a6c8-41cf-bf7a-13c89a5747d9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/otarquia-restaurante--soparia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paulista Fast Pizza - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/9cd74c5f-240e_RODIZ_LISTA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/paulista-fast-pizza---campina-grande-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kibom Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181139_KIBOM_ARRIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/kibom-pizzaria-nova-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The H Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_thehburger.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/the-h-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point da Tapioca Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140717_30564817-f2e5-4936-a9ab-14aaaad664cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/point-da-tapioca-cafe-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Vila de Belmonte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311424_be45fa89-f671-47bf-ac08-4661c1a1ce59.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-vila-de-belmonte-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Takashi House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- takashi_takashihouse.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/takashi-house-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panpizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704060746_269a3d786c054f099913a3a782d87137.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/panpizza-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Me Gusta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709250907_e2034c53-446c-4345-887c-370465e55540.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/me-gusta-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecaria & Pizzaria Liberdade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_PANPIZZAL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/panquecaria--pizzaria-liberdade-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Wei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_tiowei.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/tio-wei-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oxe Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261000_ebcb5ad1-aef9-4dd1-867e-8572f86dc7ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/oxe-lanches-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob'S Drive - Açude Velho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200000_7049ab8b-ec10-4c15-b9eb-a428daf36c97.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/bobs-drive---acude-velho-sandra-cavalcante",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Power Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171347_31016e34-00cc-4528-8880-ecc3b5d958b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/power-mix-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Lu Reifeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191913_edbf6af4-c6d9-4098-86ba-0a8da7dc3309.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/dona-lu-reifeicoes-jardim-paulistano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mais Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707030808_85357af8-e34d-4783-bd78-cb03ba8d68f9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-mais-sabor-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperial Refeiçoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120802_938b87d5-12b4-48da-9420-8b8de873c559.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/imperial-refeicoes-velame",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LEVE VIDA SAUDÁVEL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701231349_LEVEVIDA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/leve-vida-saudavel-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Beguinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo pizz_pizza_uinha.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-do-beguinha-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Pastel Da Liberdade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ki pastel_kipastel.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/ki-pastel-da-liberdade-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oka Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_okatemakeria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/oka-temakeria-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza do Alameda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181309_4a461e41-92ee-4f96-978f-e35910ed762c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizza-do-alameda-serrotao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VIP DOG Hamburgueria e Petiscos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181235_d82984a4-537c-49a2-bbd3-e86cfc2efedd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/vip-dog-hamburgueria-e-petiscos-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DI'CUME HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707310900_c9e87ab2-4e29-4e1e-b15a-e41b4113884b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/dicume-hamburgueria-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Fatite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo- tia fat_tiafatite.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/tia-fatite-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tartaruga Burger - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tartarug_TARTA_RANDE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/tartaruga-burger---campina-grande-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kipastel do Catolé Santa Rosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041104_e2903bad-4748-4a84-93c0-beb632545b4e.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/kipastel-do-catole-santa-rosa-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yoi Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030850_12f360ab-e190-48f8-b9f3-329270fe38eb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/yoi-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bom Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ifood_pizzariabom.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-bom-sabor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícia Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705090714_d72db326-f749-49b0-a025-670d7007b97d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/delicia-pizza-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Concept Mirante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703091832_ACAIC_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/acai-concept-mirante-jose-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Portuga Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121310_b5a1e9fc-2a3b-4fef-8a6c-f6dbdb8f27e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/o-portuga-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Texas Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca Tex_TEXAS_SANAL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/texas-hamburgueria-artesanal-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno De Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/MARCA_FORNODEPIZZA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/forno-de-pizza-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chinatown - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chinatown_chinatocg.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/chinatown---campina-grande-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor De Mel Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701281216_SABOR_NCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/sabor-de-mel-lanches-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frida Tacos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_fridatacos.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/frida-tacos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca piz_pizzaecia.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizza--cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dindidelle Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181444_cfb2e502-ee7a-4bc5-838b-da6aed843404.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/dindidelle-gourmet-presidente-medici",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria De gust Italian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301401_6ccf5dc1-df93-4ce4-8e7f-c5ab1f6b3890.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-de-gust-italian-palmeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703091029_MASTERPIZZ09.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/master-pizza-alto-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Calixto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/calixt logo_paste_lixto.png",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pastelaria-calixto-conceicao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faustão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251319_e07dd4d8-83ed-4a38-8625-b6bd29d99cf5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/faustao-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705141122_262acc57-3ea1-4813-9e79-3ec32a6c2093.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/chef-hamburgueria-artesanal-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Lanchonete Gostosura",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/gostosura_resta_osura.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/restaurante-e-lanchonete-gostosura-tres-irmas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeteria e Soparia do Beguinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101159_5ffe9101-74e4-4208-be3f-d9487e8222a1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/galeteria-e-soparia-do-beguinha-jardim-tavares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Black Blues",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_BLACKBLUES.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/black-blues-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Gustor Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Gustor._PIZZA_IVER33jpeg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-gustor-delivery-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Miguelito´s Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101825_913948f4-9126-4eaa-a57e-fd87c807cd7d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/miguelitos-burguer-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Léo Massas & Assados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051859_b51d7f33-b8e3-4724-bf50-ab981be3da62.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/leo-massas--assados-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Danda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121025_014f9486-00ab-4b13-83f3-b3bcd17bc7b0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/pizzaria-do-danda-jardim-quarenta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Chopp CG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220943_bacb5781-84e5-492b-a458-159c4ed314a7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/villa-chopp-cg-lauritzen",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Grill - Campina Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221434_19400240-5322-4084-aa8c-39992d409ef0.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/mister-grill---campina-grande-catole",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Artculinária Refeições Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/artculinaria-refeicoes-express-itarare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno De Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/forno-de-pizza-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kantinho Pizza E Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/kantinho_kanti_eacai.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/kantinho-pizza-e-acai-malvinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutrycamp Refeiçoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101616_678c28fa-a843-448e-8a5d-2f7f6b90597f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/nutrycamp-refeicoes-vila-cabral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Líder Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_olide_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campina-grande-pb/o-lider-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPINA GRANDE",
+            "addressRegion": "PB",
+            "addressCountry": "BR"
+            }
+    }]

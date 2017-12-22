@@ -1,0 +1,17 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Nova Geração Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_NOVAG_ZARIA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/palmeira-dos-indios-al/nova-geracao-pizzaria-palmeira-de-fora",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "PALMEIRA DOS INDIOS",
+			"addressRegion": "AL",
+			"addressCountry": "BR"
+		}
+	}
+]

@@ -1,0 +1,766 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batatas Kartoffel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051344_2a5682e0-0c16-46dc-a0da-a21af9a6a370.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/batatas-kartoffel-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brazilian Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131017_fc6b5303-e26b-4be5-b728-1848822b3d9f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/brazilian-burguer-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Furiosos Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040733_af622364-a646-4e13-8a03-da691798c98e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/furiosos-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lolos pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291201_a9ef1982-9328-4e3d-86af-a49dbdddd8a3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/lolos-pizzaria-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEGA COMBOS E PETISCOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061542_ed98cbcc-1975-473e-8955-e1c6d801e1de.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/mega-combos-e-petiscos-edson-passos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal gourmet delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131427_be282086-3924-44d8-b670-02852db1528d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/quintal-gourmet-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei dos lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/rei-dos-lanches-banco-de-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Varandão Du Vizinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241116_7a172eb4-a845-4fdd-babc-cb196cbc1a19.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/varandao-du-vizinho-vila-emil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEK LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081017_46cd12a9-60c6-47bb-8c27-6209f12d80f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/tek-lanches-banco-de-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "+Sabor Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121039_e4cd5997-6b33-44bb-b072-c380b9ac3bcc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/sabor-delivery-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gêmeos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021210_5aa94dbd-e563-45ca-a535-4e0bbda8eb08.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/gemeos-lanches-vila-emil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zushicia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_zushicia.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/zushicia-edson-passos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mesquita Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_BARRE_QUITA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/mesquita-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Dogão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ki dogao_kidog_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/ki-dogao-lanches-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crepetapi Creperia & Tapiocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/crepe_crepe_caria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/crepetapi-creperia--tapiocaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Highlander wings & burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051129_a431093c-6ad4-4220-a4e4-8144f845d76d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/highlander-wings--burgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lucena Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121209_03074f16-b769-4ca7-915e-28474a971bcb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/lucena-lanches-cosmorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MORDIDELA MESQUITA - RJ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050900_78be134d-ae81-41ef-8107-decad25ea2d7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/mordidela-mesquita---rj-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "lanches do valle",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110933_673c8971-9aa0-429c-9b42-60c7f8822733.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/lanches-do-valle-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Mesquita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291014_df9d6908-bebc-40f7-86cd-c4247918405e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/subway-mesquita-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cone and Steak",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221406_c8dc08e106c24356aac7daf254960d59.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/cone-and-steak-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sancho Lanches - Mesquita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_sanch_quita.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/sancho-lanches---mesquita-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lomar Burger Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310921_e664e6f2-a940-4391-b110-1cfbd42952ad.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/lomar-burger-bar-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trap Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201059_367d7e03-e421-4b79-923d-6059bafeae46.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/trap-burger-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor De Casa Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sabor_boape_iver04.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/sabor-de-casa-restaurante-rocha-sobrinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oba Oba Pizzas - Cosmorama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-oba-oba_OBAOB_ORAMA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/oba-oba-pizzas---cosmorama-cosmorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers Cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181413_6321d895-69c6-421d-a458-d43b4bad301f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/brothers-cone-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô Dom Pietro - Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311426_bbaef3c2-a8ef-4b17-b166-58db13e06a93.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/bistro-dom-pietro---massas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango JK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290905_3ebf48f8-813f-4da9-959e-6cac272c777b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/frango-jk-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante LR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201131_ef4f296e-72c9-4f9d-a9e9-42ae028869de.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/restaurante-lr-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wdc Lanchonete E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/wdc_wdcla_zaria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/wdc-lanchonete-e-pizzaria-banco-de-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barbaro’s Pizza & Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131242_2407b697-237b-423e-b9f0-06899be88f47.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/barbaros-pizza--burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ComPaixão Culinária Vegana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705290916_b2674dd5-04d4-4839-bb83-73ddb760d1bf.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/compaixao-culinaria-vegana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GIGANTE DO PETISCO DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021258_c272ba9d-3536-4693-9ce9-0e1b17636a05.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/gigante-do-petisco-delivery-santo-elias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Jappa Temakeria - Mesquita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081401_4a252c13-9e9d-47c7-9234-25c951b31705.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/--jappa-temakeria---mesquita-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. E Sra. Batatudos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161037_MRMRS_TUDOS.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/sr-e-sra-batatudos-vila-emil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gula Lanchonete - Pizzaria & Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221301_43fd23ad-a4ed-425e-831b-d79bb79d2542.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/gula-lanchonete---pizzaria--petiscaria-rocha-sobrinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Artezanalle Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251221_263fbbae-f33e-4595-927c-f7fc74a214b5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/artezanalle-pizzaria-cosmorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chip'z Salgaderia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708070822_1434bc27-7796-49ea-92e0-81dcdf58947e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/chipz-salgaderia-chatuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Menu Carioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241434_05106058-ece9-4f68-b85b-45b704d474d7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/menu-carioca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Marli - Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090829_fc4d3960-b0d4-4574-89c2-4b6fa771584c.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/cantinho-da-marli---comida-caseira-coreia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X-Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171051_XGOURMET.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/x-gourmet-santo-elias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Borge's Lanches e Pizza - Nilópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709262326_159459d7-26c0-4a23-b940-6c1af1960786.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/borges-lanches-e-pizza---nilopolis-cosmorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Cia Mesquita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021153_0e82b638-0de4-465a-9fc4-726cf24e148e.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/frango-cia-mesquita-banco-de-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Primmus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IMG-20170928-_PIZZA_IMMUS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/pizzaria-primmus-santo-elias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE COMPANHIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120821_2d751bc0-a19f-4d26-8de2-401d0bb946be.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/restaurante-companhia-banco-de-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bom Paladar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_resta_lada03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/restaurante-bom-paladar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WP HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021146_51ce02dd-d011-400a-8d36-78dd7ecd3612.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mesquita-rj/wp-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MESQUITA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

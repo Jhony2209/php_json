@@ -1,0 +1,47 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CORUJA EXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011457_6d631b5b-9030-438c-b917-80aa40bbc2bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-pedro-da-aldeia-rj/coruja-express-vinhateiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO PEDRO DA ALDEIA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MADIK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300945_420e426d-45cb-407a-95e3-12199f1f467e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-pedro-da-aldeia-rj/madik-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO PEDRO DA ALDEIA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marta Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221939_909ae996-48fd-4c44-a201-659444af46db.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-pedro-da-aldeia-rj/marta-pizzas-fluminense",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO PEDRO DA ALDEIA",
+            "addressRegion": "RJ",
+            "addressCountry": "BR"
+            }
+    }]

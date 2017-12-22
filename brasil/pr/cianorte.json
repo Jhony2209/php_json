@@ -1,0 +1,31 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laziza Delícias do Líbano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301106_30aec6ae-3fac-4cc2-b56f-38076b353902.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/cianorte-pr/laziza-delicias-do-libano-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CIANORTE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Cianorte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200028_a9e41053-6b3c-4fa8-87d8-95a8c732e869.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cianorte-pr/brasileirinho-delivery-cianorte-zona-01",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CIANORTE",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]

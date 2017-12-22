@@ -1,0 +1,79 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empada da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711121116_5ac2fbb8-933d-4cbd-b956-4b1f8e933c43.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/campo-largo-pr/empada-da-vovo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LARGO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Campo Largo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290955_0e4c451c-c54d-4168-92f9-2fe344653713.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-largo-pr/subway-campo-largo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LARGO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Friends And Fish",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091456_dcefc151-db6c-4d4a-b672-23eb18c6490b.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/campo-largo-pr/friends-and-fish-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LARGO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brito'S Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701310916_BRITO_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campo-largo-pr/britos-pizzaria-jardim-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LARGO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sottile Refeições Saudáveis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251934_f09c137a-665e-494e-a7ef-5a53f7ac49a2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/campo-largo-pr/sottile-refeicoes-saudaveis-ferraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LARGO",
+            "addressRegion": "PR",
+            "addressCountry": "BR"
+            }
+    }]
