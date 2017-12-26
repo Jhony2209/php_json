@@ -1,0 +1,79 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Arado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010835_ffdc3513-8aae-43eb-bf25-a28dd3ea7110.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/nova-odessa-sp/rei-do-arado-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA ODESSA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pida Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181542_c7c711c5-d1b6-467c-9d29-83fac53ccb05.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/nova-odessa-sp/pida-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA ODESSA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DELIVERY PIZZA DAMASCO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705202029_0825237c-de6f-4602-8070-496f97e6bd47.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/nova-odessa-sp/delivery-pizza-damasco-parque-fabricio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA ODESSA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140904_1680c576-8800-45d2-b2fc-b2c93b3475a2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/nova-odessa-sp/la-coxinha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA ODESSA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702130746_PONTO_SFIH03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/nova-odessa-sp/ponto-da-esfiha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "NOVA ODESSA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

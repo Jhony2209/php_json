@@ -1,0 +1,463 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HABIB'S JAU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061424_8b2f91f4-22b6-47de-a1ea-8bf1992a3a4f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/habibs-jau-chacara-peccioli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lumah Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030753_b8c09c11-e65d-4100-8c6c-8f10a591a70e.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/lumah-pastelaria-jardim-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291008_6aafea83-414c-49dc-9504-f4e4826857ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/subway-jau-chacara-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Griletto Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703270843_a008ac4927fe473297190641bd948e73.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/griletto-jau-chacara-peccioli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181644_881fc84f-fad4-4b02-bafa-edf49468bd46.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/china-in-box---jau-jardim-maria-luiza-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121258_ce693f56-59b1-4f76-8b8f-43833fc38e88.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/casa-do-hot-dog-jardim-doutor-luciano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DEGUSTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111900_929e6ec6-cf87-401c-b319-12d1687904db.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/degusta-chacara-braz-miraglia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111445_d97cfa05-d24d-48fb-bdc7-0e72cee8a9ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/divino-burger-jardim-ferreira-dias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Filippi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101638_70e586eb-3d7d-4df9-91b4-78b1cdcc07e7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/don-filippi-chacara-braz-miraglia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fritas & Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo-PNG_FRITA_GUERS.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/fritas--burguers-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Lanchonete Carecão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704191543_cb24fc1e-ed56-4fd6-87d8-9f998e5c5760.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/restaurante-e-lanchonete-carecao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macarrão Disk Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200910_44f2ac16-4428-42a8-8483-cd472de39258.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/macarrao-disk-pizza-jardim-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Lanchonete Altos Da Colina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161332_RESTA_OLINA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/restaurante-e-lanchonete-altos-da-colina-distrito-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria 2009",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221142_f1c4cc55ac81418580561a8f5f8722ce.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/pizzaria-2009-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dubai Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011934_b6688ebb-119e-467f-aa49-d26458f76683.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/dubai-esfihas-jardim-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mchicken Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290948_03dd9f60-96cb-4af4-8f6e-928fddea5bf1.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/mchicken-jau-chacara-doutor-lopes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Pizzaiolo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703271155_3ae9d2ba8a9e4306b8266092e0b124e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/o-pizzaiolo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251029_d761be5f51f34f1db819bbec7909309d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/art-burger-chacara-peccioli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batataria Rostii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051505_b8bf78b5-e250-4818-9f45-a49aeb65cd34.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/batataria-rostii-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Ramos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO (novo)_RESTA_RAMO03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/restaurante-ramos-jardim-regina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheff Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031200_1a6e8d9c-bbaa-4aa4-ab67-33b7fc65f94f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/cheff-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YAKIJAÚ delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301029_e6b65724-2910-4940-9657-8394fd52bc05.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/yakijau-delivery-jardim-maria-luiza-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Don Carlito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705071112_c0129d37-31d9-487e-83a3-0c8a87546114.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/restaurante-don-carlito-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tchê Frango E Fritas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181936_TCHEF_RITAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/tche-frango-e-fritas-vila-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Hero'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101752_660857db3cd9494dac379c1aaa8fe652.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/burger-heros-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lola Pepito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121056_93213e13-4a32-4bc7-822a-2f6e306338ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/lola-pepito-jardim-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bombonato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151451_4e6e2b87-151a-43b3-ad9c-e818aa220900.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/pizzaria-bombonato-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Príncipe Charles Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031755_56a6e768-bd8c-4bec-86e2-b148f6de0615.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/principe-charles-lanches-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Açai Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181855_TOPACAIJAU.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jau-sp/top-acai-jau-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JAU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

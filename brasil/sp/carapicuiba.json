@@ -1,0 +1,2331 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Carapicuíba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181603_25c358f0-60e3-4eae-a14a-1414c3fd542c.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/china-in-box---carapicuiba-jardim-pignatary",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Koban",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sushi koban_sushikoban.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/sushi-koban-chacara-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco Seridó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011646_2784705d-6a65-43f7-a671-fe27e98305a2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/boteco-serido-parque-jandaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pubs - Sabor da Terra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180717_388e1687-5418-4c66-b0d6-8cc1f1e484fe.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pubs---sabor-da-terra-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CAMAROTE DO JOSIMAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031523_397936b6-5804-44f3-ac07-dc385bad2b84.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/camarote-do-josimar-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOOGIE OOGIE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_boogieoogie.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/boogie-oogie-jardim-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Q'Fome",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702110938_QFOME.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/qfome-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa dos Salgados MP",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706090937_d0b53527-7890-4021-a731-2a2b3668c791.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/casa-dos-salgados-mp-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pudin's Bar & Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707310844_248fb8da-bad2-4109-af65-ccdd562809af.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pudins-bar--lanchonete-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mirror Marmitex Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704201455_958d73c9-ddac-4669-bc60-b32a48299499.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mirror-marmitex-delivery-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Seringueira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo SERINGUE_RESTA_UEIRA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-seringueira-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D´LAQUEZA MASSAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070859_68a31771-6604-4f8e-bf6d-c138c104b978.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/dlaqueza-massas-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bom Gosto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011146_50e14476-628f-48f7-a265-3e6899c2ab1c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-bom-gosto-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BalaSan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291120_94fd4b69-6bc6-4838-8d66-48f28cc49b88.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/balasan-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BurgueZone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708271058_6701398b-1b60-4c30-9d91-eede5f5c116f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/burguezone-jardim-cibele",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Esfiha - Vila Da Oportunidade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mega-esfiha_megae_idade.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mega-esfiha---vila-da-oportunidade-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Baião De Dois",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo baiao de_resta_edois.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-baiao-de-dois-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOLOS & CIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101536_7a275058-03d2-4569-9225-38021c22c5ea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/bolos--cia-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Nova Torre de Belém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180753_b0c854c2-bbe8-47bf-9b88-71469fe99b60.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-nova-torre-de-belem-vila-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211353_68f8c5cb-eff2-4a1f-a36d-57185e867b45.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/real-salgados-vila-ema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patroni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291709_bc0bed4c-52b0-462b-8c87-d6d959f694e5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/patroni-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MAYA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070959_fec3c1d6-5b2e-4684-ad81-c6f193ea582a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-maya-jardim-ana-estela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers Hamburgueria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Brothers_BROTH_URGE01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/brothers-hamburgueria-e-pizzaria-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Best Burguer hambúrguer e restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081922_1d6bc54a-aff7-4d22-848d-3b2ae20e65ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/best-burguer-hamburguer-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Homemade  Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041539_b2011dcd-f258-400c-9d8f-cb56bc979391.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/homemade--food-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Smiths Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_smith_rguer.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/smiths-burguer-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batatas Molon Labe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011102_4a25d72b-768d-4a09-bfec-9291e39fd20a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/batatas-molon-labe-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deck da Villa Original",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281708_933e41f4-fda0-4460-a912-07e3540fa97d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/deck-da-villa-original-vila-nossa-senhora-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Faceburger Caracas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031041_a4c380d1-bfa9-4e1a-b624-0d21bbd20b12.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/faceburger-caracas-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garage Bar e Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081156_da35bf9b-cc8f-4b56-a566-0a6fe09b6715.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/garage-bar-e-burger-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Burger e Crepes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711150026_2ec7d182-54b0-43bb-a19f-3667746fe188.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/imperio-burger-e-crepes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MIX`S FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo preto_MIXSFOOD.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mixs-food-jardim-maria-beatriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nakuab Temakeria & Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161101_91078393-e128-47ce-9a3d-9ea141b028e9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/nakuab-temakeria--sushi-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIMENTA MALAGUETA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181247_0bbc3a94-675d-4904-9aee-aa35e262b9ea.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pimenta-malagueta-jardim-santa-brigida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PLANO B - Tapiocaria e pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010935_a20fb844-13ed-453e-8ada-e7ecf9c81fb4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/plano-b---tapiocaria-e-pastelaria-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291042_22019fa3-5cf9-4aa9-95e5-a829005e9f00.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/padaria-jau-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria 2 Irmãos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051758_f1d4c47f-2c7e-445f-ad60-e96dd50ca7e7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-2-irmaos-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Aguimellos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020718_bb567231-c411-4466-824d-1d81b44ab999.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-aguimellos-jardim-maria-beatriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D' Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090853_ce219ff9-328c-471e-8c34-4302d3949597.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-d-italia-jardim-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ricky's Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191245_1546cf02-7bc0-483e-aecb-f58917649bbd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/rickys-pub-jardim-angelica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SORVESAN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712261116_92f6f728-3812-4063-baa9-1c46d72b1cb0.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/sorvesan-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Opção",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041559_e7b168b6-ddbd-4c28-a348-995c41396c04.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/nova-opcao-jardim-rosa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASA DO NORTE LEÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo casa do _casad_eleao.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/casa-do-norte-leao-vila-santa-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Carapicuiba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290956_b7fddb19-a9c6-4d1d-8339-fd8bdc2b0373.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/subway-carapicuiba-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA HANT'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo.hants (1_pizza_hants.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-hants-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Paladio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705040710_f7ddaff5-7bbe-4c7d-a99f-b9b4229bd141.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-paladio-jardim-cecilia-cristina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOPAZIO PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706111734_bda4e2d1-8d79-4ac8-92ca-cef24064ce64.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/topazio-pizza-vila-veloso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Estrela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301049_d3f7ced5-0005-4b9d-94ce-e6c4ac3e02d7.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/lanchonete-estrela-vila-lourdes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toccare Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705190943_224bd87d-1874-421e-82ab-4dcc9fa82b44.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/toccare-pizzas-vila-santa-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Natural Expresso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281144_e4b7562cc1eb4643982b22540b14ed1c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/natural-expresso-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tribos Bar Lounge Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291025_42b4f72ab7e74faf8ab547cc87810780.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/tribos-bar-lounge-beer-vila-dirce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA PORTOBELLO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111656_5bb08547-1e50-42a0-9995-4c0f7348a4a9.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-portobello-chacara-adriana-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "R6 Beer & Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/930ffe56-c702-4919-ad86-1492ccc9f187/201711231048_16299.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/r6-beer--burger-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NABAGUETTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301004_56250720-ead4-42ff-ac68-eccd4d3a18aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/nabaguette-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bronx burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IMG-20171030-_BRONXBURGUER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/bronx-burger-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Rainha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ok_pizza_ainha.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-rainha-vila-sul-americana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231453_247a68e2-1bfa-497c-a2e2-648e49428d5c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/hamburgueria-maria-jardim-angelica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chang Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chang_chang_iver01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/chang-delivery-jardim-marilu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Best Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241155_0791c747-2c0e-43e5-97da-cfdf896eecbd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/best-burger-parque-jose-alex-andre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Do Jovem Prensadao e Sorveteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080736_70e10e76-7420-448c-92ef-dc3dec12e79e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/do-jovem-prensadao-e-sorveteria-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Salsamaggiori",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706050838_cafc382e-4483-4f79-a2d8-5aef7fb23f10.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-salsamaggiori-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jr Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo jr deliv_jrdelivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/jr-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saborearte Açaí & Tapioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sabor e arte_SABOR_VERAO.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/saborearte-acai--tapioca-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kadalora Pocket - Carapicuiba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kadalora_kadal_cuiba.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/kadalora-pocket---carapicuiba-vila-santa-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Valentinas Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191626_1d8b8d27-b55b-4d60-b10f-60b44549847c.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/valentinas-burguer-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fioreto 1",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo211_fiore_frita.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-fioreto-1-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Gêmeos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261230_8703d644-0c9d-4b43-a83c-7e27fd9bdb1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/lanchonete-gemeos-jardim-das-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fontoura lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121107_3312c592-abd8-4b78-beee-29a809b69988.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/fontoura-lanches-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Bom Gosto, Açaí e Dogão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111458_51c39898-3bf4-4153-b9cc-8febe601c4df.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizza-bom-gosto-acai-e-dogao-jardim-ana-estela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Vitta Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bella vi_wadsb_vitta.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/bella-vitta-pizzaria-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pru_esqui_pizz03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/esquina-da-pizza-vila-iza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Majestade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251451_7aa76b62-3373-4eba-ae9c-69f0cf96b803.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-majestade-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PONTO DA ESFIHA CARAPICUIBA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291017_cbc1072e-ae9c-4bed-a0d7-3f5fec6c710d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/ponto-da-esfiha-carapicuiba-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mais Ki Lanche (+ Ki Lanche)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lanche_maiskilanche.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mais-ki-lanche--ki-lanche-jardim-itaparica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mount Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mount burger_mountburger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mount-burger-vila-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogueria Auu Dog's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707060731_cf336b47-1eca-4065-85a6-6264e470ecd3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/dogueria-auu-dogs-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baita Pão Lanches Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo baita pa_baita_nche01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/baita-pao-lanches-acai-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA BELLA DIVA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141804_c57bff22-3a72-42d6-8f5e-cfe6ab426fbd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-bella-diva-vila-teresa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Santa Rita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/21b7547b-2b2b-498d-9805-a6d7aa79924e/201711291419_logo.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/forneria-santa-rita-vila-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches, Pastel E Açaí Ksb Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/01_lanch_sabor.gif",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/lanches-pastel-e-acai-ksb-burguer-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESFIHA DO ILÁRIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706060922_15967ed5-f442-445e-b546-3c2c78e03392.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/esfiha-do-ilario-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704191536_f2e2821f-e2c8-4437-a88e-bc028d9a4ec5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mana-marmitex-jardim-rosa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercado Das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111627_0ef2d58d-a88b-4ec2-832e-de38ea0c68bc.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mercado-das-pizzas-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakissoba Primavera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040846_9e4cabc0-e8e1-4fec-8eed-1d9efa0564c6.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/yakissoba-primavera-parque-jose-alex-andre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Galezza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_pizza_lezz01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-galezza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Nildo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_donni_zaria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/don-nildo-pizzaria-parque-jandaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nostra Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709240919_234bf866-51a0-4e43-9d7c-ea9d036021b7.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/nostra-pizzaria-jardim-maria-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Água Na Boca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021019_392b6790-2a0c-47b9-b03b-d8698cb502e5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-agua-na-boca-vila-veloso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Garagem Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231111_NAGAR_SANAL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/na-garagem-hamburgueria-artesanal-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império VEG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251251_b40eccc9-9345-41d6-908d-6a4babd0937b.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/imperio-veg-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Baccan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logoooooooooo_sushi_accan.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/sushi-baccan-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Explosão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200923_fd6620b8-5d0d-45c6-b2b1-283dc18004ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/explosao-lanches-vila-helemar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasteko & Beirutes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010852_3b199f1f-7d59-4c6b-a535-470662dfcf2b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pasteko--beirutes-parque-jandaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Romanos Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logos_roman_zari04.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/romanos-pizzaria-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Friends Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091111_190067df-0321-4f53-8dae-a11d337c512f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/friends-burguer-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar E Restaurante Tudo De Bom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-restaura_barer_debom.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/bar-e-restaurante-tudo-de-bom-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Frango Americano - Carapicuiba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081252_55b3c344-c066-4a43-a513-58bd3247cc43.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/--frango-americano---carapicuiba-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Orion",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/orion_pizza_orion.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-orion-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toka Do Prensado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709171426_fff96277-8b28-4143-824b-c147f61a9651.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/toka-do-prensado-jardim-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kekas Lanchonete Sorveteria E Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d56398ad-972f-4b30-a7ec-ae92a1f9c32e/201712131810_kekas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/kekas-lanchonete-sorveteria-e-acai-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguer Mause",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lo_MAUSE_ONETE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/burguer-mause-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE MAMAE GANSO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080918_cb0f2803-7f20-49c2-81e2-d59a509b7a57.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-mamae-ganso-jardim-ana-estela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Enzo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708100917_69db1aa3-8fad-444a-b4b2-0219fa6d905d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-enzo-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051306_5d597136cdfb49b1bef54efe864b5cab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/emporio-das-pizzas-vila-artem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Pietro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100941_e8aff823-5bac-477d-a9d5-40dd80671a21.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-dom-pietro-jardim-carapicuiba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tattoo Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708270935_44c018d7-042b-438f-b2e2-a28d722ca0c5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/tattoo-bar-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do Pastel - Carapicuíba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cantinho_canti_aste03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/cantinho-do-pastel---carapicuiba-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria matriz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181530_5779b754-108c-45e3-9e45-4160e354a17a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-matriz-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maravilha'S Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705020817_a57c5db1-b8af-4d74-8428-f64194fb3629.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/maravilhas-burguer-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PRENSADAO LANCHES PRENSADOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo prensada_prens_sados.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/prensadao-lanches-prensados-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coliseu Pizzaria e Espetinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251848_491ce382-215d-4add-ae55-c4dc2e9d4afa.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/coliseu-pizzaria-e-espetinho-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Luka Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo luka_lukalanches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/luka-lanches-vila-lourdes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Dona Rosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706142154_c2f0acc1-042d-4fae-8ae6-bfb9de66e320.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/marmitex-dona-rosa-jardim-guiomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Di Toni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705290833_ac1b68ab-8eb1-4909-ae75-fbf900ca903f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizza-di-toni-chacara-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Butique do Prensado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040915_4f2c3bfc-5ecd-4fcb-af6d-8619d5351635.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/butique-do-prensado-vila-silva-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pizzaria qualipreço",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131514_1d0d39cc-ff26-4b20-a6e4-bc2592aa9bd2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-qualipreco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Caracas Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231436_bd95baef-85ca-4e85-8a97-29b2290f494c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/hamburgueria-caracas-burguer-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA LA BUCA ITALIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141551_c0d24589-0869-41a1-98ad-23a2c10ce5f0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-la-buca-italia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Da Terra Pizzaria & Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizza_pizza_terra.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/sabor-da-terra-pizzaria--esfiharia-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prensadão do Chaves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271332_a3a86c4e-a205-4ed7-9ace-76e0125dadce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/prensadao-do-chaves-parque-jandaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nova Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701260825_PIZZA_TALI20.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-nova-italia-jardim-maria-beatriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Miguelito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261556_a0780c18-0dd0-4ea9-95ed-8fb1c586fb24.JPG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-miguelito-jardim-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porções Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707070826_f8437e16-dedc-4767-be11-c6ac10fbde6a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/porcoes-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saboroso Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210914_SABOR_MITE02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/saboroso-marmitex-parque-jandaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Da Marmita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131213_4bd65b2e-861e-4658-86b1-cc7bfcd683f5.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/imperio-da-marmita-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Beiço",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061336_e9231c44-185c-4ccd-a2f9-ec4df0886f53.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-do-beico-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinhando Com Don",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211214_a6230323-a52c-4472-9730-4f7b7ddb683d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/cozinhando-com-don-chacara-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kidelicia Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/kidelicia_kidel_steis.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/kidelicia-pasteis-jardim-tucunduva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duds Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211231_2e1f8a33-bdf6-490d-ad2d-1aef885bb2b8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/duds-refeicoes-vila-dirce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Prato Cheio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/prato cheio_resta_cheio.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-prato-cheio-cidade-ariston-estela-azevedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MUNDO DOS SUCOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261424_90361d74-a875-43ab-b468-f5cd49f6b31e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/mundo-dos-sucos-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Power Point Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100844_bc46b4c9-0842-45e5-b1ec-e40a0434e9e7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/power-point-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NORMALOUCOSBURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_NORMA_RGUER.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/normaloucosburguer-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero D' Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131515_TEMPERODCA01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/tempero-d-casa-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Minutos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704031745_6afec5e0727744568cab7bbea1e65f0f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-minutos-vila-caldas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vilma E Silva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702121408_RESTA_SILV01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-vilma-e-silva-vila-martins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Chef Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/china_china_iver02.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/china-chef-delivery-vila-da-oportunidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "California Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031326_CALIF_IZZAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/california-pizzas-vila-municipal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Nevinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291108_f45f1978-3fbb-4942-b479-95454336c5bc.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/cantinho-da-nevinha-conjunto-habitacional-presidente-castelo-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lia Rainha Da Feijoada & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo1 lia fei_LIARA_DACIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/lia-rainha-da-feijoada--cia-vila-capriotti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Avenida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_pizza_enid01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-avenida-vila-gustavo-correia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Família Carvalho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051545_d6653ec21d4e4de4b15d70579f169b86.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-familia-carvalho-chacara-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Miolo Bom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201305141020_PIZZA_LOBOM.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/pizzaria-miolo-bom-parque-jandaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Belatito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707130909_78b28087-a03f-464f-bdf4-03f39c9f1e1c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-belatito-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bom Gosto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/restaurante-bom-gosto-vila-silviania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TINTI PIZZA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708070737_f100f848-02a2-44ba-a50a-46cdfc54417d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/carapicuiba-sp/tinti-pizza-delivery-jardim-das-belezas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAPICUIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

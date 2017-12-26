@@ -1,0 +1,1325 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Surf Self Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712092104_62ff184b-fa3a-47f8-a223-57417e1fec17.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/acai-surf-self-service-jardim-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gelato Borelli - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707250810_30b41ddf-d14b-459f-a1b3-86490518369b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/gelato-borelli---sao-carlos-parque-santa-monica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Mais Sabor São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/acai_acaim_arlos.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/acai-mais-sabor-sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MacarroNato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041051_44d7da15-b5e9-420b-907c-dbeb33c8a1bd.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/macarronato-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Personal Sushi - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/personal sush_perso_arlos.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/personal-sushi---sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tj pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181014_7735c7c9-bb4c-4a25-ab0e-8af98210b426.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/tj-pastelaria-jardim-beatriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Sallum",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171653_ef6da78d-cdf2-4917-97ea-a4dc3a3e80f9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/acai-sallum-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza São Carlos.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221233_96a7cb1b-6516-4fec-9eb1-d1dcf9a0c276.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/dominos-pizza-sao-carlos-vila-costa-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181639_5c472b50-28e5-4198-a0fc-1d5fad417f7b.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/china-in-box---sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí da Villa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180806_cf1a4077-c537-46fb-b469-601c6e3857f4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/acai-da-villa-delivery-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOND BOCA LANCHERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050754_fd1ee048-145a-48a3-8d5e-7dbe7a94dfdf.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/bond-boca-lancheria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comidas da Maroca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281308_19953e80-33a8-4728-b033-8a14254ed64f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/comidas-da-maroca-vila-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Neapolitan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090746_03723124-16ed-4f7f-8c97-e82e302f95bf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/neapolitan-vila-marina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARINI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280958_0ae77db2-19db-464a-8e0c-b34ae5679f0b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzarini-vila-monteiro-gleba-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Flamboyant",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281209_ffc1ac51-05fd-4084-8ae5-19975e3ee781.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-flamboyant-loteamento-habitacional-sao-carlos-2",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suco & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121041_28d53c99-58ba-447c-94b9-a07666dc961b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/suco--cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOMODATY BURGERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271054_ac8059ea-701a-4838-b9b1-a181967cd55e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/tomodaty-burgers-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deu Fome Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703121938_DEUFO_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/deu-fome-delivery-jardim-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Castelão São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710151149_ebd0993a-b860-4933-a271-e7dc3b438a5a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/castelao-sao-carlos-azulville-2",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO CASEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191200_a85899af-4ea7-4a26-bf68-4a4f23ef5112.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/tempero-caseiro-cidade-aracy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Avalanche - Lanches E Diversão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - avalan_avala_ersao.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/avalanche---lanches-e-diversao-jardim-botafogo-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bandeja's Mini Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301018_90bc5f63-e229-479c-935d-0dab3b07ddeb.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/bandejas-mini-pasteis-parque-santa-felicia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Assim Assado Rotisserie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061414_631193ef-7f74-4e22-abd6-61a2b3c867cc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/assim-assado-rotisserie-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Via Massa Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - via ma_resta_ental.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/restaurante-via-massa-oriental-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LANCHONETE POINT GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705300732_c6b7407f-f5b8-4c61-b4c4-3098b1901aa4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/lanchonete-point-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lual Lanches Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - lual_luall_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/lual-lanches-delivery-vila-monteiro-gleba-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonna Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - bonna _bonnamassa.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/bonna-massa-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Natsumi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241206_3d2ab852-145b-4d78-8812-c31da46baf3f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/natsumi-sushi-nucleo-residencial-silvio-vilari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Capri - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - bella _pizza_arlo01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-bella-capri---sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Express Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701282206_PIZZA_IVER39.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizza-express-delivery-jardim-sao-carlos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hey!Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - hey_heyburgers.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/heyburgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Let'S Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lets_letspizza01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/lets-pizza-nucleo-residencial-silvio-vilari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bárbaro Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141147_1f1d7c07-98a3-428a-8db4-03d19bc08eba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/barbaro-bar-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Banane",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110834_758e9dd9-3b0c-4a47-af1c-8b6f2a1ce2cc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/banane-nucleo-residencial-silvio-vilari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Vittorio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251237_6f8a6ebb-019b-4184-9247-855c099c6132.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-dom-vittorio-jardim-botafogo-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ravenna Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230922_e5ff32b4-0ab6-4826-bfaf-38df933f8a81.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/ravenna-pizzaria-jardim-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TROPICAL LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071106_702054cb-22a8-45b6-b58d-e52796ae9fd3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/tropical-lanches-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Só Pasta Delivery De Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704070801_864dd354d9d3478aa056800f1bb9c735.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/so-pasta-delivery-de-massas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quase Dois Lanches - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IMG-20170317-_QUASE_ARLOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/quase-dois-lanches---sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Botequim Picanharia & Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040908_809e1621-0f8d-4184-b0f9-0396f215f93f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/o-botequim-picanharia--grill-vila-marina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primus Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702200901_PRIMU_UERIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/primus-hamburgueria-parque-santa-felicia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki-Lanchão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701141042_KILANCHAO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/ki-lanchao-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Chic Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180842_56b3982d-c603-4357-90ed-291eb9347425.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/ponto-chic-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa 'N' Go",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702020734_JAPANGO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/japa-n-go-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giga Lanches - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030958_38f71803-9bec-48d6-8ff5-cc0ca77cb7b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/giga-lanches---sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha da lucia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131252_35fc9072-44d9-4b58-8fb4-88a7457204ac.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/cozinha-da-lucia-planalto-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forno Brasile E Roma Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121240_PIZZA_NCHE03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-forno-brasile-e-roma-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAULINHO LANCHES E AÇAÍ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pauli_arlos.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/paulinho-lanches-e-acai-loteamento-municipal-sao-carlos-3",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IMPERIO LANCHES E PORCOES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291445_2d49067f-1683-4379-b8a0-f96665811bc4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/imperio-lanches-e-porcoes-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Canaã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708250927_6c343cb9-3e61-479b-b030-17b2f11a29dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/cozinha-canaa-vila-boa-vista-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Fome Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181438_c466c2c3-bd44-4d8d-95df-17603907ecf1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/ki-fome-lanches-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Da 7",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201451_8479c5bf-70fc-4c44-9821-0455523c8437.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizza-da-7-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Paladar restaurante e Rotisserie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/b4ed6be9-3ce4-46e2-9d97-00a7a787d7f3/201712120441_perfi.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/bom-paladar-restaurante-e-rotisserie-parque-santa-felicia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amici Pizza & Cibo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241806_AMICI_PCIBO.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/amici-pizza--cibo-parque-santa-monica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabanha Steakhouse e Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - cabanh_caban_mpbar.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/cabanha-steakhouse-e-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Raffaele Pizze E Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - don ra_donra_rante.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/don-raffaele-pizze-e-ristorante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sabor 10 - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141023_9aae021c-9bdb-42ed-99af-b21721a86feb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/restaurante-sabor-10---sao-carlos-jardim-cruzeiro-do-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Miguel Petroni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291104_15702579-765e-46b7-b66b-f64c1546fd53.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/subway---miguel-petroni-jardim-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradição gaúcha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241014_3c544166-0845-4933-8bea-15691dab23f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/tradicao-gaucha-parque-residencial-maria-stella-faga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "lancheria e pizzaria ki lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091531_d90f36d2-59d2-4e50-94c0-0458ad955972.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/lancheria-e-pizzaria-ki-lanche-parque-residencial-maria-stella-faga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gulla's Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707270820_b87fc291-3f04-4ff6-8f00-f2b73d9f03b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/gullas-hamburgueria-vila-costa-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nova Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - nova m_pizza_mass09.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-nova-massa-jardim-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "mary dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221443_a26e45f1-cb6f-4597-b312-152f99a0d3f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/mary-dog-vila-boa-vista-1",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Monte Carlo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081357_a7a3f5e2-e789-4804-96ba-93f44d7e4ae9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-monte-carlo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Croissant - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231607_6c93d8af893f4005aad2307e08347e9a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/o-croissant---sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Santa Hora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061051_d823ab02-d754-415e-8dd8-e66d44d78f24.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/lanchonete-santa-hora-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Woki Sushi E Yakissoba Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061810_eeffface-212f-403b-819e-e9089eb339e0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/woki-sushi-e-yakissoba-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Araponga Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251027_5e1a22963c5f4b769113e930e7fe6496.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/araponga-lanches-parque-faber-castell-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Pinguê São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161611_LEPIN_ARLOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/le-pingue-sao-carlos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Città Della",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260926_313acf28-0ac7-4bac-9713-7483e72ed20d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-citta-della-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MORDIDELA SÃO CARLOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311154_194fa6ab-8dfc-49ce-8fe6-5fd01036eb60.png",
+        "priceRange": "$$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/mordidela-sao-carlos-jardim-sao-carlos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Lanchonete Nova Sunshine",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081141_NOVAS_ONETE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/restaurante-e-lanchonete-nova-sunshine-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Trevo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221419_CHURR_TREVO.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/churrascaria-trevo-vila-marina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jetlanches_jetlanches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/jet-lanches-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Resenha Espetos e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200927_fcc5dcde-2f19-414e-ac52-cc52e62bd3ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/resenha-espetos-e-porcoes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHUDÔ Petiscaria e SushiBar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708012105_ba10238f-3248-447e-8469-2e7e74425fbb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/chudo-petiscaria-e-sushibar-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Resenha restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171633_052e70a5-6c5f-45b6-b2a9-d5ae652893a6.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/resenha-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Big Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291516_1d5c9ff4-501e-4512-add1-74f41450c856.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/la-big-pizzaria-vila-monteiro-gleba-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANDUBA LANCHES E PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251958_ce3ff0ce-2799-4638-8576-b7540d2d43e0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/sanduba-lanches-e-pizzas-parque-santa-felicia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Piazza Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091203_f3a3befe-9394-4e05-a7e3-2833ab05de13.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/restaurante-piazza-express-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Do Sabor - São Carlos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - cantin_canti_arlos.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/cantinho-do-sabor---sao-carlos-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Calábria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211628_PIZZA_ABRI01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/pizzaria-calabria-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Comida Marmitaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701151011_SANTA_IVER03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-carlos-sp/santa-comida-marmitaria-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CARLOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,2251 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181625_149cab9a-13c0-4aaf-9cdb-d0285021e7ca.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/china-in-box---sao-jose-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa De Lanches Maria Pimenta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_casad_menta.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/casa-de-lanches-maria-pimenta-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Sucos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703280827_af8eb4594d7d45aea27cf484d633a947.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cia-sucos-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Unagi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701082318_UNAGISUSHI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/unagi-sushi-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yamazaki Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705080930_535cf2c7-27f2-466b-8ad9-43b89bf2a570.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/yamazaki-sushi-delivery-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhora Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_senho_atata.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/senhora-batata-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias do Kobrasol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151805_9c79ef50-4029-477f-b5d5-13091659ce83.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/delicias-do-kobrasol-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top's Restaurante & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081113_61dcee5a-5b8b-481f-a482-c2409eaeb10f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tops-restaurante--pizzaria-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Break São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141207_98fe5022-a819-4207-b594-fa6ad0b63da3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/burger-break-sao-jose-distrito-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOM CARLOS CHOPP & BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221223_a24f74f3-33d9-4d4c-a75a-83e9b105f5e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/dom-carlos-chopp--burguer-potecas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Easy Burger Floripa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220938_ceeb6884-b916-4a64-8f42-7a6ffb341fb7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/easy-burger-floripa-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Querência",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131250_5c00d16e-4599-495e-a6fd-f68f272b9320.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/hamburgueria-querencia-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Á moda do cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231538_d34b691c-701b-444a-8e1e-3daea9e58b04.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/hamburgueria-a-moda-do-cheff-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa inbox café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010932_075fb0c2-f2dd-4fb9-af80-96ea5391de7b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/japa-inbox-cafe-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kazoku Sushi & Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031244_887667ed-75f9-422e-915f-ed1ded11df67.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/kazoku-sushi--temakeria-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MANDA MAIS CREPES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221116_dc878259-2c9f-466c-8fa9-4e39c448fe86.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/manda-mais-crepes-praia-comprida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MASTER CHEFF'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071413_0e3a8c7b-a3cf-49ad-8f8d-35dd537f28c0.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/master-cheffs-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEU SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111237_3dfb7861-b894-4271-8b70-9f9fba4b9ad4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/meu-sushi-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MINI KALZONE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291711_2dd60450-c2ae-4ea9-bc46-1134ecd53aea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/mini-kalzone-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Lanches São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271419_0ca110fb-3068-4da4-8d4a-dfe9cbdc5755.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/mega-lanches-sao-jose-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nobre Cunha Hamburgueria e Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211024_f0dec58f-5bc2-4f90-8de5-3a2e685e08fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/nobre-cunha-hamburgueria-e-petiscaria-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Trapattoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080752_5ee63ec1-d558-4aab-8663-3408cb6bcffa.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizzaria-trapattoni-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Burguer Kobrasol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201132_d0bc77de-30e4-44d0-b013-92a0147a718c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/point-burguer-kobrasol-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Speed Marmitaria e Continente Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161534_f0eb60f5-b4f9-4a5e-a9b3-0d05646c7b3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/speed-marmitaria-e-continente-hot-dog-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super X Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091042_2c9363d4-0e46-4be6-b3df-4d41f6e24349.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/super-x-lanches-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tako",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071258_b7f67974-4812-4d17-97ae-4d9e01d8b075.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tako-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tatakii Restaurante Japonês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091421_870684cd-5b1f-48f4-9816-7a1d3ba55368.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tatakii-restaurante-japones-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tchê lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111415_2b22ce71-2710-4c77-9f0a-27cd2efec255.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tche-lanches-praia-comprida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tongas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050914_7abe9834-abc9-4b64-86ae-f87ae09a977d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tongas-lanches-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tri Pasteis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141709_6dfe18e6-af89-490a-b840-9dba7467590a.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tri-pasteis-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VGM Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180804_4e18e562-5c39-4c45-9782-8e6835813843.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/vgm-lanches-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Pancakes Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_simples_ameri_truck.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/american-pancakes-food-truck-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Panquecas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171738_dc53c5c6-720b-4cb4-bfc6-d6396113a71a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/mister-panquecas-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Recanto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709222054_1b28498e-d8b7-41c5-a237-cd151054e277.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/espaco-recanto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Si Qués Qués Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020819_461494a8-fe03-4627-b2ba-f55b8aa97d6e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/si-ques-ques-lanches-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Classic Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/e83053d8ce9fd_CLASS_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/classic-burgers-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei das Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_reida_rcoes.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/rei-das-porcoes-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicia Italiana Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_delic_izzas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/delicia-italiana-pizzas-praia-comprida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Sportello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/6171709d-b774-4091-96b5-ebdebccd9be8/201711291858_loifo.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizza-sportello-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Multi Gourmet Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo multi go_multi_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/multi-gourmet-delivery-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Lanches Real Parque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_topla_arque.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/top-lanches-real-parque-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704141914_a94802ecec7f4e6c8e86d3ec6aa532af.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/taberna-burger-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheese Sobre Rodas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011441_9def6951-a893-4688-a590-28e2913181a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cheese-sobre-rodas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hakuna Matata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711202008_c601de49-eef4-423e-bf3b-59694bf9eab9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/hakuna-matata-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rainha da Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161017_66824628-517d-4136-b463-feb1a2c7a399.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/rainha-da-batata-nossa-senhora-do-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Moda Do Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011640_6d2b031063e0475dba9256b60e3b7fd8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/a-moda-do-cheff-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mafagafos Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300837_038f2030-30f0-4e07-952e-869fdd7b8b3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/mafagafos-bar-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Florenza Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo florenza_flore_zaria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/florenza-pizzaria-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Homer Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260859_1758b558-cbcb-48c6-b560-e6821ea847b4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/homer-burguer-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Puchinella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704092006_01128ef86f484cd591df5bdb6fdd929c.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizzaria-puchinella-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pink Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261103_1d5c14cb-5cc1-4001-8d8e-253889183106.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pink-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boka'S Kobrasol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bokas logo_bokas_rasol.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/bokas-kobrasol-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Homer House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061023_9e710c52-6b63-4b5b-a0f9-af95f9c649a7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/homer-house-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canadá burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081725_d0037b2e-3c1d-4d39-91eb-d9c4eb9acda4.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/canada-burguer-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Napolitana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171020_e0262e88-68ee-4f79-b849-c8b555fbc7b2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizzaria-napolitana-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nobre Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_nobreburger.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/nobre-burger-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Golden Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011143_7b5965a7-2d93-43b6-a2f2-221e8b687fc0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/golden-burger-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Saúde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo emporio _emporiosaude.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/emporio-saude-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Roma Pizza Continente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/408x500x500x__DIROM_TURAL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/di-roma-pizza-continente-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marussa Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090827_5ef98ba9-af44-4f86-872f-e0408858a6bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/marussa-bistro-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Checkpoint Games n´Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040951_0540b521-14db-4364-8be5-9db4242ac604.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/checkpoint-games-nburgers-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UAU! DOGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241606_368ccada-d3e1-4c24-9cbf-100863c5a436.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/uau-dogueria-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaeru's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_kaeru_zaria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/kaerus-pizzaria-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Treme Treme",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111230_df625638-1030-47ea-8097-0c4cd76d2424.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizzaria-treme-treme-flor-de-napolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Vico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111252_24e4182f-8f9d-45e2-bd8f-2d09aa828d66.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/don-vico-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Makoto Fresh Fish Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/makoto_makot_sushi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/makoto-fresh-fish-sushi-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto X Lanches e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311322_5ce5689b-a48e-479a-ad93-357aa6e03c22.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/ponto-x-lanches-e-porcoes-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Br Dog Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/brdog_brdog_onete.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/br-dog-lanchonete-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Floripa Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131503_e11ee4d3-829e-4dc3-9769-282d2f2d0abd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/floripa-salgados-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kah Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251342_b65ddab9-7d48-4f9c-a23d-db31607724f0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/kah-dog-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogueria de Rua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161102_40eda079-0981-47fc-b6e8-c01b40124198.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/dogueria-de-rua-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jô Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706120838_3b808bc3-507e-4737-94a3-38d0be3e19cc.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/jo-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Continente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241000_1fa24301-2fba-4863-8bea-06837f9028c7.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizzaria-continente-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Personal Hotdog Kobrasol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_perso_rasol.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/personal-hotdog-kobrasol-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachopa`s Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161940_58a3997b-086f-40f5-bc44-23fadbd0c099.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cachopas-bar-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porto Sol Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261822_d48b8fc5-58fa-4677-abc2-e38fb35088f8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/porto-sol-pizzaria-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bauru Lanches E Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710212058_550d9dcd-087d-4784-9194-c2eefdcadc2b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/bauru-lanches-e-porcoes-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cheiro Verde Kobrasol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211312_66d211da-3929-4c04-96c1-080d6184b7ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pizzaria-cheiro-verde-kobrasol-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A DITA CUJA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061547_70de4c4c-c1a7-403c-9610-571ec7af6e4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/a-dita-cuja-pizzaria-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baita Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo baita_baitapizza01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/baita-pizza-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Mau Mau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_lanch_aumau.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/lanchonete-mau-mau-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rause Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101920_0ac9ab30-44f4-4dce-9886-f1adf7071a49.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/rause-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baita Dog & Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - baita_baita_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/baita-dog--burguer-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HIPPO PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291646_5af1dc92-b0c3-4a9a-a1ce-9f35e0ca58ac.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/hippo-pizza-praia-comprida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Itaipava Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703200907_ITAIP_URGER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/itaipava-burger-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem + burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706070858_9c6388c0-5fd2-4ae5-bfc4-d8b426a37100.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/bem--burger-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro Loko",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_cachorroloko.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cachorro-loko-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Best Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707172047_33eeb695-adc9-4195-b11d-7debfacaa985.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/best-burguer-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_cafehotdog.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cafe-hot-dog-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yume Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701120838_YUMES_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/yume-sushi-delivery-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dudu Hamburgueria II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041014__DUDUH_RIAII.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/dudu-hamburgueria-ii-praia-comprida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Best Gourmet Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704120846_70e1e6fc38fc4beba626fb34024e5dbb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/the-best-gourmet-porcoes-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sansei Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191405_dc8d2146-774e-4172-864a-2105a9d4fcd5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sansei-sushi-bar-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JUST MEATS Sandwich Shop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021116_efebc8a9-7dc3-4e99-bb8b-3e422e0e7546.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/just-meats-sandwich-shop-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yujin Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo atual_yujinsushi.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/yujin-sushi-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comics Special Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261143_73487de9-c0ed-45e0-94f1-3096af960cea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/comics-special-food-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOMER PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050821_00963202-1064-4bd3-9bdc-b15adbddd16f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/homer-pizza-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Chapa - Dogs E Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_lacha_guers.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/la-chapa---dogs-e-burguers-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Maru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sushi_sushimaru.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sushi-maru-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santíssima Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011559_bd8f3cf1-de97-4e82-9992-e14d366ea308.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/santissima-pizzaria-ponta-de-baixo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PiDog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041107_c85a87f8-950e-4014-948e-90e4f000ac77.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pidog-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto do Tiuzinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051200_23dabe00-ae41-4921-9ec0-619ecd053d2e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/recanto-do-tiuzinho-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheff Oleranos Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081225_25635adc-6151-4c57-942c-3ad62f5023db.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cheff-oleranos-delivery-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fayre Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201535_93527994-fdf8-43ce-8b2f-00fa9e892403.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/fayre-burger-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GULA FOODTRUCK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221312_69ab5a0e-834e-4705-8b8c-bad5cc5244c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/gula-foodtruck-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Grillos Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/grillos_dgril_rante.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/dgrillos-restaurante-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pop Chicken Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pop_popch_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pop-chicken-delivery-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "sabor real lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181320_9452b94e-1f17-4c01-ac3d-c6282e3cb298.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sabor-real-lanches-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sopas Santa Helena",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704040910_c218e3345f34495891aa577133d87c76.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sopas-santa-helena-jardim-cidade-de-florianopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto A Lanches e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710142047_136e54c3-cc9f-403f-9a0f-b829e1479c9a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/canto-a-lanches-e-porcoes-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mini Kalzone Forquilhinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/image001_minik_inhas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/mini-kalzone-forquilhinhas-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Botekasso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706240910_10290d10-2f80-474d-8edd-79ded8c68116.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/botekasso-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_hambu_ojose.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/hamburgueria-sao-jose-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PokeNat Pokes e Temakis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/0c6fa36267cf3_HAEPOKE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pokenat-pokes-e-temakis-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduba Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/64293826e7f7f_SANDU_NCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sanduba-lanches-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Store Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709012009_28630722-e7e9-4416-be82-298380a8d80c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/store-espetinhos-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Juca Pato Pizzaria São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo jucaa_jucap_ojose.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/juca-pato-pizzaria-sao-jose-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor & Aroma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111431_0d34c7bfb89b4f84994897b37328b1bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sabor--aroma-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Connopizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101909_afdb8f5f-4494-4b68-99df-eb7930ba2ad8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/connopizza-fazenda-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tex Mex Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_texmexfood.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/tex-mex-food-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit Stop Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051954_b71967f1-ab06-4243-91d3-aafe046138d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/pit-stop-lanches-areias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kibe & Kebab",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705230943_661b86d9-dc45-464e-b405-41db3a8ee721.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/kibe--kebab-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140751_c53326b7-14b0-4f37-9c9e-1ef1387de11b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/chef-dog-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Worlds Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/11402721_3917_WORLDSBURGER.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/worlds-burger-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi MO Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190949_9fd3d51b-b946-4798-b2fc-0902e4df3c25.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sushi-mo-delivery-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Isa Crepe Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_isacrepecafe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/isa-crepe-cafe-fazenda-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cosa Nostra Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/19f8c7bd-c71c-4552-aea7-f5f2741460bb/201711291822_logo.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cosa-nostra-pizzeria-potecas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ACARAJÉ E CIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121328_aab0932c-d768-478f-aa8b-738ed0ffdb11.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/acaraje-e-cia-real-parque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caká Lanches - Cachorro Quente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_cakalanches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/caka-lanches---cachorro-quente-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Belarminda Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291154_50f464ac-d685-4341-8629-d301464a8f40.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/belarminda-pizza-serraria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Itapema Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704301414_b2b1d54a-dd01-4d62-94d3-1c4c29627773.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/itapema-burguer-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Fina Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200833_50abfcb9-cbd0-4e75-888e-e71e45e2d1b9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/restaurante-fina-casa-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduberia Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sandu_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/sanduberia-lanches-campinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro Quente Do Tio Chico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_cacho_chico.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cachorro-quente-do-tio-chico-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do Rio Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051417_b033a9ace9bb47e09b266db1b2f4c65d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/cantinho-do-rio-grande-forquilhinhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Catfish",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141101_d6589773-ff19-4a9e-b14a-1fa2a41f8c1b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/catfish-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperial Maltes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301430_578fb979-30a6-48af-9645-7fd8cb5e2c0f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/imperial-maltes-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MIRAGE BURGERS GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020912_b7fac739-229e-456d-a262-30ee9fe92112.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/mirage-burgers-gourmet-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ostras P. Becker",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703011502_OSTRA_ECKER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/ostras-p-becker-kobrasol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708180814_d7662c8d-7ed6-4818-a797-4bf489034efc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/rei-do-lanche-fazenda-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Dona Lurdes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706170955_8c6619c5-2ef4-424b-9cf3-74c845967b6a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-jose-sc/restaurante-dona-lurdes-barreiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOSE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

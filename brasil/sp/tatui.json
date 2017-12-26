@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Graziano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301117_90fb682d-01a2-42f5-bb7a-fb3d708fba17.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/tatui-sp/pizzaria-graziano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TATUI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

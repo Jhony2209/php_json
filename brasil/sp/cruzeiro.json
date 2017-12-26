@@ -1,0 +1,15 @@
+    [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Paulistana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707152101_b7d237cd-4595-4687-8a88-fef5288f6592.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/cruzeiro-sp/casa-paulistana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRUZEIRO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,4007 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200044_4e4f8718-ee57-46c9-8632-79978a7dc450.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/brasileirinho-delivery-jundiai-jardim-guanabara",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí do Japi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131818_1b5c37b7-a48e-4161-a67a-2e6f8892a505.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/acai-do-japi-recanto-quarto-centenario",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nice Salgados Bolos & Doces",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160906_059911f6-b7b6-4d9e-b087-ca73c3fe0f06.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/nice-salgados-bolos--doces-jardim-martins",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CACAU.COM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091225_cee2816d-bdf6-424d-845f-a98bf326ba13.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cacaucom-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wrapped Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_wrapp_ivery.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/wrapped-delivery-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "New York Pasteis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011008_d4a5b04f-521d-4905-870e-dd5424eae29a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/new-york-pasteis-jardim-sarapiranga",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261453_f8b60c19-8eb7-495f-8b48-24563a5fd28b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/delicias-express-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Kone Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzakone_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-kone-express-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//547x500x500x_CASADOACAI.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/casa-do-acai-jardim-torres-sao-jose",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Da Cidade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121035_319dfbc8-26ec-465b-b823-18938d007403.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/acai-da-cidade-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "L'APETITE RANGEL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071217_4c6cf72b-d1a9-485e-a008-53156c2ebb18.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/lapetite-rangel-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dr. Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/12_DRACAI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dr-acai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fun Donuts",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261012_06f6d939-7493-4f83-9dbc-71b7fba2ead9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/fun-donuts-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Gusth Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311314_47a7317b-b715-47dc-9473-c809694a3632.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dgusth-acai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mixirica Alimentação Equilibrada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201144_729f1691-a413-4daf-ab5c-a432cd8e53f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mixirica-alimentacao-equilibrada-jardim-pitangueiras-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gigante Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo gigante _gigan_astel.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/gigante-pastel-jardim-pacaembu",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Villa Roxa - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Açai Vil_ACAIV_AROX01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/acai-villa-roxa---jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coxinhas do coquinho Rosario Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290057_a2f9809b-81e9-4ddf-b4e8-2bc6b924d26a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/coxinhas-do-coquinho-rosario-jundiai-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baulhiario Aquário Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081007_446befa4-267a-4b5b-9975-f5f9a4988a75.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/baulhiario-aquario-jundiai-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNIGRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710221032_db9489bc-bbcc-4ed9-8654-1bf042bda3b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/fornigrill-jardim-messina",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tribo Heath food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101239_de796899-d5f6-4c5d-b2fd-540b22493e9a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tribo-heath-food-chacara-urbana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181604_a49ecb3c-bb1a-461d-aab0-5f8bf3ecaa48.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/china-in-box---jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hut - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200229_03c50d88-d825-439a-869a-d76b5e6f808a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-hut---jundiai-vila-rio-branco",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOMINOS PIZZA - Vila Rafael de Oliveira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221236_b36cd315-03de-4724-a633-130b020514fe.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dominos-pizza---vila-rafael-de-oliveira-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "7 Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051749_0138a393-155b-4a89-bf46-d108e24e6c6c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/7-sabores-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Autêntica esfiha Brasileira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160829_beb417eb-9858-4906-9867-3ffd9d6ff312.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/autentica-esfiha-brasileira-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CasaGrande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231158_95bf6d41-f0e2-4264-8818-6b22fe924eba.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/casagrande-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Champs Elysee Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111143_606205a7-ceee-4ce1-93ac-14ecdd403082.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/champs-elysee-bistro-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogazza da serra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280838_ac2b04c3-1b1b-4c3b-bc7d-19c90487dd3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/fogazza-da-serra-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lambuza Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231214_e5aba37c-776a-443b-ab3f-9304ec0155d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/lambuza-bistro-engordadouro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Sil Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041045_3adbd08a-d4ae-4277-9f36-8ba35bbd8353.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/lanchonete-sil-lanches-parque-residencial-jundiai",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEX GASTRONOMIA & TIENDA MEXICANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130909_b26b9abf-30c3-45cc-af08-5aadfa6051ad.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mex-gastronomia--tienda-mexicana-jardim-shangai",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mama Juice",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Mama Juice_MAMAJUICE.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mama-juice-jardim-florestal",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191309_7d7d6d31-75ea-4bbe-a122-240a52647ef7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mr-burger-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Siena Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161222_b5d5d543-aea9-403e-9988-544044d5b2bb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/nova-siena-pizzaria-jardim-quintas-das-videiras",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIAZZA DI AMICI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081934_e1414a7c-fff5-434b-81b2-f9073e354be5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/piazza-di-amici-jardim-petropolis",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA ITALIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712031428_0c15e32f-1534-4877-8fbc-876b497631dc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-italia-jardim-santa-gertrudes",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Puro Tempero Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041003_f2ff430c-db41-453a-ae39-e96972cae7ed.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/puro-tempero-refeicoes-jardim-colonial",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Gastaldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712261028_755d035f-3108-4da6-bc2e-356fc2c0d0e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-gastaldo-jardim-sao-vicente",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STOPPEN BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011244_3ee065cb-f55b-4b53-af06-9b83565c593f.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/stoppen-bar-retiro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sam Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051315_59d57bd3-1bd7-47bd-a199-8162d04c33b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/sam-sushi-jardim-das-tulipas",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Gulla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131016_0e826732-7ea4-4e36-ac9f-9f04a6b75129.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/santa-gulla-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seo Limão - Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121032_1eb8e28b-47e0-4901-96f1-af03966a2f86.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/seo-limao---refeicoes-parque-da-represa",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO DA MAMÂE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111549_3de5cf3d-1756-4314-b6ef-c146571e7eba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tempero-da-mamae-vila-princesa-isabel",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "THE BEST",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280757_9f281936-2aaa-4f32-984c-9ccb3993758a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/the-best-parque-da-represa",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Teste - Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/teste---maria-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X-TUDO Burger N' Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261530_d294c61f-a928-4c7b-914f-2dc391dde6ad.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/x-tudo-burger-n-beer-jardim-petropolis",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "master pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160804_bd294c22-f370-425a-95a6-35cf12c369a7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/master-pizza-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fry's Burgers - Leblon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707072002_c9cfef99-94be-4800-9109-56ad1d3a23b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/frys-burgers---leblon-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE TAUNAY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110903_e5514c27-b068-4b0b-8bdc-399486fae948.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-taunay-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UP LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050852_8e4b9188-854b-4f58-9f93-5dd537419eae.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/up-lanches-nova-cidade-jardim",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAR E RESTAURANTE DO NIVALDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011522_41989265-631c-4baa-8f74-08e8804ad8c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/bar-e-restaurante-do-nivaldo-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guinas lanches e crepes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210607_bbc77005-3148-4238-84ec-83289e67a683.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/guinas-lanches-e-crepes-vila-sao-paulo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Delivery Ravenna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701261044_PIZZA_VENN05.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-delivery-ravenna-jardim-shangai",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Calabria Pizza & Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO_FORNE_ABRIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/di-calabria-pizza--esfiha-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fuketas Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201147_3bc2265a-a44a-46a4-b80f-ef7bee424077.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/fuketas-pizzaria-jardim-guanabara",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Marcos Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702281206_DOMMA_PRESS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dom-marcos-express-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nono Giovanni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fa49fedb-d3b0-4963-88f1-c6899050b429/201711061354_img20.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/nono-giovanni-jardim-pacaembu",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snack Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071048_150967f7-ff91-4160-867d-a6ee1ee497f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/snack-mania-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Opção Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271056_0d48422b-da52-4f6a-aa35-0e1b8c4643ec.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/opcao-lanches-jardim-sao-vicente",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vandré Crepes e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050927_b34beb9e-841e-49a3-9f1a-c0ac847df819.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/vandre-crepes-e-lanches-vila-progresso",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mario",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//875x500x500x_PIZZAMARIO.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-mario-vila-guilherme",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "St. Pepper Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_stpep_pizza.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/st-pepper-pizza-jardim-bonfiglioli",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cia e sa_saborcia03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/sabor--cia-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Riviera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/21192068_1415_PIZZA_VIERA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-riviera-vila-garcia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snack Point",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181143_0d2cd6ac-54f8-4c36-a749-2473081bf0db.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/snack-point-nucleo-colonial-barao-de-jundiai",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha Gourmet Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701281842_ESFIH_NDIAI.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/esfiha-gourmet-jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tefabene Artesanal & Integral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/044f7b60c8e3f_TEFAB_SANAL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tefabene-artesanal--integral-engordadouro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Du Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/du cheff_duchef.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/du-cheff-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caverninha X Tudo Snack Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//870x500x500x_CAVER_CKBAR.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/caverninha-x-tudo-snack-bar-jardim-sales",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221206_abf16544-0fab-420a-b8a2-17cf7bd64b4e.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/emporio-pizzaria-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nostra Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/novacasaa_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/nostra-casa-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sportz N Burgr",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081016_778055b8-bac5-4ad3-ac7b-2fbade646117.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/sportz-n-burgr-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG DOG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220918_92cc4678-ed3b-4adf-bd82-3ffc1a6c5fe1.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/big-dog-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Ao Quadrado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041205_e9f72700-cd76-433a-914f-af2bb104e446.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-ao-quadrado-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperium Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo imperium_imper_pizz01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/imperium-pizza-vila-angelica",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Caipira Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707260829_3d0787ed-7586-45b9-b37d-fd686841d99f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/o-caipira-restaurante-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivero´s Pizzaria & XIS-Gaúcho Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707100853_a5ec42ef-3786-4ea5-8252-3a8886bb7d6a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/deliveros-pizzaria--xis-gaucho-express-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Via Sapore Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081108_d1c1a717-3337-4aa1-a578-19ffba8aab1d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/via-sapore-pizzaria-jardim-trevo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Lab Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221130_33f60e47-9628-4ce0-a028-fa1b8022f35f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/burger-lab-jundiai-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Marguerito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261732_12bd58fc-cdbb-4323-983d-1ff49620336f.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-marguerito-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Bar Galeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Pizza ba_PIZZA_LERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-bar-galeria-residencial-santa-giovana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prime Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211250_PRIMEBURGU01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/prime-burguer-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260819_43d02443-f67b-4bc9-8b30-74f4a2a36fd0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-mais-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panidi Restaurante Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301457_de3117b8-ad9f-4053-9367-813f11e5c65a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/panidi-restaurante-express-jardim-sao-camilo-novo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gui Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081019_22ea0d33-169e-4956-9f63-2ca44420ea83.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/gui-lanche-fazenda-grande",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Rei Leão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_PIZZA_ILEAO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-rei-leao-jardim-esplanada",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Centenária",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo centenar_pizza_naria.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-centenaria-recanto-quarto-centenario",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tella Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//876x500x500x_TELLAPIZZA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tella-pizza-vila-joana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061547_0e6ea8d7-bb5d-4062-a93d-935ef2322743.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cantinho-do-lanche-parque-almerinda-p-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box Deli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_boxdeli.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/box-deli-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Crispy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709160856_686b85da-1243-4407-ac4e-26357c717cab.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/king-crispy-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Larika's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181144_59a4ab66-b0d1-4033-b16c-ac6c8cf27105.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/lanchonete-larikas-jardim-california",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA HALEY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705160915_a7f7aacc-632c-4d2d-9076-4a2d7d2d3f9c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-haley-parque-almerinda-p-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Rango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040917_9633df3e-a0c3-4706-a65a-e12fef813de2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mega-rango-vila-garcia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Junior Crepes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/junior crepes_juniorcrepes.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/junior-crepes-jardim-das-tulipas",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Tudo Lanches E Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//877x500x500x_BIGTU_LMOCO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/big-tudo-lanches-e-porcoes-vila-isabel-eber",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mama Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_mamar_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mama-restaurante-vila-progresso",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feijão com Picanha Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//777x500x500x_FEIJA_RANTE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/feijao-com-picanha-restaurante-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Queroo Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/queroo_queroopizza.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/queroo-pizza-vila-isabel-eber",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tenshi Sushi Boteco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tenshi_tensh_oteco.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tenshi-sushi-boteco-jardim-paulista-i",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Léa Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dona lea_donal_ueria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dona-lea-restaurante-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Crepe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260849_b0f4c510-57b9-4f3e-8177-3bfa5b87c436.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/don-crepe-colonia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Napolis Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2_DNAPO_ZARI04.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dnapolis-pizzaria-vila-progresso",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Pizza Pan-Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/images_SUPER_NDIAI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/super-pizza-pan-jundiai-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Citta di Roma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/di roma_feija_zaria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/citta-di-roma-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "F.R Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211110_c8fbe3ae-6aab-4e1c-b16a-ac8ad149ef94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/fr-refeicoes-jardim-petropolis",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Rominele",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161322_PIZZA_INELE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-rominele-jardim-sao-miguel",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria nova napolitana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200939_69a34dba-bba2-4c1c-b3d7-276a2550001c.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-nova-napolitana-jardim-taruma",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vicenza Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221818_cf5dd515-8be6-4089-839f-26d9c6c4d5d9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/vicenza-pizza-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastéis de Vento e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091324_842dfa2b-0e25-4ad0-8dc8-41943303f606.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pasteis-de-vento-e-cia-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/32363ad0-67a9-4b8c-9e68-8d1d7c48b5e2/201711291653_19106.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/esfiha-mix-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Rhoma Esfiharia & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151455_64419ebb-fc28-4424-b544-37f47f5a7401.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/la-rhoma-esfiharia--pizzaria-vila-rami",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chuva De Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_chuva_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/chuva-de-hamburguer-fazenda-grande",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Prudente Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria prud_pizza_ndia01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-prudente-jundiai-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Naturebas Restaurante & Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702151405_NATUREBAS003.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/naturebas-restaurante--fast-food-ponte-de-sao-joao",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Farofa com Pimenta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071247_d52d9945-2572-4222-b86f-d011b5e71d40.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/farofa-com-pimenta-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terraço Bela Vista Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705290822_57d73517-8927-4f7d-bd7f-6d48b860e8af.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/terraco-bela-vista-pizza-bar-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Da Fazenda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180839_CANTI_ZENDA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cantinho-da-fazenda-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bello Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051044_cb75a68e-0b1b-4e6e-a7d4-bcf6be7327c0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/bello-pizzaria-vila-bandeirantes",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império dos Pães",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191826_8f205ae3-6c8b-4b15-94d3-5e08e19ac71a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/imperio-dos-paes-ponte-de-sao-joao",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Colonia Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo colonia _colon_izzas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/colonia-pizzas-jardim-pacaembu",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Giuseppe Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1055x500x500_DONGI_ZABAR.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/don-giuseppe-pizza-bar-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Sabor Refeições e Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100957_9637bf11-e5a2-4543-a291-5de41bba21c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/casa-do-sabor-refeicoes-e-marmitex-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STREET FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261218_57e3ea7f-d885-485f-a94b-95cdddfbcd91.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/street-food-jardim-colonia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burgguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041029_63915128b9f44790a8613c9b8ccafbc1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/burgguers-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Love Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081232_90577eae-02b6-4d64-9dfa-4258ae28a2d4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/love-burger-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria 21",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281538_94ed7ffa-26fc-4736-8a57-d37bf1b88dbb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-21-retiro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toa a Toa Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051219_b4299354-3920-4404-ba11-69d13bc811ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/toa-a-toa-restaurante-jardim-cica",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vianelo Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo vianelo _viane_press.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/vianelo-express-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria E Tapiocaria Dom Dias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dom dias_domdias.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/hamburgueria-e-tapiocaria-dom-dias-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maki Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241710_MAKISUSHIBAR.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/maki-sushi-bar-vila-formosa",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PONTO DO PARMEGIANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041224_9782dd01-e80b-4771-b604-d469fe314501.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/ponto-do-parmegiana-cidade-santos-dumont",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magoga Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221320_07a5a216ea8e4f5d9eceb2915f120a95.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/magoga-pizzaria-delivery-vila-m-genoveva",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Niko Restaurante e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Niko Res_NIKOR_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/niko-restaurante-e-hamburgueria-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alla Spina - Bar do Té",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191932_cbd9b25f-94e6-4a92-97d2-ba35eb668fba.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/alla-spina---bar-do-te-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Avenida Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo luis_luisf_oesme.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/avenida-restaurante-vila-maringa",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gudims Pastelaria & Choperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261342_d6290674-357d-4849-9848-5016d7ae70a2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/gudims-pastelaria--choperia-vila-nambi",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Bella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cantina _cantinabella.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cantina-bella-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Bella Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290930_e0c500af-a310-40a4-bf6d-a2a5c2374071.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cantina-bella-pizzaria-residencial-terra-da-uva",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brunholi Grill E Pizza - A La Carte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//887x500x500x_BRUNH_CARTE.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/brunholi-grill-e-pizza---a-la-carte-ponte-de-campinas",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogs Ju Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290838_bdb019aa-75c2-4daa-b605-006092f514af.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/dogs-ju-lanches-vila-joana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maremonti - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2016_LOGO_MM _MAREM_NDIAI.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/maremonti---jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/villa_villa_zaba03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/villa-pizza-bar-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kilomel Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kilomel_kilom_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/kilomel-refeicoes-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza & Dog -  Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201009_0afaca0e-03a2-4217-b187-719b3995ffd3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza--dog----jundiai-vila-rio-branco",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arabic Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241352_43a245a2-a396-4494-bfbb-c2112b82c79d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/arabic-food-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA BARBOSA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709112117_a56ef371-c97d-4897-889f-c36b4cd919c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/la-barbosa-fazenda-grande",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco Do Joca Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_botec_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/boteco-do-joca-restaurante-vila-liberdade",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ling Ling Culinaria Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ling-logo_lingl_ental.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/ling-ling-culinaria-oriental-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gi & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251343_fcd43e21-7e33-4079-99be-a439c035e125.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/gi--cia-vila-municipal",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Porpetone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logotipo fina_DONPORPETONE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/don-porpetone-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Point 10",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161554_a62ca1eb-c012-486b-8cb5-efaf518ae7de.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-point-10-parque-sao-luiz",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Frita Express Jundiai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_fr_pizza_ndiai.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-frita-express-jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NOSSA CASA RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_nossa_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/nossa-casa-restaurante-vila-isabel-eber",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Belli Churrascaria e Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171620_7a094cc2-b73c-4bba-a67f-f138e0a2da78.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/belli-churrascaria-e-refeicoes-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Quinta Das Videiras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704270825_72051afc-f34c-4e03-b913-ae1a60f3a183.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-quinta-das-videiras-jardim-quintas-das-videiras",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Tempero De Moça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/9e7839ae-b78b-48ea-9007-88494d413d7d/201712010840_logop.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-tempero-de-moca-cidade-luiza",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chegado's lanches e porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241400_0de391c7-cbd8-4783-846e-dcb6917b0aaf.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/chegados-lanches-e-porcoes-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deck Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171527_ca61f6ee-34b0-446f-8994-aa5967e80307.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/deck-hamburgueria-artesanal-vila-princesa-isabel",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ROYAL BURGUERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/royal_royal_guers.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/royal-burguers-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Lanchonete Fabrizzio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011816_5e43445c-0c0d-4f5c-8c0d-8ba94fab3afa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-e-lanchonete-fabrizzio-vila-progresso",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100931_322e2c9a-7d40-4836-83ff-725987b70bb8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/americans-burger-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Do Alemão - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bar do alemao_bardoalemao.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/bar-do-alemao---jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sonkei Yakisoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sonkei 2_sonke_ssoba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/sonkei-yakisoba-vila-santana-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MACERATA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar524_pizza_erata.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-macerata-parque-cecap",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Tal Do Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/otal_otald_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/o-tal-do-hamburguer-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Potato Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Mix Pota_MIXPO_NDIAI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mix-potato-jundiai-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIMPA`S RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181057_e17a0125-38cf-4e1f-adb9-ac9676c42135.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pimpas-restaurante-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trattoria Food Trailler",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190927_d43c05fd-fa44-4a20-a8eb-ca118e867c3f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/trattoria-food-trailler-jardim-da-fonte",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARMITEX JUNDIAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101010_3221f59f-ccb3-4e11-84c2-80b4f5eb2da0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/marmitex-jundiai-jardim-paris",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Tempero Familia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tempero famil_TEMPE_MILIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/disk-tempero-familia-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "J.R Comidaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290952_52b064be-5d16-474b-94e5-239f62d1b4af.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/jr-comidaria-jardim-shangai",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef 2 Rodas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301422_bfa624f3-a3ea-4b5a-bcb3-1713c29e84b7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/chef-2-rodas-jardim-brasil",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LANCHONETE E RESTAURANTE BOM DEMAIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021014_7e63553e-8a93-4ed2-9fab-412a591073d9.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/lanchonete-e-restaurante-bom-demais-vila-nova-jundiai",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Limone Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210855_LIMONESUSHI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/limone-sushi-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_recan_pizz01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/recanto-da-pizza-jardim-das-tulipas",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fit Burgers - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241234_96fcebd4-7f23-4136-aacd-eb662f6fb129.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/fit-burgers---jundiai-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Dois Irmãos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dois irm_resta_rmao01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-e-pizzaria-dois-irmaos-poste",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUINTAL RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271100_3670b699-54ef-47a4-aa33-bd3959c60041.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/quintal-restaurante-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Joe Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//249x500x500x_JOESUSHI01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/joe-sushi-vila-arens-i",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gourmet na Rua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161608_d208be9f-e8fe-41e3-9b10-f440ef088be0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/gourmet-na-rua-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanharia Pison",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pican_pison.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/picanharia-pison-jardim-florestal",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Família Campos Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708050847_850c1cf1-49f4-403b-af95-b7e552c42eaf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/familia-campos-restaurante-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Holic",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091124_20c3f6bb-ce8a-418d-9031-ec2b0b5958a2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/burger-holic-jardim-cica",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food truck - Combus Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221334_1bc34927-b079-4cf5-958c-b9258bcd0f3e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/food-truck---combus-oriental-food-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JetFast Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709262021_a4e4d062-d36b-492b-a3b3-3a149a79718f.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/jetfast-jundiai-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Verde Tentação",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703222032_80d2a44d23b34b2ca4826bbf7a5b6cbe.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria-verde-tentacao-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Vegas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_burgervegas.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/burger-vegas-chacara-urbana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arabi's Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041457_a156766b-839c-4966-9f01-c4ec0badae1c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/arabis-esfiharia-vila-mafalda",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Billy King Da 14",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//570x500x500x_BILLY_GDA14.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/billy-king-da-14-jardim-cica",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boali - Jundiai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Boali.logo_BOALIJUNDIAI.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/boali---jundiai-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mega_megapastei01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mega-pasteis-medeiros",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alabama Prime Dogs & Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3e8bf6c2-ad0f-4803-8012-47059e4097ea/201712092024_logoa.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/alabama-prime-dogs--burgers-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frutto Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706210919_98856089-4fe8-4bab-accc-476a70f8225a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/frutto-acai-jardim-das-tulipas",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakian Temakeria E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ba991973-f648-4b0d-b937-9b14ff0833e7/201711291644_origi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/temakian-temakeria-e-cia-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dídio Pizza Delivery - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181642__DIDIO_NDIAI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/didio-pizza-delivery---jundiai-jardim-paris",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero Di Vó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081555_a5b005c0-9b24-4654-935a-2e01bb4e8196.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tempero-di-vo-chacara-morada-mediterranea",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vila Rio Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301431_93bc3084-a6c5-4a85-ad1d-d34d673307a4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-vila-rio-branco-vila-liberdade",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba Factory - Jundiaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nova logomarc_yakis_ndiai.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/yakisoba-factory---jundiai-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Pietra Pizzabar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231510_3d53d995-3bb9-4596-8d26-0e9e01fdae21.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/la-pietra-pizzabar-jardim-caxambu",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Taverna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//537x500x500x_ATAVERNA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/a-taverna-jardim-dona-donata",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteko do Mané",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191049_2c0675d5-3715-4621-a782-e4f776da2e94.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/boteko-do-mane-vila-sao-joao-batista",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi House Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704282105_8ea05e4c-f111-4bd5-accc-27c04a815c75.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/sushi-house-delivery-jardim-estadio",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Craft's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280929_f0d0ded6-1d34-4c29-a4bb-7cfe5fb130a9.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/the-crafts-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "jk lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091014_801bbacd-c602-4d72-bfc2-b1f27b796e81.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/jk-lanches-morada-das-vinhas",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estancia Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo estancia_estan_press.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/estancia-express-jardim-bonfiglioli",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Da Léia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/img-20160713-_resta_aleia.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-da-leia-parque-sao-luiz",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pitstop Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051100_3914b29d21404e8295aaca4e837f1e95.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pitstop-lanches-recanto-quarto-centenario",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bidu Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706070713_d9d005e7-6cf0-4850-be66-10a86982d7af.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/bidu-lanches-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lets Eat Jundiai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo2_letseat_LETSE_NDIAI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/lets-eat-jundiai-chacara-urbana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mei Mei Jundiaíshopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/meimei_meimei.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mei-mei-jundiaishopping-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rancho Caipirão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261529_3c202158-f13f-4b9a-b621-bbb1e0f9d8d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/rancho-caipirao-rio-acima",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O KAZEBRE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706191534_417380aa-24ee-4259-912f-fbfe12882010.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/o-kazebre-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nobre Burger Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161719_d90222a6-d599-4f38-bb7c-56a40cdce747.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/nobre-burger-bar-jardim-ana-maria",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Tempero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051621_e9bcd3fb-d710-47ad-a25e-11b774ff5814.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/bom-tempero-vila-joana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Canadense",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Restaura_RESTA_DENSE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-e-pizzaria-canadense-vila-formosa",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropically",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140847_8a4668b3-be76-4448-9574-6b1548c5f168.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/tropically-vila-joana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império do Pote",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201611_0926a605-fbad-4594-91d9-d6b3dd77ffb1.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/imperio-do-pote-nova-cidade-jardim",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parrila De La Sierra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221438_PARRILA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/parrila-de-la-sierra-jardim-das-samambaias",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha São Miguel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703021203_COZIN_IGUEL.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cozinha-sao-miguel-jardim-planalto",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ana Lanches e Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ana_anala_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/ana-lanches-e-refeicoes-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom do à la carte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bomdo_carte.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/bom-do-a-la-carte-vila-arens-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHURRASQUINHO NUNE`S GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111205_c18012d3-9aee-4ea4-a27d-ba09d5b09cf3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/churrasquinho-nunes-grill-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COLAB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703131028_PORCOBANDIDO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/colab-jardim-sao-bento",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chaplin",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chaplin_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/chaplin-vila-progresso",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Do Espetinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ciadoespetinho_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/cia-do-espetinho-jardim-florestal",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "De Mangiare",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/damargiare_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/de-mangiare-bela-vista",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Lanche Galeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/diskgaleria_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/disk-lanche-galeria-jardim-sao-vicente",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Giuseppe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/domgiuseppe_logo.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/don-giuseppe-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo emprio m_chope_neiro.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/emporio-mineiro-colonia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Firenze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/firenze_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/firenze-parque-residencial-eloy-chaves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jc Pizzas E Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_jc_pizzas.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/jc-pizzas-e-esfihas-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ki lanches_lanch_kilan.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/ki-lanches-residencial-terra-da-uva",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ky Delícia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111756_ffb45c58-62a2-4406-aaf2-b677eb4dbf93.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/ky-delicia-jardim-santa-gertrudes",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Limone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_limone.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/limone-vila-virginia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ling Ling",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lingling_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/ling-ling-vila-vianelo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mania De Chocolate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/maniachocolate_logo.png",
+        "priceRange": "$",
+        "servesCuisine": "Chocolates",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/mania-de-chocolate-centro",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milano Disk Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/milano_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/milano-disk-pizza-vila-torres-neves",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA  D´NAPOLI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241648_PIZZA_APOL09.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizzaria--dnapoli-vila-nambi",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Da Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzadacasa_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-da-casa-jardim-florestal",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Frita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzafrita_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/pizza-frita-anhangabau",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Portiamore",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/portiamore_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/portiamore-jardim-california",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Araras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/araras_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Regional",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-araras-vila-progresso",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante La Baguette",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_uette.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-la-baguette-jardim-ermida-ii",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Villa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo villa_resta_villa.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/restaurante-e-pizzaria-villa-parque-brasilia",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seletto Restaurante & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161519_SELET_ZARIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/seletto-restaurante--pizzaria-vila-boaventura",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Thoscana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/thoscana_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/thoscana-jardim-florestal",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Verace Napoletana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/verace_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/verace-napoletana-parque-do-colegio",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zyfras Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/zyfras_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/zyfras-restaurante-vila-sao-paulo",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "teste",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Doces E Salgados      ",
+        "url": "https://www.ifood.com.br/delivery/jundiai-sp/teste-vila-joana",
+        "address": {
+            "addreddtype": "PostalAddress",
+            "addressLocality": "JUNDIAI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

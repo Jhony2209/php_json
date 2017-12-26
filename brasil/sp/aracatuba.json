@@ -1,0 +1,1149 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dhuá A Casa do Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021051_6476c6d9-acc4-4ac0-9811-e362cfb4fcf5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/dhua-a-casa-do-hot-dog-jardim-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LR MARMITEX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301256_fbf2b6d0-87ff-4414-a591-67ffdf0717bf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/lr-marmitex-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Victorio's Grill Restaurant Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230946_14abe548-e978-4605-8a37-c5bcd13a2ec5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/victorios-grill-restaurant-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Borogodó Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071111_6671f701-473e-41d1-9066-3fbf17ded3f3.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/villa-borogodo-restaurante-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pekin Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pekinbrasil.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pekin-brasil-jardim-nova-yorque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dely Padaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061526_95248de2-c9f8-4b8c-9f65-08164be694ec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/dely-padaria-e-restaurante-saudade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Pontinho Doce",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121601_4550eb1c-31dc-452d-8ef7-85290e879631.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/restaurante-pontinho-doce-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fring'S Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_fringsburger.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/frings-burger-jardim-do-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Colher De Pau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051053_489dc241-b959-4681-957f-4006771b8ae8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/marmitaria-colher-de-pau-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Do Reino Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7d857d45-859e-4bf6-af7e-cadb539af0f6/201711230936_pp.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/do-reino-marmitaria-conjunto-habitacional-manoel-pires",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Araçatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200015_854f4c6c-ff3b-4bea-8716-2d10ea53a79f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/brasileirinho-delivery---aracatuba-vila-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "1º Opção Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171158_4b0b24b7-bc6a-45c9-8dd9-e29cee2e7925.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/1-opcao-lanches-conjunto-habitacional-hilda-mandarino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bun's Burguer - Araçatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061052_dc623fbc-6834-4b47-b0ab-71f1018c0841.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/buns-burguer---aracatuba-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cimá Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191051_2684d990-1535-4000-92ec-11598cbba916.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/cima-lanches-umuarama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Coruja Sorvetes e Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271630_e3b69184-8b70-4a9d-8e33-22eeccda6c37.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/dona-coruja-sorvetes-e-acai-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXPRESS (PETISCOS & SALGADOS)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181052_5b0d1f9b-17d7-4413-b9a5-f23b90fdfbe0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/express-petiscos--salgados-conjunto-habitacional-mao-divina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango and Fritas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191317_26da3d47-6cfe-4dd1-b157-9a05d40cda8e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/frango-and-fritas-jardim-nova-yorque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOT'S HOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021011_d602adc2-8352-4463-a013-a24fab227024.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/hots-house-jardim-aclimacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Heloá Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081342_2ab9d974-3b3b-4381-8377-e9cbd607154a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/heloa-lanches-residencial-jardim-atlantico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hortelã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111724_625b2116-0f97-4e14-bd24-520d02784059.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/hortela-bairro-das-bandeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kampai Gastronomia Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181437_d91d2f3e-ae45-402b-afc6-f9728d0df127.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/kampai-gastronomia-japonesa-bairro-das-bandeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Karamelada Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230758_58870e76-6036-456f-9bb1-1c19cc4f05d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/karamelada-restaurante-conjunto-habitacional-hilda-mandarino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marcão Lanches e Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240925_10936b5e-6e8c-4ceb-9817-507693816e43.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/marcao-lanches-e-refeicoes-jardim-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Santana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211051_db9704e8-9928-44e0-b944-625ce7d9e249.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/marmitaria-santana-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271137_8f4c4f57-e302-43fa-80a5-e5b49d473283.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/mr-potato-jardim-nova-yorque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paulinho Hot Dog Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191240_9ca86807-7ba3-42c7-bdb4-f89f5aca3700.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/paulinho-hot-dog-gourmet-jussara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Firenze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281317_a6d600f0-c84c-4acd-bc01-6a718c324359.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pizzaria-firenze-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Cupim na Telha Casa São Paulo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110850_de6eaa6e-0511-4f2a-92b5-ff8ffa905762.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pizzaria-e-cupim-na-telha-casa-sao-paulo-novo-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Q D Mais Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280915_c519f0e0-5bf9-4fb3-a16f-117ad03e6da9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/q-d-mais-lanches-conjunto-habitacional-nossa-senhora-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi PRA JÁ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271346_646e7bf4-910f-4936-a1d1-9cffdae4ac03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/sushi-pra-ja-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOTAL ACAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191317_f5cfaba9-87bc-4fe2-89d6-474959747e08.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/total-acai-vila-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Uni Açaí - Araçatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121649_22e306e1-2a41-4a81-a3ee-255a81acfe9e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/uni-acai---aracatuba-umuarama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vila Brasília Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160744_8515add3-2ff0-4a3e-b0cd-c3737ee9a2d1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/vila-brasilia-lanches-vila-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vilarejo Vó Nefa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211201_87d40576-e7a8-4d9b-9201-16ab72b76a53.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/vilarejo-vo-nefa-vila-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia Dogão Cupim E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702110742_CHOPE_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/choperia-dogao-cupim-e-pizzaria-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vite Forno e Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260830_724f536d-7ba4-49e9-9e8e-356d9959c5f2.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/vite-forno-e-pizza-vila-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Florenza Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051735_79adf8c8-a4e3-45c9-b19a-1d23ecc43058.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/florenza-pizzaria-delivery-conjunto-habitacional-hilda-mandarino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japan Mix comida japonesa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080801_89ef3f06-5381-4d48-a11f-e016358fde58.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/japan-mix-comida-japonesa-delivery-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Oliva Pizzaria - Araçatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo donna ol_donna_atuba.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/donna-oliva-pizzaria---aracatuba-saudade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Soninha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031517_SONIN_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/soninha-lanches-conjunto-habitacional-etheocle-turrini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Celso Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221500_CELSOLANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/celso-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Das Arabias Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702121621_SABOR_HARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/sabor-das-arabias-esfiharia-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parada Do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701201343_PARAD_ANCHE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/parada-do-lanche-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alex Lanches e Acai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706181936_9c02dc9b-0b6e-42ac-87b1-212a91549ac3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/alex-lanches-e-acai-amizade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Valter Barman",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709010755_d9674849-419b-4d58-ac13-f6dea1e34aea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/lanchonete-valter-barman-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Marguerita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231548_d06b9e9a-b6dd-40dc-bfbb-428feb990e60.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pizzaria-marguerita-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garfo Dourado Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709270955_f4d06cdc-1ba4-4389-9f08-646119740d28.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/garfo-dourado-restaurante-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Amelia Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702250951_DONAA_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/dona-amelia-lanches-dona-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feijoca a Casa da Feijoada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111143_0e89a168-32e5-4489-998c-0a28b3e7a560.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/feijoca-a-casa-da-feijoada-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211028_50f798aa-7500-4173-b49b-b28fdf3bf4dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/dogao-lanches-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Va Bene Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_vaben_ivery.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/va-bene-pizzaria-delivery-sao-joaquim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shekiná Burger & Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241844_828d650e-6a3f-46ee-ac41-7a9db4167abb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/shekina-burger--acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Pinguê - Araçatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/4215131c1c984_LEPIN_ATUBA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/le-pingue---aracatuba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comi na Kombi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231254_2fed613c-698e-41c0-90ed-ce139b72bf72.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/comi-na-kombi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Japão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301455_d438ebf6-4d43-45c3-bf2a-fc4751476248.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pastelaria-japao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Muffato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290940_2d545cca-7134-4441-b093-57b3a6fddd32.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/subway-muffato-saudade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Di Pompeo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231400_6b411ab9-7f20-4842-9103-fbc36f07a4c5.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pizzaria-di-pompeo-vila-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Escondidão Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041817_4ccca04b-da21-4aeb-b21e-2b8498198081.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/escondidao-bistro-umuarama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fritto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091502_23a26a8b-052d-4a12-9198-627a5b7c1aa6.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/fritto-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capitão Jack Hot & Chilli Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jack_capit_lidog.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/capitao-jack-hot--chilli-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Du Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011152_62bad4e2-3ab9-45e7-b21f-7e71fc7b407f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/ponto-du-hot-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nino's Bakana Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241030_51e2a1ad-46aa-407c-89f9-177a58caa71f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/ninos-bakana-restaurante-e-pizzaria-sao-joaquim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "STORTI'S FRANGO NO BALDE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151044_5bfbc9f9-a1f3-461c-97ec-e557440a132f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/stortis-frango-no-balde-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181816_e49729ee-d1b4-4453-876e-b62642413c68.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/mineiro-lanches-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "San Dely",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050825_f9c53487-2a38-4eb6-a2bf-f2493aaebeb1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/san-dely-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Miss Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211137_92bd9643-2fac-4f7e-b202-a2cc0874916d.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/miss-gourmet-vila-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240912_34a4a9be-45b0-4e26-a896-3bf45a493f71.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/pizza-cone-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vila Real",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150945_03a99831-467d-44b3-b34e-af16aa58f249.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/restaurante-vila-real-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Hamburgues",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201050_e52c806d-bca6-44c3-977b-88c972f12b48.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/o-hamburgues-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giovana's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240820_3d38f24b-a349-461f-8dba-c3be39ee7981.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/giovanas-lanches-dona-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cupim Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702200836_CUPIM_IVERY.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/cupim-delivery-conjunto-habitacional-hilda-mandarino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida do Dia Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111559_37f5c641-f6a1-4cff-ba75-630b9f05b1c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracatuba-sp/comida-do-dia-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

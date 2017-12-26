@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041503_a2068b35-ba94-4418-b146-00af76d596c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vargem-grande-paulista-sp/top-batata-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARGEM GRANDE PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Katana Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120930_c33a3941-a42f-4e71-8da3-02945c44a2f8.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/vargem-grande-paulista-sp/katana-oriental-food-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARGEM GRANDE PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,159 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Botequim da Praia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211127_266be188-b02d-4945-98b7-2da6dd5b3395.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/botequim-da-praia-cassino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bonna Pasta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131722_9d095049-edaa-4a21-8f75-62fed08ce0d2.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/pizzaria-bonna-pasta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BLUE DOG Cachorro quente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200824_f8781ed9-b765-4152-83c6-100841704110.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/blue-dog-cachorro-quente-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Prime Rio Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200206_23f3390d-32bb-498e-91b1-46e362b40eb7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/pizza-prime-rio-grande-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel DU CHEFF",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706270907_4f26b215-5de5-4646-a10b-fcd7ce107582.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/pastel-du-cheff-vila-juncao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_mrbatata_MRBATATA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/mr-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703192031_CASABURGUER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/casa-burguer-cassino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia das Quentinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261007_95639548-3f69-4085-aa22-30c01727070c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/cia-das-quentinhas-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estaleiro da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Fj5fONJBqo71_ESTAL_PIZZA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/estaleiro-da-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nella Pietra Rio Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//hEFq5gZytwoX_NELLA_RANDE.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-grande-rs/nella-pietra-rio-grande-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO GRANDE",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,47 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SOU + VERDE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131939_f55f4887-abb4-4379-9c9a-085e33784b9e.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itapema-sc/sou--verde-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mahachi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081158_eac923a5-272c-4622-8a3b-2891485d7b5a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/itapema-sc/mahachi-sertao-do-trombudo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DiCasa Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220912_2a04a0b2-0d89-40e2-865d-8a4f24b5d926.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapema-sc/dicasa-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

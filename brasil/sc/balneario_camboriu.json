@@ -1,0 +1,2474 @@
+[  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef's Café BC",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201015_adc09df7-db6c-44cf-b0c1-5f740379c28f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/chefs-cafe-bc-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duff Bar e Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270913_e5d7c423-e310-45c5-a4ec-2ff651f6bd9b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/duff-bar-e-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Da Gringa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251409_4aeaca71-d2bf-4217-8b0b-432add301928.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pastelaria-da-gringa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Di Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/55_casadipastel.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/casa-di-pastel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Tropical",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701251321_SABOR_PICAL.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sabor-tropical-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Bolo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271335_1d94f9d0-781c-4c97-a56b-c9d43f882e97.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/divino-bolo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Concept",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251832_56c7589f-76bc-4690-a56b-8f38f3047eee.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/acai-concept-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria e Batataria dos Amigos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261019_7f0ad0cd-4d16-41af-ac3f-890c2a762349.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pastelaria-e-batataria-dos-amigos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Bc",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200013_99f55c38-30b2-4385-8bd6-46998d7e0c8a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/brasileirinho-delivery-bc-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Balneário Camboriú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181649_85215a89-7744-45d4-bb6a-56e43dc20c4c.bmp",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/china-in-box---balneario-camboriu-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Balneário Camboriú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221250_a0a53f4c-f3d1-4353-a6ce-c4c2043447ff.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/dominos-pizza---balneario-camboriu-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Prime Balneário Camboriú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200205_57c5c745-67f6-417a-97f2-26ce48f5e4d3.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizza-prime-balneario-camboriu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BATATA DO BATATA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711252255_6bc0d97b-5ec4-4c51-b4f0-b82adbfe6336.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/batata-do-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COMPANY PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071022_305ecc0e-a7bf-4fdd-8158-47e6897d67f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/company-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Costa Brava Paellas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131439_1f822eea-1616-4d90-b97d-8fbe3038a3f4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/costa-brava-paellas-aririba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DAIAG Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301332_8e5bfa64-ec2c-40ac-a836-a86bf00def87.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/daiag-sushi-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DAJÚ Tapiocas Batatas Recheadas e Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271645_43b9aa20-881c-4c5e-8a79-5a4fb4d9521a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/daju-tapiocas-batatas-recheadas-e-massas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712220801_5be8d5bc-ae67-47c7-a712-36fd6df4a426.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/emporio-da-esfiha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gaucha Restaurante e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011759_f663b25c-e786-46f0-852f-415ed32ed27f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/gaucha-restaurante-e-lanchonete-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Barbecue",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020825_83c76653-9032-4d8f-93b5-6ebfaf5fd9df.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/hamburgueria-barbecue-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JS FAST FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141518_144f6329-f5ac-4ab4-8ef1-6b5664cbbfc1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/js-fast-food-municipios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Ribs Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211411_a5ccc3a5-58bc-4ca2-99e5-1c035c5d4087.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/lanches-ribs-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MINISTRO BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111401_e50b7adb-dfd1-4289-854c-87317abc163e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/ministro-burguer-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Santiago",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101013_e4871f72-65e8-4d26-a884-ec2e316bf3c8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pastelaria-santiago-municipios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedreira's Burger Cafe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181722_18fc8380-f638-4a5e-8683-f199c298b03c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pedreiras-burger-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Q Delicia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190936_4a8f9451-8a55-4976-be34-e02b60b94769.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizzas-q-delicia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Poke Jack",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230934_8d267e60-2e25-4e47-8563-e7dc59490ee9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/poke-jack-praia-dos-amores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sultan Cafeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231259_3314e130-a012-491d-9dc3-cbb1a145ed80.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sultan-cafeteria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Kazi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271000_9c5935e2-fb95-4782-b720-61ed205fa290.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sushi-kazi-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wraps Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021223_303350b6-c82d-4b44-9476-94796c82995e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/wraps-fit-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "lennons big dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011528_cbcf0b37-8b1a-404a-95ce-4440a176f186.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/lennons-big-dog-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "padoca lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301707_639209c5-4b35-4e16-a6a4-5525c6449cf5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/padoca-lanches-nova-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ilhas' Quiosque",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161034_ILHAS_OSQUE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/ilhas-quiosque-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calamax Esfihas E Beirutes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071050_ee7fe8d011034e1b891f777c08f769d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/calamax-esfihas-e-beirutes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capithão x",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061730_6a9c6c70-cf2a-4bfd-b87b-87c5d19372ad.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/capithao-x-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mestre do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261102_ba9361ba-2bc5-40b9-bf65-ef0008607dc3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/mestre-do-sabor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tudu Di Bom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/874dee87-3d95-442f-8645-639dbbbb0b99/201712201008_20479.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/tudu-di-bom-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VegCook Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040837_622b4847-4aa7-4cec-a070-4dda45d7eb15.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/vegcook-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kid'licia Pizza Cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291047_1fd47f38-2900-4dd4-9b44-a93245bb91ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/kidlicia-pizza-cone-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famiglia Mercaldo Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo famiglia_famig_zeri01.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/famiglia-mercaldo-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SENHOR FABAUM ESPETINHOS NOBRES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181722_809be937-3a13-4df5-a052-1652787833a4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/senhor-fabaum-espetinhos-nobres-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Black Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_blackburge01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/black-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Terrier - Dogueria Tradicional",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705281002_37049917-b36f-4ad0-afc8-182b1ea89552.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/o-terrier---dogueria-tradicional-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A TÁ NA MÃO!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241555_1c2d2a2d-2872-4866-bd48-f7af0d09d05a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/a-ta-na-mao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza dos Vilões",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/viloes_pizza_iloes.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizza-dos-viloes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211218_PASTELECIA04.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pastel-e-cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A´Roma Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_aroma_zeria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/aroma-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Altas Horas Lanchonete E Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031010_0399f138-e22d-4167-bb85-d6e3368a8e3b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/altas-horas-lanchonete-e-petiscaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Village Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161009_e6d31d5e-6a1c-4d6c-9942-8a1426716d39.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/village-pizza-bar-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "440 Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO_440BE_ELTDA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/440-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NIGHT SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240938_4e9c4ec7-c216-458a-a66f-37dae9f9aa19.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/night-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Gourmet Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151156_c7a9c024-fafc-4e98-96a8-899e3c23cf3d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizza-gourmet-delivery-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SERRANO GRILL - Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211623_cc94907b-9665-4506-885e-7750be1bdf60.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/serrano-grill---hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pampa's dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040903_38f6f13c-5ce4-4765-9a32-f5270e534433.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pampas-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shawarma Árabe Mr. Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/019ddbb7-71b1-4873-8934-e05377fdece7/201711302250_2da2c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/shawarma-arabe-mr-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Bier - Bairro das Nações",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130917_1c4d7e03-bf77-47f5-99d9-a939e87eb1ff.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizza-bier---bairro-das-nacoes-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brava Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bravaburguer_bravaburgu01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/brava-burger-praia-dos-amores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Charlie.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040959_db434331-8f5e-44af-be72-6a0f3bd842c8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/charlie-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Burger Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230902_16f7fdc5-1bda-46eb-ba6e-8dfb6816a88b.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/top-burger-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Pollo Galeteria & GastroBar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231122_2bbdb31e-92b0-4c43-8682-3e3d5c6f0349.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/di-pollo-galeteria--gastrobar-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refúgio Açaí - Balneario Camboriu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161317_889da91e-c7fa-4ad8-a542-84a9b4a3599c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/refugio-acai---balneario-camboriu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delice Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/oi_DELIC_ZARI01.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/delice-pizzaria-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NAKAYOSHI SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151336_a13de0b9-df9a-4ff6-b717-f26b31479c85.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/nakayoshi-sushi-praia-dos-amores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Dos Sabores Pastelaria e Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211323_9ed68944-c958-49f5-a073-4487df1d58f8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/rei-dos-sabores-pastelaria-e-burgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X-Picanha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/placa ifood 2_xpica_nches.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/x-picanha-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cedrus - Restaurante Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311443_d971ed41-d80f-4135-be4b-c47143d0e08d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/cedrus---restaurante-arabe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogao Foster",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dogaofoster.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/dogao-foster-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Campano Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_campa_urger.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/campano-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nerds com Fome",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111550_0adb3976-aedc-4330-bbaf-0ffd819f807c.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/nerds-com-fome-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maui - Cozinha Havaiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703111943_MAUIP_MAKIS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/maui---cozinha-havaiana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Royal Frangos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101302_506bbaa3-dc62-4d80-9790-977bb8776d90.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/royal-frangos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alô PIZZA Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo alo pizz_alopi_ivery.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/alo-pizza-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "General Pepper - Hamburgers E Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo1_gener_secia.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/general-pepper---hamburgers-e-cia-pioneiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Mamuska",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701300837_RESTA_MUSKA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/restaurante-mamuska-barra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shawarma do Neto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260834_a5d1d6c3-67fc-4f3b-a54f-bafbf955daf4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/shawarma-do-neto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shark Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211442_2a16740c-9ee8-402c-b116-ba513bfcb747.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/shark-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/koisushi_koisushi.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/koi-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lima Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261253_b615cabc-3553-44a4-9e7f-62ad17093efb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/lima-hamburgueria-barra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sucosalad",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230802_e02e4f8a-1420-469e-9942-71584ddb477b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sucosalad-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fries Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo___FRIESFOOD.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/fries-food-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nani",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021010_36885e16-74ab-477c-92c7-7397b6da273d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizzaria-nani-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Max's Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO MAX_MAXSR_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/maxs-ristorante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Radikal Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071618_ea7700a7-1e0a-49ea-8494-d5b193ace31c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/radikal-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAMBURGUERIA GAUCHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231649_41205cb0-7637-4233-819e-1edb5da5c344.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/hamburgueria-gaucha-nova-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dc Lanches E Porçoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181804_ff305710-50e9-4078-9f4a-3f5579d992cb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/dc-lanches-e-porcoes-sao-judas-tadeu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201711_CIADASPIZZAS.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/cia-das-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CRISTAL AÇUCARADO CONFEITARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261252_1c1f21f7-5453-49bf-b52e-adbc24d154bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/cristal-acucarado-confeitaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Yaki Culinária Chinesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo chinaa_china_inesa.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/china-yaki-culinaria-chinesa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Q Massa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311416_ab4d06029ba34d3bbbccbe5df6f8086e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/q-massa-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temaki Art",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/temaki_temakiart.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/temaki-art-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calliba's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271126_92b7007a-69d7-4a65-81c9-f634bbe5793b.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/callibas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Torradão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121550_60b5d0c5-6e73-4448-b19d-e4cfa89c4524.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/torradao-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mh Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311240_e1857923-043e-4852-ab93-2bba79c03751.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/mh-mania-vila-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Podepah Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181806_faed1aa8-7816-4f76-a452-e37d00c390ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/podepah-lanches-municipios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mity Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041844_3f227f4d-2c97-4571-9ddd-abd440ceb970.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/mity-sushi-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Di Frango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_resta_rang01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/restaurante-di-frango-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUSHI EXPRESS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131531_972a518c-996c-42d6-9c95-8b361e876044.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sushi-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MADRUGADÃO LANCHES / ALMOÇO  EXECUTIVO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181043_94ff1068-f430-402e-923e-5124709859fd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/madrugadao-lanches---almoco--executivo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NAÇÕES LANCHES E PORÇÕES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231707_03b38dd5-0377-46e1-9b57-8150e24772cb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/nacoes-lanches-e-porcoes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brava Pizzaria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bravia_brava_sanal.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/brava-pizzaria-artesanal-praia-dos-amores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Burger's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280934_b55d3e5a-e5cf-46bf-8393-132033fcfb94.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/top-burgers-municipios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crocodilos Grill E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/crocodilo_croco_nches.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/crocodilos-grill-e-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nicks Lanches e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311428_8304272b-dc68-4fca-b224-455c9a0d18e5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/nicks-lanches-e-porcoes-vila-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Black Dog Pizzaria e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170958_b233324f-6363-4234-a991-47fd649a44b1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/black-dog-pizzaria-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mangiare Felice - Balneário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141021_31f58193-a3fa-48ac-a02b-08f6521728f0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/mangiare-felice---balneario-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ban Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710050824_1a4d114c-d58e-46de-83c3-714b94fbd01f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/ban-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Balneário Camboriú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241524_7c5f0a9b-4457-4f85-8e1b-2d2f08ffa769.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/croasonho-balneario-camboriu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Tapioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_mariatapioca.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/maria-tapioca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Gaucho Com Balneario Camboriu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo-ifood_XISGA_BORIU.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/xis-gaucho-com-balneario-camboriu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Baja Califórnia Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lojo baja_bajac_iabar.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/--baja-california-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Waldemar Express BC",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chef logo_chefw_pres01.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/chef-waldemar-express-bc-vila-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SP 300 Burger's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221416_ee65a1d0-cb64-4611-8701-a75e534cd6dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sp-300-burgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Simple salad restaurante e café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061640_53277e7b-b3ee-48bb-9b46-4aae448484ce.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/simple-salad-restaurante-e-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Restaurante Mister Totti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_totti.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizzaria-e-restaurante-mister-totti-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Deck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705241257_45ddceeb-8287-4fd3-b5bc-242c741ce0fa.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizza-deck-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lui Sushi Balneario",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo lui _luisu_eario.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/lui-sushi-balneario-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG MONSTER PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bigmo_zaria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/big-monster-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forcefood Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708140920_74df34bf-b3df-45d2-a9cf-577ba467d3f2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/forcefood-refeicoes-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "To Be",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101044_c67beb4d-8d81-478e-b20c-033bd7caadc4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/to-be-aririba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco dos Amigos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706070920_abdd0e9e-75c7-43e6-9f59-f3b2ec864dff.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/boteco-dos-amigos-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NINJA'S DOG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051407_ff048241-7fb4-43f9-acf4-e1ca8a5dfaed.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/ninjas-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papparella Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo papparel_pappa_zari01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/papparella-pizzaria-praia-dos-amores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mado Restaurante Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_ma_mador_laria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/mado-restaurante-pastelaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Central Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071125_92fa038a-4ebe-4476-9f70-a5bf6c9e1d62.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/sushi-central-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Maranello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260935_7466f595-b161-45db-9be8-5b78a1a77c82.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizzaria-maranello-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANTA FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707042005_ee5ea87b-eb53-4b2f-917d-16723d8c5cb8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/santa-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atlântica Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011119_13bee174f07445699f0a0fc31f264238.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/atlantica-restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Medeme Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701251355_MEDEM_IVER02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/medeme-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calzoon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091239_98a735be-a14a-44ed-9bad-c9ebe40c06fc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/calzoon-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AKAHAI HAWAIIAN POKE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051043_f95fffc6-3499-4873-8482-caeb96a5d58c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/akahai-hawaiian-poke-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pamonhas Do Cezar Express ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pamonha_pamon_press.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pamonhas-do-cezar-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vida Ateliê Culinário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291727_dbea7fb8-569c-4b4e-9703-4ffc372d358a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/vida-atelie-culinario-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "77 Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tipo_77ham_ueria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/77-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "San Luca Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021304_274b443d-5389-45ce-af3a-0ec5c2b31ac7.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/san-luca-pizzaria-pioneiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fornalha Forno à Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261114_a2230104-c246-4c02-8983-6810f48b67c7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/pizzaria-fornalha-forno-a-lenha-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310825_4f01d166-96f5-4265-a987-9219273ddd12.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/marmitex-da-vovo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nakay Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201205_a7aa94d9-ff3a-4e7e-9e9e-02047029d169.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/nakay-sushi-delivery-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Surfers Paradise",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709280826_ab37ee77-5995-4ab1-8cb0-985de032b212.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/surfers-paradise-praia-dos-amores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KIBSFIHA CULINÁRIA ÁRABE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_kibsf_arabe.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/kibsfiha-culinaria-arabe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gold Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281408_f5aba55b-f4ec-4711-85a2-4fac111c8be6.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/gold-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BALLOON",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190730_b16d98ac-711b-46e2-a8dc-7361a0e6bcde.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/balloon-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot dog do Félix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081324_631ead17-952f-4cdb-9de2-9e32221861d8.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/hot-dog-do-felix-vila-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE BRASILEIRÍSSIMO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161601_f935c190-7280-488d-8c3b-2dc2d01b6db0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/restaurante-brasileirissimo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lagostao Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111037_2ec06fa0-9228-4105-a12d-96419d4c5c00.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/lagostao-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yujin Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021124_0879674a-abbd-4822-8534-eee001bd7bd8.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/yujin-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brisa delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161158_74d22f12-3acc-47e3-a490-ad255af47685.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/brisa-delivery-praia-das-taquaras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hashi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030827_485ac27e-58df-4b0d-85a8-2ecbb06aea57.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/hashi-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xushi Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_xushi_efood.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/xushi-japanese-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boulevard Supreme",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_boule_preme.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/boulevard-supreme-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Richards Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261125_d443b4fe-29fe-4484-a580-521b065f473d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/richards-temakeria-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MOZZA HAMBURGUER GOURMET y EMPANADAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231352_4a69ed59-7b2c-4c8b-bf1d-2f43bd94aac9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/mozza-hamburguer-gourmet-y-empanadas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batata's dog lanchonete e sorveteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_batat_ialtd.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/batatas-dog-lanchonete-e-sorveteria-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Clube Brasil Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271528_5b97bd68-fc55-4e6a-845b-f23c3f5e14f3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/clube-brasil-beer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KOMBICAS GROWLER STATION",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111318_c10637de-b2c9-4163-814e-27bfb744cce4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/kombicas-growler-station-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA PRIMA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101430_e45733fa-ba2d-4931-bb38-0c1bff3542bb.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/balneario-camboriu-sc/la-prima-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

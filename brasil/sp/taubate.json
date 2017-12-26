@@ -1,0 +1,1821 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto - Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211437_56bcb298-4399-496a-9409-183f032fc443.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/spoleto---taubate-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magic Steak House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160948_19b3121c-47d8-41de-8a2c-ddea1ee49b69.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/magic-steak-house-parque-senhor-do-bonfim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050811_7666e826-1236-47db-a116-43983acac468.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/mana-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pico do Açaí Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081238_572afdb9-083c-41ab-a324-571db97e3f73.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pico-do-acai-taubate-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071429_f24debc9-83d5-402c-ad4e-15c944a92574.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/tio-coxinha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANDINHA SALGADOS TAUBATÉ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710270936_dda73395-e375-4cf4-8720-6ea6701c9dd8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/candinha-salgados-taubate-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef da Empada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041707_f08a16dd-f1de-4462-abc1-1702b0db19df.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/chef-da-empada-jardim-eulalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kidelicia Sorveteria e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041249_2c03075a-dea0-4e94-af3a-596fe07f585d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/kidelicia-sorveteria-e-lanchonete-vila-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SALGADOS FREDIANI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011037_1acf8b1b-c7fd-4a64-9812-295e08b6f012.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/salgados-frediani-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Real Safra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704180940_a226d234-a3db-49b7-9f9a-92e8ea0b5daa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/real-safra-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snacking Salgados Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081642_d55af5d9-e595-488a-9812-7ffc9309f4eb.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/snacking-salgados-express-vila-sao-geraldo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GAZELLA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131226_bdc05096-ba2b-443f-9095-8c72eb2d7958.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/gazella-lanches-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291115_0b9c202c-252d-4ba9-864d-629d976579e8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/subway-taubate-jardim-maria-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo do Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280918_783dd969-8971-4d27-8c0e-a323a7a72387.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/mundo-do-acai-esplanada-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quituteria Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091059_3acf1ce3-8bb0-4841-a681-955f90bd3363.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/quituteria-brasil-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí, Massas & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051216_e5f597e4-93a8-4902-aff5-5cab1635143f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/acai-massas--cia-jardim-dos-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SENHOR SALGADO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051524_44e16b90-4608-4ad0-9b99-7f69f8d7cd90.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/senhor-salgado-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181604_6f09e821-0bd5-4fbb-ba96-ba002ca8d2d9.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/china-in-box---taubate-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221110_90784b33-be3d-43a3-aff8-fa19508044eb.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/dominos-pizza---taubate-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA HUT - TAUBATÉ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708270951_e1c08c1e-bf34-48f4-bf44-54852c3ba6b8.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizza-hut---taubate-jardim-baronesa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Marmitex Água na Boca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091438_fe4b4935-34c7-45a5-a938-4d0d8355cf28.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/acai-marmitex-agua-na-boca-residencial-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BGZ HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711260954_8c3817ea-a080-4fe5-a305-fb63ca16d504.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/bgz-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANTINA CHOPERIA E PIZZARIA DO MELLÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281048_f0c581fc-9968-4faf-bfcc-1ca9a2d9ab9e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/cantina-choperia-e-pizzaria-do-mellao-chacara-doutor-hipolito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cafe & Prosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290735_58201244-1bab-4332-bf67-995dce664158.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/cafe--prosa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DISK MARCÃO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120918_0cd2723d-a9ee-4f52-bcf0-a0832320452c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/disk-marcao-lanches-jardim-maria-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DU CHEF BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090850_ae12c9a3-f5bf-417c-b9a7-8dacf0315b60.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/du-chef-burguer-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Danisan Sushi Delivery - Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110845_577b00c9-e18b-479a-b221-08f6432ba214.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/danisan-sushi-delivery---taubate-vila-jaboticabeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria do Vale",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290801_52384e6b-d030-444b-b2aa-507f3f2ad730.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/hamburgueria-do-vale-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JULIO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711252233_c8e6df03-1694-4e62-8508-484c88502520.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/julio-lanches-chacara-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "K-pricho lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060753_2f3310c5-0303-48e8-969d-23be3ae83135.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/k-pricho-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "M&M hot dog delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301400_74331277-fa55-49d9-a49a-6eb57536c9cb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/mm-hot-dog-delivery-chacaras-reunidas-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamma fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060734_ce6f941c-eb94-43a1-8587-20a0c0e4f7c7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/mamma-fit-barranco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nola Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090902_5736abf7-302e-4583-9cbe-4221b7105014.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/nola-pizzaria-vila-sao-geraldo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OBAH FIT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230807_b28ed5e2-3b96-4875-b8e3-fd0ad761c127.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/obah-fit-padre-cursino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OLD DOG DOGUERIA - TAUBATE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271434_eeb17b0c-7133-4c19-85e0-5b019153a139.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/old-dog-dogueria---taubate-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Obah Pizza Pré Assada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131046_519109a4-415f-444c-83b5-db750ae9ee97.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/obah-pizza-pre-assada-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA BAMBINA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081341_85c34bda-d63b-4467-8666-48abf077eb16.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizzaria-bambina-chacara-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DIVINO SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121313_731cc292-850f-4a87-b240-e3ad0028b07c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizzaria-divino-sabor-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza HD+",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271435_6dc46548-3abc-4280-9b55-33e6b19797d5.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizza-hd-jardim-continental",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planeta Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081129_0d0e69ab-2355-477d-8ffd-642b3d90363a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/planeta-lanches-esplanada-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei das Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712220800_7c923d64-c433-45e0-aada-075a35737f3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/rei-das-massas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Pizzaria 2 Irmãos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281829_9e30ee79-a06b-41de-8c4e-6fde28ce3cb2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/restaurante-pizzaria-2-irmaos-esplanada-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e pizzaria Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081717_dd35a575-6f31-46ea-abee-a5e045e807a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/restaurante-e-pizzaria-paulista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotisseria da Nóra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290918_4c866413-e155-4f5e-bacf-23f3c22dcade.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/rotisseria-da-nora-alto-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SODIE DOCES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080812_2795ce86-8daf-4617-a4e2-ad8b4a807ba6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/sodie-doces-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SR. DAS PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240912_42c30b07-9ac8-4763-88fb-711e6383f7dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/sr-das-pizzas-vila-iapi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MESTRE CUCA - DELICIAS NO POTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110948_02c8b770-4bd6-4c89-b179-b7c9bedaa9a3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/mestre-cuca---delicias-no-pote-chacara-do-visconde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor e Arte Pasteis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191916_87743601-dbba-4dd3-a736-8d6b2b8074d1.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/sabor-e-arte-pasteis-vila-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock Texas Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/899e55b10f325_HAMBU_URME11.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/rock-texas-burger-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Esfiharia Vila Velha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709022034_86b0c48d-c597-4d1c-b2aa-7c3891414829.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizzaria-e-esfiharia-vila-velha-vila-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ATMA VEG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131633_dee10cd5-5a7c-4cbf-8a41-13c3f307b1c3.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/atma-veg-jardim-eulalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutrisabor Fitness",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281239_008cc641-27ff-496c-81aa-7522a38f17bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/nutrisabor-fitness-chacara-do-visconde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BORGHIS BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706210924_4d71ac5b-5e56-4650-bdf5-eac3bc3b5059.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/borghis-burguer-chacara-do-visconde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bela Pizza-Areao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110909_be6f387b-334c-4588-977f-5d8c3749b21a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/bela-pizza-areao-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hallewas Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/hallewa_halle_ubate.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/hallewas-esfiharia-chacara-do-visconde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massamatsu Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LogoMassamats_MASSA_SUSHI.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/massamatsu-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Meat Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141709_be833cd7-b270-4687-88f7-fb5bd7884f03.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/big-meat-hamburgueria-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Famiglia Benoni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291509_7dc32cfe-161d-4c13-9495-3488f404a56d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizzaria-famiglia-benoni-parque-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguers&Açaí Sabor de Mel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3ba3f6c8-8a79-47c8-bede-1f282e082205/201710142152_19366.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/burguersacai-sabor-de-mel-vila-iapi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suttani Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703220951_40a9b925208a4a33b2cfaeca9562d55a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/suttani-burguer-parque-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vips",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708022004_e2e825f1-c993-43b8-8b8b-f0af9b6ad352.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/vips-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GORDINHO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221502_9a76de94-92dc-4188-8f7d-4013d2cd7d2d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/gordinho-lanches-parque-senhor-do-bonfim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xami Xami",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/xami_xamix_ubate.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/xami-xami-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Donatello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/disk_diskp_ubate.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/disk-pizza-donatello-jardim-ana-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Guedes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091432_6862abf4-abc5-4b12-afa7-30de549f4239.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/lanches-guedes-esplanada-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cone Pizza Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190831_ffe2cc7e-d9b3-46b5-a018-46221917780b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/cone-pizza-mania-vila-jaboticabeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RUA DO MEIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281323_87dace28-e93d-4897-b524-3a60f7a7582f.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/rua-do-meio-quiririm",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leandro Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705100911_2f913fa7-808f-4f21-a5c0-dfb6892e4a99.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/leandro-lanches-parque-senhor-do-bonfim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Os Artistas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/artistas_osartistas.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/os-artistas-jardim-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Classics",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/burger_burge_ssics.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/burger-classics-esplanada-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Só Lá Mia Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_solam_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/so-la-mia-pizzaria-delivery-jardim-gurilandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empada do Vale",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111132_4155a424-e65f-4c04-9034-c1b19118ee49.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/empada-do-vale-vila-sao-geraldo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251353_feba4e9c-bf42-407d-ac18-9dee01a116b3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizza-burger-morada-dos-nobres",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Equilíbrio do Sabor Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161014_9a07255b-c88d-4b36-98db-1fcc15ec9c84.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/equilibrio-do-sabor-restaurante-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "x gordão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090959_e611ec9d-bcb9-4a29-9831-adfadc8535f5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/x-gordao-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divina Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091110_fb84483d-02d9-41c9-9969-b31f099fda54.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/divina-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deniki’s Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061445_adc899cb-6703-4c10-854a-60ae9b899c39.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/denikis-burger-jardim-julieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasteleiro Maluco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171009_77766482-1497-43f3-b7b5-0f0b7aa23a5f.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pasteleiro-maluco-campos-eliseos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santiago Lanches e Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280807_848001dc-5505-4875-b54d-37a86521a279.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/santiago-lanches-e-acai-jardim-maria-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPOT´S POTATO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709031443_d465c2da-9e8c-413c-8425-fc24196066ec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/spots-potato-conjunto-habitacional-cdhu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jé Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120845_c6af3a0c-9b9b-42f9-8793-b02d569406a4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/je-pizza-bar-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza 1",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logopizza1_ligue_ubate.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizza-1-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nacional Burguer Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171150_565fc956-248b-43ed-9238-60088918d9e1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/nacional-burguer-hamburgueria-gourmet-vila-sao-geraldo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toninho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021233_6f5a3b4c-889a-4f3a-ba69-7f64429619d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/toninho-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confraria Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291018_9efbdbd3d38249c2983a69568189f610.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/confraria-pizza-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery do Nonno Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201346_202e801a-cd1c-4dee-98f3-1b0fea2a4b95.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/delivery-do-nonno-pizzaria-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O REI DO PEDAÇO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250941_b07df7c8-a54a-40b9-944f-7dc37bd5b303.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/o-rei-do-pedaco-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rocky Point",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031004_ROCKYPOINT.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/rocky-point-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Risottos Gasparin",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310925_bd5891e8-bc9d-4cd1-899c-235335f96293.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/risottos-gasparin-vila-santa-isabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANTINHO DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051601_bb667a5e-35e2-49ef-8096-7600c8505504.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/cantinho-da-pizza-campos-eliseos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Noc'S Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071322_8701ebbc60a34403bd8b1c13a1f6fc32.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/nocs-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gato Seco Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231358_GATOS_ZABAR.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/gato-seco-pizza-bar-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HASHIRO SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040852_75fddf63-54f4-4de7-9c66-367bc9b2bb19.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/hashiro-sushi-vila-dos-comerciarios-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordices Fitness",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120828_b537ce9c-a668-4777-bd89-02887488f439.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/gordices-fitness-parque-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salada Mista Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (2)_salad_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/salada-mista-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit Stop Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pitst_ubate.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pit-stop-restaurante-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Filémiau Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_FILEM_INHO01.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/filemiau-espetinhos-jardim-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUERO PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301129_79dab8fe-f992-4fa4-b56f-5c7df978f8ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/quero-pizza-jardim-dos-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201451_15f09a67-0b3d-4eea-9758-744621407166.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/emporio-pizza-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Estrela do Vale",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300952_56e7e403-4494-4f53-81fe-25f0177209d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/restaurante-estrela-do-vale-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Briet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301008_9fe1bc62-ebd0-4203-af11-c84ad77fe1aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/hamburgueria-briet-jardim-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maximus Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031327_6ad66a64-41e7-4b62-b1e0-e6ef62e5e12d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/maximus-pizza-barreiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches.com",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180845_5c54b240-061d-4b5a-9869-4d6368c1f912.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/lanchescom-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex do Batista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081050_729e6e2a-d16e-46ad-a8f9-af348b7df66d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/marmitex-do-batista-parque-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flip Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051406_256c8a55-35eb-4af5-858f-3ccfa5ff2cfd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/flip-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE DONNA COMIDA CASEIRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo donna_RESTA_SEIR12.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/restaurante-donna-comida-caseira-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WhatsBurguer Lanches & Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280804_7147ab87-3359-4681-8425-56f4d642a7c5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/whatsburguer-lanches--acai-esplanada-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA DA FAMILIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706011731_76cd02f6-65bb-47f0-9756-9919d73d64da.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/pizza-da-familia-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogão a Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040932_8603ff89-d8c1-464d-9de7-3d69077f6d25.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/fogao-a-lenha-vila-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Nostra Casa Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041353_58594902-1fbb-47ec-91ae-e8e3faf667a5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/la-nostra-casa-restaurante-e-pizzaria-alto-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Relíquia das Estações Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181318_46312ce6-e18a-4500-a53c-ac8fa95d861d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/reliquia-das-estacoes-lanches-conjunto-habitacional-agua-quente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SHAZZAN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231552_8051c51e-cc87-477c-ab07-4cadcce479e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/shazzan-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shake Dahora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708250908_5831dae4-e6f4-48d1-bb16-63387727ef3c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/shake-dahora-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vininha - Taubaté",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_vinialph_VINITAUB.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taubate-sp/vininha---taubate-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAUBATE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]
+

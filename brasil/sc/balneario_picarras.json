@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kong Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050742_ecd2065c-002a-4bbc-ae0b-0d21a897611f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/balneario-picarras-sc/kong-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BALNEARIO PICARRAS",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,463 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOLO DA MADRE VINHEDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180946_04c6cdea-2607-4540-b32f-dc1fb56fcfcb.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/bolo-da-madre-vinhedo-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TIA SÔ VINHEDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712231447_de6265c3-cbb9-4bfc-a152-c98d18af45a8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/tia-so-vinhedo-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D' Gusth Açaí Vinhedo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311314__DGUST_NHEDO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/d-gusth-acai-vinhedo-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vitta Café e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201943_58333b68-72f1-42da-af0f-28e777f3662a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/vitta-cafe-e-restaurante-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tuareg Culinária",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221714_b9343bc8-b66f-411b-b2f4-81cfce20438f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/tuareg-culinaria-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino's Pizza Vinhedo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221247_a4143cee-3cbb-4a57-8821-e6ebdbeb6f52.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/dominos-pizza-vinhedo-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BROWS DOG",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221848_fc9f5dd4-9076-43d2-b511-a5685d0a59b6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/brows-dog-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOG DA MARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231354_9317fa46-74ba-4bca-a335-5f8f0916e717.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/dog-da-maria-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Iron Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711142221_2921a5ed-b524-4820-ac01-352b3417b65c.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/iron-burguer-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lord Batatas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110948_2c633de2-0005-4e36-ba2f-6e9075d1e0e4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/lord-batatas-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oficina do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180739_549b1bcc-0633-4dbb-9752-ba666aa6c26c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/oficina-do-lanche-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PEPERINO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231505_ac894f9c-2781-4e6d-bcef-a2e113b2ff50.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/peperino-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Lanchonete Avenida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201815_0e93cbd3-b208-404b-9019-00ce328da544.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/restaurante-e-lanchonete-avenida-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Vinhedo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_NHEDO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/subway-vinhedo-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "THE GROWLER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231721_d9cfe227-59ea-4796-989b-47d5926c2719.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/the-growler-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha Gourmet Vinhedo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311524_56209b5d7c8e4ec98832911fd85cf091.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/esfiha-gourmet-vinhedo-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburguinho Vinhedo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161606_2e9890d9-f091-43b9-b61c-3889874f9483.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/hamburguinho-vinhedo-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Budega Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141538_1176766e-702a-4242-a6da-e0c70f4640a3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/budega-burger-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YDAYGORO SUSHI BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110716_d65def25-8561-4687-8c21-32ad473efaf7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/ydaygoro-sushi-bar-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aero Pizza E Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210920_cc0d35cb-d7bf-4c11-b2ec-b70006b24352.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/aero-pizza-e-bar-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gold china",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171556_d52a20f2-139a-41e0-9c72-db20d1ce2c42.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/gold-china-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiko Comida Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708250816_61d30379-d378-40e0-8d46-cf71818fe385.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/sushiko-comida-japonesa-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Esfiharia Villa Romana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191701_8a7e98f3-3768-4622-8319-66dd27af08fc.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/pizzaria-e-esfiharia-villa-romana-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO CAIPIRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210945_a442e418-5572-402d-93d7-6a3295f76a9a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/tempero-caipira-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESTAÇÃO PITANGUEIRAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111442_3998bda1-908c-42dc-9da6-0a4725b3dd3a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/estacao-pitangueiras-barra-funda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pururuca's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251034_625699b1-1960-44dc-9efa-862d73e4e857.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/pururucas-loteamento-banespa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Original Burguer & Casinha do Yakissoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281322_4f3261b2-43c6-4ae7-98b4-2f9999633c76.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/original-burguer--casinha-do-yakissoba-jardim-italia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quiosque Planalto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091522_3068d0f6-06a2-4cd0-9a28-768add9b15b8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/quiosque-planalto-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nação Verde - Vinhedo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_nacao_nhedo.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/vinhedo-sp/nacao-verde---vinhedo-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VINHEDO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

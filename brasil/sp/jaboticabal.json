@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Rotisseria Casa Casaletti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021319_a5515d0d-aeb6-43c7-bfd1-500a1526dd44.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jaboticabal-sp/restaurante-e-rotisseria-casa-casaletti-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JABOTICABAL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

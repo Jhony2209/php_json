@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Iracemapolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041212_9cfbd84a-ea9a-483e-9c13-a65096df0bfa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/iracemapolis-sp/subway-iracemapolis-coqueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IRACEMAPOLIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

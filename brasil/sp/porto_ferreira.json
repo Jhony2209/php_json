@@ -1,0 +1,15 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kangurus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181506_36322d0a-442a-4d9c-a672-99f4a9b21923.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/porto-ferreira-sp/kangurus-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PORTO FERREIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

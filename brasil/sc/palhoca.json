@@ -1,0 +1,1117 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amassaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1_amassaria01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/amassaria-pacheco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPARTANS BURGER DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051007_b00cb9a8-7b29-499d-a665-769522009de9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/spartans-burger-delivery-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha's House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251316_0c7ad888-e10f-4e5d-b930-959ce4c384b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/picanhas-house-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barão Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260829_5f7fdf15-87a1-457f-b8af-ebf46d27401b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/barao-gourmet-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Fome Zero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231405_4b358b9def2b4cc6a8d942a9bae460e0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/lanchonete-fome-zero-pacheco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panificadora Vó Lala",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011023_c05c24df-61e6-4d16-901d-5a9c6033bdeb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/panificadora-vo-lala-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Burguer 4 Havan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_point_havan.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/point-burguer-4-havan-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Prime - Palhoça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200205_22830b3b-2102-427e-9b50-40a48f8f0d1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/pizza-prime---palhoca-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CAIBA'S BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130848_cc5b0b0b-45c2-4ac4-9a48-9ef67f26f334.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/caibas-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Container Burguer e Hot Dog's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301144_9c4e2cbe-10e9-4c4b-9070-60ec8cb1a70a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/container-burguer-e-hot-dogs-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El dorado King of Chicken",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211438_4bf5e7d8-bde2-447f-8f73-9f30269e57f2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/el-dorado-king-of-chicken-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gold Pizzas Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191115_8942e1bd-c321-40d5-93c4-650254b42633.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/gold-pizzas-express-brejaru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki-pastel delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271634_dac3f80c-4e77-4ab7-b034-ad4dd4bcd908.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/ki-pastel-delivery-sao-sebastiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kilos Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241211_bf47e058-904d-426a-aba0-efb43ca0bafb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/kilos-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koala Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211016_a045e91e-65ea-4fbd-ab83-586a17048dcc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/koala-burger-cidade-universitaria-pedra-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mania Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111829_aba1b8d6-0ce5-435a-89e5-3cad4bf86192.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/mania-lanches-barra-do-aririu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021215_fa0fa59a-26e5-4bf9-bddd-cc25f9a90fa8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/panquecas-gourmet-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stop Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271207_b7685c38-d3c7-4999-a883-03b2f00e8bf1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/stop-lanches-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271544_7dc8407d-244d-4828-866e-6e3347cdd6d5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/ya-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KissMe Sorvetes e Crepes Especiais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251344_4b06f22a-aebf-4f09-89b8-b181b6dfb1c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/kissme-sorvetes-e-crepes-especiais-jardim-das-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog do Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251217_59b4740d-a189-46ca-92f3-7d92b6c3151b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/hot-dog-do-bem-alto-aririu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lovato's Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706230926_103fb6f9-51f3-4592-8160-82f51805f808.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/lovatos-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nápoles Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710130933_e014d4f0-47e7-41e1-9302-72c5e61638cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/pizzaria-napoles-delivery-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toscana Pizza Cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706152115_0e2f7ce0-facc-49c2-baaf-913d2b7395e8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/toscana-pizza-cone-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kanpeki Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301447_76b44155-d4f5-467f-a2af-f77e1636637c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/kanpeki-delivery-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oriental Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_orien_sushi.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/oriental-sushi-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/9a2c35ae75527_SUSHIMASTE01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/master-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Do Lado De Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261447_d5dc6847-5ee2-4aec-a17c-f7c28a02028f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/do-lado-de-casa-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Fried Chicken",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281748_01ef272f-d609-4a58-93f3-1fa4ca745aac.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/american-fried-chicken-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Riva's Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161156_e556d232-6b3a-47dd-8399-21c5c6ce2abb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/rivas-lanche-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UAU! DOGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011500_b4c534db-7048-40de-8c28-2323e0a1d9c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/uau-dogueria-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planet Hot Dog'S E Burger'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702030828_PLANE_RGERS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/planet-hot-dogs-e-burgers-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Da Palhoça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_hambu_lhoca.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/hamburgueria-da-palhoca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal Do Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181218_QUINT_RGUER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/quintal-do-hamburguer-pedra-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizzaexpre02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/pizza-express-aririu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Empório Gomes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280806_a56ffa79-7ef9-4369-9aac-99167dfa60a8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/hamburgueria-emporio-gomes-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Holy Burger Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021108_acff9b7d-17e4-4d6b-afaa-6e9c9b86a146.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/holy-burger-gourmet-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ronaldo Lanches e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ronal_rante.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/ronaldo-lanches-e-restaurante-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big X",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701281641_BIGX01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/big-x-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Segredos do Chef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011459_6c5361bb-6303-428b-8dee-67f64da8b6c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/segredos-do-chef-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oy Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/oy logo_oypiz_ivery.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/oy-pizza-delivery-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AMG Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201134_5c07a076-97ea-44e1-a1fb-c7e5166c24fd.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/amg-pizzaria-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gula Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Gula lolgo._GULADELIVERYjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/gula-delivery-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Bauer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051106_dcba5eb2-6340-4670-a1c0-f4949605d01b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/sushi-bauer-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Magili Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301042_eeed0612b28846ea936cf679566084f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/magili-lanches-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210905_b1ae7851-a2fc-457f-8313-15f60dd44dae.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/old-pizza-delivery-pacheco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sanduicheria Kimania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dri_sandu_mania.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/sanduicheria-kimania-jardim-coqueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vivi Marmitas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_vivimarmitas.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/vivi-marmitas-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ohai Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (10)_ohaisushi.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/ohai-sushi-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jac Daniel's Hot Dog Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201222_af4e9a75-3bec-4b96-a320-8c628898c6c2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/jac-daniels-hot-dog-gourmet-pacheco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria e Confeitaria Elfaiom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201242_0c4eae70-fd06-4013-8e15-09575d9a6697.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/padaria-e-confeitaria-elfaiom-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Palhoça Ponte Imaruim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291019_2e739147-5178-4b62-abd7-6df7fc0ef05c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/subway-palhoca-ponte-imaruim-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bravo Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151131_5e698a06-4782-43ba-b358-1a2d684ad7d9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/bravo-hot-dog-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Forneria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/955d95cb-867e-4074-9444-9be1ad5fb6e5/201711291702_avata.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/santa-forneria-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monster Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110830_cca21e15-f5af-446f-862c-a9521c4eeb1d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/monster-lanches-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frutíssimo Açaiteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291603_7adf9866-326f-4702-a465-617ea9379840.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/frutissimo-acaiteria-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Acoriana Disk Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_acori_pizza.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/acoriana-disk-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mini Kalzone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo mini_minikalzone.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/mini-kalzone-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camarão Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061313_48215cc9-50a3-42d1-a61b-0c80184e3847.png",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/camarao-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paradão X Picanha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221227_7d542422-c713-41ff-868b-834d3b5c0b0d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/paradao-x-picanha-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }, {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lincoln's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191020_9e322f66-d0d7-480a-80a7-26098ff3ed45.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/lincolns-burger-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Caseira Vovó Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301258_53c41128-1337-4d26-a3ed-91b9ce93b6f9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/cozinha-caseira-vovo-maria-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alemão lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280730_58ce0d53-638a-4f6b-888b-c9f52e9978d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/alemao-lanches-jardim-coqueiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atama Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091307_58a7832e-3d50-41d4-b09c-d49f9ffcf9ee.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/atama-sushi-aririu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria le familli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051139_701023aa-74d8-453a-adb5-393dcf0bb375.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/pizzaria-le-familli-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quero + Lanches e Hot Dog ll",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040643_b7b9467c-a556-40b7-bd83-5ce17ad47e4e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/quero--lanches-e-hot-dog-ll-aririu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ASIAN STREET FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241357_e8d7b8f7-fd75-4ae6-b0d7-868345e27e21.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/asian-street-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOJE TEM DOG E LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031518_8b37b9d5-9cac-47b5-a45f-af6ca0a762c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/hoje-tem-dog-e-lanches-barra-do-aririu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Its Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_itssushi.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/its-sushi-passa-vinte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAMPA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141421_c5b36124-93ad-4078-829b-7970f6ce9433.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palhoca-sc/pampa-lanches-ponte-do-imaruim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALHOCA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+]

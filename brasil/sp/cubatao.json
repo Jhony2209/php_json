@@ -1,0 +1,143 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Masterchef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061534_491a1601-6bd2-4ab0-b226-32b05fbd5ff6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/marmitex-masterchef-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Duarte Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011045_5938de4b-aa85-4584-b88c-ab63b3452386.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/di-duarte-restaurante-e-pizzaria-jardim-casqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Apetite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021202_bfb9e8b3-5ac4-436e-ab73-71a2ed1cd515.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/bom-apetite-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kami Aiko Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221716_1c18ed8a-9aba-497a-9df4-e91d46ebbd2e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/kami-aiko-delivery-parque-sao-luis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boomerang Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061621_738d8542-3d60-4a49-993a-9ccc7743679b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/boomerang-lanches-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yuhu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704200955_bbe94aa6-5b66-41f0-b61f-f9aff05ea5f6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/yuhu-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kings Lounge Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060849_3c123fc9-9f31-470a-aa5a-5dbd914614e0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/kings-lounge-burger-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mini´s Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111102_c0a5cfc2-b2f2-45ba-8d0f-3220ae7dac81.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Tailandesa",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/minis-coxinha-jardim-casqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boa Pedida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271324_BOAPEDIDA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cubatao-sp/boa-pedida-jardim-casqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CUBATAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

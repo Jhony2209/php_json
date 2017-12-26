@@ -1,0 +1,463 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Café da manhã MãeFilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270815_082995e5-34d8-44b3-b604-da36b5124bc4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/cafe-da-manha-maefilha-centenario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOM SABOR CAFE E LANCHONETE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130708_9d0722c1-6bc7-45a8-91ce-ac8faefa92e1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/bom-sabor-cafe-e-lanchonete-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Verde Alimentação Fitness",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241321_3cc15dec-38c3-4c20-b152-e8dc05b5def2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/espaco-verde-alimentacao-fitness-cacari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KJ DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712160727_56df0d6a-06d9-4c33-9908-c4aca5f643f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/kj-delivery-asa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche e Restaurante São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071857_37e1877c-3995-429c-8a08-fa762c766c22.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/lanche-e-restaurante-sao-jose-uniao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oriental House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710022027_2c6928d2-6a50-4a4f-8843-032adad9ffc8.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/oriental-house-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oxente Cachorro Quente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130757_6e62c992-5e96-4210-9360-a0aaa6754bdc.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/oxente-cachorro-quente-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA STRONDA 91",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051836_77f9f242-52bf-48e3-9cf7-ffc066080ad8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/pizza-stronda-91-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patroni Premium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230802_fde6cbef-1b49-4049-b78e-fe88d91db121.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/patroni-premium-cacari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE LÁ NO CHICO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712260835_da49e5c8-bc9d-4807-b92a-c63d53949777.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/restaurante-la-no-chico-cauame",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Ponto do frango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111924_5139177b-5d4d-4f50-ac2c-b5c1ef5c7fd6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/restaurante-ponto-do-frango-doutor-silvio-botelho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YES SALADAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240934_5021bc9a-85c3-4f2f-ae0d-13da2c8f5325.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/yes-saladas-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301037_d95a4ebb-1409-4d7e-9364-9e8550723cfb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/emporio-da-pizza-treze-de-setembro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beco da Feijoada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706041723_3977ac73-c24f-4d34-a3cb-a0d412f3695d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/beco-da-feijoada-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dell´Angelo Sanduicheira E Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041608_45928efe5d9b467fbea43b120300b0f1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/dellangelo-sanduicheira-e-grill-cacari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FILÉ MIGNON DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081116_3f04173d-5b33-4abe-8162-26bf402ae10e.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/file-mignon-delivery-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Café e Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241125_c31791b0-ec66-4311-9f02-69d3a773c9ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/doce-cafe-e-bistro-canarinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Navalho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704260835_c28fbd4f-3d19-4628-bd43-1cafd53edcfa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Portuguesa",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/restaurante-navalho-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Boka Loka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301148_38cd08b3-00b3-412e-b256-7055b5ebc016.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/restaurante-boka-loka-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paju Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281020_c07cc35f-56fe-4961-8ecd-ea7ea6b18d56.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/paju-burguer-cidade-satelite",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonanza Pizzaria - Boa Vista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031336_ea14ceb8-0e6d-46c2-b6d5-b0c227e60042.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/bonanza-pizzaria---boa-vista-cinturao-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço São Paulo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041255_7236c62104544023b04204f65ad0534b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/espaco-sao-paulo-pizzaria-trinta-e-um-de-marco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Texas Burger Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705250920_72035528-3550-4a80-ad67-8e2dd32fce9f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/texas-burger-beer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Moça Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041238_afc4901f-3e98-450a-bd8c-78c907bd8e4e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/dona-moca-bistro-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Verde Mix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101721_78bf4859-0586-443a-b2a3-17f2f974a5d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/verde-mix-cacari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopp Time Chopperia E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031658_CHOPP_RANTE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/chopp-time-chopperia-e-restaurante-cauame",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Deus é Fiel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161742_7fadd534-a86f-4122-bed4-689e599c04d1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/pizzaria-deus-e-fiel-senador-helio-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Nordestino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051129_8d69f0f9-ab32-4024-b97e-383f65a6a660.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/recanto-nordestino-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vila Takuara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171014_c1cd1b02-ee5e-4789-ac97-b95f9a3fc9d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/boa-vista-rr/vila-takuara-paraviana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOA VISTA",
+            "addressRegion": "RR",
+            "addressCountry": "BR"
+            }
+    }]

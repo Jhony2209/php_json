@@ -1,0 +1,159 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esplanada do Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091339_870e0f25-d5f5-449b-8c71-f922d54d6982.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/esplanada-do-pao-paraiso-polvilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OZ Burguero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041547_0569b6fb-5dfb-4776-b20d-6d2e7f1a95e1.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/oz-burguero-portais-polvilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasteis De Vento e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081233_a20e137b-2799-417d-b40a-cb12e1e82858.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/pasteis-de-vento-e-cia-polvilho-polvilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bazuka Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211140_3c275a72-6dca-484b-82db-a2ac8b7e0f04.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/bazuka-burger-portais-polvilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jin'x",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110945_fceef641-05b3-4aff-9549-11606549d399.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/jinx-paraiso-polvilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Majestoso Hamburgueria e Mexicano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091316_11bb45f6-910d-4960-b6aa-2ede8cb3cc4a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/majestoso-hamburgueria-e-mexicano-portais-polvilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paleta Grill Churrascaria & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130858_370410c8-8d05-4b4a-b3a9-6919993e3428.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/paleta-grill-churrascaria--restaurante-altos-de-jordanesia-jordanesia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071215_fc3454f6-8dfe-454d-93aa-063faa5e7c94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/pizzaria-la-italia-sao-roberto-jordanesia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ville",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ville_pizza_vill07.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/pizzaria-ville-jordanesia-jordanesia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "By Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310816_b79f014a-64de-4e77-b3af-45fa6258d700.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/cajamar-sp/by-brasil-empresarial-paineira-jordanesia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAJAMAR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

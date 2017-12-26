@@ -1,0 +1,271 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BORA Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031348_f4c84dab-4cd3-459c-9795-b10e1dda70f9.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/bora-acai-jardim-santa-terezinha-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Mogi Guaçu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231646_BRASI_GUACU.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/brasileirinho-delivery-mogi-guacu-areiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria du Tio NENE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261038_c153257c-601b-498c-8e82-c52cf58148ed.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/pizzaria-du-tio-nene-vila-sao-carlos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Ramon Mexican Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201552_6e8df09c-1319-49bc-8721-22609a0e6fcc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/don-ramon-mexican-food-jardim-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAIS ESCONDIDINHOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241001_3a3eddc1-e790-45ea-bb25-2704f51f1d3d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/mais-escondidinhos-vila-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CUCA FRESCA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707252238_655c1cf6-b769-49fe-9653-1700fedea6de.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/cuca-fresca-jardim-itamaraty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Artesanato Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705211825_6a423765-2a7f-4f04-b948-a1a9f4a7d5d4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/artesanato-gourmet-vila-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Casa do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011833_4854768c50c04d89a2167879ca89cd38.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/a-casa-do-pastel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Betos Bar Quero + Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo betos_betos_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/betos-bar-quero--lanches-parque-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PizzARYa do Ary",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031309_024267e7-094d-480f-b531-a88fdd60e788.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/pizzarya-do-ary-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporium Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo__EMPOR_URMET.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/emporium-gourmet-jardim-chiorato",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toquinho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101330_e42eabeb-8b0b-4b26-bb40-562dcbd8acae.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/toquinho-lanches-parque-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Big Boca - Mogi Guaçu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704281737_bc9b212c-b2ba-41fa-ab68-880e1084dd22.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/pizzaria-big-boca---mogi-guacu-jardim-soares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANTINA DA DONA MARLA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241348_a9fdacc7-58f1-4e49-a5b6-14062538ec5f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/cantina-da-dona-marla-jardim-novo-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hashi Sushi Bar - Mogi Guaçu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261716_0aaebd05-0dad-47ab-bdd3-bf69b70f760b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/hashi-sushi-bar---mogi-guacu-imovel-pedregulhal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Candiá Bar E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161231_1a1f8429-b99e-4943-8ea2-661889c0ac35.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/candia-bar-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191800_60033043-dc3b-4a13-80cc-66c0be29e57a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/mogi-guacu-sp/marmitaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI GUACU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,111 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOCE ARTE DOCERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060809_933b0217-6591-4cb5-85d1-eb16313de5cc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/doce-arte-doceria-ferrabraz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yellow Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311128_14f0fe1c-90ac-4a2e-a4d0-a8fd095e4860.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/yellow-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasta e Riso - Comida no Copo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710062111_9194694f-e7e0-492e-884f-3d712297df72.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/pasta-e-riso---comida-no-copo-sete-de-setembro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shoarma E Esfihas Du Sheik Lanche Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo du sheik_shoar_arabe.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/shoarma-e-esfihas-du-sheik-lanche-arabe-ferrabraz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mooca Tele Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//w4ZPr1IXtYje_MOOCA_IZZAS.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/mooca-tele-pizzas-ferrabraz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Sapiranga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291116_7a47ee7e-2933-4613-9eb4-72573e691166.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/subway-sapiranga-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Adonay Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111336_d94181d4-8bcc-44ac-8e3b-f2a3bcf36b4f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sapiranga-rs/adonay-refeicoes-amaral-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPIRANGA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

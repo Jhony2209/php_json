@@ -1,0 +1,143 @@
+[  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Total Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130728_21788bd5-f12b-4392-a7e8-0cec8ed67afc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/total-acai-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Burger Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130935_99dbb04a-cb8e-45af-b698-f8caa8b06291.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/american-burger-grill-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonatos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111532_cdadd2ba-33c8-4e28-be40-7647430eceb1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/bonatos-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Charlys Homemade Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061938_974b14b6-4406-4371-97d0-39c7175577cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/charlys-homemade-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Catedral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130935_44a33f43-e020-47b0-973a-d889e471dcaa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/disk-pizza-catedral-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Django Burguer & Carne",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111316_07b02e01-46f1-4fd6-aaf1-8f70d48f54d3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/django-burguer--carne-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Parrilla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091637_0e10655b-228d-41d6-8a1d-4f4a6f0f85a6.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/la-parrilla-jardim-matilde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Avenida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110646_7e0e0140-1ddc-45c0-8c98-22df4a8dd0f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/pizzaria-avenida-vila-christoni",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yo Culinaria Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101020_6311ccd7-e71b-4238-a42d-2f0725b9da3e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ourinhos-sp/yo-culinaria-oriental-vila-christoni",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OURINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

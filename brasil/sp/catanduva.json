@@ -1,1 +1,319 @@
-dcccdcdcdccdcccccccccccccccccccccc
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Catanduva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181603_e4540b26-1616-4e6d-808f-b56ed2b17eb1.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/china-in-box---catanduva-parque-iracema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar da Vó Luzia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707040841_0aa81d17-6fd2-4e37-a67b-bd905716c6dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/bar-da-vo-luzia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Garden Shopping Catanduva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290956_c564a9aa-c691-434a-ad0f-6046f1c3a780.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/subway---garden-shopping-catanduva-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frangolândia Rotisserie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251526_523396b5-0fa4-4d24-8fb1-63e46e11d542.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/frangolandia-rotisserie-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161202_d22b670b-263e-4e61-b9ef-71a9c0f45644.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/don-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Loli's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201335_a645d571-5f7c-4194-a496-fced03ebdd11.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/lolis-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Uni Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261535_3f630b3c-cd15-49ac-af92-a15f7780b917.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/uni-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Do Hot Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010821_5f07804c-dcee-4bf0-a47a-8b1714330eac.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/ponto-do-hot-dog-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Big Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121447_4e5db539-1975-43c3-8153-cdb954884935.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/la-big-pizza-delivery-residencial-juliatti-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutrilight",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705270822_9b5afa11-cc25-459c-afb9-614e565b1a79.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/nutrilight-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Mais Sabor - Catanduva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706120815_075f2a7f-7277-402b-84aa-494d7ce87ad9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/acai-mais-sabor---catanduva-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donizete Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101209_df4fdd65-8fb5-4b9a-9448-9e813513faf3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/donizete-lanches-jardim-soto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brauhaus PUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241240_8d57426f-06e6-4c5d-ac4d-0190c733332b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/brauhaus-pub-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Luna Di Nápoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261538_1bc4194f-2a03-4bde-9ebb-ec155b35240a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/pizzaria-luna-di-napoli-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Farm Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161136_2bbee52a-c899-4bb7-a9ca-0b38f27dfc31.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/farm-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Leão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091453_b34c8f2c-372b-4346-a98c-812040df96fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/leao-lanches-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pietro Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020737_68f171cc-0b3b-497f-b672-4517f2dc8bf7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/don-pietro-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kinkey Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251011_551a3d66-0c7a-4b66-9d88-beea4f7fa97b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/kinkey-pastelaria-parque-iracema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Radical pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261407_49db29d0-7405-47ce-9496-b6921cc265bb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/radical-pizzaria-conjunto-habitacional-gabriel-hernandez",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311710_9b4802db-e874-45ec-bca0-44d8f742d118.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/catanduva-sp/sushi-bistro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CATANDUVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

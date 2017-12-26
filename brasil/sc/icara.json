@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog Maná",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111316_f2334efe-353d-4f14-bd52-d4aed89ce33c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/icara-sc/hot-dog-mana-balneario-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ICARA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

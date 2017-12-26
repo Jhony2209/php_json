@@ -1,0 +1,846 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empadaria gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181115_da15be2c-4d8a-41f7-b97f-a35c3f7079b6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/empadaria-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasteloko - Dr Gurgel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_paste_urgel.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pasteloko---dr-gurgel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TACAI - Acaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251331_6e5f5dc0-83c6-49d0-b407-87a2a47df680.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/tacai---acai-nucleo-bartholomeu-bueno-de-miranda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrot Light",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180623_7fcbf772-4255-4038-a47d-b9911303cef3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/bistrot-light-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caranguejo Lancheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251152_315042f2-fd1b-4024-9728-f19a32b47ac6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/caranguejo-lancheria-cidade-universitaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Durão Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271144_e4983446-7f15-422c-9e91-d600692f0bd3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/durao-burguer-vila-roberto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornella Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301845_9ce4ded1-29f1-4404-8b81-05cb973c2cab.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/fornella-pizzaria-delivery-grupo-educacional-esquema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Manhê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131649_cdde4462-c002-49b5-8141-88283799fecd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/restaurante-manhe-jardim-paulistano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Star Grill Espetaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090828_0c2ef44f-6a08-472c-9c82-816f7678d94d.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/star-grill-espetaria-jardim-belo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pizzaria Sabore MIO pizzas e lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201936_de612a26-568a-4623-87f0-a4e9b11b0d4f.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pizzaria-sabore-mio-pizzas-e-lanches-parque-sao-matheus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Prudente Marmitex e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710110842_78084bb6-0939-42b5-b3aa-ef21b6997b7c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/delivery-prudente-marmitex-e-lanches-jardim-morumbi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Oliva Pizzaria - Prudente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo donna ol_donna_dente.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/donna-oliva-pizzaria---prudente-jardim-paulistano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petiscaria Check in",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241214_f5c16dd5-59e7-4add-87ed-e0cefb230b0f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/petiscaria-check-in-cidade-universitaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Movie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/PIZZAMOVIE01_PIZZAMOVIE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pizza-movie-jardim-cambuy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Vó Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/vo maria pizz_vomar_zaria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pizzaria-vo-maria-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paiva Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/57657dc0-9460-40e4-9454-2f4ea8a270ef/201712071810_24883.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/paiva-pastelaria-grupo-educacional-esquema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ARIGA FOOD JAPA TRUCK",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251601_e4aedfed-8ac9-463f-aefd-53881dc13701.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/ariga-food-japa-truck-vila-malaman",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BONNA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707022142_0cd3fe69-8420-450b-8e70-388a51bbe6f2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/bonna-pizza-parque-sao-judas-tadeu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paiva Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_paivalanches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/paiva-lanches-grupo-educacional-esquema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MADURO SUCOS E SALADAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161438_d4fac535-1253-4baf-b70d-b7d97d3e1b81.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/maduro-sucos-e-saladas-jardim-cambuy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forno À Lenha 3",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo forno_pizza_enha3.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pizzaria-forno-a-lenha-3-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lug'S Presidente Prudente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_lugsp_dente.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/lugs-presidente-prudente-jardim-cambuy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Calabria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Calabria_PIZZA_ABRIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pizzaria-calabria-vila-maristela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Cantagallo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211517_9f597ba481904ba68a366950fcf48253.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/restaurante-cantagallo-vila-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mediterraneo Hamburguer's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051546_b24d815e-5c52-4fae-9ff0-0a9d7eb08411.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/mediterraneo-hamburguers-parque-residencial-mediterraneo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zendai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705160716_bbd5fef9-1265-4155-ba2a-2c6c5099cb39.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/zendai-jardim-cambuy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Mais Você",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251827_60b4212d-033f-419c-916b-cb2d248e050f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/marmitex-mais-voce-vila-marcondes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Universitária",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/15044879_9783_VILLA_TARI01.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/villa-universitaria-cidade-universitaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo restaura_resta_giana.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/restaurante-parmegiana-vila-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog Dogueria - Av Manoel Goulart",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo old dog_olddo_ulart.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/old-dog-dogueria---av-manoel-goulart-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dú Sabores Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181243_f201f6e4-694f-4a90-8521-ed0b3ab23779.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/du-sabores-restaurante-vila-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bravo Prime Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710100915_4d1843af-7f29-4191-8e37-4fef91062d09.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/bravo-prime-burgers-vila-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meetz Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo meet'z b_meetzburger.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/meetz-burger-vila-guaira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia. Lanches Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709162033_a6ca039c-35ea-4346-a8f1-8530c8dd6cf0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/cia-lanches-delivery-jardim-novo-bongiovani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Prátika Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090946_9c0b4b0e-7bec-46d0-b123-ba8c62701e62.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/cozinha-pratika-restaurante-vila-euclides",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vó Nena",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041145_8213332d-fab1-4f48-8a9c-12c94e8c6e35.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/vo-nena-vila-marcondes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kitut'S Grill Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221035_e3f3cb610ee4420092da7d50de4c5fae.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/kituts-grill-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog Dogueria - Pq. Do Povo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/oldog_olddo_opovo.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/old-dog-dogueria---pq-do-povo-vila-formosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BellaPotato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311415_c35cf4c9-5564-48fd-b73f-91e36cc30c6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/bellapotato-parque-jose-rotta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VaBene Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260838_899064f0-6733-4ab5-b451-179483a53741.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/vabene-pizzaria-delivery-jardim-eldorado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VOVÓ KIKA BATATA ROSTI E HAMBURGUER ARTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131509_7221738b-1f36-4d32-8a7f-fadc73c0b004.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/vovo-kika-batata-rosti-e-hamburguer-arte-jardim-novo-bongiovani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taj Mahal Lanches e Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251328_01700bd8-9bc3-4e7a-8ac5-08693f631395.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/taj-mahal-lanches-e-pizzas-conjunto-habitacional-jardim-humberto-salvador",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vó Laura",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301600_487645e3-a18f-4dd6-8c6b-ce6025d096be.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/vo-laura-vila-mathilde-vieira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Tavares Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241241_8341808f-e471-4303-bed5-2cbe540f66cb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/don-tavares-restaurante-cidade-universitaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pepe Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251023_c48aa0fd-eb11-4c0d-811d-76f57da59a68.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/pizzaria-pepe-gourmet-vila-marcondes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "mercadão lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291249_008c0d59-52dd-4ccf-94e9-87dc47224f60.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/mercadao-lanches-jardim-cambuy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kauã Lanchonete E Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171323_KAUAL_IZZAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/kaua-lanchonete-e-pizzas-jardim-balneario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batata Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211718_504a8c83-c47a-4091-8287-b78968dfd957.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/batata-burgers-jardim-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "( Ti - Teste) Casa Da Pizza - Perdizes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_TITES_DIZES.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/-ti---teste-casa-da-pizza---perdizes-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Glória",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171037_0fff126e-4653-43cb-958a-cb48e387b1e2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/padaria-gloria-vila-guaira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Garfo De Ouro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703091146_RESTA_EOUR02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/restaurante-garfo-de-ouro-vila-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Savanas Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709070913_9c48f417-4610-4968-8e24-f36a6ae18a22.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/savanas-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shôri Gastronomia Asiática",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fffffffffffff_shori_atica.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/presidente-prudente-sp/shori-gastronomia-asiatica-jardim-cambuy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRESIDENTE PRUDENTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

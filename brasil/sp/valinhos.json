@@ -1,0 +1,558 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181648_1c071c5c-8f84-4c7d-9348-dcca3a232714.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/china-in-box---valinhos-vila-angeli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200026_67900a98-ccbd-463c-9ba3-ebabb8cffb22.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/brasileirinho-delivery-valinhos-vila-angeli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arriba Tex-Mex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181634_0824789b-a003-48b0-8259-30c98d8e198a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/arriba-tex-mex-vila-bissoto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken Br",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111413_700d8584-6be5-4253-a65d-b9c27ce2c79d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/chicken-br-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Florence Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011235_ff8b9164-8c9a-4d66-a1d6-a43763f43a25.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/florence-pizzaria-parque-florence",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Montanha´s Grill LTDA EPP",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141535_404365d6-436d-465d-97cb-fd2d437efc5b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/montanhas-grill-ltda-epp-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mortadella & Companhia Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241648_b4f6c3ec-6a54-45a5-bf06-002045809d24.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/mortadella--companhia-valinhos-parque-nova-suica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mussarela Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031108_48e60ddf-7eff-4939-982d-a436a8035f34.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/mussarela-burger-parque-terranova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAPPA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211502_22228996-e9a9-47c5-a437-c898c5b2573f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/pappa-pizza-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E LANCHES CUCA´S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201244_0a944204-63d5-4fb9-914b-31267f907113.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/pizzaria-e-lanches-cucas-ortizes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tubarão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251146_13cc27e1-bd13-44cd-b2a0-f32c9c2a391e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/tubarao-lanches-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Peter´s Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710110916_9c51c33f-692c-45ed-9b8d-af6927aa178b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/peters-burguer-jardim-novo-mundo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo central _centr_pizz03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/central-da-pizza-vila-sao-sebastiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem dito Açaí e Tapioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211103_1ce9679d-465f-4589-b786-87b6c42e3be0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/bem-dito-acai-e-tapioca-jardim-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha Gourmet Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logomarca - E_ESFIH_INHOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/esfiha-gourmet-valinhos-vila-olivo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dídio Pizza Delivery - Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/didio_dídio_inhos.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/didio-pizza-delivery---valinhos-jardim-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchão & Cia - Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lanchão_LANCH_INHOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/lanchao--cia---valinhos-vila-bissoto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vó Noêmia Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708131357_7044239f-c797-4f48-9381-c6aaac23b0f8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/vo-noemia-pizza-santa-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seven Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121314_4bb46467-baa1-4326-88ba-c5e1932f8be2.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/seven-burgers-vila-sao-sebastiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Chef Caipira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_MARMI_IPIRA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/marmitaria-chef-caipira-vila-embare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rangarei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo ifood_RANGAREI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/rangarei-vila-embare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WO Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121439_57b330ba-26a7-46cc-bd00-777ffd0f9748.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/wo-pizza-bar-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Palma's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251150_58961ca8-973e-4a3f-a5c0-d8ff9ba891b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/la-palmas-vila-bissoto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAPASFOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291025_15310888-b132-4ba7-a6f0-28b20f78c601.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/papasfood-chacaras-silvania",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211736_2f1191c0-3063-4702-bd88-071b1aac031b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/point-express-residencial-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Box Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261558_a69e7f0e-2f78-4016-9f9f-bc07612513d2.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/box-gourmet-jardim-vila-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131309_c8c01aa8-0118-4c53-8038-614c5f81924f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/big-pizza-vila-martina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Chopperia Cia Nostra Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705112145_c6aa1693-7641-4458-a8ab-614a6ea25070.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/pizzaria-e-chopperia-cia-nostra-pizza-jardim-ribeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Parma Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051533_e01f3792-6009-4c35-90e1-f1eb94db1817.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/bella-parma-ristorante-vila-embare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante dos Amigos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251239_12e69af9-aa6b-4e33-88ed-281fdf083f0c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/restaurante-dos-amigos-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Show de bola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041131_f606fc41-9e16-456c-bdcd-4a93bf470ec8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/show-de-bola-jardim-itapua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cuca's Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180836_2e94ffbd-112c-454c-a501-0df162db091b.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/cucas-marmitaria-ortizes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordão Lanches - Valinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/print.pdf_pag_gorda_inho01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/gordao-lanches---valinhos-vila-bissoto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KINGS BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710290915_f38cccb3-5baf-4a69-a747-4668ec119505.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/kings-burger-jardim-vila-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rangare",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291024_294cba6cce364e668edf96a6bbdabd64.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/valinhos-sp/rangare-jardim-soleil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VALINHOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

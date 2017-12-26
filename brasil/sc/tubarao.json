@@ -1,0 +1,31 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NOSTRA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200941_e28fa8e0-dd79-4c54-809d-9d19f7e44fec.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/tubarao-sc/nostra-pizza-vila-moema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TUBARAO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "scatola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251423_40225966-4632-4285-92b4-df8349c4dd08.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/tubarao-sc/scatola-oficinas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TUBARAO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

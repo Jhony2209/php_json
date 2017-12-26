@@ -1,0 +1,31 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231212_33a27ceb-baac-485a-81cc-90e5a0fe50cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/bebedouro-sp/mineiro-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BEBEDOURO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Nete Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231122_3e5d5965-2447-476a-88a2-ef6c845a20dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/bebedouro-sp/dona-nete-marmitex-residencial-bebedouro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BEBEDOURO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

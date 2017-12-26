@@ -1,0 +1,95 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espaço Malagueta Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160931_0eeaee3b-7558-4b3d-a9e0-c9def7bbc130.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ubatuba-sp/espaco-malagueta-restaurante-pereque-acu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UBATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanche na Baguete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241451_d7e76e09-b491-4b8f-8415-322da915108e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ubatuba-sp/lanche-na-baguete-pereque-acu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UBATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Akikomo Sushi Ubatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706050937_b33e6479-db8b-4a37-b744-8735987bea6b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ubatuba-sp/akikomo-sushi-ubatuba-pereque-acu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UBATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e pizzaria  Varanda Ubatuba.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181447_19395db7-3322-409d-bdf8-c9f744e99d7b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ubatuba-sp/restaurante-e-pizzaria--varanda-ubatuba-toninhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UBATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Marguerita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281049_ff7ccedd-b1d0-4550-b1ef-ebe45f2604e9.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ubatuba-sp/restaurante-e-pizzaria-marguerita-praia-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UBATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Filé Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181118_90c63c1e-3b71-4374-8f69-7fa36bcd6ed5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ubatuba-sp/mister-file-delivery-toninhas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "UBATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

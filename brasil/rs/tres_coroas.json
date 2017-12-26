@@ -1,0 +1,16 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BRAZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031022_85188985-0563-4a97-b1a6-096536ce6088.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/tres-coroas-rs/braza-sander",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TRES COROAS",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]
+

@@ -1,0 +1,175 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Veneza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161028_b0d48d54-4607-4a8a-910a-adff6bbbaec6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/pizzaria-veneza-chacara-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SHEFA JAPA FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131923_559e39e8-78e9-49d5-aecd-c7a53d8fae8e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/shefa-japa-food-vila-paes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO DE FAMILIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091019_593fd629-2328-44fa-a592-5a7fca57f4b6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/tempero-de-familia-chacara-das-paineiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Frangão - Rotisseria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140843_ad906e98-0fa8-41a9-9d87-07bba149394a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/o-frangao---rotisseria-e-restaurante-chacara-das-paineiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Paiola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141127_97a97fca-6d9e-4279-a2b7-338967c064af.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/pizzaria-paiola-cecap-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Esfiharia Do Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171445_08734684-cc84-4144-a97c-07212cabd202.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/pizzaria-e-esfiharia-do-cheff-pozzobon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "818 Burger Steakhouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171729_2f38150d-772b-476c-ae0d-c606cdb9d25b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/818-burger-steakhouse-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Harmony Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031419_a8b9a2c8-8057-43c7-9038-1b543e825e92.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/harmony-japanese-food-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Capri Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bela_BELLA_ZARI16.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/bella-capri-pizzaria-santa-eliza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Lorenzo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071145_45646d3a-6d62-47cc-be7f-d073b3c8c694.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/dom-lorenzo-lanches-chacara-das-paineiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob's - Votuporanga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710062058_89630c12-b7fe-4bdd-9349-9fa494bd3cf2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votuporanga-sp/bobs---votuporanga-santa-eliza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTUPORANGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

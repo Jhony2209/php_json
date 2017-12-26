@@ -1,0 +1,750 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181622_5ce6c98d-8550-42a3-8815-015fdea5eb67.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/china-in-box---suzano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200027_efe43b19-d22d-4a4b-8d53-841a1d43433b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/brasileirinho-delivery---suzano-vila-costa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOMBONIERE E LANCHES DONA BENTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161643_19f07f98-3a86-4660-8659-e6d807dc8ab2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/bomboniere-e-lanches-dona-benta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Clássics Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041214_21dfd1eb-865b-4541-9115-3a0d8e8ed30b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/classics-burguer-parque-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Jura Pizzaria e Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241016_dfd24c6a-d25e-405a-9bbc-a9ad92d34c61.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/disk-jura-pizzaria-e-esfiharia-parque-suzano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doces de Ouro Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081621_68df6fda-fac0-4686-b70a-24ba8f75e1f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/doces-de-ouro-brasil-cidade-miguel-badra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DrBrigadeiro - Brigadeiros Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041115_5bf135de-2a67-4d31-9337-70921b38b78f.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/drbrigadeiro---brigadeiros-gourmet-jardim-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fininha o Ano Todo Comida saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201809_1fbdada2-fff3-413b-8228-c19a9a2acfc0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/fininha-o-ano-todo-comida-saudavel-jardim-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fritz Pizzaria e Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011625_67b275cf-6c55-43fe-800e-30a06a1bcf99.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/fritz-pizzaria-e-bar-jardim-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grilled Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200656_b079b16b-4705-4b48-9ba7-d75b8ec42ef7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/grilled-burger-conjunto-residencial-irai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habitual Light Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190812_6d09568a-337a-4f56-8d3c-fd5280d7024a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/habitual-light-gourmet-cidade-miguel-badra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Do Primo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141237_ca9506c6-7f81-44b7-baaf-014f97d1af97.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/lanches-do-primo-parque-maria-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Tiquas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241224_ac908989-0921-41b4-ad17-837e083456f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/los-tiquas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Quero Quero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191000_7ac5b48a-1a1b-4ba4-8f0c-5063c6db8466.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pizzaria-quero-quero-jardim-revista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Princesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031353_ee6ee561-d570-4ffe-bd6b-26c41eb82f00.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/restaurante-princesa-vila-figueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Simões",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041203_84f1e532-8bea-4979-b23d-87f76b9fc61f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/restaurante-simoes-vila-maria-de-maggi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vegas Billiards",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061431_37d06f1d-50d8-48ac-a27b-4cb95b7d05a8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/vegas-billiards-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Bugrão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/hamburgueria _disco_riaii.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/hamburgueria-bugrao-vila-amorim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba Factory - Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161140_YAKIS_UZANO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/yakisoba-factory---suzano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Obento Do Japa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061824_a62c3598eee8406782fcec4e077d94d5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/obento-do-japa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giga Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101846_53378735177c4d84b2a3cbfb22250378.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/giga-lanches-vila-nova-amorim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOG MAIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211035_585035b5-e0d1-4c08-9286-cd2bb8112736.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/dog-mais-parque-suzano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA ROMA - VILA URUPES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020833_5381bda9-a74a-467e-ae33-8630319b0568.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pizzaria-roma---vila-urupes-vila-urupes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kroc's Pizzas - Pq Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311202_f7faae0a-a54f-4a12-b9bd-eabe922cf604.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/krocs-pizzas---pq-suzano-parque-suzano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guaraná Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051404_972ac0b4-2a2f-465a-b35c-0c4d13355029.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/guarana-brasil-jardim-cacique",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Buenos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251403_b2e97663-f126-4cf6-a99f-507c8bd4ab00.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pizzaria-buenos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ana salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091314_7097154d-3a88-4ec9-8d42-3aef245437f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/ana-salgados-jardim-modelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chamichan Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111130_d89d72b8-dc09-4a61-b0f4-a921e01a827f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/chamichan-suzano-vila-costa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Yskynão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190914_c6aa8722-a5f2-486c-9ca5-19dd27c2ebcd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/restaurante-yskynao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgão Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061045_PIZZA_URGAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/hamburgao-suzano-jardim-anzai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210827_MEGAESFIHA01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/mega-esfiha-parque-maria-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Major Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709101700_0ca61937-8053-4cd0-9e3b-37bc7bdb17f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/major-hamburgueria-jardim-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Colonial restaurante e pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050858_5f24ac05-072e-4a6d-aa9c-8f356ef28fe9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/colonial-restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Familia Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281046_165fbf1e-3886-4d95-81cc-6d43d78a2ea5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/familia-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pit'S Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181613_7325c9f5-0210-4d8b-9cc2-9ba5b8319047.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pits-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Primu's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110944_d8207d21-3d76-4cd1-94da-64f336cea298.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/restaurante-primus-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pollo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021514_98c5c915-4ecc-46a6-ac73-0e68bec19d52.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pollo-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NAGAI SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071302_c94e091c-d6f5-4d82-8cfd-53c1aba95f94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/nagai-sushi-jardim-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ryu Kyu Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ryu kyu_ryukyusushi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/ryu-kyu-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E LANCHONETE SPAZIALY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141035_3c28debf-87d9-4dc6-bedf-a82842c0aa35.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pizzaria-e-lanchonete-spazialy-jardim-gardenia-azul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pallets Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo burg_palle_rguer.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pallets-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COZINHA PURO SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111437_1471978e-f3fd-419c-a5e5-ae542e072bb7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/cozinha-puro-sabor-jardim-cacique",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lug'S Suzano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701250933_LUGSSUZANO.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/lugs-suzano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias da Hikari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180909_18b2e7ca-6c93-4529-a0dc-2265667b5e08.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/delicias-da-hikari-jardim-lincoln",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria lanchonete irmãos metralha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200628_fdf47a54-4274-4cdd-9278-cdff5f0b4edf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/pizzaria-lanchonete-irmaos-metralha-jardim-cacique",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Do Alemão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/bar-do-alemao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capella Bar e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031440_1dd5a08f-78e0-4dd6-a22b-912c41f85f1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/suzano-sp/capella-bar-e-lanchonete-cidade-cruzeiro-do-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUZANO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

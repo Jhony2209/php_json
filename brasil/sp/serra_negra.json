@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Lu Bruni",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170918_74435b84-eed5-4252-8743-7f78dc594160.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/serra-negra-sp/chef-lu-bruni-placidolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SERRA NEGRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

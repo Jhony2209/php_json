@@ -1,0 +1,255 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090944_00bdeae6-12a1-4f14-8f23-532144523400.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/cantinho-do-acai-vila-acoreana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fred Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290931_f0241b4d-3cfd-4988-8d9c-544937bbe77f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/fred-burguer-jardim-nova-poa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Labina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230751_2db62a2b-045a-4e2d-b2c5-cad159f528fa.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/pizzaria-labina-jardim-santa-helena",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE E LANCHONETE MAIS VOCÊ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251418_c223e34a-e6cb-4de4-bbd8-c322eb441477.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/restaurante-e-lanchonete-mais-voce-calmon-viana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Poá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121226_cae74262-8bb7-4bdb-9d09-cc42581c20a7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/sushi-poa-vila-das-acacias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock'n'Road Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091341_40aa5d9d-a959-41d1-9fa2-9015e6e46f0c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/rocknroad-burger-vila-acoreana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Donatello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190904_ccc99372-9723-43e7-a981-1dad5780b5db.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/pizzaria-donatello-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakimaky Delivery Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311433_fcd82265872749d1a3c05a37d0140989.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/yakimaky-delivery-oriental-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Souza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702221644_PIZZA_SOUZ01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/pizzaria-souza-calmon-viana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgao Poa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031113_HAMBURGAOPOA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/hamburgao-poa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomate Cereja Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210926_3e24dc08-3299-431d-be39-cf7b7adc24e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/tomate-cereja-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cheirinho de Comida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211024_f0a5d13e-7b5b-4bad-abc6-cab361b76fca.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/pizzaria-cheirinho-de-comida-vila-anchieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante O Caldeirão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709140741_a8ccdc2f-7498-41da-aad3-a0196f612474.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/restaurante-o-caldeirao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Familli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101047_bd1d122d-196c-44b9-bb55-1fbfbdcce95f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/pizzaria-la-familli-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria da pamela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251801_3bcb6621-9bf9-41da-868e-1ced25f06837.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/pastelaria-da-pamela-jardim-dulce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Bom Apetite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131015_1ae9273e-dbd4-4f26-b6fa-62c0eb9e81fc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/poa-sp/restaurante-bom-apetite-vila-jau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "POA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

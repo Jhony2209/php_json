@@ -1,0 +1,287 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Nord China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181729_1ef397c2-6a19-43ae-9a6f-ce0984246ef8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/restaurante-nord-china-vila-lima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Panqueca Arujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704081030_0b3cdb6aa9684fc8bce7629499f98cff.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/casa-da-panqueca-aruja-jardim-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Come Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704290929_b3abeb55-0ee0-43b0-bda4-95b408535527.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/come-bem-laranja-azeda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paraíso do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141525_e01de964-036d-4638-9559-c1c709dd7125.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/paraiso-do-acai-parque-rodrigo-barreto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Italia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010900_b7186639-4420-4b7a-a179-51fd9adc0468.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/pizzaria-bella-italia-jordanopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pontes Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201850_5367cbf8-902a-4be8-80e3-ce3f9367ac4d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/pontes-burger-cidade-nova-aruja",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041003_50851871-ff42-47cc-9e8f-c7d0e57299dd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/restaurante-da-vovo-parque-rodrigo-barreto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Pizza Pan-Arujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza pa_SUPER_ARUJA.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/super-pizza-pan-aruja-jardim-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Benaglia Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704151713_8e9c5a8331204b3a9d58dba0edb7582c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/don-benaglia-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Docelar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705240959_bbff6081-0ffb-4e64-a6d3-7fb547333608.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/pizzaria-docelar-parque-rodrigo-barreto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "avalanches delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091320_9b834efa-ca3b-4c23-90ee-93a5640a98e9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/avalanches-delivery-aruja-centro-residencial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor & Saúde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121003_8a58a81e376845e8b0b2211049ddf306.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/sabor--saude-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hioshi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231918_0e07599d-ca3c-468e-8def-597b23bb7259.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/hioshi-sushi-vila-flora-regina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Marmitex- Arujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701131033_CASAD_ARUJA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/casa-do-marmitex--aruja-jardim-fazenda-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gustavo Boer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/gustavo-boer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Padaria Tibaji",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271859_e7d74467-e6dd-4953-8411-f9b3dbab4690.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/pizzaria-e-padaria-tibaji-vila-pedroso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria da Vivi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210742_07598c50-ed3a-4b79-93be-9db0da5faaeb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/pizzaria-da-vivi-jardim-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Teste Pizza Hut",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aruja-sp/teste-pizza-hut-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

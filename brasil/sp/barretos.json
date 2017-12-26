@@ -1,0 +1,447 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Enzo Fast Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121522_7f4807b0-43ec-43a3-8c99-5736e750f807.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/enzo-fast-pizza-pedro-cavalini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lug'S North Shopping - Barretos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231208_57a98364293143f7b191e9768fb936d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/lugs-north-shopping---barretos-pedro-cavalini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amor de Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011031_6cd3b8da-3ed5-43fd-a884-605dca7520c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/amor-de-pao-jardim-allah",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Florença Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271057_35a22cd9-bca3-4a87-ade9-6a89827caf21.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/florenca-pizzaria-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REI DO HAMBURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712241929_c525f225-45f9-4598-a73e-d8dafd9d0a47.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/rei-do-hamburguer-derby-clube",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Samauma American Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081832_fe1c91bd-1f50-4cb5-9487-8afe0fb0e8d1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/samauma-american-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CREPE DE CASA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271418_2e5fa12f-5223-41b7-94a4-76bcc3d21bea.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/crepe-de-casa-alto-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dommus Express Barretos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ed1b3fa0-1593-4e2d-8c9a-9160cdb320b9/201711301637_capad.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/dommus-express-barretos-ibirapuera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hora Do Chopp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061054_a02cc18a425743be83687b11596f7205.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/hora-do-chopp-marieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Baunilha Doceria e Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041105_4a7c21ca-62d1-43a3-957d-fadbec883641.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/dona-baunilha-doceria-e-cafe-nogueira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chico'S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704100852_a062f2b7478042dbbfa2b3cc6b21a016.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/chicos-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água Doce Cachaçaria - Barretos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041218_41c7096f-e03e-48df-899d-a60fc0dd1402.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/agua-doce-cachacaria---barretos-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jimmy Hamburgueria Barretos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201132_JIMMY_RETOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/jimmy-hamburgueria-barretos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Douglas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705040937_32418288-489f-4f0a-a5a4-703492bfe9cc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/douglas-lanches-fortaleza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art Pizza - Frade Monte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181035_ARTPI_MONTE.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/art-pizza---frade-monte-marieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Divino Comidaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291029_b418116b62814751a069450c54943f1d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/don-divino-comidaria-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rancho's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240923_ff913793-5527-4887-8dfc-0e3a70283b3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/ranchos-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedro Pio Lanches, Espetos E Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021527_c49e3a2c-91a6-4124-8acc-0a19ec5e3af5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/pedro-pio-lanches-espetos-e-porcoes-benedito-realindo-correa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Tradição",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100917_b9f64a18-6dde-409a-947d-bfe683d58d30.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/pastelaria-tradicao-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King China Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011012_ee82d7c6-cfa2-4d06-8ee8-e5f07a7a05d5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/king-china-delivery-sao-judas-tadeu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Pinguê Barretos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181120_46a929ea-2803-4973-8ced-8eecfddd9b9a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/le-pingue-barretos-marieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Via Chaparral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221426_982a28c0-9595-4e71-8c54-3e43d02f6270.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/via-chaparral-jockey-club",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "9 horas Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011017_30ae8e4a-dcd6-4479-a1a9-0b8996f2f91a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/9-horas-bar-e-restaurante-alto-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Don Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705141419_d1c5504b-75b5-4a8a-a2da-05caa118439d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/don-don-restaurante-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Vinho Pizzaria E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181758_9aef5742-592c-4bf5-832a-f908896a10b3.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/casa-do-vinho-pizzaria-e-restaurante-ibirapuera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EJD Lanchonete Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041623_048658a2-08f7-413f-8026-95b26e4c1446.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/ejd-lanchonete-delivery-baroni",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ô Cumpadi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161141_d73ca7d3-9821-4dee-b9ee-24b77cf68d08.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/o-cumpadi-cristiano-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tabernáculo Pizzas E Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281209_bbffa84b6221408f849d4bb260e6e139.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/barretos-sp/tabernaculo-pizzas-e-esfihas-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRETOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

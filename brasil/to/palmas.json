@@ -1,0 +1,191 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311011_a941602a-b7a3-4981-bca9-51b991d28f86.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/big-pizza-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fiore DI Grano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712260814_fd9389f7-62b6-4998-9028-8ea7062635d8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/fiore-di-grano-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Calabresa pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101052_da99339f-7673-4be2-bc5a-fcb4b0b21ab6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/calabresa-pizzaria-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Burgão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290728_4f776180-daec-41af-8b25-5e7a12989d69.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/ki-burgao-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lounge Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121641_a1c3a63a-91fd-4c9f-a7ee-82262305c0d0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/lounge-pizzas-plano-diretor-norte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaazan Restaurante Japonês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111206_cbb256ac-3506-4438-bc1d-22f4216d935b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/kaazan-restaurante-japones-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota Da Pizza - Palmas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171336_a0bd1664-1535-48d1-a776-f312ae4db6a8.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/rota-da-pizza---palmas-plano-diretor-norte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Habug'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191243_9d1fff7b-118e-490e-a6bc-cdcaf1315639.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/habugs-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Oásis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703220925_2c52e00629f14ca1ad85d0e34436677a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/pizzaria-oasis-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Sushi Jardins",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704141402_ea98c0893e7e4b7abe025b7c80b12e4e.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/expresso-sushi-jardins-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Na Morada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291026_1df38dd8-77bf-43ba-8406-08b5ce475549.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/pizzaria-na-morada-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Do Shawarma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281458_8ae1cdfc-547c-44d9-bd38-e65302d0ec66.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/palmas-to/rei-do-shawarma-plano-diretor-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PALMAS",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }]

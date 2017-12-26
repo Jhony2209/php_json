@@ -1,0 +1,287 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dahlia Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101055_a89259f6-a226-480a-88a6-5eb8687d8e6a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/dahlia-marmitex-jardim-luciana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ateliê Do Miguel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091313_77b514ee-72a1-4326-a172-f65f48fbec1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/atelie-do-miguel-jardim-karine",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BURGER MASTER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712231147_e7b6cef2-0d24-401e-9134-319f85870280.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/burger-master-jardim-luciana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kombo Pizzas e Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161054_1a6799f1-9ae5-476c-a37f-4dc0defa279c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/kombo-pizzas-e-esfihas-parque-piratininga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA TIO DANI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010818_f39b74e0-6514-427c-99a6-d7e76c1a8dcd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/pizzaria-tio-dani-parque-piratininga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "villa di modena II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131009_891e30d2-71c8-49e8-9750-d23bebd7ab26.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/villa-di-modena-ii-cidade-kemel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Valeventos buffet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071616_1e83f1d8-9b2e-4549-8949-3c4ec45c5019.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/valeventos-buffet-jardim-anita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Souza Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_souza_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/souza-refeicoes-vila-ercilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Donatello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708180845_05048b3d-f478-4668-9cd3-227adbfb2a2f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/pizzaria-donatello-vila-zeferina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709071717_1d0d6e42-5159-4b75-bc1c-66d3d40f5b39.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/pizzaria-fama-vila-bartira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Yakisoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260912_9d9fcccb-c29e-4daf-82b6-dfeca0f2ca86.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/rei-do-yakisoba-parque-piratininga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trash Gastrobar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707220824_197b1a23-f8dd-4ca1-856e-7207fefb794a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/trash-gastrobar-vila-sao-carlos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241429_b0a0a88d-e300-4f1c-8295-090d8d62cea3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/rei-da-pizza-vila-virginia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway- Itaquaquecetuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291007_8913e78c-c0e0-435a-acee-ffc353117da3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/subway--itaquaquecetuba-vila-zeferina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fome De Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181434_228096c6-9e4e-4cd3-a082-f50d1a51a6bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/fome-de-coxinha-cidade-kemel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Joy Miami",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271258_bcd9fcc0-b03a-4836-9926-e1b4007c3efd.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/joy-miami-mandi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Já cheguei Bebidas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251236_93045c17-3429-4066-8dd5-c38dea130c01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/ja-cheguei-bebidas-vila-virginia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nova Grecia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705111052_fc02d2b6-034c-4054-8f62-aa6391dafe9c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itaquaquecetuba-sp/pizzaria-nova-grecia-jardim-da-estacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAQUAQUECETUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

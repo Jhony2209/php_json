@@ -1,0 +1,367 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE E PIZZARIA LA FAVORITTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711020811_94dccd16-1436-47a6-adfc-2a61698fe0b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/restaurante-e-pizzaria-la-favoritta-piratini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Abacaxi com Hortelã - Saladaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131827_701b2ed9-bc52-4bad-beb1-410fffdc4adc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/abacaxi-com-hortela---saladaria-delivery-lomba-da-palmeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BUONISSIMA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241417_1d6bd25f-d9b2-4d69-8ccd-cc802d4aa5a6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/buonissima-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casarão Gastropub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230917_a1bbea40-c781-4456-9ac8-827dc7c8f470.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/casarao-gastropub-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Darling Lanches & Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280845_16825cec-9819-45de-9b47-f84feaac4ab9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/darling-lanches--hamburgueria-nova-sapucaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Degustare Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140809_e2db0129-b9c4-4bf3-8907-410f1048e05d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/degustare-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Morena Burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061339_407a8ca5-c11a-4eee-bcc0-b4996346ba97.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/morena-burguers-ipiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mota's Burguer's Food House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071002_0452c483-3c56-4f75-81a3-7538e57e0836.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/motas-burguers-food-house-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PAULINHO DOG S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060808_7855b43a-245a-41f9-a055-e6436e8c0dcb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/paulinho-dog-s-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria e Lancheria da Família",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061840_0ca1b4ab-366d-4da9-a174-021bb4e9261d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/pastelaria-e-lancheria-da-familia-pasqualini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SOLARIS RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051642_d88c2e5c-3623-42a8-8338-2c33532500db.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/solaris-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY SAPUCAIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_UCAIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/subway-sapucaia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "lancheria silva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130943_61d32430-6eb2-48e9-8a43-428df462912c.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/lancheria-silva-vargas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar E Lancheria Girardi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703230817_a0312980e7f4496aaceb5d7e299cd1ea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/bar-e-lancheria-girardi-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Badjanga Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181023_BADJA_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/badjanga-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pietro´S Lanches E Assados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191442_5b010ba6-b538-4d16-82f6-2913cbf1f0e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/pietros-lanches-e-assados-vargas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bomburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//ZLE5MA4sScUu_BOMBURGUER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/bomburguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suburbano Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211211_0dab69f6-4f46-4e40-b2c3-cc4610a661f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/suburbano-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shawarma Tchê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081654_d01537aa-cbd0-411a-b917-4c16c3b41692.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/shawarma-tche-camboim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marocão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241106_MAROC_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/marocao-lanches-camboim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Cone Espiro Papas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040842_7922190f-a221-49d0-9a08-a8a6f1b7a71f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/pizza-cone-espiro-papas-primor",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QiTemaki Sapucaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710090848_9ef03895-668e-4e34-b4c4-9769ae05ade8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/qitemaki-sapucaia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sr. Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logoSr._SRDASPIZZAS.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sapucaia-do-sul-rs/sr-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAPUCAIA DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

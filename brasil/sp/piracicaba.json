@@ -1,0 +1,2906 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bettos'grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131207_1e32c2d9-7625-4a18-8f12-6afb201889e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bettosgrill-monte-libano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolo da Madre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211320_39d62526-94a3-438d-90b7-4dca56fa8094.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bolo-da-madre-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Coxinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171902_601ebd80-7f33-4db2-8230-37cda43c43e8.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/disk-coxinha-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capitão Gancho Rua do Porto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051546_02636684-7940-413f-90b8-60f24a856052.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/capitao-gancho-rua-do-porto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COXINHA DE OURO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231105_7ffd9b7a-f7c3-4667-9a5d-0d4a49561f73.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/coxinha-de-ouro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bros Waffles Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bros_brosw_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bros-waffles-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Esfiha - Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/casa da esfih_casad_icaba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/casa-da-esfiha---piracicaba-vila-areiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Vila Rezende",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291023_a632dd61-17d7-42dd-b276-c54efa1cf2c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/subway-vila-rezende-vila-rezende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fruto Roxo Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_fruto_oacai.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/fruto-roxo-acai-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheff Grill Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271938_f667f8c1-a99b-4dca-bab7-e26479d6b334.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/cheff-grill-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto do Sorvete e Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709260836_4ee06c07-93f3-4c85-96fa-bbe810aaa412.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/ponto-do-sorvete-e-acai-jardim-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Montana Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703210950_MONTANAGRI01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/montana-grill-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221036_f28c01a0-8ad5-49ef-bf0f-470b1f00b31f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/dominos-pizza---piracicaba-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hut - Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200228_ebfd02df-9dce-4a6c-b96a-d126d85f7bef.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizza-hut---piracicaba-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China in Box - Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181647_ec288c1f-2966-42cd-96c5-8cffd0688fb9.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/china-in-box---piracicaba-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Piracicaba Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041446_2a3135a8-56c9-454f-8c7b-50bb5396c013.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/spoleto-piracicaba-shopping-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOLO +",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181458_edadc294-fa75-4f9c-bd74-c30c2edd39f6.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bolo--vila-rezende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Bahia Tapiocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021011_5d1d3168-7bbd-435c-9b89-615ddf528d7e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bem-bahia-tapiocaria-vila-boyes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boronhas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711112256_099f3ec6-3115-4cff-a9cd-098b88af2898.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/boronhas-lanches-jardim-parque-jupia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken´S Frango Frito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051324_ac557f9d-171b-4b89-ae38-26ec8ac7c462.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/chickens-frango-frito-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'ella Mone Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180851_d412e4b0-ce90-4980-a15c-6598ed7a7e2e.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/della-mone-delivery-gleba-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131223_716218e2-c47a-4af3-9d24-a824423e4403.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/delivery-acai-jardim-gloria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fassina lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090808_4b5b8525-fdb5-4b1d-a013-6c9bc87b5086.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/fassina-lanches-sao-dimas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango na Brasa Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712150803_5c25f665-2002-4e20-b633-a5b9b8634cf0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/frango-na-brasa-paulista-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ithiban",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711110747_d5d3a6e1-5261-4f42-9516-ce8cedc69a82.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/ithiban-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete  do Helinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131644_a536d831-210f-49ad-ab32-a583c65e1aad.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/lanchonete--do-helinho-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maranata restaurante e lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100906_8ed3e79b-f797-43ac-b093-4c3cb9ef222b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/maranata-restaurante-e-lanchonete-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nampin Restaurante Vegetariano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251658_94aa43a0-72f9-4869-a0ec-76c5b111a55e.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/nampin-restaurante-vegetariano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Os Tais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271358_c81463de-376b-4709-8410-eebb6ff72af7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/os-tais-gleba-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA SOL NASCENTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270958_f560aa9a-a261-4bee-9ac2-2b93ff93a2a7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-sol-nascente-jaragua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Deliciosa Salgados e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051602_bc27ac39-bc54-46e8-ac9f-a429d31777bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pastelaria-deliciosa-salgados-e-porcoes-vila-cristina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forno Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030712_05468da0-afed-48e3-b9b7-7b4057b346ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-forno-artesanal-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Javari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130955_06884128-1b5d-4660-8db4-91cf6118e69c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-javari-jardim-residencial-javary-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Toque Brasileiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711151021_87d8944c-23ed-44ff-a7cd-8acd33cf379e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/restaurante-toque-brasileiro-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Monica's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271121_5c600168-c753-48d0-8607-1146103c612b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/santa-monicas-burger-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhor pastel e mega lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300834_223cf20a-9913-4290-aeda-96fd17380ae7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/senhor-pastel-e-mega-lanche-conjunto-residencial-mario-dedini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Slim Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711041907_ebc53220-4f7a-43d4-9d24-be64f858ac0a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/slim-food-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMPERO DA HORA RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131350_27a67c8d-6040-400c-855a-1362367ab563.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/tempero-da-hora-restaurante-gleba-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradizionale Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291139_9fe9cdd8-9f90-43b0-b007-f79f398e590d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/tradizionale-pizzaria-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "WILLIAM LANCHE E PASTEIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131254_8fbdf83c-37e9-44aa-b3d1-fa7ea9cd255c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/william-lanche-e-pasteis-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BARZIN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231016_3502d846-69d7-4627-99e8-7ebc9b8b631c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/barzin-centro-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomate Seco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tomateseco_tomateseco.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/tomate-seco-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Brutus Hamburguer Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081238_4cbadd9e-1335-4744-96dc-5b6d187e9ede.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-brutus-hamburguer-artesanal-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Pote",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161150_36490ccc-8761-42ea-8d97-feaf06d75c8b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/divino-pote-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hummburguers Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701271104_HUMMB_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/hummburguers-delivery-vila-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Avenida Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241228_RESTA_RASI08.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/restaurante-avenida-brasil-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UNA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171313_dbce6cf3-9492-47ec-8f29-39f72c16654e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/una-pizza-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111445_a5d57148-aecf-412f-847e-b414c565be15.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/camburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob M. Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161047_b5c3a263-6667-4b60-a26d-b3745a0b784b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bob-m-delivery-nova-piracicaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TORIN PIZZARIA DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191408_b687a9cc-a0cb-40d7-9622-f586f66556a6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/torin-pizzaria-delivery-cecap",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Veríssimo Assado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708110727_e92878ba-0036-4604-8f21-b32acf5dce01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/verissimo-assado-vila-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LOS ANDES GASTRONOMIA PERUANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709241451_e4dcf7b8-9276-419f-bc3f-6a2a7be2f7c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/los-andes-gastronomia-peruana-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091131_852a3613-3c92-496d-a9e9-45e88b69c0c8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/mega-china-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Burguez",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061409_7fc69467-c7e2-4278-a860-7a1601921175.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-burguez-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Patreze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261019_4a0eaa77-a422-4207-ad58-c1c80dbc25c5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-patreze-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEI MEI PIRACICABA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709190925_f4920b7e-31ec-4167-9b76-ef00d461ddbf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/mei-mei-piracicaba-vila-areiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fornalha Vila",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701241452_PIZZA_AVIL01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-fornalha-vila-vila-rezende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria do Gé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011426_c600db65-aab9-48e9-9321-746171a005ec.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pastelaria-do-ge-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "POLLO LOKO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051249_2baefb74-0631-4b87-a793-0156bc76c507.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pollo-loko-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tatame Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tatame_tatam_lfood.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/tatame-oriental-food-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pateta Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261016_c0744dc3-0e82-4df9-9036-03bd2d27076b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pateta-lanches-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manga Rosa - Bar e Cervejaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709290829_ac13d494-c953-4c53-bbbb-5a7f2917d308.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/manga-rosa---bar-e-cervejaria-agua-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Abridor Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704070859_a4137a09f6f94e69b95205a937bbd84e.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/abridor-restaurante-sao-dimas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Via Pastelli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_VIAPASTELLI.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/via-pastelli-sao-dimas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza do Bira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//964x500x500x_PIZZADOBIRA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizza-do-bira-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Parma Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091551_BELLA_RANT04.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bella-parma-ristorante-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mchicken",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705131921_ddf96be2-7cb8-4e47-b88c-44fa58fe6572.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/mchicken-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piemonte Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_piemo_izzas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/piemonte-pizzas-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca Da Coruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703230711_fdb1e87c96ee480cbe255337ad9f4568.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/toca-da-coruja-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baião Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_baiao_zaria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/baiao-pizzaria-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maionese Lanches Tradicionais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706071217_21d53f91-7136-4a9e-a130-48ed26604f14.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/maionese-lanches-tradicionais-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kamimaki Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180935_42ef8409-93f7-4b1b-8cff-e30ab9eb6b27.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/kamimaki-sushi-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Chik",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090753_075b2062-79d5-4a9f-a045-35efeb3a861d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizza-chik-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maledettos Food House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo maledett_maled_house.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/maledettos-food-house-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaione_pizzone.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzone-parque-taquaral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Comida Caseira -",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051438_f167cebd-6db3-4ca3-8dec-a80d1509f1f4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/restaurante-comida-caseira---vila-rezende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Specialle",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//584x500x500x_SPECIALLE.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/specialle-jardim-caxambu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quiosque Chopp Brahma Carlos Botelho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo quiosque_quios_telho.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/quiosque-chopp-brahma-carlos-botelho-sao-dimas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Larika Lanches e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081149_3ff203c3-43c1-4ad1-ae89-c33caf37b8e0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/larika-lanches-e-porcoes-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Finíssima Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo la finis_lafin_zari01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/la-finissima-pizzaria-sao-dimas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FOOD FOR FIT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091606_db6fc112-cca3-40c0-a8fc-d7ceda62b785.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/food-for-fit-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota 19",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708110738_8284325b-3c6f-415c-8a36-d58a7036ff69.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/rota-19-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041825_0ee4f6a2-c8f1-433b-898c-ad5999596948.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/d-casa-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don'Altos Pizzaria - Loja Iii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_donal_zari02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/donaltos-pizzaria---loja-iii-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Saborosa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca  a _asabo_zari01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/a-saborosa-pizzaria-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakear Saldanha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/temakear_temak_danha.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/temakear-saldanha-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "School Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011103_05ff21f5-f0a7-4c2b-90ed-e81774ed0ba7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/school-burger-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O MATTADOURO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161406_0ff684b9-7cc4-42f8-9617-b93bc0964b95.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-mattadouro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ANDRÉ LANCHES DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140740_de082da4-8530-4a03-833a-c2fe060a6bed.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/andre-lanches-delivery-vila-rezende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Pinguê Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020818_600f53d6-675f-46c3-80f5-43d7fc4f5c10.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/le-pingue-piracicaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PedeNoCopo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021922_81bbb0a7-a443-44db-a615-d387f552ca57.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pedenocopo-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The House Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161501_eb2d82a9-b821-4742-bbeb-efc1c2852a4d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/the-house-pizzaria-jardim-algodoal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonna Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291148_25040b2d-81e0-4186-8e71-368ea6d4f5ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bonna-pizza-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BRANCO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711050809_84f9390b-2316-47a5-afdc-0f89eb3b1048.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/branco-lanches-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Malukinho lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301113_aaea7782-12f5-4fdb-86f1-2e7eb0ba4dc3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/malukinho-lanches-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Metropolis Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/metropolis_metro_scafe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/metropolis-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Brazão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031339_ec3f04e5-76ee-48f7-a61b-f4095a197706.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-brazao-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cavasotto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701240729_PIZZA_SOTTO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-cavasotto-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Billy Rocky - Good Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/billy_BIGJA_ICABA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/billy-rocky---good-burgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batatas nana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271430_5fe86ef5-210a-4ac7-aaa7-72e6b8e7bdf9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/batatas-nana-conjunto-habitacional-agua-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMAKI NOW",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151640_a77e4eb4-e47b-464e-a735-2703317293a0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/temaki-now-nova-piracicaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco São José",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sao jose_botec_ojose.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/boteco-sao-jose-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The House Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031204_88ac5ed4-407c-4325-af24-48d369bc3cf2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/the-house-lanches-parque-peoria-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog Dogueria - Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//958x500x500x_OLDDO_UERI03.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/old-dog-dogueria---piracicaba-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dog Jaú Premuim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111351_3cf34a5b-c151-492b-a522-095fdf4a17a3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/dog-jau-premuim-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR CASEIRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291601_ec1d2cf5-7fa7-4cf4-a9ec-0dda021ca86d.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/sabor-caseiro-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Meta Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271641_cae6baba-f548-4b70-9cfd-8264a4867355.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/emporio-meta-marmitaria-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Europoint",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/x_pizza_poin01.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-europoint-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kispeto-Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151831_0dd7b188-d0ce-4ea5-9713-d23c3a9d9b39.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/kispeto-piracicaba-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paulinho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111633_fbf7b977-1bb6-41a3-aee8-ea020e82f055.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/paulinho-lanches-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ITADAKIMASU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711172156_07397ebd-d903-4b04-9f46-d3ec043ef37d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/itadakimasu-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Da Comida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181101_EMPOR_OMIDA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/emporio-da-comida-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703011558_MASTERGRIL01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/master-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lambretas Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291009_c462d7fd-d01e-4cdb-9b20-28ddb2bbec0b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/lambretas-pizzaria-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Murilo Lanches Vila Monteiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703011938_MURIL_TEIRO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/murilo-lanches-vila-monteiro-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Frito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/frango_FRANGOFRIT01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/frango-frito-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amanda Salgaderia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291419_af208db6-b267-49c5-9237-11d7e3169c5b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/amanda-salgaderia-agua-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Janda Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo janda_janda_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/janda-restaurante-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Croasonh_CROASONHO009.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/croasonho-piracicaba-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toro Sushi & Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_toros_zaria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/toro-sushi--pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PUGA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201251_ffd22bab-f91e-457a-8eea-560fabcf7218.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/puga-lanches-conjunto-residencial-mario-dedini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Pizza-Sushi Bamboo-Montana Steaks",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logos-montana_santa_teaks.bmp",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/santa-pizza-sushi-bamboo-montana-steaks-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707021500_a3006e85-a17b-4700-a814-ba341ff34aad.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/babbo-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Braseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061206_15aa340f-36a9-40ad-b1b8-f439b1b863b7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/braseiro-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tchê Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sem título_TCHEPIZZARIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/tche-pizzaria-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Agua na Boca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061644_4be0444b-d471-4f37-a21a-329948ae162f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/agua-na-boca-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cupcakeria Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261849_bdcc1521-a8db-4637-b1ff-abed399beb88.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/cupcakeria-piracicaba-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Silvia Salgados e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011441_fa289b3f-df92-412e-be7e-de7c73eb4b71.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/silvia-salgados-e-cia-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e casa de sucos romã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111251_7a30e38e-3ffb-4da3-91fb-3dc6c87b2866.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/restaurante-e-casa-de-sucos-roma-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D Mama Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//155x500x500x_DMAMA_ZARIA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/d-mama-pizzaria-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Cabron",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_elcabron.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/el-cabron-vila-rezende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_ponto_sfih01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/ponto-da-esfiha-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boutique Do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707030951_7ef12a2f-5838-4a96-9b79-a607f0007e32.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/boutique-do-pastel-gleba-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE DO JOÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706111857_6891e077-e4bd-4ae0-a535-ba530071af36.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/restaurante-do-joao-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Próxima Parada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041059_4343ccef-4fda-4daa-b909-b993b0032bb6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/lanchonete-proxima-parada-jardim-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gosto e Sabor Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131157_179b5a64-da93-40a2-a5bd-b7bdfb73cc01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/gosto-e-sabor-restaurante-pauliceia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703150914_TOPPIZZAS01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/top-pizzas-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Country Potatoes - Batatas Recheadas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231652_e560e98e-9698-4005-b5da-4c576483ba69.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/country-potatoes---batatas-recheadas-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "São Dimas Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_sãodi_zaria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/sao-dimas-restaurante-e-pizzaria-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divina Coxinha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061407_ca39e59a-4423-4169-bec3-575f76fd5ad6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/divina-coxinha-delivery-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto G Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//779x500x500x_PONTO_ONETE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/ponto-g-lanchonete-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA TARANTELLA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tarantel_latarantel01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/la-tarantella-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seiko Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210919_SEIKOEXPRESS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/seiko-express-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Portal Esfiharia E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//970x500x500x_OPORT_ZARIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-portal-esfiharia-e-pizzaria-nova-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Recheio Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301251_03260864ea30465b8ed1ceeb2c4c6a02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/dom-recheio-gourmet-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gran Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251439_GRANGOURMET.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/gran-gourmet-higienopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha São Paulo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231058_45a52621-58a7-4a72-b925-4b272f8079b6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/cozinha-sao-paulo-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Café Real",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702011437_RESTA_EREAL.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/restaurante-cafe-real-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skinão do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708050840_7dbc971b-e1ec-4a67-982a-1e55b04e270a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/skinao-do-lanche-vila-areao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xandão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181407_50cf7316-a965-479e-9bcb-d314bece6f05.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/xandao-lanches-jardim-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Makis Place",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1006x500x500_TEMAK_PLAC01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/temakeria-makis-place-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água Na Boca Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_aguan_rante.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/agua-na-boca-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Libanês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081301_OLIBANES01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-libanes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stop Burger Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171459_2a1e7363-f9d4-46d5-b82c-7d1160043ee2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/stop-burger-piracicaba-jardim-caxambu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trailer 31",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101252_643cb425-db15-410a-b492-6a8c67ea68f2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/trailer-31-jardim-asturias-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ONIGUIRI BRASIL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051351_752a75f9-7d06-4c48-bcd4-18ec8dcb3ddd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/oniguiri-brasil-jardim-itapua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lurdes Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702081530_LURDE_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/lurdes-lanches-jardim-itapua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bomba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711121004_d71948ee-f274-4193-a51c-560005a4925c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/bomba-jardim-nova-iguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705300928_1c58af2c-5a3c-4e10-81fe-c2e7b7cbfff4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/delicias-lanches-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021507_b1219e83-23cf-422f-9f6f-78cb6621661b.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/ponto-da-pizza-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bellíssima",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171616_PIZZA_SSIM03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-bellissima-jardim-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho das delícias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250758_590deac2-be14-4527-b853-5062ff471e18.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/cantinho-das-delicias-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor da Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021456_6674b8e7-255c-4a8d-82e1-ce3443a5d192.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/sabor-da-casa-vila-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk delivery brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221329_8c232436-d099-4ee1-a688-cd172bfe2102.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/disk-delivery-brasil-vila-cristina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Degusta Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261048_cf61e1bf-7337-465c-b95a-0370c055839a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/degusta-restaurante-nova-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Enjoy Public House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Enjoy (1_ENJOY_HOUSE.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/enjoy-public-house-sao-dimas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Antares Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/14_ANTAR_RANTE.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/antares-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cavasotto Pizzas E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/cavasotto-pizzas-e-lanches-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Cafe Doceria E Cafeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/docecafe_docec_teria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/doce-cafe-doceria-e-cafeteria-agua-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italianíssima Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ITALIANISSIM.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/italianissima-pizzas-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jf Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701201348_JFPIZZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/jf-pizzaria-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kero + Pizzas & Cia - Taquaral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_kerop_uara01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/kero--pizzas--cia---taquaral-parque-taquaral",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mama D'Oro Pizzaria Cruzatto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mama d´o_mamad_zatto.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/mama-doro-pizzaria-cruzatto-cecap",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maresias Restaurante E Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/maresias-restaurante-e-lanchonete-alemaes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Titas Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/mister-titas-esfiharia-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Potato Piracicaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7327/logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/mix-potato-piracicaba-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Portal Esfiharia E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/o-portal-esfiharia-e-pizzaria-jardim-caxambu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelig Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_PASTELIGPIR.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pastelig-delivery-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nova Veneza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo nova vez_pizza_enez10.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/pizzaria-nova-veneza-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SR GENTILEZA - FOOD HOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221416_60141b4d-f8e3-4699-934d-90671c481576.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/sr-gentileza---food-house-vila-monteiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Pizza - Sushi Bamboo - Montana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/santa-pizza---sushi-bamboo---montana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Teste Pós Publicação",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Marroquina",
+        "url": "https://www.ifood.com.br/delivery/piracicaba-sp/teste-pos-publicacao-piracicamirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PIRACICABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]
+

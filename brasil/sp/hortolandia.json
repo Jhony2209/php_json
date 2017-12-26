@@ -1,0 +1,958 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Cremoso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131221_4ed509cc-0e05-4768-ada5-4fca9c524328.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/acai-cremoso-jardim-santa-amelia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Sô Hortolandia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Tia So_TIASO_ANDIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/tia-so-hortolandia-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria.Com - Hortolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 01_temak_andia.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/temakeriacom---hortolandia-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flamy - Hortolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021435__FLAMY_ANDIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/flamy---hortolandia-jardim-santa-rita-de-cassia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capitão Pepperoni Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011033_aea5a2d0-a50a-4805-af4c-9fc5891f1b5c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/capitao-pepperoni-pizzaria-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Diz que Fome",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111500_35462467-5918-4eb4-93f7-133b08d8b3b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/diz-que-fome-jardim-boa-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gratinados Dogueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311218_6668fa65-fbea-4e96-b5e8-949b1af664ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/gratinados-dogueria-jardim-amanda-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Malungo Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200914_e00320f5-f140-4f2d-a2e9-b00d083d21f8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/malungo-burger-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Bom Gosto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091531_bce38af6-58c7-40c8-835c-6644cf79de20.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/marmitaria-bom-gosto-jardim-nova-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mary Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131614_3bf97fef-d96e-42dd-b9b3-27ffdfee8add.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/mary-lanches-jardim-sao-pedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moto Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231052_6cd3d77a-9151-4460-88de-600feaf232ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/moto-burger-chacaras-de-recreio---2000",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Natural express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220843_05362d1b-d412-405a-950e-e7305c397646.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/natural-express-parque-ortolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DO MESTRE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301850_2908f6d6-906c-47b9-aa3d-6dec37550f54.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/pizzaria-do-mestre-jardim-mirante-de-sumare",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bom Forno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011106_9993457e-547b-45c2-9e0b-8352b3f69a51.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/pizzaria-bom-forno-jardim-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rangueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240933_27ec4c44-3eef-4274-95b9-ce38f8ad6106.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/rangueria-vila-real-continuacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SKYNA DO SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111007_5129f6e3-7cc7-49c8-90a6-62534ad5c724.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/skyna-do-sabor-jardim-sao-sebastiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Street Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130746_813bf725-efc1-4684-8e94-8ec6e1c7f35f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/street-food-jardim-adelaide",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Avalanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181702_fb40cc47-e32d-4914-a992-5a7669cddc53.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/avalanche-jardim-boa-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tasty B",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031624_ROOTS_ANDIA.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/tasty-b-jardim-everest",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Engenharia da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281409_73048796-7d9a-43ab-affa-fb826a934c60.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/engenharia-da-pizza-parque-ortolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "63 Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301425_c3b0513f-c871-4e54-aa58-fca4787a9696.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/63-burguer-jardim-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dunga'S Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/a1a177f0-77a3-4f55-a7ec-a74a9e1d4e96/201710161450_img20.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/dungas-dog-jardim-do-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBURBIA BATATTARIA & CIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260851_c9a78bff-41a6-4460-8322-5557270fe460.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/suburbia-batattaria--cia-jardim-campos-verdes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Move",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161346_fbe684b3-b854-4035-ba10-c2604f57e1e0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/acai-move-parque-gabriel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tubarao Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701171329_TUBAR_NCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/tubarao-lanches-parque-dos-pinheiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Signore Pizzaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708250720_126f1777-42f6-4823-984c-be4be392f190.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/signore-pizzaria-e-restaurante-jardim-amanda-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor da China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081139_395187eb-952b-490a-a198-5cf0951f6fdd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/sabor-da-china-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buj's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181555_075db4fe-4023-44b4-b7e2-5a574b623a23.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/bujs-burguer-jardim-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tortelle Hortolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709030752_6404926e-df20-41ff-a40b-81fe7ebcfaa1.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/tortelle-hortolandia-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CAPUCHO LANCHES II HORTOLANDIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121043_356e52a0-0a79-4f0d-8c81-e09c42e43297.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/capucho-lanches-ii-hortolandia-parque-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hoshi Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703070842_HOSHI_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/hoshi-restaurante-chacaras-assay",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roots Burger Hortolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706011051_58f57f3b-2b97-4b6d-8651-980deade646e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/roots-burger-hortolandia-parque-ortolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Dogão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701300948_ODOGAO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/o-dogao-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ELSHADAY LANCHES E PRATOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241210_a3c75da6-bfe3-4062-a43d-dd0d7cc45a4c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/elshaday-lanches-e-pratos-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Veneza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020844_9e80de96-eb57-4f2a-b7b6-6498aa268a42.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/pizzaria-veneza-jardim-interlagos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conde Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703311503_e1cf31e8a32e4f5e86497b34a8cb50a8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/conde-restaurante-jardim-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bela Romana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171619_25e63a50-bd1a-4cc1-9550-42b75bf6297d.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/pizzaria-bela-romana-parque-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushizeiros Hortolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701121255_SUSHI_ANDIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/sushizeiros-hortolandia-vila-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIT STOP Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301002_185cf66e-aa8a-4770-aae3-dfe25e1db176.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/pit-stop-lanches-parque-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Self-Baden Hot Dog Self Service",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161036_4086edf7-3782-411e-96d3-473576ad2023.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/self-baden-hot-dog-self-service-jardim-santa-izabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DELICIAS DO AÇAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_deli_DELIC_OACA04.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/delicias-do-acai-jardim-amanda-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Balaio de Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706230731_98b2ec9c-4618-41f2-9336-2b6aaf8e29d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/balaio-de-acai-jardim-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY - HORTOLÂNDIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291006_7830b675-f850-40ed-afbe-791a0149ff2f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/subway---hortolandia-jardim-amanda-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brother's Snack House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181148_0c934615-f7c3-4ad8-a3e1-d7da755a59f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/brothers-snack-house-jardim-nova-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchão & Cia - Hortolândia - Amanda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lanchão_LANCH_MANDA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/lanchao--cia---hortolandia---amanda-chacaras-acarai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comercial Guaxupé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031059_6efb97a5-282d-4128-8598-56e85f2d6e5b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/comercial-guaxupe-jardim-nova-hortolandia-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação Acauã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_estacaoacaua.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/estacao-acaua-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "M&A SABORES CASEIROS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709110905_5f91f83f-f422-4398-9df5-87a5b3c2306b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/ma-sabores-caseiros-parque-dos-pinheiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Brunett's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708070825_e9891479-149a-46ff-a384-861a2fe40fb7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/disk-pizza-brunetts-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "No Capricho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301744_2bd721d3-2555-4a9a-aaca-1c853d6621ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/no-capricho-jardim-adelaide",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Crepaldi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020843_f0135c6e-6561-4456-8275-6ded141fce89.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/villa-crepaldi-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galleto Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702030819_GALLE_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/galleto-restaurante-vila-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG JOW",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo big jow_bigjow.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/big-jow-loteamento-remanso-campineiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfihamania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191657_13d19abf-2722-41a9-a0f6-f14cedd612bb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/esfihamania-jardim-amanda-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Companhia Nostra Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705160836_d7ef29c0-ff5c-4bbc-ad29-59708343f434.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/companhia-nostra-pizza-jardim-do-bosque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Bella Massa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261612_4a0b6224-444c-4341-b4a5-e618ede9fb4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/la-bella-massa-pizzaria-jardim-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vilson Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701211016_VILSO_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/vilson-lanches-jardim-sao-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Bonvechio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701101245_CANTI_ECHIO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/cantina-bonvechio-jardim-amanda-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "J&A disk marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081054_9475605b-3eee-4ab4-a8d9-d75e48a5d6c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/ja-disk-marmitex-vila-real-continuacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Gusteau'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091211_15919f69-12fc-4efe-822b-2defac8d4924.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/hortolandia-sp/o-gusteaus-jardim-nossa-senhora-da-penha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "HORTOLANDIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

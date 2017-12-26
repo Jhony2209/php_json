@@ -1,0 +1,399 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Bragança Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200024_26337110-39c4-46c5-9fb5-c047c02c2a37.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/brasileirinho-delivery-braganca-paulista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BATATA MANIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301035_25c2c392-c5c5-436e-89c9-9102fae66df3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/batata-mania-taboao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Santa Anna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310721_4faa530c-a8f2-4e42-9cc0-29de6d4eea96.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/pizzaria-santa-anna-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Mineiro Delivery Bragança Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mineiro_minei_lista.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/--mineiro-delivery-braganca-paulista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr SHAO & Happy Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040912_e563db5d-2c15-48b1-9168-34e74bf725b3.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/mr-shao--happy-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopp Time - Bragança",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chopp_pr_CHOPP_GANCA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/chopp-time---braganca-quinta-da-baroneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coxinhas do Coquinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061257_e31fef94-a131-4039-8207-22683eb42c99.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/coxinhas-do-coquinho-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Calabresa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141015_649c3366-bc6b-4960-bb53-e2402166f7d7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/rei-da-calabresa-quinta-da-baroneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery Batata's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241241_2c7848bc-a148-41dc-9f27-06ebc6a20e7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/delivery-batatas-nucleo-residencial-henedina-rodrigues-cortez",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Friends Hamburgueria e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091012_dc0619ff-84b9-4497-a264-a79482f82d32.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/friends-hamburgueria-e-pizzaria-taboao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gold Burger Bragança",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131659_0f17b2e7-ddd6-4c8b-80a4-4823ebd9c41f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/gold-burger-braganca-jardim-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gringo s Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241642_28d889ba-461a-407d-9636-76ac8c7ff449.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/gringo-s-lanches-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete e Restaurante do Marquinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211114_63f534bc-a731-467d-bda1-235fabc255d5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/lanchonete-e-restaurante-do-marquinho-cidade-planejada-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "P & F Marmitex e Bolos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030733_c0cb5454-b954-484f-bc1d-32697923e734.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/p--f-marmitex-e-bolos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Torre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010816_12fe94e3-e9bf-46bf-b42d-b2881d311843.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/pizzaria-la-torre-taboao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pop Esfiharia e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031133_3326c474-3932-4599-bab2-c17dcee6f737.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/pop-esfiharia-e-pizzaria-cidade-planejada-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Pizza E Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711210745_1c8c1a39-d746-40e2-a740-fb4a0500358e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/rei-da-pizza-e-esfiharia-jardim-aguas-claras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Speed Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711070828_b6cd34f4-fe20-4a69-a1fe-d6aa20a2a611.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/speed-beer-jardim-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Burg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706060927_cb04fb31-9475-45c9-86a4-dbabefc9e4dc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/big-burg-jardim-recreio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Th",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101004_8b0be5c9a3d8455389662c9e80923837.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/hamburgueria-th-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tenshi Sushi-Boteco Bragança",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181425_21882486-d103-4a57-b1e6-fd9dcb2dace8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/tenshi-sushi-boteco-braganca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Rosário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011652_37b3f7d2-df07-4da0-a268-21b75251d33f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/bar-rosario-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Dito Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151450_4ea8afce-e614-48f7-a6af-ab4d3772adea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/bem-dito-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Razera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703090826_FORNE_AZERA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/forneria-razera-taboao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SEG CHICKEN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241110_3621a69d-17a2-468a-aad7-43e6d98af8ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/braganca-paulista-sp/seg-chicken-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRAGANCA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

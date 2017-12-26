@@ -1,0 +1,223 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Bertioga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWAY26.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/subway---bertioga-sao-lourenco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Tomodati",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281012_073f9338-23c3-4e8e-b3b4-d3a84f73ab66.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/cantina-tomodati-loteamento-costa-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Pizza - Bertioga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071634_f967b10d-c53c-4a06-be7a-f201c1fc0385.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/cantinho-da-pizza---bertioga-jd-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Esfiha Bertioga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281149_3e03a9a4-f1a0-4454-92d7-44a18ca1cfe0.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/casa-da-esfiha-bertioga-maitinga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IMPÉRIO DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201038_628d8f1c-0d8c-4bbb-bd93-93cd0ebf3f9c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/imperio-da-pizza-jardim-rafael",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Coxinha Bertioga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201341_a29eeb39-1add-4f72-890a-931bfc0e254f.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/seu-coxinha-bertioga-riviera-de-sao-lourenco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baltuilhe Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200750_3c852300-a58a-4bd5-9c2b-2ea66841f168.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/baltuilhe-pizza-delivery-jardim-rafael",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coast Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091734_d67b4643-1448-4155-a71d-1c2e30d8ae3f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/coast-burger-vila-clais",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sandoobah Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710100922_eff8bdb6-3af6-4a53-b215-68affe63def5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/sandoobah-hamburgueria-loteamento-costa-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tuké Temaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710060948_4502c622-6c57-4a84-9166-83959054178a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/tuke-temaki-sao-lourenco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D'Itália Indaiá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271038_0771db90-4352-478d-9614-836ceefd2e1d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/pizzaria-ditalia-indaia-maitinga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pirata Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131018_95f172e2-1048-45be-a02f-5c78ada13507.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/pirata-pizzaria-jd-albatroz-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Rafa Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181159_37c82bc5-03ad-4948-bb25-543ec99e987d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/pizzaria-rafa-pizza-jardim-rafael",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deli Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710212029_68babe68-a4c0-4d0f-8b18-da3c697cc604.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/bertioga-sp/deli-food-riviera-de-sao-lourenco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BERTIOGA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

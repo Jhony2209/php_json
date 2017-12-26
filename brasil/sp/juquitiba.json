@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sem fronteiras Bistrô e Buffet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710110835_95999b26-03f5-4c5e-8d21-da7b331c7af9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/juquitiba-sp/sem-fronteiras-bistro-e-buffet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JUQUITIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

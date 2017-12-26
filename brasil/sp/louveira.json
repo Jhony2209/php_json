@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Louveira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291009_e2d54fd2-f730-4e2d-bc08-4d2a671ae5e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/louveira-sp/subway-louveira-vila-pasti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "LOUVEIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

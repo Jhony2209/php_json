@@ -1,0 +1,3480 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ACAI VIP",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301428_7f091772-2c74-44f5-983d-047e07d1a582.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-vip-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açailandia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180859_fb712936-057b-4f31-bc31-806d5371faeb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acailandia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Kero +",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201614_29d76cbc-b176-4f75-b381-3561eff5edab.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-kero--jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gy Açaí Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081054_a810dcde-7217-472d-90bc-1d5eaa136ab3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/gy-acai-delivery-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deli Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logodeli_deliacai.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/deli-acai-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapioca Do Jatobá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161406_TAPIO_ATOBA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tapioca-do-jatoba-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cesar Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100955_09afd544-a4f6-4675-b320-eee872a69848.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cesar-lanches-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LOS PALITOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301000_046b498a-239a-4704-affa-0eb63defaee5.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/los-palitos-coroa-do-meio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GULANCHES & AÇAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo gulanche_GULANCHESCOM.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/gulanches--acai-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Crepe Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261303_5a48e37d-29d5-4767-b9b6-66fcdefa6845.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/crepe-mania-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí concept Jardins",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704190908_5d4737df-cb0e-4364-a924-77051ce8fd2c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-concept-jardins-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota79",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo rota79_rota79.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/rota79-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "1000 Delícias",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281043_c4ccdeef-fdb5-43f9-9dc5-6ded7a4a9c8c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/1000-delicias-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaíba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111254_c168ed53-a248-4ab8-be28-ad2ed6e5af2c.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acaiba-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAÍ AJU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231549_ACAIAJU.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-aju-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Sabor Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/docesabor_resta_sabo01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/doce-sabor-restaurante-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Kalango - Açaí House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/L_ELKALANGO.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/el-kalango---acai-house-siqueira-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Majú Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701261137_MAJUP_LARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/maju-pastelaria-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Bacana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101415_39fc3100-a6fc-49e6-99cb-a5573dfd2be7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-bacana-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo croasonh_croas_acaju.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/croasonho-aracaju-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290940_93d1e3df-0b96-4c6a-8b6f-231cc7ac2908.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/subway-aracaju-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante da Vovozinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281036_b28dfef2-63eb-4799-8b05-0c2bf53e2aad.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-da-vovozinha-dezoito-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702071730_ACAIGOURMET.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-gourmet-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Fitness",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701111658_ACAIFITNESS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-fitness-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PASTEL & CIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706170845_fbd57b74-5b27-4b0b-800f-b0ced12ec341.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pastel--cia-jose-conrado-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Corno Velho - Rio Poxim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - corno _corno_poxim.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/corno-velho---rio-poxim-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/24ece53a-b13c-42f0-99ed-b47d38d2671b/201710101901_atual.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/x-lanches-jose-conrado-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galego Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710250758_c804975b-6203-4d98-86bc-01594038f181.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/galego-lanches-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Soul Casa Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061408_8f60daebafc244d7afc16c12a9555a25.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-soul-casa-bistro-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181610_e7ea3550-4b08-4c5c-b492-aea4ee0b7761.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/china-in-box---aracaju-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200056_7279bebf-ead2-4eef-b173-c3da0b189c6a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/brasileirinho-delivery---aracaju-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Cruzeiro Do Pampa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_churr_pampa.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/churrascaria-cruzeiro-do-pampa-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Acarajé Da Ana e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291144_969b6a4d-c1ab-401a-ac05-0dcdeeb6f082.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acaraje-da-ana-e-hamburgueria-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Altas Horas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281012_94a6afc0-82a6-4d7e-8f23-217da7927d09.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/altas-horas-lanches-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASTELO CONFEITARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051203_a363b896-6a67-4d16-8c2d-c762064d4799.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/castelo-confeitaria-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Boi Bom",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181040_6f1c9a87-9b19-4d90-84c6-faf74b7cc8ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/churrascaria-boi-bom-cirurgia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ded's Galetos Recheados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080849_e218eeea-4c8f-4076-a19c-da8533f25334.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/deds-galetos-recheados-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicia de Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221335_95aad3f9-ff2b-4340-9276-de897ca1fa16.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/delicia-de-sabor-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don'afra Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241410_e9ffcbff3cbf43129b2a9f0cf7e2254b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/donafra-burgueria-zona-de-expansao-aruana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galleto's Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711151239_1b41ab77-62e4-4ecd-87d9-36672550cc9f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/galletos-gourmet-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hatenkoo Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211955_2c88ae96-08ae-4373-a94a-0dfbc41e20c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/hatenkoo-oriental-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hey burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191450_ec4365e4-25a5-4973-bc01-2b840898cce4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/hey-burger-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "I Love Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712130815_a35d130f-5797-4cc6-b228-f6fef38c05c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/i-love-burger-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IN Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210955_5b14918a-b613-45f5-80a8-500ea8ec5241.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/in-pizza-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaká gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140852_321b5bf8-e72a-43bd-9e1c-4b76d7a394b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/kaka-gourmet-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kona Poke",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120856_524e2e98-2adc-4c3f-964b-72d0a932de57.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/kona-poke-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Sabor da Bahia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131522_7ae31c9d-19c1-4209-9465-38549473ec8a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/lanchonete-sabor-da-bahia-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Legal Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271142_32990a32-70f1-44d1-a24b-c653762ee494.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/legal-pizzaria-delivery-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MASTER LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110918_517256df-f323-4cff-b519-1c33a3fad898.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/master-lanches-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MI PIACE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241002_f46e04ea-b4d9-4554-a856-1ba14bba4298.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mi-piace-coroa-do-meio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MarmiZen",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210924_f7738187-c4ca-425c-ae82-bed372d7d47f.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/marmizen-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MeM TAPIOCAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171800_6a0618b8-dd95-4a28-8683-8f5e68113bbe.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mem-tapiocas-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NOSSO TEMPERO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230845_cf1256bc-84df-48ac-ae02-5980485443e2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/nosso-tempero-zona-de-expansao-aruana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pirão do Mello",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080930_e38130c6-a9ed-4b63-82de-90fa6b51b6f0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pirao-do-mello-siqueira-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Pig",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301350_21553517-41ed-457e-97fb-41323b20e698.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizza-pig-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto da Refeição",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291925_6e4cef0f-f111-4115-90cd-6e7c431a56ec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/ponto-da-refeicao-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rock'n' Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712260835_dcd5c221-b29e-45e9-9ad8-a078681767eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/rockn-burger-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SEIKOU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250805_52cd2d6f-be31-439c-bda0-1d91fe11e035.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/seikou-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saiko Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281157_5fd5a007-aea8-42ae-b925-5f80875f7b23.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/saiko-sushi-bar-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TBURGERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301127_13b44058-6f6f-4eca-9950-8d70ae22004b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tburgers-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zap Hamburgara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161758_6826b6d1-6e90-4aea-bf28-bfa36b31f7d7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/zap-hamburgara-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amor Em Pote",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/6505054c-610e-49c8-9fb6-15eea6f46701/201712011034_semtt.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/amor-em-pote-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milk Shake Mix Farolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705290828_89dccbc2-a472-4fa8-959d-f3471ebaa78c.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/milk-shake-mix-farolandia-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AJU BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061706_6a0ece5d-7e9c-49a4-8d2f-5546052b59ac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/aju-burger-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Sopa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101449_a5283f3e-ac14-4d3e-a853-dc8d0dbd7fe0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cantinho-da-sopa-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A QUERIDA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707021559_861b9567-ba99-455f-bd84-90f7464ef330.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/a-querida-pizza-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Veron Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704141418_36301113bd6345f69c5128bd8cdbe9f5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/villa-veron-pizzaria-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Fê - Cozinha Prática",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/3e98bfe2-66d3-4606-a54f-36141009492d/201712012049_marca.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/chef-fe---cozinha-pratica-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tortillaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291129_fa0f9984-5dc4-4159-9772-01d39a4f7a27.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tortillaria-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meubão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bao_meuba_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/meubao-lanches-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapioca do Gilvan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200923_056b0403-2ddc-4047-9ca9-81de3dc01601.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tapioca-do-gilvan-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pontual Restaurante e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/0776d3c2-9766-4873-b2a7-7d80d4aa6c1d/201708241130_img_0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pontual-restaurante-e-lanches-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meat'S Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091334_b29f627f-dad2-4645-9d41-27c1428ff8e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/meats-burger-sao-conrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chili Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo  3_chiliburger.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/chili-burger-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Fit & Cafeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709260936_e24a8ead-2b3e-48c4-8582-3f12dd4e4559.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-fit--cafeteria-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NORIMAKI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051037_a7db9b02-c4e2-4f3d-98ad-5965ba93bf06.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/norimaki-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master King Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291108_20bc2771-895f-4f28-9b0c-af65d192c191.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/master-king-lanches-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANT PREMIUM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050829_1e6f2894-5f3a-40fa-bdc4-481982791a81.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurant-premium-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Jack",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130831_ef7fa870-5a0e-4f6c-a528-cfe0210aabb9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/the-jack-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Du Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051011_7a93d2cc-7c44-485a-9ba3-6931e7085743.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/lanchonete-du-cafe-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BUENA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071107_07021752-1278-43d6-9e40-5d0287869268.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/buena-pizza-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Let'S Eat - Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - let's _letse_acaju.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/lets-eat---aracaju-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAMI LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061113_82a0ba79-1721-4efa-b9e0-0cc8dd6713c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mami-lanches-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tarja Preta Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291537_8fd0d101ebd645948ee78e6725488f41.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tarja-preta-hamburgueria-gourmet-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251004_45851efb-5bd9-453d-bae6-3abf396dec13.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/chef-food-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vintage Pizzas'",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280844_87987317-978b-47ca-a6cf-fe9cc625d47d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/vintage-pizzas-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SANDUBA DO GORDINHO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021024_44bcd196-82e1-4564-8f3a-db0f8e800dbd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/sanduba-do-gordinho-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNO DI NAPOLI Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011533_a9206dd4-3ba6-432b-8486-837ae393747b.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/forno-di-napoli-pizzaria-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TAPIOCA LA BELLE BEJU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707190938_627ec50d-7bdc-4d6c-b85d-7d64bab3ba32.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tapioca-la-belle-beju-jose-conrado-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KASATO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121522_e764b4b1-15c1-4c79-a39a-d7986a41186f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/kasato-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Da Janta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704221100_db4c712c-b0cc-4432-bad7-cb7d1718e39a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/rei-da-janta-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNALHAS JABOTIANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_forna_zari03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/fornalhas-jabotiana-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PEDE AÇAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160801_d66d180b-2a06-44a7-9332-22c8ef1ba215.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pede-acai-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manjericão Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231044_3616576d-44ea-45bc-be46-160302a8cb01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/manjericao-pizzaria-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SATO SUSHIYA - Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091942_ff6b9d50-e95f-4101-8189-2aa6adca1bf0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/sato-sushiya---aracaju-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Jardins",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131646_7861f740-be50-45bc-8c8d-d58142dc7e14.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-jardins-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Giovanni - São Jose",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705061157_655084bf-ddad-47a0-ad3a-553553f69f7f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/babbo-giovanni---sao-jose-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Valentino Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/19d24a7c-717f-414f-b453-73cf0620c29e/201710092237_img_5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/valentino-pizzaria-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNALHAS FAROLANDIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161509_49642159-3f10-43ad-99ff-d9ee20c25818.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/fornalhas-farolandia-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Luiz Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704120930_263f7100bf804217afc04939f46bfd60.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/seu-luiz-restaurante-pereira-lobo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAI GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710221347_75761c0c-e8f0-45d2-a2e3-c9b427261df7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-gourmet-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Pirata Beer N burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281045_7093589f-1312-4751-ad8b-c93efbe9407b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/o-pirata-beer-n-burguer-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XIN FU RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704301313_ee748409-bcc4-4ab3-9fc6-c6965b74b4a6.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/xin-fu-restaurante-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Da Sopa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rei da sopa -_reida_cente.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/rei-da-sopa-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Iaçá Sabores Da Terra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/iaca_iacas_terra.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/iaca-sabores-da-terra-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VINI LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291345_97cff6cd-65a2-41d8-ab45-55f55ee29b2f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/vini-lanches-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deli Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040949_DELIPIZZA01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/deli-pizza-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Lanche Dumont",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/873587c908783_CRAWL_LUZIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/master-lanche-dumont-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marolla Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181031_d282eb24-6b3e-4659-b41f-168806f01f63.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/marolla-lanches-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kings Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704161043_cd3cc47b1359472ea26e22bd2e4fc26b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/kings-hamburgueria-jose-conrado-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Concept Coroa do Meio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230932_f545fd0c-f55d-4487-be38-0b9420c00d46.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-concept-coroa-do-meio-coroa-do-meio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DNA Natural Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051015_226ed70c-a350-46d7-af86-5e78f0782f9e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/dna-natural-aracaju-coroa-do-meio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Restaurante Janaína",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091637_PIZZA_NAINA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizzaria-e-restaurante-janaina-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kalilândia Pizzaria & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271511_70663bff-8ddd-4596-b82d-20ccfd144e86.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/kalilandia-pizzaria--restaurante-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Flor do Jardins",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311106_869a3e2b-23ee-4078-91bb-937bf2c0f3df.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-flor-do-jardins-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Nagibe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705152023_3bfe6603-55d7-428d-8455-71e5435b3c53.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizza-nagibe-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco Bonsai Lounge Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061236_BOTEC_SUSHI.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/boteco-bonsai-lounge-sushi-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mineiro_minei_acaju.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mineiro-delivery---aracaju-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPACE BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702020950_SPACEBURGER.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/space-burger-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Sanduba delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231037_8711e541-2ccc-4a56-ab54-7a0cfffac99b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/master-sanduba-delivery-olaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bilo Bravo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051036_6118aa8f-92df-4373-96ed-38da94ecde66.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/bilo-bravo-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Boy Lanches e Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191558_261c4ebe-ae41-4b2f-b659-386947910138.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/big-boy-lanches-e-comida-caseira-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paradinha Vb",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051055_34497343-40d9-4ae2-9130-66350b690156.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/paradinha-vb-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Menu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130900_9243369a-4342-4a9c-a9bb-6edb9589b70c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/seu-menu-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Recanto Gaúcho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - recant_churr_aucho.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/churrascaria-recanto-gaucho-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Vinis - Espetos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701281229_DVINI_PETOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/dvinis---espetos-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marilda Gourmet Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211150_MARIL_RGERS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/marilda-gourmet-burgers-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomorrow Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281347_5eeb5091-6543-406a-ad13-5fc9c7adc6a9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/tomorrow-hamburgueria-getulio-vargas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Señor Barriga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201846_7e6d7a12-81ce-482c-8d33-6e31db3e7276.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/senor-barriga-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Loucos por Tapiok Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071134_2a3f8067-1c49-47dc-a957-105c5a8e9f85.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/loucos-por-tapiok-delivery-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabeça Lanches/ Farolândia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081441_34ee32bf-2cb4-4769-b933-a7609f89ff74.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cabeca-lanches--farolandia-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA CHEF",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301704_8be4d67a-a96b-4dd1-8ac8-3529a8257d57.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizza-chef-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pokee Aju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709220825_df0dc7e0-6de9-4df7-9017-33ab5a081712.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pokee-aju-zona-de-expansao-aruana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Allys Burguer Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - allys_allys_urmet.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/allys-burguer-gourmet-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Mamma Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mamma_bigma_zaria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/big-mamma-pizzaria-inacio-barbosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai 13",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705061410_d767f461-1faf-42d4-816f-46fae65c30ee.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acai-13-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deppan Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190927_f31774b2-b908-4a87-b241-d9a67f03eb11.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/deppan-oriental-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Pizza Atalaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_SANTA_ALAIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/santa-pizza-atalaia-coroa-do-meio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Acaraje Da Paula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703240910_3c1e65ecc83846fa9f00a157395ce77b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/acaraje-da-paula-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Senzai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_resta_enzai.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-senzai-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saladeiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704301155_59d7899f-4c80-4bc4-abc4-04c1c9c6f812.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/saladeiros-industrial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bioma Vida Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703020913_BIOMA_TURAL.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/bioma-vida-natural-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Costela No Bafo Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081648_ef25f111-6877-4275-9f5a-4a458c62603c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/costela-no-bafo-delivery-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donn Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241942_eff34b01-ab0c-4fa6-816c-edd554672dff.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/donn-gourmet-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Super",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310731_630987a9-77e3-4848-96de-68fb7a2f0042.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizza-super-pereira-lobo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina La Mamma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cantina _canti_mamma.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cantina-la-mamma-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Geek Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051113_55826c625ce64d1cbe956a45c5a8e8f2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/geek-burger-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza dORO - Forno a Lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizzadoro.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizza-doro---forno-a-lenha-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mais - Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzalogoo22__pizzamais002.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizza-mais---aracaju-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Dádiva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271027_21f83fd7-65d1-4ca7-b9f6-e95672e2236a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-dadiva-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mercatto Sorvetes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051532_4ce170cb-a180-4918-97e0-d721b8a510ab.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mercatto-sorvetes-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pesthana Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011357_172e338f-7d3a-4fa6-8d86-6ac11ab64c37.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pesthana-delivery-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante NutriMix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030824_94cbf03a-fd47-4125-b407-0c8aa82ac71c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-nutrimix-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ligue Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_liguepizza.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/ligue-pizza-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria e Pizzaria Dom Pedro I",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 122_churr_edroi.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/churrascaria-e-pizzaria-dom-pedro-i-jose-conrado-de-araujo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macarrones",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/macarrone_MACARRONES.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/macarrones-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shouri Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702151551_SHOUR_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/shouri-restaurante-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Gardini Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_pizza_rdini.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizzaria-gardini-delivery-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Muito Mais Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231613_0c91536a-882d-45f6-a2c6-59e5e3bd8158.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/muito-mais-lanches-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BADA GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071428_4ca58970-d31e-4b0a-a56e-b76aad0c05b1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/bada-grill-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saladita Comedoria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011014_8b13e8e1-82e0-4fc3-a071-9f4fd1d6107e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/saladita-comedoria-siqueira-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Target Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091128_3238d632-44ed-4baf-92b7-4e1f6751309a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/target-burger-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Realize salgaderia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131214_5acf242e-7220-4794-8f51-52d71e6b5132.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/realize-salgaderia-sao-conrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Pizza - Salgado Filho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/santa_santa_julho.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/santa-pizza---salgado-filho-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Franques Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061130_7a74ab5c-479f-41c7-8088-c945be281931.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/franques-lanches-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sakê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031304_5be0c1e3-088f-4591-b401-a643fa9d134f.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/sake-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141449_d44a8046-f117-4908-9668-cffbeb5b0e4c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mix-gourmet-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Esperto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281247_3f4cf1cf-d13c-46ac-8cb5-ffed66c0e8c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/frango-esperto-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Do Galeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_reidogaleto.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/rei-do-galeto-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "I love açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221003_0025fd83-dadc-4888-b26f-c089f73889b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/i-love-acai-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alagoas Comida Rápida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221629_87442376-b3d0-4daf-a23e-bb338fbe31ff.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/alagoas-comida-rapida-coroa-do-meio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Box Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111248_13d557a24f7f4007a23885248c04bfbe.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/food-box-brasil-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Restaurante São Paulo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121150_9f5ff19f-df21-4f6f-936a-bef49d52c101.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizzaria-e-restaurante-sao-paulo-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria do iran",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710242040_4e02715e-4518-4adf-889b-64b4c3a9019e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pastelaria-do-iran-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Craw Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 4_crawlanches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/craw-lanches-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Encanto Da Paraiba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/6894b4a6-5a51-4195-8bfe-8048deaf400e/201710121131_img20.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/encanto-da-paraiba-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "220V HAMBURGUERIA E LANCHONETE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 220v_220vh_onete.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/220v-hamburgueria-e-lanchonete-sao-conrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divina Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071828_d128db4c-2b9a-42fb-888c-ea79bf5b17a2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/divina-massa-dezoito-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Dina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211402_DONNADINA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/donna-dina-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ava Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070933_d73f16cb-9889-4c21-83fb-3af142c696d9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/ava-burguer-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nina Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200956_b171dee9-6423-4d18-9608-be267c08cf5d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/nina-pizzas-zona-de-expansao-aruana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181404_7f46cf64-d7c3-4472-9af1-5ac6a5b29019.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cozinha-delivery-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Fornatta Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051540_a97aa826-f45f-42a6-9885-c328162e2937.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/la-fornatta-pizzaria-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The American Bakery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701201151_THEAM_AKERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/the-american-bakery-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutrifit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280730_855cb818-f767-4c69-b5cd-97017e23d1fb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/nutrifit-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Apetitosa Quentinha Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231944_838dea05-f73a-4565-8cc6-a80cdbd33c55.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/apetitosa-quentinha-delivery-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pepperoni Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091022_PEPPE_ZARI02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pepperoni-pizzaria-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RUÁ FOOD TRAILER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281206_f399afa7-ad76-4fc1-b9c0-096c5fdc2a2e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/rua-food-trailer-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yah Temaki Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo yah_yahtemakibar.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/yah-temaki-bar-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yoshi Temakeria Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101451_d012589b-ccd0-4354-9d79-70e12367c024.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/yoshi-temakeria-sushi-bar-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DANIEL LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706270924_02ba111c-c356-4ffa-9ab6-f3736a96b6f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/daniel-lanches-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oush Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301402_32204653-454d-4383-9adb-afeb7e6e6875.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/oush-acai-zona-de-expansao-mosqueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japan Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230932_a5186fb0-95ba-46cb-bf0e-b515776a6df9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/japan-sushi-bar-jabotiana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Corno Velho - Orla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo - corno _corno_oorla.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/corno-velho---orla-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yang Chan Culinária Oriental Jardins",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo xino_xinoc_rdins.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/yang-chan-culinaria-oriental-jardins-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031353_c9485d17-f221-49ee-8429-cd9ba5ebc558.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/emporio-caseiro-grageru",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DELICIAS TIA TANIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101150_93b7b5de-b3fa-421e-9184-7c7327d81b26.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/delicias-tia-tania-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha da Dinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cozinha _BEBID_PRESS.png",
+        "priceRange": "$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cozinha-da-dinda-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hashi Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_hashi_enta01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/hashi-culinaria-oriental-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Wipoke",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181013_dc1a23fc-0e3f-41cf-9ba9-0503bf69574b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/wipoke-treze-de-julho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VILLA MACARRONE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251407_33a2d8f3-862b-45de-b517-fa5779a90f9e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/villa-macarrone-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vila Maestria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo quadrado_resta_stria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-vila-maestria-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HARUMAK  YSSOBA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161334_d83fc3fb-3119-4c25-bb75-2a63848a6460.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/harumak--yssoba-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria e Hamburgueria Paladar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271035_1b288ba6-8b93-4f43-bf3d-7da37875d7f1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizzaria-e-hamburgueria-paladar-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Garoa Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141024_da7774c6-865c-4d41-9422-3d0010118f86.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizzaria-garoa-paulista-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boteco del chancho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241050_8d72df14-988f-4a48-bfe6-805b9357fbc4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/boteco-del-chancho-farolandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Massa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bella_pizza_mass08.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/pizzaria-bella-massa-sao-conrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XINSAN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709160958_087b778b-fc9f-42a6-bb1e-096f3afb090c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/xinsan-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANTINA ORIENTAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021620_8d7ec4f3-1edb-4a58-9f0f-5d841c63455e.JPG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/cantina-oriental-dezoito-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paraíso da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281509_1ba98ed3-033c-4ff9-a8f4-3f07758528ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/paraiso-da-pizza-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mori restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706060950_5233a17b-31f6-4bdb-8d57-8441854f8562.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/mori-restaurante-atalaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto do Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241230_5dd7ad64-8c3a-49f7-99b7-9e007db7efcb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/ponto-do-sushi-sao-conrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Aracaju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181801_a1584927-7a58-4a05-8a37-f1b2e4be3232.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/spoleto-aracaju-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nukoni sushibar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111323_58af7ab4-fcb1-466d-a2a6-68ad55d93abe.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/nukoni-sushibar-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Villa Maestria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/restaurante-villa-maestria-salgado-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031058_b2c19bdf-c224-444c-a417-6f3881ba4e58.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/sabor-caseiro-ponto-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushiland",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_SUSHILAND.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/sushiland-jardins",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushimassa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261353_263306a7-4f2a-4996-a3d9-501799461c34.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/aracaju-se/sushimassa-aeroporto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARACAJU",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }]

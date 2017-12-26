@@ -1,0 +1,558 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Beat",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290734_a23089d2-9137-4000-bfd6-e54011939fb2.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/acai-beat-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saladenha - Itu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo saladenh_saladenhaitu.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/saladenha---itu-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carol Coxinhas - Itu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121739__CAROL_ASITU.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/carol-coxinhas---itu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091158_CASADAESFI03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/casa-da-esfiha-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Freitas Lanches e Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201053_75a0081d-1291-43ca-8247-dfffc81671da.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/freitas-lanches-e-acai-vila-gardiman",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tenshi Sushi Boteco Itu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704282235_1d05156f-cc0b-4f90-8054-52826fea54b3.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/tenshi-sushi-boteco-itu-jardim-paraiso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Do Salgado Itu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261207_7b5573a4-8178-4c16-a958-8b564c90c396.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/rei-do-salgado-itu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AMERICAN TASTE HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301427_4416263d-7533-411c-aafc-925ab00ea7bf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/american-taste-hamburgueria-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAÍ V6",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080729_f3292516-4de1-41dd-b02f-a8bd349c093e.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/acai-v6-parque-residencial-presidente-medici",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D.J LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181011_b42eed09-9cf2-413a-8aba-71acedfae11e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/dj-lanches-jardim-alberto-gomes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JIN JIN ITU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180755_35ad48f1-5e62-46d0-ac38-41badac49a21.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/jin-jin-itu-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Qualquer lugar lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171244_98d3302a-1f6a-46dc-a222-6f00ce16eacb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/qualquer-lugar-lanches-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Capixaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131702_47b54b70-487e-4ca8-99d2-3f9adbba03d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/sabor-capixaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Winner Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190931_8b198f3f-7996-4564-99a1-7b36713481ec.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/winner-pizzaria-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chefão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241734_c3ebe674-0ee2-4655-a5ed-02b78e9d4449.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/chefao-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Itú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mineiro_minei_iver04.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/mineiro-delivery---itu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Cia Steakhouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo a cia_acias_house.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/a-cia-steakhouse-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Let's Eat Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281618_b7009af5-030b-41c9-8c10-ac6f5548cc8a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/lets-eat-hamburgueria-liberdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Angelo Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231049_9b9a477e-0ea4-4d42-9e9f-13fa1544fae7.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/angelo-pizzas-vila-padre-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Labor Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709220844_999fb8ed-5362-435f-a50a-eb79fe6b5d0f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/labor-pizzaria-vila-padre-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Palhoça",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261337_8464f652-4ec7-4963-ba28-ebfa20fe1a54.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/lanchonete-palhoca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chiquinho Sorvetes - Itu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010827_b1ca630b-c606-493c-86d8-bb19621634c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/chiquinho-sorvetes---itu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamma Mia Parmegianas Itu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221150_6b0ae4d0-0641-4099-b57f-21e91f07c692.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/mamma-mia-parmegianas-itu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CELLUS RESTAURANTE MERCADÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171233_8a356cb9-0f5e-4a57-b0ce-d52c1b09465d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/cellus-restaurante-mercadao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sheik Asaf",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702211541_SHEIKASAF.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/sheik-asaf-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Zé Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241120_b367fcbb-f7c1-412d-afdd-23c671c7a797.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/tio-ze-lanches-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baroni Salsa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081637_BARONISALSA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/baroni-salsa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Scooby Doo Lanches e Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101508_e42e49c7-e4b6-4520-81b6-652e6e956cd0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/scooby-doo-lanches-e-refeicoes-parque-residencial-potiguara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Gomes & Silva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707101457_1a5eda25-535b-4336-8f5d-ce53b2ec67e0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/restaurante-gomes--silva-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Michelangelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709282048_12927a9f-36e0-4c88-bf04-c82b5b0e355e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/pizzaria-michelangelo-parque-nossa-senhora-da-candelaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Da Nutri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702280907_COZIN_NUTRI.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/cozinha-da-nutri-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Alegria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo santa al_santaalegria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/santa-alegria-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maktub Massas e Restaurant",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241230_5618846c-8e0e-4a66-8ba4-41c44e235a9a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/maktub-massas-e-restaurant-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Betel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181016_PIZZA_BETEL.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/pizzaria-betel-cidade-nova-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakiosk - Oriental House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo temakios_temak_house.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itu-sp/temakiosk---oriental-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITU",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

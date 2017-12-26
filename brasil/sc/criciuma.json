@@ -1,0 +1,431 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Anselmo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711070856_666597b5-e4f3-4c17-aced-35a14f5ed16e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/anselmo-lanches-prospera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório das Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221158_26a43da6-57a2-4f62-bd11-c143f361e90f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/emporio-das-massas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DADDY'S PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//38npERrCuZPq_DADDY_SESUB.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/daddys-pizzaria-santa-barbara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfihão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141214_e1aec0d4-0740-48cd-b447-1f4161a93bbc.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/esfihao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conexão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo conexao _conex_nche01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/conexao-lanches-prospera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Reali's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221059_16948cf8-51d3-4cf9-86e8-065486e54dd4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/realis-pizzaria-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kakuss Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Tj80hWzkUic6_KAKUSSBURGER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/kakuss-burger-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Genius Lanches Shawarma Kebab",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121532_678a8b70-0ca3-4fac-bcb4-ed8a31eb47f5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/genius-lanches-shawarma-kebab-prospera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca Da Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141500_034363d1-753b-446a-b582-119938c00835.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/toca-da-batata-santa-barbara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chico Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//RXo5gGFJ2lrP_CHICOPIZZAS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/chico-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706010907_177ea5ff-017a-4901-9c75-7e9f3f2c2e2d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/expresso-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kilombo Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//AHSJEINy9XLa_KILOM_URGER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/kilombo-burger-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzadoro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100910_24af5b99-ef36-459a-9fdb-71f13524507a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/pizzadoro-prospera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "vikings lanchonete e pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170813_d96aa1bf-8e7b-4776-9f8f-06a53c5ee630.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/vikings-lanchonete-e-pastelaria-cidade-mineira-velha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jullius Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091212_7dffcf4e-c499-4b93-b581-31ae0b5b38b6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/jullius-pizza-santa-barbara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Triângulo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705230935_9fa369d9-27a7-49b6-b607-8f37beffefbd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/triangulo-lanches-cidade-mineira-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701152046_CROASONHO010.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/croasonho-pio-correa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cri Pizzas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//3vHqftjzGKw6_CRIPI_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/cri-pizzas-delivery-brasilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saikoo Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//hSvwIBmpEib0_SAIKO_HIBAR.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/saikoo-sushi-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pytt's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130932_4f43bf3d-b3db-4032-b42e-6bf475a23b4c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/pytts-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Best Xis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Tct0lAuPmIg5_BESTXIS.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/best-xis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Primus Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//zKn5Br6VACbs_PIZZA_IVER17.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/pizzaria-primus-delivery-prospera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobs Criciúma Shopping",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bobs_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/bobs-criciuma-shopping-prospera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buga Pizzas e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221439_b2159a21-8da2-46b7-b8be-0f5ea43d9ddf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/buga-pizzas-e-lanches-balneario-rincao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Central da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//hmOVc72oypbR_CENTR_PIZZA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/central-da-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duplay Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//CsvZcmHzqhFT_DUPLA_STEIS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/duplay-pasteis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná Mini Calzone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//gyABGNXTqPE8_MANAM_LZONE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/criciuma-sc/mana-mini-calzone-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CRICIUMA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

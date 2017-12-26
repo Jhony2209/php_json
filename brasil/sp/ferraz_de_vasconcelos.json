@@ -1,0 +1,287 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COZINHA GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191159_62a2b9eb-e509-400d-aca4-ab4eb7fd88eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/cozinha-grill-vila-ayda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beto's Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708250928_2406e086-34b5-417c-bb8c-06e7a4bfa46d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/betos-restaurante-e-pizzaria-vila-andeyara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Cantinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290852_a8693772-cbd4-442d-b254-dd68ea08aded.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/restaurante-cantinho-delivery-vila-romanopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Restaurante - Vila Andeyara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d1c2c9941429b_MIXRE_EYARA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/mix-restaurante---vila-andeyara-vila-andeyara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Lanchonete Dona Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130629_87ab3ae0-e585-443b-ad46-f5b58ad5c4e7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/pizzaria-e-lanchonete-dona-maria-vila-romanopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ristoro Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ristoro_risto_ueri01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/ristoro-hamburgueria-itaim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Saborosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712261117_8b79aaf0-3ee0-406a-8ac9-57255dbe1246.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/marmitaria-saborosa-jardim-yone",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogazzaria E Pizzaria Maná",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mana_fogaz_amana.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/fogazzaria-e-pizzaria-mana-jardim-sao-lazaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Carmelo Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701200939_DONCA_ZARI02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/don-carmelo-pizzaria-tanquinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Brasileiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705131213_d7e4a67e-b0fd-44fa-9aa1-600e80806697.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/sabor-brasileiro-jardim-sao-fernando",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Wuhalla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081041_f35198c5-e950-411f-81eb-f5cbacc0c8cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/pizzaria-wuhalla-jardim-leila",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241142_7ff8cd9c-9774-475c-9a2f-66ce3927b8d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/master-food-sitio-paredao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bara Sushi Ferraz de Vasconcelos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011650_a5ae904f-c41d-4d7d-8b9b-b5f18646ba75.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/bara-sushi-ferraz-de-vasconcelos-parque-dourado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cebola Brava",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181553_1c166b3a-9a90-4e24-a3b3-57f9b22962b4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/pizzaria-cebola-brava-vila-andeyara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante komaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051257_d6c3e830-85c7-4d10-af28-8fb4b426be43.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/restaurante-komaki-sitio-paredao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confeito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281247_2e63c873-4934-43a5-a2df-d704cd1a4746.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/confeito-vila-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Karnak Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/karmakefiha_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/karnak-esfiharia-vila-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lf Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lf resta_lfres_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/ferraz-de-vasconcelos-sp/lf-restaurante-tanquinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERRAZ DE VASCONCELOS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,542 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Kanazawa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701291928_TEMAK_AZAWA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/temakeria-kanazawa-conjunto-habitacional---setor-d",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comidinhas La de Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712022003_f5953e5d-c98e-4b9f-8c9a-af8fc2daa192.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/comidinhas-la-de-casa-jardim-nova-itapevi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogão Amigo Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061344_b89f0970-1f76-4634-9ddc-667f0a5223c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/fogao-amigo-restaurante-cidade-da-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alpha Refeiçoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703141036_ALPHA_ICOES.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/alpha-refeicoes-jardim-sao-luiz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tua Cozinha - Batataria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703081538_TUACOZINHA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/tua-cozinha---batataria-jardim-rosemary",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabores e Iguarias Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181734_c5b7b97f-0a5e-43d9-b8a4-68d1a1f8ad8d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/sabores-e-iguarias-delivery-jardim-itacolomi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Esfiha - Vila São Francisco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mega-esfiha_megae_apevi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/mega-esfiha---vila-sao-francisco-vila-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Italian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271326_PIZZA_ALIA01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-italian-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Veneza Pizzaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200925_c5edf7c5-0598-4fb2-8191-0425ede1555b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/a-veneza-pizzaria-e-restaurante-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chapa Frita Lanches Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131256_038b2c91-9c93-48c6-92e5-083fe380e883.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/chapa-frita-lanches-delivery-residencial-colinas-de-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MUNDI BATATARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011158_ea8e9b62-c5cb-4c00-a10b-06c529ae47cc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/mundi-batataria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Carracci",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180946_8a55b731-31e0-4240-9637-51ee1c8fc8bf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-don-carracci-chacaras-monte-serrat",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Predilleta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251416_a1434bf5-8c41-450e-8131-748575976878.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-predilleta-conjunto-habitacional---setor-a",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SEU POTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260907_4976fa67-f434-4f49-9143-f6b1ee42f804.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/seu-pote-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante da Drika",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101757_7f619cbd-0bb4-4db7-90de-615fbbd55fce.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/restaurante-da-drika-jardim-rosemary",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Tanelly",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091233_d6c62eda-9084-4704-8211-6bd599552ae2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-tanelly-jardim-santa-rita---2a-parte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papparelle Pizzaria e Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211045_7c9d6ae0-7a1a-49fe-89bb-29428523b8a9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/papparelle-pizzaria-e-esfiharia-vila-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PEDRO'S PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291046_f9e67a49-2c93-4c91-a34b-de4f7ba09a56.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pedros-pizza-jardim-rosemary",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Specialle Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/special_speci_zari01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/specialle-pizzaria-jardim-nova-itapevi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jim Burger Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071235_88b446b1-b376-4170-9a1a-9175f025eab4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/jim-burger-hamburgueria-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marcio Dogão - Itapevi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101729_b8c7e3d0-0b69-49e7-9edf-1c19f2cc0101.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/marcio-dogao---itapevi-cidade-da-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Donfiori",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704051625_f735dacec7884b64a63f881e1d7e080e.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-donfiori-jardim-nova-itapevi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DONATELLUS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301219_a0636b76-4c9f-41b9-a123-a4a468a17328.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-donatellus-jardim-nova-itapevi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE PIZZARIA E LANCHONETE K - LÚ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/steve_pizza_teklu.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/restaurante-pizzaria-e-lanchonete-k---lu-vila-doutor-cardoso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Monte Videl Itapevi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111238_8950a369-9af7-4abf-8e59-a86dc66905b9.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-monte-videl-itapevi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorveteria gioia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710122155_b2642556-d158-4629-bd36-b1d26a77cb1e.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/sorveteria-gioia-vila-santa-flora",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHOCLITO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706181026_d709707f-728b-461a-96c6-6e2320f4c07a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/choclito-jardim-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutri Bem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281629_787ecd16-b308-4c56-996a-778f60568b49.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/nutri-bem-conjunto-habitacional---setor-d",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cantareira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703041408_PIZZA_REIR02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-cantareira-jardim-rosemary",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Talentus Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_talen_zaria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/talentus-pizzaria-jardim-marina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Del Ville",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702111341_PIZZA_VILL08.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/pizzaria-del-ville-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251415_97784071-f72b-4ec4-8a57-37d313f03bd5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/canto-da-esfiha-cidade-da-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Charlie Brown Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030828_ac37db54-df35-47be-83a1-530b63cb54a0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/charlie-brown-pizzaria-parque-boa-esperanca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiharia e Point do Açai Spezzato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140845_5f2ecfdd-4fea-490b-9f3f-fa1f3ca12c06.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapevi-sp/esfiharia-e-point-do-acai-spezzato-jardim-nova-itapevi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPEVI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

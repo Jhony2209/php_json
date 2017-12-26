@@ -1,0 +1,127 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dr.Costela Restaurantes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131106_dda32e77-3015-48bf-84f3-1d5ce969f0b5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/drcostela-restaurantes-potuvera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto de Encontro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250855_ddeccfcd-fd7a-47f9-894b-f189f0f349fc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/ponto-de-encontro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Kings",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708241154_aebcebfc-fd41-41e3-8d01-34988689961b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/the-kings-parque-delfim-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Digatho  Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071114_78559635-b82d-478b-aafd-86b30b00c73e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/digatho--pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Riacho Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011248_12976917-f59f-4c63-89bb-30c1b3be2ad9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/riacho-branco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oriental King'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ORIEN_KINGS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/oriental-kings-parque-delfim-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mustache",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211128_72375afa-e9cb-46a6-a275-837e31beaba9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/pizzaria-mustache-jardim-cinira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FRANGO DE OURO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301939_4f1396b0-1b3c-4cdb-9194-782082908d21.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itapecerica-da-serra-sp/frango-de-ouro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAPECERICA DA SERRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

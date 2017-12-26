@@ -1,0 +1,63 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Fulô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291318_929907c2-e029-41c2-a7d5-a02ff954f296.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-sp/la-fulo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria da Villa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011655_d97f0c6f-e4c1-49da-ae2b-460ae781ea49.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-sp/pizzaria-da-villa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alamama Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031136_ea64ca8c-5e83-47cd-a6ef-784fca6f6fd3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-sp/alamama-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ristorante Mergellina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051301_d8e413b6-97de-4822-8fef-2936f11abe1c.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-sebastiao-sp/ristorante-mergellina-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO SEBASTIAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

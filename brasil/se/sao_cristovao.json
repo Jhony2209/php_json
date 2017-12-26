@@ -1,0 +1,47 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Cantinho Tropical",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712142156_648f3b7f-302c-4b79-8e6b-d389f14ee0df.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-cristovao-se/acai-cantinho-tropical-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CRISTOVAO",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PONTO CERTO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131636_5aa1afcd-83a9-41e1-8410-d6c5c759713a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-cristovao-se/ponto-certo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CRISTOVAO",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091552_56a12b1b-cba9-4f0f-a4f9-d8e1ec971c5a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-cristovao-se/acai-sushi-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CRISTOVAO",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }]

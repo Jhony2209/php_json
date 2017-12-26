@@ -1,0 +1,431 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nação Verde - Santa Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021151_ad9bb57b-2460-474a-9a3b-450e7cc88d1c.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/nacao-verde---santa-maria-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espeto & Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170930_a2e00027-ac99-4b34-b2b0-03342a0caa20.png",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/espeto--burger-patronato",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOLY COW",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/holy._HOLYCOWjpeg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/holy-cow-lorenzi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707021718_fec8b0b3-94df-4662-9539-c7c7bdd14568.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/imperio-lanches-urlandia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pipocaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011925_a750a85e-bd09-40de-a2fd-737c380a40e9.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/pipocaria-passo-d-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchão & Cia - Santa Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lanchão_LANCHAOECI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/lanchao--cia---santa-maria-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria 5 Queijos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5queijos-logo_pizza_eijo02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/pizzaria-5-queijos-nossa-senhora-do-rosario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BR Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070917_8086cfa0-0125-4ba5-b5a4-01e831994bdf.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/br-lanches-juscelino-kubitschek",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Calota Passo Fundo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701230920_XCALO_FUNDO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/x-calota-passo-fundo-camobi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porto Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/porto-sushi_portosushi.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/porto-sushi-duque-de-caxias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Santa Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/croasonho log_croas_mari01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/croasonho-santa-maria-bom-fim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Gauchão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031310_f62728c5-0aa5-4871-9162-11ceb0ad5cf1.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/pizzaria-gauchao-nossa-senhora-medianeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Patronato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//N5rFRcUXhkvm_XPATRONATO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/x-patronato-patronato",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papas Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010944_3c5d11b9-a904-4d05-b177-aaa03dc076e2.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/papas-pizza-camobi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lincoln Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291115_33f7fdb5-2c6c-43fe-9776-d4cfb5502691.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/lincoln-burguer-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chili Loco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200725_c0311949-4cc3-415e-8649-31d23504a78f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/chili-loco-noal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tarbush",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/56cdb9be5603b_tarbush.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/tarbush-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Delícia Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/la-delicia-pizzaria-passo-d-areia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ming Li Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_mingli_MINGLIBOX.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/ming-li-box-nossa-senhora-das-dores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Miyagi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_miyagi01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/miyagi-patronato",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NONO PICOLI PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191331_850b42a9-5b17-4420-b4df-f32bf154e7b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/nono-picoli-pizza-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nella Pietra Santa Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//sBe9gMIZLrCS_NELLA_MARIA.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/nella-pietra-santa-maria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Papas Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/papas_papaspastel.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/papas-pastel-camobi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pingo De Fome",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/pingo-de-fome-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Porto Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/porto-sushi-duque-de-caxias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sierra Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/sierra-hamburgueria-nossa-senhora-medianeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis do Dariu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-maria-rs/xis-do-dariu-camobi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA MARIA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

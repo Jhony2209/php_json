@@ -1,0 +1,3879 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EMPORIO DO COVE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040809_ed0f2792-5890-4189-b052-a07448dddc44.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/emporio-do-cove-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ragazzo - Campolim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712261348_3fa37467-7d05-42ad-af99-80c912674184.gif",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ragazzo---campolim-parque-campolim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Beat - Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_acaib_ocaba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/acai-beat---sorocaba-jardim-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Big Borda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701171457_PIZZA_BORD02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-e-pizzaria-big-borda-vila-lucy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dalla Corte Fastfood Lanches Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706270938_1b7aa041-73f0-44d0-b954-f6adfe42f77b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dalla-corte-fastfood-lanches-artesanais-jardim-pacaembu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SALADENHA SOROCABA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011404_2603244b-6c21-48f7-a61a-2f71a8d649b8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/saladenha-sorocaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DR PASTEL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/892fe40afd224_DRPASTEL.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dr-pastel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gisele Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051351_5091e37c-cbbb-4eae-976c-404d3402ae5c.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/gisele-lanches-jardim-maria-do-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carol Coxinhas - Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121739_f03dd9a9-b951-477e-b8f3-212b0cccc60a.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/carol-coxinhas---sorocaba-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SALGADOS NOKOPO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091024_9a0478ba-144e-438f-a540-82b18261b3e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/salgados-nokopo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida Chinesa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704240948_66271017-2328-4026-9bac-33fd5cd7f412.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/comida-chinesa-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lig-Lig Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261435_cc801f44-93b2-4a92-8c0f-851af6186004.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/lig-lig-sorocaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181628_47b3638e-5da7-4180-8afc-dc39379bb0e7.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/china-in-box---sorocaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200054_601ce8a6-6428-424d-a148-66ec2b89f781.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/brasileirinho-delivery-sorocaba-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hut Votorantim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200228_c8e43a00-6dc8-43d6-a192-21dca93c76a5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizza-hut-votorantim-parque-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batatóp - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051737_d144a196-fe03-4847-8114-32de03516ba9.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/batatop---centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bel Maris Bier",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271020_d7fa2efa-725a-44e9-a812-6ebc6b3efe09.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/bel-maris-bier-vila-trujillo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Fogazza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251006_b119f7bf-8a45-4b71-92f7-0bc2d3ad32d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/casa-da-fogazza-jardim-jatoba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cr Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230902_2ee3361b-edd5-4642-bde9-66417daf98b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/cr-lanches-vila-progresso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D ANGELOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711121732_3c4d4c76-ec92-4ce4-b06f-edc134837e91.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/d-angelos-vila-sao-bernardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Parmegiana da Mama",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181219_110f2315-8cff-4216-b9cc-666f03e3d53c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/disk-parmegiana-da-mama-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Santa Rosália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201110_849a61aa-18ed-4ef7-8548-65c2982a528f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/disk-pizza-santa-rosalia-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dud's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281332_c49f3c9a-ed28-4a25-b2da-ee34425f0fcc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/duds-pizzaria-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Falafel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241324_57c38880-ad84-49cf-892d-2ddcaf5e620d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/falafel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Festa food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231115_ed7bae41-7669-430c-bb79-10ab9dce8b2b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/festa-food-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogão Expresso Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081733_61da640e-f948-4155-8092-7a36aa6ea095.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/fogao-expresso-restaurante-e-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogão a lenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131113_56214013-2701-4d4c-883d-b996afb3bc16.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/fogao-a-lenha-jardim-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gallegos Pizzaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141352_1b06acfa-7750-4008-9cb0-8c8a9bc6957f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/gallegos-pizzaria-e-restaurante-jardim-maria-eugenia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordinhos Grill Bar e Restaurante ltda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031607_3dad7094-ee06-4f92-9a78-5743957f668b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/gordinhos-grill-bar-e-restaurante-ltda-jardim-simus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HUMMM! BURGUESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011634_768ff027-2473-4522-b78f-2c00e16eb183.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/hummm-burguesa-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Bamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271805_9fcf5a03-37b5-4966-a71e-4240cd9ed7dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/hamburgueria-bamburguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japonesaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271650_ec158a98-431f-43c6-8c44-49511eb7d2e1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/japonesaria-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jujuca Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090831_2ec1843b-01c7-4365-97d2-dc0b328dd063.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/jujuca-marmitex-jardim-goncalves",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Laranjão Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090730_ccff9f4a-2735-4e7c-a803-ba6c0e6cc777.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/laranjao-delivery-vila-olimpia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAFIOSI PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271117_cddf2fa5-6f18-4eaa-8ad3-6a210c02d0eb.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mafiosi-pizzaria-alem-ponte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maria Paula Brigadeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231908_d2ed9efd-3376-4b00-b9f1-8601867f8b4b.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/maria-paula-brigadeiro-vila-jardini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitariadonamaroca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131030_2ade05c9-4ce9-4b3b-b4b4-00c2ad902f9a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/marmitariadonamaroca-parque-tres-meninos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Tasty",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211410_c4e5dc5f-4666-4ed0-bdab-c8523c650620.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mr-tasty-parque-campolim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza 10",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251213_b71f5c25-7369-4bfd-95e5-9e727600e6be.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizza-10-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Da Hora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131917_5ceab49d-6632-4523-a57c-4f520767cf70.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizza-da-hora-jardim-santa-cecilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Garolli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230827_b5b59e53-badf-44c0-b6d8-d6f57d269ddd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-garolli-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE LARA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161150_d467c638-fdf7-4419-ab9a-7889121345fc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-lara-jardim-simus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei da Grelha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241055_6c9e61db-9805-4bc3-9a51-02b60991708f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/rei-da-grelha-jardim-marnilda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rekishi Culinária Japonesa Quente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280938_568cdebc-7542-42c7-b777-c21b9f96c1b8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/rekishi-culinaria-japonesa-quente-jardim-emilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120920_ef7ad745-8061-471e-9e3a-806ded1bc41f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-da-vovo-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Vergilio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140737_3daeed97-af04-4ce4-9729-5a19c0c9813a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-e-pizzaria-vergilio-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suburban Bar N Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131657_504d59fd-0085-42aa-83a2-3c29107d4fc7.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/suburban-bar-n-grill-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tô Dentro Botequim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091051_73c5118c-0405-406b-a64c-59ef154b5ef4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/to-dentro-botequim-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vilamoura Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040959_87e4e58b-e7ab-41ec-a002-07c0d14ce268.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/vilamoura-pizzaria-vila-artura",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Da Rita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131532_e6c470b8-3a1e-4b15-a55d-4799819aa080.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-da-rita-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MH Empório Rangos & Burges",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709220939_f0a79541-5f0f-4567-b11b-d977374138fc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mh-emporio-rangos--burges-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Talon - Café & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141049_01fba416-5232-43d5-9318-c7a1f32bf196.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/talon---cafe--restaurante-alem-ponte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cambará Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180816_CAMBA_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/cambara-lanches-jardim-los-angeles",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051330_94f2961f-919c-489b-88f2-f7d3f9cb81d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/sushi-bistro-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fresh Salad",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171520_FRESHSALAD.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/fresh-salad-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante W.E",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311141_db1ee598-cb09-465c-bff6-4b1dac4734e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-we-parque-vitoria-regia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Fogazza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo big foga_bigfogazza.png",
+        "priceRange": "$$",
+        "servesCuisine": "Doces E Salgados      ",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/big-fogazza-jardim-maria-eugenia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koiumi Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161307_74fc20bf-5ff5-4da0-b861-b00c0de838f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/koiumi-sushi-bar-vila-angelica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flamy Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/flamy_FLAMY_OCABA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/flamy-sorocaba-vila-odim-antao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mandala Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710121825_d7ce9d34-4a97-4baf-b966-986e204f04d5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mandala-delivery-vila-jardini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Drico Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_drico_laria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/drico-pastelaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Night Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703110926_NIGHTPIZZA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/night-pizza-jardim-vergueiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Ben Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/4e4c7fa4-9d24-47f3-91bf-14d69a56fa48/201710132327_17453.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/big-ben-burgers-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tô Com Fome!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703310925_45c719422ad547b785b0eb7ebbc6b8b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/to-com-fome-vila-nova-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Romana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//781x500x500x_PIZZA_OMAN02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-romana-alem-ponte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sra Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sra da p_srapizza01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/sra-pizza-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Caserita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizze_erita.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-caserita-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetaria e Assados Tortola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041020_d9eee363-26fd-4a39-a80d-472fd6ee170f.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/espetaria-e-assados-tortola-conjunto-habitacional-julio-de-mesquita-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//905x500x500x_AMERI_IZZAS.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/american-pizzas-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Napolitana Campolim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/52d5d8d8-ff30-4e8a-a0b8-fb049e17e286/201711301920_img_4.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/villa-napolitana-campolim-jardim-emilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IMPERATRIZ MARMITEX E LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_imper_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/imperatriz-marmitex-e-lanches-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Altas Horas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo (1)_pizza_hora01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-altas-horas-vila-olimpia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Pizzaiolo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081437_b2b8d992-5b54-4b62-8603-b122bef6652b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/o-pizzaiolo-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pereira Pastéis E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pereira_perei_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pereira-pasteis-e-lanches-brigadeiro-tobias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinhos da villa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011050_e2ee5bb1-693a-4335-9c2e-e9ce216fec9d.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/espetinhos-da-villa-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamma mia Parmegianas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_mamma_ianas.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mamma-mia-parmegianas-jardim-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzeria La Taverna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141403_aab0dfbc-9202-4a2d-8a76-72a12b007bae.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzeria-la-taverna-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021108_bec6f32d-6eb5-4df2-9448-242e20492dc4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/point-lanches-vila-leopoldina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tedo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701191038_TEDOLANCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/tedo-lanches-vila-progresso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex da Nair",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091045_1e5d9900-ba64-43d9-990c-134a488d82f5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/marmitex-da-nair-jardim-piratininga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batata show no cone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011313_24211c2e-50e7-44a2-b047-4d057ec2ba08.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/batata-show-no-cone-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Maria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081415_ed9dc557-c277-4b9f-a50e-e7259c122281.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-bella-maria-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alemão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_ALEMA_NCHE01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/alemao-lanches-vila-barao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Verde de Fome Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo verde de_verde_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/verde-de-fome-delivery-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vida Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141313_866a228e-a62f-4821-b844-2722625a6e92.png",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-vida-verde-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bona Parma Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bona par_bonap_rante.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/bona-parma-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coalhada Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706140934_9e479e48-2f08-46a2-b30d-d0a8940823ec.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/coalhada-burguer-vila-gabriel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Va Bene Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051109_002b2de3-90c3-4d48-bae5-75be7e590d3f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/va-bene-pizzaria-delivery-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog Dogueria - Campolim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Old Dog_OLDDO_POLIM.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/old-dog-dogueria---campolim-parque-campolim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNO DE LENHA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111708_31dd3b4d-05e5-4475-be9a-19c05cbd7d12.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/forno-de-lenha-pizzaria-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707111055_d5bac12d-103c-4be2-82ac-195228b2bc59.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/cantinho-arabe-jardim-das-magnolias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrasquinho do Zanardo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151108_be4084ae-a27d-4aed-883e-29c9bc532923.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/churrasquinho-do-zanardo-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Pizza Pan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza pa_super_zapa01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/super-pizza-pan-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yaki Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ee3563b2-0f4a-48af-aea2-8c723a0073c0/201712191803_24900.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/yaki-brasil-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Praia Do Sabugo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241044_de559dc17cb147e1a3a8837de63ea8dd.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/praia-do-sabugo-alem-ponte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ikigai 生き甲斐 Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281229_cb99edc6-cd3f-4247-902e-7cfe0424dabd.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ikigai--sushi-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetaria Buena Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251423_92cbd818-44dd-436d-8cc4-c270c64d2d92.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/espetaria-buena-brasa-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Marmita Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709270854_23c4e810-21e3-4112-a211-8c20c9cde6c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/donna-marmita-marmitaria-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beirute Do Tomate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171706_BEIRU_OMATE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/beirute-do-tomate-jardim-das-magnolias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Família Bressane",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702170851_PIZZA_SSAN01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-familia-bressane-jardim-simus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D.Maria Refeicoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100941_fcd77049-4464-495c-85a5-5049c486b78c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dmaria-refeicoes-vila-barao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MChicken Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706120827_e186da88-17d1-433e-966f-0b5449947b9f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mchicken-sorocaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choma's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031428_885cb7b7-01fb-44e5-beed-4e0631ff1a38.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/chomas-lanches-jardim-goncalves",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sobradinho Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221354_13466559-598d-44ea-997b-4d44bba5a17d.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/sobradinho-espetinhos-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Night Dog Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704102127_f572b4263c6d4b868783794489433207.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/night-dog-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nei Lanches - Jd Maria Antonia Prado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271015_8f4d884d-2809-482d-8fa7-e91e5260e673.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/nei-lanches---jd-maria-antonia-prado-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor no Prato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171201_379a44ac-0a5b-4b35-a05f-f254e75aa879.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/sabor-no-prato-jardim-sao-carlos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Up Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261239_0b371993-eb40-4672-b433-389d29d16f37.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/up-burguer-vila-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Angelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dom ange_PIZZA_NGEL01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-dom-angelo-jardim-faculdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nógui Hotdog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220811_2c568006-8e20-4bab-afbb-218ee1f9b018.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/nogui-hotdog-jardim-santa-marina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LANCHETERIA HOT DOGS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708310844_f3c2a934-7817-4f7a-8e3a-602628946e76.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/lancheteria-hot-dogs-jardim-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "É Do Perú Lanches E Pratos Peruanos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//898x500x500x_EDOPE_UANOS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Peruana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/e-do-peru-lanches-e-pratos-peruanos-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patroni Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705102307_883f78a8-c35f-42d4-b7a9-0de9e4916c99.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/patroni-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Brothers Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705250858_05cc7a84-b0b1-4c16-9559-016c16db883f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/old-brothers-burgers-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Casa da Coxinha & Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706092035_30729625-2780-4064-902a-7d1f25dc788c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/a-casa-da-coxinha--pizzaria-parque-dos-eucaliptos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Melhor Sabor Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061044_722d2579-8732-4528-9428-dce0dfbbe052.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/melhor-sabor-sorocaba-jardim-santa-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Filé Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_ofile_giana.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/o-file-parmegiana-vila-espirito-santo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Club D Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo club d´p_clubdpizza.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/club-d-pizza-vila-assis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dinis Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191730_dc037676-f56d-41ac-9ffa-ffed1a67da6e.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dinis-burger-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Bella Itália Pizzaria E Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO_LABEL_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/la-bella-italia-pizzaria-e-lanches-jardim-simus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babbo Giovanni - Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo assinatu_babbo_ocaba.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/babbo-giovanni---sorocaba-jardim-residencial-martinez",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RIBS 'N BAR.B.Q",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707230924_f8738e1f-92e7-4cc8-9950-39ab39229ee6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ribs-n-barbq-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Saporito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011448_52e360a0-d2c7-4fee-bf1c-241614473035.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-saporito-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Star Chicken Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7c4a61c2-b81e-4f7c-ae6e-261b36d37147/201710132244_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/star-chicken-sorocaba-vila-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CASA DA SUÍÇA BATATARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo]_casad_taria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/casa-da-suica-batataria-lopes-de-oliveira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "P&V Doces Caseiros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290955_0117bbcf-1339-42fe-8910-348169fc4ea2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pv-doces-caseiros-vila-fiori",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHOPP ASHBY SOROCABA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281842_31e80330-5a76-4a12-8373-3617b76ac7b1.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Bebidas",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/chopp-ashby-sorocaba-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garag lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021408_511cf3e1-98aa-48de-9dc1-7bf4965f162c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/garag-lanches-jardim-saira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seo Burgão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051632_48e0e7e1-8e0d-4819-b4d3-213659a41c8a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/seo-burgao-lanches-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Veganlicia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131022_f5fa924a-3597-4f63-b796-3e14faeb5c11.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/veganlicia-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger & Beer Sorocaba Campolim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704281013_d4938728-02ec-4090-93e9-fe7d537dfd48.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/burger--beer-sorocaba-campolim-parque-campolim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Dog Dogueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702021302_OLDDO_UERI06.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/old-dog-dogueria-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spasso Vemar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo spas_spassovemar.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/spasso-vemar-jardim-goncalves",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TUDÃO LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261410_7065621f-f3e1-4168-bb51-4e5eb45704bf.JPG",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/tudao-lanches-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mix pota_mixpotato005.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mix-potato-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dois Ponto Oito Bar Teatro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071221_b1e87f3f3c324fdb9124503880926b3d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dois-ponto-oito-bar-teatro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vó Angela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708050906_4b9fba1a-d27c-47d8-bb8e-7b7d32702bc5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-vo-angela-iporanga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Los Latinos Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291315_578e3386-57ca-48be-92e3-47f5a3d24eab.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/los-latinos-delivery-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Best Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702240911_THEBE_NCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/the-best-lanches-vila-formosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheff Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cheff_CHEFF_RANTE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/cheff-refeicoes-jardim-piazza-di-roma-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Larikas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/larika_larik_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/larikas-lanches-jardim-maria-eugenia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Norais Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo  norais_pizza_ocaba.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-norais-sorocaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pecado Da Gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703130837_PECADODAGU01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pecado-da-gula-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Do Alemão - Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701221302_BARDO_OCABA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/bar-do-alemao---sorocaba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Milla Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_urme02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-milla-gourmet-jardim-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi PraJá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_sushipraja.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/sushi-praja-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cumbucas Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cumbuca _cumbu_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/cumbucas-refeicoes-vila-progresso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mirella Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180835_MIREL_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mirella-lanches-jardim-santa-cecilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Veggie Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo veggie b_veggi_rgers.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/veggie-burgers-jardim-faculdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MALOCA PEIXARIA AMAZONICA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180914_MALOC_ONICA.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/maloca-peixaria-amazonica-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_casagourme01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/casa-gourmet-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Balilo Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/balilo_dombalilo.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dom-balilo-burger-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zirá Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291048_ce196f11-c2b8-4645-abdf-6f839a3addb2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/zira-acai-vila-mineirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fornalha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191041_60e584c7-20c8-42a1-b029-52192642fea4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-fornalha-jardim-prestes-de-barros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Sabor - Café e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141306_779e3e55-2655-4999-aa71-b053f29be80f.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/emporio-sabor---cafe-e-restaurante-eden",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Almuerzo Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo almuerzo_almue_icoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/almuerzo-refeicoes-jardim-sao-conrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rika Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2e8e0cb1-b566-4400-ad14-8c1b124a4c4d/201710132125_rikal.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/rika-lanches-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Silvia Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310900_5ab0c750-e7d1-41da-9f72-82d642f3e893.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/silvia-salgados-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Obento Japanese Food Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061505_f2478d3c-706a-4d44-9f01-ca0e29f1f6d9.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/obento-japanese-food-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mary Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703041443_MARYLANCHES.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mary-lanches-vila-mineirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatina Pizzeria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703200915_DONAT_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/donatina-pizzeria-delivery-jardim-paulistano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Majestade Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701191516_MAJES_ZARIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/majestade-pizzaria-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE EXPRESSO GENERAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171224_5004b4ab-0e16-44a3-a916-b911cf45327f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-expresso-general-vila-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shizen Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160840_d94a4c8c-6758-483b-b32d-d1599948aa1a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/shizen-sushi-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante & Peixaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/peixa_peixa_enida.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante--peixaria-vila-barao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonga Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251141_BONGA_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/bonga-delivery-vila-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Temaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_toptemaki.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/top-temaki-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Minho Massas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071911_2cb6fa03-6209-4c6f-b228-f605fd6b3121.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/minho-massas-jardim-vera-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Viafoods",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703300904_30b0428156ac4600ab32f6ea3947f0f1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/viafoods-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "gi marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170902_3a574894-dffe-4354-b6ed-da2fa2af9949.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/gi-marmitex-jardim-santo-amaro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191023_7e72baa3-e05f-4ca3-9917-a0b21a333ad5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/imperio-da-pizza-parque-ouro-fino",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eddie Mostarda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181216_5f7196d2-dbff-4aa9-be58-4b335ace110f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/eddie-mostarda-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rostie House - BATATAS SUÍÇAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//929x500x500x_ROSTIEHOUSE.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/rostie-house---batatas-suicas-vila-trujillo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batataria The Rock",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rock_batat_erock.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/batataria-the-rock-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Luiza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181736_667bb1af-f68c-43d7-9220-bb09347f17f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/disk-pizza-luiza-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ledog`S Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071834_d8839e69adbe466baa552f8219d7c605.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ledogs-lanches-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHURRASQUINHO DO PROFESSOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201246_1f361cf3-9414-44da-9edb-30a782d51944.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/churrasquinho-do-professor-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vivitália Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IVITALIA_VIVIT_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/vivitalia-pizza-delivery-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Biga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151132_ebfd8078-0da0-4f03-a140-5a3d8bec86c5.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizza-biga-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gringo Burgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261053_f8ad3eb4-4120-4709-a007-991ffe9078e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/gringo-burgueria-jardim-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Frango Atropelado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_pelad.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-frango-atropelado-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_CASAD_GIAN01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/casa-da-parmegiana-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí da Gui",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061239_f5930ff5-f0d6-4779-9887-ba692c6c47f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/acai-da-gui-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151309_6dd36516-1660-495c-8517-d1a4a937339f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/a-hamburgueria-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas d'Irene",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190913_1d8ca482-bda3-4fd0-9386-8975d9d6af5c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/panquecas-direne-jardim-santa-fe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vo Amélia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251317_2aa1161c-852b-4161-9718-2e6c1b999200.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/vo-amelia-vila-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rycka's lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020847_2c1fa614-5a74-4c38-92aa-188a712895c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ryckas-lanches-conjunto-habitacional-julio-de-mesquita-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Frit´S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pastelaria fr_paste_frits.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pastelaria-frits-conjunto-habitacional-julio-de-mesquita-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pointdapiz01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/point-da-pizza-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dolleto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sem titulo_dolleto.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dolleto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KETSUI SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021100_0364316e-6e19-4ee9-8a79-3d20240e9658.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ketsui-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Babu Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050934_e5ac77ee-4d65-4308-a514-6f74c3e17ce9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/babu-lanches-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Shaday Disk Marmitéx",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271634_a8ac56d5-d3ca-4917-956d-9bea95510f65.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/el-shaday-disk-marmitex-vila-guimaraes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PASTELARIA DA CRIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191656_c1a21d0b-d37d-4f4f-8b15-9d6f27c0d59e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pastelaria-da-cris-vila-olimpia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Marmitex Almeida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180831_199e9176-e9f3-43f2-a367-d63c81cc84ff.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/disk-marmitex-almeida-jardim-itangua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Primeira Lasanheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706120804_23c3666f-576d-4f60-9357-d98db551546c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/a-primeira-lasanheria-alem-ponte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Natortilha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701120902_NATORTILHA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/natortilha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella & Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701190952_BELAE_ZARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-bella--paulista-vila-lucy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Golden Prime Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704221039_ab0c3d96-9622-4b95-b42f-af5550e761bb.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/golden-prime-pizzaria-vila-nova-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dr. Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120825_3deb946d-08e2-459a-ad5b-caee81b64c2b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dr-parmegiana-central-parque-sorocaba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Vale do Sol",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191553_59f3b3f6-514a-426b-985f-30a4034f6eff.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-vale-do-sol-jardim-goncalves",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primos Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300900_21c4c56e-31d8-407e-9eff-cd28c2c1c319.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/primos-pizzaria-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galera Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo galera_galer_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/galera-lanches-jardim-santa-claudia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Mi Now Japonese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//983x500x500x_SUSHI_EFOO01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/sushi-mi-now-japonese-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dona Tina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/download_diskp_dante.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-dona-tina-vila-hortencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Da Léo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca mar_marmi_daleo.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/marmitex-da-leo-jardim-goncalves",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hattori Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo hatt_hatto_hibar.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/hattori-sushi-bar-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hangar 77",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311522_9beb3b59-03ae-45d4-b109-dd26ff372560.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/hangar-77-jardim-ana-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parmieri",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141012_7e8ca39c-688e-4c81-9ec8-a43d52ea6620.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/parmieri-jardim-maria-antonia-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picanha Induh",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011303_07872085-9d95-4855-9b3b-870a88b4bb4b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/picanha-induh-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salsa Poró Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/salsa_salsa_heria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/salsa-poro-restaurante-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DISK PIZZA MILLENIUM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031751_fdeec633-ca8a-4c9f-b5eb-bf75418ce359.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/disk-pizza-millenium-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Canuto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221111_43cc6aad-c4ce-4e62-9920-d1edfda06bd4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-canuto-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coió Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011024_84f252b8-91ba-4aef-ba28-86194cfedfe1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/coio-lanches-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Container Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221009_fe01820f-c11e-44b0-b55a-5dc6cb54f14a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/container-fit-jardim-faculdade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Roma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710092046_e760cbd0-88c7-45be-8e1f-aa02a58592a9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-roma-vila-lucy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toledo lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051714_ea391bcf-28e7-47ac-acc1-ce78aadf52fb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/toledo-lanches-conjunto-habitacional-julio-de-mesquita-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ls Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_lsrefeicoes.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/ls-refeicoes-jardim-santa-rosalia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maximo Restaurante E Marmiteira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271306_MAXIM_TERIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/maximo-restaurante-e-marmiteira-jardim-sao-guilherme",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Buffalo Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030828_2f4e0473-9f97-41ad-b037-6fed3b94f8c1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-buffalo-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Forneiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_pizza_neir07.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-forneiro-jardim-santa-cecilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Canal Caipira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704221157_fc4691d3-0a6a-4e31-8ee7-e314d7ff321d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-canal-caipira-parque-vitoria-regia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291916_01b31511-00fd-40ac-9b82-f63a6d648678.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizza-mais-parque-vitoria-regia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatellos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280835_b86488be-565f-4e3a-aa65-8c38f3099f92.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/donatellos-parque-das-paineiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ana Rosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051519_293c2e3f-a9e0-451c-9ecb-91378f49f232.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-ana-rosa-wanel-ville",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DETE E CRIS DISK PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171129_16e26c08-8970-41cd-8be7-7de65039d56c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dete-e-cris-disk-pizza-jardim-henrique",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Esquina Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701280936_RESTA_RASI06.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-esquina-brasil-vila-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mais Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051216_7b0756bb-0803-466b-b507-ebc907d1004b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/mais-pizzas-jardim-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar E Choperia Bariloche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702010949_BAREC_LOCHE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/bar-e-choperia-bariloche-jardim-carolina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "COMER BEM",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240855_8724ffb6-f05a-4c94-b3e2-53df6248f9bd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/comer-bem-vila-tortelli",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Pedro Bebeu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_domp_dompe_bebeu.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/dom-pedro-bebeu-jardim-simus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FAMA BATATARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fama_famab_taria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/fama-batataria-jardim-maria-eugenia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fogão Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705090922_47d73137-f6e0-46f3-8b0c-768877681c94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/fogao-mineiro-vila-lucy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Ana Moraes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200824_977edf21-cdac-42d0-a40a-8803eba39f14.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/marmitaria-ana-moraes-parque-sao-bento",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paulista Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703240901_1e098e5b20c84533903593bc757caca7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/paulista-lanches-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pimenta Tabasco Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pimenta_pimen_rante.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pimenta-tabasco-restaurante-vila-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piola Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/piola pizza_PIOLAPIZZAS.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/piola-pizzas-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Gordão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo gord_pizza_ordao.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-gordao-conjunto-habitacional-julio-de-mesquita-filho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Suprema",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo suprema_pizza_prem05.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/pizzaria-suprema-jardim-josane",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Copacabana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_abana.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-copacabana-vila-haro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Lanchonete Trem D Minas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241417_d4eeada1043d4bc2be6edfc809da8d3d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/restaurante-e-lanchonete-trem-d-minas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Supremo Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300858_aa515adb-c535-4655-bd22-36d5dfb6fed9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/supremo-lanche-vila-formosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ô Marmiteiro Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271335_OMARM_OFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sorocaba-sp/o-marmiteiro-food-vila-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SOROCABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,127 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakisoba Factory - Campo Limpo Paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/yakisobafacto_yakis_lista.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/yakisoba-factory---campo-limpo-paulista-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ed'S Restaurante E Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo eds_edsre_ueria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/eds-restaurante-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA CHAPA fast food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280911_283fb521-b9e8-4459-94e0-4ed4428ad4c4.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/la-chapa-fast-food-vila-tavares",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Itália- Campo Limpo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131425_bb78b388-f408-4c74-b7bb-691a33c3683f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/pizzaria-bella-italia--campo-limpo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria & Hamburgeria Portofino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo portofin_pizza_ofino.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/pizzaria--hamburgeria-portofino-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monganga´s Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151606_32166e71-5f16-4e70-8947-339874e2c553.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/mongangas-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA ROMANATO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271233_0bf6ac16-e384-453e-a1cc-6eb77cbc41ad.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/pizzaria-romanato-jardim-santa-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Lá Bella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707140928_75e3f1ab-27af-4250-b683-a7f0a9bedb9b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campo-limpo-paulista-sp/pizzaria-la-bella-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPO LIMPO PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

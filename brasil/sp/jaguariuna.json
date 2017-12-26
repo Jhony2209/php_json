@@ -1,0 +1,32 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "NatBurguer´s",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141322_ded43092-9dd3-4a13-87e8-bc171e1c7a18.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/jaguariuna-sp/natburguers-jardim-capotuna",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JAGUARIUNA",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rsfoods Marmitaria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251057_2da952cb-bddc-494a-9cb0-4b10b894f0df.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/jaguariuna-sp/rsfoods-marmitaria-delivery-jardim-bela-vista",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "JAGUARIUNA",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	}
+]

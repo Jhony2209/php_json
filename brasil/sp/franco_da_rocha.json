@@ -1,0 +1,79 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FOOD FIT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241016_099c6a99-bcb3-4294-87c6-2a7f624db31a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/franco-da-rocha-sp/food-fit-vila-carmela-de-tulio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCO DA ROCHA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAKINNA HANDMADE BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281453_b4aacf62-3296-44e1-b1db-61542feba724.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/franco-da-rocha-sp/hakinna-handmade-burguer-vila-martinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCO DA ROCHA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Keli Frazão Atelier  de  Bolos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712150752_3c145de6-9465-4a55-b699-399799fa3711.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/franco-da-rocha-sp/keli-frazao-atelier--de--bolos-parque-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCO DA ROCHA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA E BAR DOM PEDRO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201341_82a3dad0-f76d-4faf-bfc9-c2016be5b349.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/franco-da-rocha-sp/pizza-e-bar-dom-pedro-companhia-fazenda-belem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCO DA ROCHA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Famigliare Lanchonete E Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091023_FAMIG_RANT01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/franco-da-rocha-sp/famigliare-lanchonete-e-restaurante-parque-vitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCO DA ROCHA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

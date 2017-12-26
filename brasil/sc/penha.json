@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Time grande disk pizza e esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281913_d92a9030-79bc-4e2b-a767-c4a8476efed1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/penha-sc/time-grande-disk-pizza-e-esfiha-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PENHA",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,95 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sergio´s restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712231200_03a1f8a3-ae11-4aaa-b3dc-11f3d936faf8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-do-jordao-sp/sergios-restaurante-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DO JORDAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pierpaolo Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702252224_PIERP_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/campos-do-jordao-sp/pierpaolo-restaurante-e-pizzaria-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DO JORDAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Pizza - Campos Do Jordão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711051455_fc85525d-f61a-4536-b0ed-1d958c5bccee.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-do-jordao-sp/la-pizza---campos-do-jordao-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DO JORDAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Juan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061136_9d4246ec-4c80-41cf-b8c8-99d8f025d0aa.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/campos-do-jordao-sp/don-juan-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DO JORDAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Braulio'S Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061152_BRAUL_PIZZA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/campos-do-jordao-sp/braulios-pizza-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DO JORDAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bravo Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709300906_b3ce827d-b36a-4819-8bef-6113c9a2a2db.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/campos-do-jordao-sp/bravo-restaurante-e-pizzaria-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMPOS DO JORDAO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

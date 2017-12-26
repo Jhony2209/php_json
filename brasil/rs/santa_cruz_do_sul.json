@@ -1,0 +1,287 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Panisul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011139_39f53f5a-6983-400d-a05e-3d15f4c62101.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/padaria-panisul-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arte & Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291714_f0ad438d-0700-4024-9b56-53f0e9335239.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/arte--cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grün Hambúrguer Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711071039_a5907fd8-bc53-4b8e-ae4b-1138c6743764.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/grun-hamburguer-artesanal-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Higienopolis Pizza e Rest de Peixes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712020837_950d10bc-ca08-4bd9-a439-9386a887eaed.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/higienopolis-pizza-e-rest-de-peixes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Bocão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141618_72a40251-3810-48a2-a4b2-1ef393840367.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/pastelaria-bocao-avenida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Peixaria Santa Cruz - Filial",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705051141_60779305-a3a2-4927-b7d0-45256a94ddc2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/peixaria-santa-cruz---filial-ana-nery",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "360 Sushi Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281054_5019b69fb7aa457abb3f855ba8ec2fac.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/360-sushi-lounge-country",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Candy Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221200_68c1a1b7-de53-4389-b108-af82647caef8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/candy-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yes Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//ic4yr5e70wUE_YESPI_IVERY.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/yes-pizza-delivery-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria e Lanches Arroio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071435_401120bf-7750-435a-8551-4098e7f0b80a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/hamburgueria-e-lanches-arroio-ana-nery",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Santa Cruz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//RyOajFqnSgHc_CROAS_ACRUZ.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/croasonho-santa-cruz-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oriental Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211741_fe5cbaaa3b56494e857cc0ea315c2604.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/oriental-sushi-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cozinha Expressa Delivery & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241259_134bc1b2-9933-4e08-984a-c73a9d101009.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/cozinha-expressa-delivery--restaurante-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Holy sheep Brew Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291719_0d5a4692-130b-45b0-9663-72d02fdaa292.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/holy-sheep-brew-pub-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Do Cheff Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//D0Qx6BL7b2lJ_DOCHE_ZERIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/do-cheff-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dodo's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//QN4ru6nT9M5F_DODOS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/dodos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Pedaço Santa Cruz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//73Laoj8yBPOI_PIZZA_ACRU01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/pizzaria-do-pedaco-santa-cruz-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Qui-rô Sushi e Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//y2pcTH4LxIO8_QUIRO_KERIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-cruz-do-sul-rs/qui-ro-sushi-e-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA CRUZ DO SUL",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

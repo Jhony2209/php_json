@@ -1,0 +1,111 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAMBURGUERIA DO VALE - TREMEMBÉ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712101535_453a56ba-27c5-46dc-8332-564b2c1f60f4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/hamburgueria-do-vale---tremembe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maná Pastéis e cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061618_2855e889-f633-46dc-8dfb-00314b1f22c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/mana-pasteis-e-cia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QIANG Sushi Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191823_03d78662-7af5-46c3-b861-3baf2a733791.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/qiang-sushi-gourmet-jardim-bom-jesus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planetas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261214_fed5d70f-367b-428d-8674-4b4803f4208a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/planetas-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giovana lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301313_2315b8b1-bbb7-4949-b111-eacd405d7c11.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/giovana-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ney Lanches - Flor do Vale",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281206_347eb1bd-6c74-4327-92d1-e864b32fdacf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/ney-lanches---flor-do-vale-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Dona da Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041100_45aaaa7d-5c34-4074-b549-d27c5bf62de9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/tremembe-sp/a-dona-da-casa-jardim-dos-eucaliptos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TREMEMBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

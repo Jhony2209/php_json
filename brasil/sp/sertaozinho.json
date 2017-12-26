@@ -1,0 +1,31 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Novo Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071254_51390352-2fd5-4810-904f-65955aca4f7a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sertaozinho-sp/novo-sabor-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SERTAOZINHO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chopp Time Sertãozinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/chopp time_chopp_zinho.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/sertaozinho-sp/chopp-time-sertaozinho-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SERTAOZINHO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DIVINO'S Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160738_26ec0332-3bff-4e35-bcaf-4e7f0496d4c9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araguaina-to/divinos-restaurante-e-pizzaria-dom-orione",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARAGUAINA",
+            "addressRegion": "TO",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,31 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Premium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221010_6ba40b63-a29b-4011-868d-4b435f06a3c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/monte-mor-sp/the-premium-nelson-wolk",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MONTE MOR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAR E RESTAURANTE HOSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081035_5cc8ddf8-0209-440e-a3da-ff8ae9389b5c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/monte-mor-sp/bar-e-restaurante-hoshi-nelson-wolk",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MONTE MOR",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

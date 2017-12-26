@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Já",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_pizzaja.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/cacoal-ro/pizza-ja-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACOAL",
+            "addressRegion": "RO",
+            "addressCountry": "BR"
+            }
+    }]

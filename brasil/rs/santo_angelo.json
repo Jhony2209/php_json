@@ -1,0 +1,31 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Mundial",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071012_5c2c618c-71c1-4a64-bfe4-420a8c50f6b6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santo-angelo-rs/restaurante-mundial-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTO ANGELO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Akisoba Comida Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//2IYV46RMqWec_AKISO_ENTAL.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/santo-angelo-rs/akisoba-comida-oriental-dytz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTO ANGELO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

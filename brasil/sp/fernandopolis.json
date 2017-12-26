@@ -1,0 +1,15 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BRASILEIRINHO DELIVERY FERNANDOPOLIS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200029_5d92c808-290b-4527-baf3-64cf76e433ec.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/fernandopolis-sp/brasileirinho-delivery-fernandopolis-jardim-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FERNANDOPOLIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

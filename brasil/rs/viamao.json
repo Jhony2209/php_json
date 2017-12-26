@@ -1,0 +1,159 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheff Jack Food Street",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181356_5820d76b-1a36-4287-9856-ea348d7bb3ba.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/cheff-jack-food-street-viamopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk-Quentinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161343_55d7cd69-dd0a-4272-8e4b-1f84f76e624a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/disk-quentinhas-sao-lucas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Personal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011153_332040bc-0e4e-47bc-bc0b-68dbc022caf2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/personal-santa-isabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RC Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201846_810a6028-a8c6-441d-8275-2b63e000c9e6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/rc-marmitex-santa-isabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TELE NIDA PIZZAS E PETISCOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712252125_aebab01f-cc0f-4e69-abf3-02e1a879815e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/tele-nida-pizzas-e-petiscos-parque-indio-jari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Viamão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291114_0ff65282-d885-420a-b674-964d6a329a79.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/subway-viamao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Todo Dia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161608_f6a9f678-05c1-4d40-b852-c0737d480671.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/pizzaria-todo-dia-vila-augusta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toastland",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200819_aac81773-104e-4027-b091-27701164056e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/toastland-jardim-krahe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tele Ceva Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201604_TELEC_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/tele-ceva-lanches-lomba-do-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Cub Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//iNo9wpUW5kcn_XISCU_RGUER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/viamao-rs/xis-cub-burguer-vila-elsa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VIAMAO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,303 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baobá Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logotipo Ofic_BAOBACAFE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/baoba-cafe-parque-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Milk Shake Mix ZL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071122_291ed957-8485-4ef5-8058-cdc8bb48e21e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/milk-shake-mix-zl-jardim-jose-ometto-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Toca culinária saudável  e açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280748_7f147784-995a-411e-9f4e-99c4df655795.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/santa-toca-culinaria-saudavel--e-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BULL BURGUER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271936_5de2d344-b4d8-4468-8f7e-73b5d7462f58.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/bull-burguer-parque-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob Chicken",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712070848_4e053561-7e71-49af-973c-4c1d53ea27c6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/bob-chicken-jardim-belvedere",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa da Pizza -  Araras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241151_e1362152-8a7d-4ef2-a4cc-75cca8682774.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/casa-da-pizza----araras-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fi.sh Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270934_2c96917a-70e6-4888-9d83-d3058615a9c2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/fish-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NAI-NAI APERITIVOS, LANCHES E PORCOES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291907_450e8b22-b502-44fa-bb2c-75147391d58a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/nai-nai-aperitivos-lanches-e-porcoes-jardim-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Orient in Box",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290735_39197189-eab7-4cfe-b2b8-a099f0f18e54.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/orient-in-box-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA SCUDETTO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281044_7d43f621-b568-4c5e-b22b-7b7919b5ba4f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/pizzaria-scudetto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REI DA PICANHA BELVEDERE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300951_87d4538f-ea86-48e8-93e4-6f952b4b7eda.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/rei-da-picanha-belvedere-jardim-belvedere",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE BELOTOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231439_ac89ad9c-f9d0-42f8-9cd2-62278ce62547.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/restaurante-belotos-jardim-candida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SEU PIATTO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190822_5bad8de2-0c5d-43b1-8855-c175d2f3288b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/seu-piatto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skyna Lanches e Panquecas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291421_20318653-a07f-4cf3-9717-8ef7a6a42fc7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/skyna-lanches-e-panquecas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VIA VISCONTI PIZZERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120924_1279530b-d069-450a-95c5-d966760df9d8.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/via-visconti-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Portal Lanches E Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101013_df26a4e7-c01c-4428-921c-b6766b3d5494.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/portal-lanches-e-porcoes-vila-michelin",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AKAMI Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221320_6a06023d-a716-4379-bbfe-89391f974bbd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/akami-sushi-delivery-jardim-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Varanda Gourmet Araras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231028_058f5fc0-4a5e-4aef-90fd-9554a0427ddc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/varanda-gourmet-araras-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mafia da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291009_19fcdcec-c2fe-4c29-a98c-bd93bc14cda4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araras-sp/mafia-da-pizza-vila-michelin",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

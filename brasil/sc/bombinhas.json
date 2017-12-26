@@ -1,0 +1,63 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicia & Requinte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711230951_2c3fcb70-c449-4519-87d5-bd98f93689c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/bombinhas-sc/delicia--requinte-ze-amandio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOMBINHAS",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Império das carnes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291312_87bb5521-3ae5-47d2-9d56-eeac196ca696.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/bombinhas-sc/imperio-das-carnes-canto-grande",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOMBINHAS",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mão na Massa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301809_d7fe4b5d-8658-4578-af75-c7a10e7f0000.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bombinhas-sc/mao-na-massa-pizzaria-ze-amandio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOMBINHAS",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nostra Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041310_33d60d5f-9a18-4548-b102-d0bc82d80053.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/bombinhas-sc/nostra-pizza-mariscal",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BOMBINHAS",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,447 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vitacchi Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701311937_VITAC_IZZAS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/vitacchi-pizzas-alto-de-pinheiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Braziliana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081421_49624739-74fd-4623-b783-1953705b693c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/casa-braziliana-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empada Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281107_ea8f5d76-688f-4d67-b72f-71d66779a755.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/empada-mania-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VERACE PIZZARIA PAULINIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201114_95c1c979-889b-4403-9e6c-a23b6c09be9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/verace-pizzaria-paulinia-vila-monte-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Da cozinha pra você",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707060929_77754b6c-0232-4edf-ad4e-4ca870686e0b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/da-cozinha-pra-voce-jardim-dos-calegaris",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petruchios Batatas Recheadas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121532_aba25102-1639-4550-96de-79c269aef746.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/petruchios-batatas-recheadas-santa-cecilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA COSTELA BURGUERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081013_3c246679-45ba-459e-8fb6-850e8d0d46c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/la-costela-burguers-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação Das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/estacao_estac_izzas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/estacao-das-pizzas-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pé de Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051222_72bb3d51-4c57-458c-8945-37220f327f0a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/pizzaria-pe-de-pizza-vila-bressani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roots Burger Paulínia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702091755_ROOTS_LINIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/roots-burger-paulinia-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Siena",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221416_f30aac45-42a9-4534-8b95-9109848d2eec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/pizzaria-siena-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dgusta Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111451_fe7ffcf6-98f9-4bac-8817-48a10aca488e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/dgusta-pizzaria-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Marmitaria Nossa Cozinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701090819_RESTA_ZINHA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/restaurante-e-marmitaria-nossa-cozinha-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seixas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191247_0acad04c-aea3-4c7a-bdf5-12681c37929c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/seixas-lanches-saltinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Ponto Com",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041545_bfc0db7b-f74e-432f-9367-0274943e829d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/lanchonete-ponto-com-joao-aranha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'CITY BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/87d1c7939e6df_DCITYBURGER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/dcity-burger-jardim-dos-calegaris",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Auto Lanches Kero Kero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121129_05a0f15f-bf2f-4541-902e-e4105c6067fd.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/auto-lanches-kero-kero-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota do Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705220941_b767a06b-9abd-46c9-9381-ab8ef24fd0a2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/rota-do-pao-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiharia e Pizzaria Paizzari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031017_2d0da6ea-f1ed-4dc0-ac2f-0e489a18cf2d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/esfiharia-e-pizzaria-paizzari-joao-aranha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Expert",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/reduzida_frang_press.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/frango-expert-santa-cecilia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Fit Fast Food Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091646_8e402557-6ec4-4365-a9f7-f4cbd7c67fd5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/mr-fit-fast-food-saudavel-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Paulínea",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291021_eddd5f77-e16f-4a6e-b6eb-ed3581dbb867.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/subway-paulinea-jardim-planalto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Simprão De Tudo Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705050821_32709b60-93e1-4018-b3ed-6e58e1ae3df6.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/simprao-de-tudo-hamburgueria-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Sabor Mil R.C.",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131533_MARMI_MILRC.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/marmitaria-sabor-mil-rc-joao-aranha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Zicco Pizzaria e Restaurante Ltda - Me",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230945_3f482625-ceae-4bde-9801-c2c917d8713b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/zicco-pizzaria-e-restaurante-ltda---me-cascata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria.com - Paulínia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 01_temak_linia.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/temakeriacom---paulinia-nova-paulinia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_gordinhos.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/gordinhos-joao-aranha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Dos Campeões",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo recanto _recan_peoes.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/paulinia-sp/recanto-dos-campeoes-jardim-dos-calegaris",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PAULINIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

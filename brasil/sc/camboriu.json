@@ -1,0 +1,335 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A La Minuta Du Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708141103_1602056e-7090-41b1-99aa-51d6d677b8a4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/a-la-minuta-du-cheff-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza Pizzaria e Choperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200904_51580f92-e69d-4e2b-9a91-daa8f8ab933f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/bella-pizza-pizzaria-e-choperia-tabuleiro-monte-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger Break Balneário",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031429__BURGE_EARIO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/burger-break-balneario-estados",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deckhamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061224_09420eb4-83de-4498-a15e-9cfdcf03215f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/deckhamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PONO POKE HAWAIIAN FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230900_1527f87b-6ad0-4bfd-813d-1d215fdf7cf9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/pono-poke-hawaiian-food-tabuleiro-monte-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sapore Sublime Delivery Camboriú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sapore sublim_SAPOR_BORIU.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/sapore-sublime-delivery-camboriu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Centro da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281444_080df25e-9352-4df6-a97b-143021994b46.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/centro-da-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bica Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191216_032a461c-a764-4440-a563-e0e81b6e2d0f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/bica-pizzaria-tabuleiro-monte-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bambinella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_nell07.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/pizzaria-bambinella-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nonno Beppe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040822_48e1aaed-f6ba-469b-8a1d-33240736774a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/pizzaria-nonno-beppe-municipios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oce'anas Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210831_5b4ab9ad-12ab-4f8b-bf26-f101686c7249.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/oceanas-restaurante-e-pizzaria-monte-alegre-monte-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fenix",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201707_70c54fd4-f783-4b25-bb36-306f12b462f6.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/pizzaria-fenix-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Célia Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301143_d77b005e-72e6-4ad3-9e4e-43d4573ecda8.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/tia-celia-delivery-santa-regina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hambúrguer Das Meninas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca das_hambu_ninas.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/hamburguer-das-meninas-sao-francisco-de-assis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mestre da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170957_7adeac99-21e6-4c5b-9d26-4b1987876b96.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/mestre-da-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Dog do Mauky",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181327_22e77f7b-046b-4a20-9d53-4c6e73bb4046.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/big-dog-do-mauky-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Veneza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101359_b05050da-0a10-429f-a96b-6d73b958f171.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/pizzaria-veneza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Carlos Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171056_a21b82c9-c4e6-495f-8d28-b4873bc5352e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/don-carlos-pizzaria-cedro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yashui Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060837_165cdb54-43dc-4eb5-a428-c19a13535183.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/yashui-sushi-bar-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei dos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281211_cef74f33-b9c3-4806-a7ef-f2495cdbddbb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/rei-dos-lanches-sao-francisco-de-assis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Bier",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061128_ca3da379-2cb2-4405-a41b-6a0bc5640f43.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/camboriu-sc/pizza-bier-municipios",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAMBORIU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

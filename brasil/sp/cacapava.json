@@ -1,0 +1,31 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DANISAN SUSHI DELIVERY - CAÇAPAVA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712110845__DANIS_APAVA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cacapava-sp/danisan-sushi-delivery---cacapava-vila-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACAPAVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tokyo Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011121_e0e9d712-4a86-416f-a9be-f5653bb5a393.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/cacapava-sp/tokyo-sushi-vila-resende",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CACAPAVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,846 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181638_3dfd2ed9-d8d6-4b06-96c6-cac197b825e9.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/china-in-box---araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Pliniao",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707091945_a8b3dd50-e146-4a1d-85b0-871b683ece24.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/marmitaria-pliniao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mano's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260909_d1c645c1-def4-444f-8c5a-533d62251833.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/manos-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amici pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010931_1f12902b-1d93-4dc2-a806-2a95cc5a0f60.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/amici-pizzaria-jardim-botanico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brigadier Chocolaterie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221027_92f82056-ab7d-4241-bff8-424a72aac393.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/brigadier-chocolaterie-jardim-nova-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias da Thereza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291142_0797019e-b715-4782-a633-341fb9b02038.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/delicias-da-thereza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza São Geraldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231427_95689889-57fd-4438-9a72-8e64f091ddc5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/disk-pizza-sao-geraldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Da Vila",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201321_0865c9a4-fdf9-43db-af18-296e55d35947.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/pizzaria-da-vila-vila-xavier-vila-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Via Pizza Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707060755_0591a184-30cd-40d3-ace6-7da5ed40e8c8.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/via-pizza-araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disfruten Açaí, Fondue e Lanche Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131551_40fafa33-6b78-4b73-ab48-b81491929fe5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/disfruten-acai-fondue-e-lanche-natural-jardim-padre-anchieta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bauru's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708201638_fe2a19ab-aecd-4468-bb28-c836b3f5ef8e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/baurus-vila-xavier-vila-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Agua Doce Cachacaria - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_agua_doc_aguad_quara.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/agua-doce-cachacaria---araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rua 5 Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251430_RUA5PIZZABAR.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/rua-5-pizza-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Villa Panquecas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311133_ebeba747-5e57-4ec9-8c4e-298fb91664ab.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/na-villa-panquecas-jardim-floridiana-vila-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kibelanche Gastronomia Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121613_39eee2d0-ed2a-402f-b3cb-100032412184.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/kibelanche-gastronomia-arabe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Plano B",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271111_c53cfce1-cfcc-40bc-819a-cede75abc28d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/plano-b-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Fontana Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo la fonta_lafon_zaria.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/la-fontana-pizzaria-vila-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QBIG Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301044_23180041-02a6-47c9-86b8-839856d8b9b8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/qbig-lanches-vila-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jet Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Jet Pizza_JETPI_PRES01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/jet-pizza-delivery-vila-yamada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação da Pizza Loja 2",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161739_691061b5-3c48-4002-8494-83109b7e1366.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/estacao-da-pizza-loja-2-jardim-santa-angelina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PizzaFan - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Pizza Fan_PIZZA_QUARA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/pizzafan---araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastekilo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071431_450d50c4-82c5-4f13-9dfb-497c10907561.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/pastekilo-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290941_794c0b16-7b6c-4b61-ab4c-f43c3b62310c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/subway-araraquara-vila-suconasa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "American Burger - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221046_d2cd8f22-626c-429a-987a-2921be8a6330.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/american-burger---araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Italiano Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311045_5ae5f464-0095-4a1b-8baa-6a72d8305fdd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/o-italiano-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sylvio Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201603_1f3d09e6-7d1f-4c03-b17b-592a8ac28c1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/sylvio-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIT STOP Sucos e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051449_a109b1bd-1fcf-4209-a0e1-eba244e4beb0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/pit-stop-sucos-e-lanches-jardim-botanico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703312139_d6d208e2f79c47e9ac551c72c1b6b74c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/mineiro-delivery---araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushizaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708272245_aae29ab2-c4b2-4c55-bd22-a625a9a87c48.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/sushizaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna Da Sete Ltda Me",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7_tabernada7.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/taberna-da-sete-ltda-me-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESKINA DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/skina_eskin_pizza.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/eskina-da-pizza-parque-residencial-iguatemi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Thiago Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140805_42932f4f-404d-4c00-934f-01de87f1bc1b.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/thiago-lanches-jardim-dom-pedro-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chimichurri Espeto e Chopp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706100926_85e117c1-aaf5-4438-a7b6-4830549bef91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/chimichurri-espeto-e-chopp-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiha e pizza na fonte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281634_4d1696f2-95db-4ebb-9ff6-925c9078b634.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/esfiha-e-pizza-na-fonte-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizza São Geraldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121257_510f5789-0325-4fe3-80fb-7e7690083f9e.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/bella-pizza-sao-geraldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cosa Nostra",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031500_62f4a17b-09b6-4914-a108-64e232f3f8fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/cosa-nostra-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Capri Pizzaria - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/1057x500x500__BELLA_QUARA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/bella-capri-pizzaria---araraquara-vila-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Humai Oriental Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703110823_HUMAI_IVERY.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/humai-oriental-delivery-jardim-floridiana-vila-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaizeiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121530_15f7038b9739443383657d1c6e715d13.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/acaizeiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Juca Pizza & Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707221013_06b1a8ff-1906-4b0e-8b25-d3dc37f642b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/juca-pizza--bar-jardim-tabapua-vila-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Souza Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241822_717af835-7deb-435c-a90d-512d575c62e4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/restaurante-souza-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221030_e631e50f-5a84-4734-8cac-8ef2e4905f89.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/esquina-arabe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SS Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101434_4a78509f-be53-4c70-a0b5-b43735cfb603.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/ss-pastelaria-jardim-do-carmo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí + Sabor Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703141144_ACAIS_QUARA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/acai--sabor-araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CELEIRO RESTAURANTE ARARAQUARA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021748_f59bb125-1229-4e3e-a385-e6be7b27c502.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/celeiro-restaurante-araraquara-vila-ferroviaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Já1000 HotDogueria & Petiscaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121559_54a720b4-7b5a-4821-93e7-0c1dbaf3c853.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/ja1000-hotdogueria--petiscaria-parque-sao-paulo-vila-xavier",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Soberano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241847_96ba45c4-bfa2-43d7-a0be-e993cc5ef6d4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/pizzaria-soberano-vila-harmonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confraria da Batata - Araraquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cb_CBARA_TDAME.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/confraria-da-batata---araraquara-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Azul - O Bar da Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221037_270d83d1-f136-474e-9ee6-1b2975f35cd8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/bar-azul---o-bar-da-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LUGS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181019_056115f7-bdc7-4405-8e29-54c103e410eb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/lugs-jardim-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Delicia Sucos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704071642_5621d78b98f34516afc9314a10b3cc09.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/ki-delicia-sucos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manu Lanches e espetos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280920_48d884c2-581e-4c74-8c82-735045f362be.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/manu-lanches-e-espetos-parque-residencial-vale-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massarosa Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021052_3488472f-fed9-449f-9b52-4153e53ec615.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/araraquara-sp/massarosa-pizzeria-jardim-santa-angelina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ARARAQUARA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

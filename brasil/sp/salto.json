@@ -1,0 +1,63 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bela Salgadaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241753_4229de6b-79ed-4d7d-9f09-2e6190bb932b.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/salto-sp/bela-salgadaria-vila-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SALTO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Borges Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709101629_5b622c19-889b-4c74-af9b-c36172b51475.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/salto-sp/borges-lanches-jardim-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SALTO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ichiban",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120905_4d75c4b4-b197-45f5-87cb-52b7920207a9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/salto-sp/ichiban-vila-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SALTO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Restaurante Volta Redonda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707250905_5c495af0-d067-4681-b5b2-f9f8ac7e595d.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/salto-sp/bar-e-restaurante-volta-redonda-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SALTO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,5177 @@
+[
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ayumi Japafood",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071835_06118c2d-7c38-4b59-9047-eb40f55eabdf.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ayumi-japafood-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bar Goiás",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081347_bf659038-e8e0-4055-b52d-dba9b70296f0.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bar-goias-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Los Treze açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181219_a0f797b8-a16c-43ed-b060-9fa959817f02.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/los-treze-acai-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pão Carne Queijo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111207_b9b8f1ca-4677-4ac3-ae03-a52d9df601a5.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pao-carne-queijo-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ragazzo - Gonzaga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211644__RAGAZ_NZAGA.gif",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ragazzo---gonzaga-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sodiê Doces - Santos Centro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051556_65a0b10d-c072-490c-8ade-43624f37b61f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sodie-doces---santos-centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açai Truck Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707180847_eba893d4-0329-4070-883a-bcde3495a3c3.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-truck-santos-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cuordicrema",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201346_3322b387-e097-4fe9-8ff2-352dc6067c46.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cuordicrema-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seu Coxinha - Goias",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011330_012477aa-8afa-42c7-9ed5-0938960b7ede.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/seu-coxinha---goias-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Subway - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291110_4daf7f98-78d0-4b31-b640-8984fe681754.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/subway---santos-jose-menino",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Doceria Formiga Maluca",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251055_c22db571-0c28-458d-86bd-3720fcfecf10.png",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/doceria-formiga-maluca-radio-club",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Da Ponta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708052154_a9eda7d0-1999-4f2d-b167-42733fe79aec.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-da-ponta-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Let´S Wok",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_letsw_reira.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/lets-wok-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "IPHOME MINI GOSTOSURAS II",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161411_1024fc13-c6dd-4a30-a10a-3b75efbed91b.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/iphome-mini-gostosuras-ii-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Panificadora Santa Cecilia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701061232_PANIF_CILIA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/panificadora-santa-cecilia-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Creperia da Praia - Canal 3",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707042011_6d6138de-d3e6-416c-b8e6-24b51f228c1a.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/creperia-da-praia---canal-3-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bar e restaurante country",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151430_42e09bd5-18e0-4ab5-b244-95a54f59ec64.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bar-e-restaurante-country-jose-menino",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Munik Chocolates",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211543_0458112c-ed7c-4c5a-bf3f-60f9a5ef6bff.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Bebidas",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/munik-chocolates-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "IPHOME MINI GOSTOSURAS I",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221045_2956835e-2982-4a53-ae1c-e0f0c1b9bb5e.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/iphome-mini-gostosuras-i-vila-nova",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "OBBA! GASTRONOMIA SAUDAVEL",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261101_50dbf189-92b3-488e-ad4b-1e88a4e8a606.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/obba-gastronomia-saudavel-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Shake Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_shakeburger.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/shake-burger-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Big X Picanha - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705091844_1b58ee51-fa95-43f8-b469-ab6816f03cac.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/big-x-picanha---santos-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "013 Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_013burguer.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/013-burguer-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pastel De Fubá",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pastel d_pasteldefubá.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pastel-de-fuba-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Burger +  Rizzo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181928_c8b8a105-c16f-46c2-9aa6-aa71fd6e7ab5.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/burger---rizzo-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantinho Da Terra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011405_3431f53406ab457fb061f7660c5a6ddd.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantinho-da-terra-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Nordestino Pedra Baiana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041123_452d5019-2bfb-4407-b418-3fa1f71d102e.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-nordestino-pedra-baiana-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa Das Vitaminas Loja Gonzaga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_casad_nzaga.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/casa-das-vitaminas-loja-gonzaga-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "A Liga das coxinhas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081513_dd84cdd8-cc48-4a32-b748-5d1df2c26c05.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/a-liga-das-coxinhas-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sabor De Casa - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sabor_rant02.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sabor-de-casa---santos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santos Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_santo_rgue01.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santos-burguer-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Croasonho Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo croasonh_croas_nzaga.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/croasonho-santos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushilocco Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sushi_keria.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sushilocco-temakeria-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Klakete Bar e Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120857_4ca76741-7070-428e-8fcf-a0498e6d72e7.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/klakete-bar-e-restaurante-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Massas Geni",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_massasgeni.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/massas-geni-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Beduino",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lg-beduino.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/beduino-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Florença",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/loooo_RESTA_RENCA.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-florenca-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sr. Sanduíche",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/srsanduiche_logo.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sr-sanduiche-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Coxinha Minuto - Gonzaga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141939_9cea9ae1-7aed-4446-85c2-04a0d109c88f.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/coxinha-minuto---gonzaga-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Batata show no cone santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271211_34f3a140-3160-44a7-9f53-ed881a8c3a36.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/batata-show-no-cone-santos-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fênix Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181614_dc7d9f2c-9ed4-48ee-9d85-9851e0fd4e71.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/fenix-gourmet-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Capitaes Gastronomia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_capit_nomia.png",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/capitaes-gastronomia-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bulla Temaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sem título_BULLATEMAKI.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bulla-temaki-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Grace Bar E Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121348_6c9cfc64-bfff-4306-aa93-123306fc7b7b.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/grace-bar-e-restaurante-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Aloha Poke Beer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708130851_bd21333d-330c-4a7a-8f30-c1a03d95fd40.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/aloha-poke-beer-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pastel Trevo Bertioga-Gonzaga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301440_30b5e03a-6a93-49c3-9410-3e00f17de930.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pastel-trevo-bertioga-gonzaga-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seu Coxinha - Carvalho",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161029_d8829d1d-5c7f-44f7-a8a2-66ae872c610a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/seu-coxinha---carvalho-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Ilha De Itaparica",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241210_06347621-6467-4073-bc8c-47f817644eff.png",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-ilha-de-itaparica-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Point 126 Pratos Executivos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/17d90149608e1_POINT126.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/point-126-pratos-executivos-jose-menino",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bom D+ Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2_bomdr_rante.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bom-d-restaurante-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Amor aos Pedaços - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181135_b5bc67fd-95d1-4481-8472-7915c9d43479.png",
+		"priceRange": "$$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/amor-aos-pedacos---santos-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Salgados, Lanches e Porções Belisk Fast",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151658_99664ab2-40f8-4199-bd0b-03e162f3d810.png",
+		"priceRange": "$",
+		"servesCuisine": "Salgados",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/salgados-lanches-e-porcoes-belisk-fast-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Santo Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031918_55b4d715-1494-4ed9-bc6b-fa0f0b350285.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-santo-sabor-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí da Colina",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280947_1763f92a-d15f-45e7-945e-2dd57589b4f7.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-da-colina-jabaquara",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Espetinho Mimi - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221422_c89b9abe-e9b5-461b-b65d-389a9d14cabd.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/espetinho-mimi---santos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Piccolo Café Bier",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171014_2295ebcc-3c54-49e7-ab00-63709f51352b.png",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/piccolo-cafe-bier-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SABORES DO MAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121249_6ad5afc4-eeb8-4189-b3f4-56df941b7f49.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Frutos do Mar",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sabores-do-mar-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Lig-Lig Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261434_d7fe7fb4-8d40-4d62-a70b-91f08a79e904.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/lig-lig-santos-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dominos Pizza - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221218_73989b0b-4fa4-4c16-853c-11decb06dfdb.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dominos-pizza---santos-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "China In Box - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181624_dc4b1ea4-0676-475a-a463-0bafec123d0d.bmp",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/china-in-box---santos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Brasileirinho Delivery Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200047_2ac9c55e-460d-4549-9bd3-51a46b1b1183.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/brasileirinho-delivery-santos-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açai zerO13",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281618_d2dad1cd-9219-4b98-9265-679520aed960.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-zero13-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaídeira",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081914_de7177b1-007b-475e-85f6-21d5d78264d9.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acaideira-areia-branca",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Baviera",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711220808_ed4b5166-a837-440e-a5d1-680629971ea4.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/baviera-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bolo da Madre",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711151007_b56172ca-8f06-4d73-a723-edc5a5b7dbe5.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bolo-da-madre-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bom sabor Pizzaria e esfiharia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221112_ada06cfb-fe6e-47c3-ae17-8363a4739a37.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bom-sabor-pizzaria-e-esfiharia-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bujas Garagem Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061312_aea05c21-6d82-4d65-92a2-88ab36d95156.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bujas-garagem-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CARIOCAS DA GEMA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140937_c23a8a65-661d-47af-a03e-1d8c2806b95b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cariocas-da-gema-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Café da Praça  Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081116_3db130ec-9882-4873-b765-fbbb60a916b9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cafe-da-praca--restaurante-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Capim Mascavo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712120726_a152c66d-a7be-4bfa-932a-c9d5a0c664f6.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Vegetariana           ",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/capim-mascavo-pompeia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cervejaria do Neco",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201005_f83bb333-86c7-4ddd-ae58-ba96cb0647cb.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cervejaria-do-neco-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Classic Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200926_2af81ac0-8a1e-4b55-9a4f-d2ee433e713a.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/classic-burger-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Di Veneza Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711200931_c41d046d-5689-45d8-9ddc-7f8e91b0c8cc.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/di-veneza-pizzaria-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Custodio",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191238_dc5f66a4-5862-4a0a-a19c-c6bbf59cedb4.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dom-custodio-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Explosão de Sabores",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201135_f23678be-5da3-414c-b4ed-4c9aea1de826.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/explosao-de-sabores-bom-retiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kenzo Sushi Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200938_7a0133e4-2d3a-4ce2-823d-e020f32546c6.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/kenzo-sushi-lounge-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Maktub Pizzaria E Esfiharia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301033_89b63b5f-6730-47e7-9a38-a86bcb1329ee.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/maktub-pizzaria-e-esfiharia-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mandurée Doceria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231055_a51a76fa-0903-4196-aeff-e9a938ac4c2b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/manduree-doceria-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marmitaria Martins",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131044_65fff2c9-fc0d-4888-8245-00d41887f43d.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/marmitaria-martins-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Marmitas Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161357_d9b61c60-e8ee-4aa0-8953-fa75d614f082.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/marmitas-gourmet-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PEDE JAPA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201635_318a3bee-f425-4b00-94da-f19ec941d3e0.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pede-japa-pompeia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZARIA & ESFIHARIA FORTALEZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231432_e8add9a1-9628-4ac6-b5c2-bb30355f3024.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria--esfiharia-fortaleza-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pitangas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061228_71896e9c-519f-4598-a63e-4ddb7c0087d1.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pitangas-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Portal da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251130_88ece6c8-c13e-41b3-abad-93b39a3b5116.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/portal-da-pizza-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Puerto de Palos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712210740_dc4393d7-ebfc-4509-b650-c7848f64d643.jpg",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/puerto-de-palos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RM Açai",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160622_0b64faf5-ea4d-4e68-b73f-8559327bc4f9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/rm-acai-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Saikai Sushi Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271052_b6ae2af9-f2de-4e80-88b1-002e238fef87.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/saikai-sushi-delivery-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santista Delivery Pizzaria e Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301250_5886f64d-61de-4f6c-b3c6-b9fde44f0b0b.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santista-delivery-pizzaria-e-restaurante-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santos Chopp",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020855_cd456105-1c31-4dea-b998-57c0d788b7d3.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santos-chopp-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seu Miyagi Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711120645_817da4aa-b192-4157-8c8d-0266052a0871.PNG",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/seu-miyagi-sushi-pompeia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TOP FITNESS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131354_2a162fea-f1f6-4522-b862-e040b6a8f218.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/top-fitness-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TUBI Delícias no Pote",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211311_e451d1c3-817c-4fcf-906f-01e0c33db8df.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tubi-delicias-no-pote-valongo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tao Sushi Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291725_741afbd5-3e55-4d2e-b26a-57d563750e70.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tao-sushi-lounge-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tassia Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712091500_49caa92f-2090-454c-9716-f61b73d3f9ca.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tassia-gourmet-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Temakeria Santista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Temakeria San_TEMAK_TISTA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/temakeria-santista-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Original Cake - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301301_d235c775-9ce7-4e58-bbcc-654a0e9973bd.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Doces",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/the-original-cake---santos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tia Ada Cafeteria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011316_11e9233e-994b-48b3-885a-a9d051ff9efb.png",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tia-ada-cafeteria-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vida Boa Poke & Cia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231315_f5f1f273-8278-49ac-bc9a-1024fdfbaad6.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/vida-boa-poke--cia-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "X Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260945_29a48d5b-26ba-4540-990d-8b689985fc56.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/x-burger-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ZERO TREZE PIZZA DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180753_792fa50a-c7b9-4561-94fc-f438aaa59e8e.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/zero-treze-pizza-delivery-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Hut  - Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281003_63dca071-58ed-42a6-9430-ce35f9127c80.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizza-hut----santos-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Début Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051424_59523239-a261-408d-bbba-9e5185169365.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/debut-acai-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Cassino",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121231_c90d1bcd-a090-4e4b-af66-3732d3fd5a16.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-cassino-jose-menino",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açai Praiano",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100908_1a52eaa0-e989-4373-b1ad-b556d6b93505.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-praiano-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bistrô Calixto Café",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080821_9acef005-3fa1-49db-bb2b-3df52ed400b6.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bistro-calixto-cafe-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Altamont Snack Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709280859_687c5b19-ac38-4162-8182-64b4db9c1fed.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/altamont-snack-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Vila Dy Napolli",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_polli.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-vila-dy-napolli-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Zé Da Feira",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704260819_00dd994f-abda-4815-8ac6-49345bd391a5.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ze-da-feira-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Yê",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712151737_ed51ac58-43a7-4f36-98a4-1fb7a6e8c437.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ye-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Duarte´s Bar Restaurante e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291019_3d64cda0-c33d-4715-861b-d6c9d01da06a.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/duartes-bar-restaurante-e-pizzaria-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "C6 Pizza Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706291258_8089bd8a-9fcd-4534-a6ef-876d428973ab.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/c6-pizza-bar-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jorge's Disk Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300729_feb6f991-7b81-483e-81b3-61cc7fa73502.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/jorges-disk-pizza-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SANTOS SABORES MASSAS E  PIZZAS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181549_2c465abb-a4ad-4ac3-8c2f-7a65d6085571.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santos-sabores-massas-e--pizzas-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kampay",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kampay s_combosushi.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/kampay-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Dags Bar & Dogueria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121157_6b8af601-b73b-4def-bc1c-f058ea4b0e04.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/the-dags-bar--dogueria-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Veg & Veg Burguer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702280011_VEGVE_RGUER.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/veg--veg-burguer-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria forno da praça",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709262136_73e08b20-2cfd-41de-b1e4-1f29e746a7fc.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-forno-da-praca-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Babbo Américo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo babbo_caliliana.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantina-babbo-americo-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "KF Hamburgueria e Pratos Executivos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/568ce998-5807-434c-b6ac-65321ba24368/201709241735_logok.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/kf-hamburgueria-e-pratos-executivos-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "KI-PHOME SALGADOS E AÇAÍ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706111712_b9d8f8a1-3564-42b0-ad50-48a136b636ce.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ki-phome-salgados-e-acai-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Esfiharia Santa Rita",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_esfih_arita.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfiharia-santa-rita-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Nonna Carmello Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Nonna Carmell_NONNA_ZARIA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/nonna-carmello-pizzaria-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Di Lucca",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dilucca_logo.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantina-di-lucca-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Petisco Santista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211107_bbc59c2d-75ca-464c-9c9f-dcfd2ef8bbe5.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/petisco-santista-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Arena Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_aren01.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/arena-restaurante-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jorge's Disk Pizza - Unidade 2",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300817_d69a973a-ca5b-4c8b-8468-11fff80a672e.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/jorges-disk-pizza---unidade-2-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "GARAGE C1 ROCK BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171242_fb7f2cb9-99ba-4a5a-a2bc-a135fe1a5e8d.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/garage-c1-rock-bar-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "A Santissima Pizza Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_asant_iver02.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/a-santissima-pizza-delivery-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mega Esfiha E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704081037_20bcd07e57d9437bb6b25b0b0c816d83.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/mega-esfiha-e-pizzaria-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Slice On The Beach Pizza Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703011404_SLICE_ZABAR.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/slice-on-the-beach-pizza-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Taquitos Beer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_taquitosbeer.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/taquitos-beer-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria a  Grande Família",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_pizza_mili08.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-a--grande-familia-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Santista Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo acai san_acais_ivery.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-santista-delivery-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Café Central",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710070850_0d6d2836-df3e-4f8c-9dcd-3cf14c09dfb6.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cafe-central-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZARIA E ESFIHARIA SANTA CLARA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704011537_2cab2b01b7ba426089bf69ead2fc7486.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-e-esfiharia-santa-clara-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Di Capri Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/di_pizza_iver04.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-di-capri-delivery-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bambino Disk Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bambino_bambi_pizza.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bambino-disk-pizza-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Gomard Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060834_52a4cc27-8553-45d6-ab87-638ef311d7a6.png",
+		"priceRange": "$",
+		"servesCuisine": "Sorvetes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-gomard-delivery-santa-maria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Divino Sabor Caseiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_divin_seiro.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/divino-sabor-caseiro-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tomatto Forneria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231136_TOMAT_NERIA.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tomatto-forneria-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Vicente",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logo2061_104_DOMVICENTE.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dom-vicente-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jd Espetinhos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_jdespetinhos.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/jd-espetinhos-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Salam Pizzaria & Esfiharia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705120933_9dab45a4-6e16-4276-83fb-d7fec80c036e.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/salam-pizzaria--esfiharia-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MARAP'S BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomaraps_MARAPSBAR.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/maraps-bar-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fabrega's Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040843_c6584a22-7e06-40ff-b22c-3282ca46cfd8.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/fabregas-pizza-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paredão Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706062129_1e33be75-5d4a-49fb-b024-a6c33bd83685.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/paredao-pizzas-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PICCOLA PIZZA BAR",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161609_5a1121cf-c82e-47fd-bb06-49c06ed6fbd1.bmp",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/piccola-pizza-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Divina Panela Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c4f0b063-1a2a-4adf-a06b-c9454be799f4/201710151708_img20.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/divina-panela-restaurante-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Vila Dy Toscana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_viladyto_pizza_scan01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-vila-dy-toscana-castelo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Huguí's Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710280823_206a1574-e599-4125-9e01-4f98ed45b5b7.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/huguis-pizza-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Passarela Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_pizza_arel02.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-passarela-santos-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE, PIZZARIA E ESFIHARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_santa_zari08.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-pizzaria-e-esfiharia-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Art Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/essse_artpizza.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/art-pizza-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Boladão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131735_71d5d531-817f-4693-aa49-dff9e126b66d.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-boladao-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Madre",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7644/logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizza-madre-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rigui'S Burguer House",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca rig_rigui_house.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/riguis-burguer-house-saboo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Kone",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8577/logo.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/the-kone-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ESFIHARIA SANTISTA 2",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706050840__ESFIH_ISTA2.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfiharia-santista-2-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Vitaly & Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_pizza_ital02.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dom-vitaly--acai-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE MARIA MARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181016_f260ecec-f794-446f-a1d8-27d248a94f08.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-maria-maria-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mama Leta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_mamaleta.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/mama-leta-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "GRAN SABOR RESTAURANTE & PETISCARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181154_6f4978d5-9967-4c21-b98f-d65ef4d12664.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/gran-sabor-restaurante--petiscaria-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Liliana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_canti_lian01.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantina-liliana-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Florença Forneria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo florenca_flore_neria.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/florenca-forneria-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgueria Santista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111345_173d8596-6399-440d-9253-56e8bffae306.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/hamburgueria-santista-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "São Dubas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211532_01ec1490d5614baf9a24b90d98afe175.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sao-dubas-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dei Fratelli",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dei fratelli_deifratelli.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dei-fratelli-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Geração Fit - Suplementos E Gastronomia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fit_gerac_nomia.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/geracao-fit---suplementos-e-gastronomia-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D Faria Pizzaria E Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dfari_rante.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/d-faria-pizzaria-e-restaurante-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Red Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211033_REDPIZZARIA.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/red-pizzaria-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria D Lara",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_RESTA_DLARA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-e-pizzaria-d-lara-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Glicerios Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_gliceriosbar.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/glicerios-bar-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "O Temakeiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040839_OTEMAKEIRO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/o-temakeiro-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sherlock E Dog Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo1_sherl_antos.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sherlock-e-dog-santos-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria Simpatia Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2015-11-08 19_asimp_urmet.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-e-pizzaria-simpatia-gourmet-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Terra Santa Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/terra lounge _terra_pizza.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/terra-santa-pizza-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Nordestino Itabaiana III",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161421_fd782aa5-d7ca-4e6a-835e-d0d3c0148de5.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-nordestino-itabaiana-iii-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Sale Pepe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211612_8202b939-9db2-4aa0-ad73-4d101bd4f2ed.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-sale-pepe-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzas Vicenzo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706302123_53a0c57d-cef4-424f-a3a1-3ce66c6cbf2f.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzas-vicenzo-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório Santa Barbara",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271408_285b7e5b-e15a-46ab-afed-5899309c02e3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/emporio-santa-barbara-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Passarela Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_pizza_arel02.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-passarela-santos-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE, PIZZARIA E ESFIHARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_santa_zari08.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-pizzaria-e-esfiharia-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Art Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/essse_artpizza.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/art-pizza-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Açaí Boladão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131735_71d5d531-817f-4693-aa49-dff9e126b66d.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/acai-boladao-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Madre",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/7644/logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizza-madre-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rigui'S Burguer House",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca rig_rigui_house.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/riguis-burguer-house-saboo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "The Kone",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8577/logo.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/the-kone-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ESFIHARIA SANTISTA 2",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706050840__ESFIH_ISTA2.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfiharia-santista-2-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dom Vitaly & Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_pizza_ital02.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dom-vitaly--acai-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "RESTAURANTE MARIA MARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181016_f260ecec-f794-446f-a1d8-27d248a94f08.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-maria-maria-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mama Leta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_mamaleta.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/mama-leta-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "GRAN SABOR RESTAURANTE & PETISCARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181154_6f4978d5-9967-4c21-b98f-d65ef4d12664.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/gran-sabor-restaurante--petiscaria-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Liliana",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_canti_lian01.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantina-liliana-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Florença Forneria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo florenca_flore_neria.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/florenca-forneria-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Hamburgueria Santista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111345_173d8596-6399-440d-9253-56e8bffae306.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/hamburgueria-santista-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "São Dubas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211532_01ec1490d5614baf9a24b90d98afe175.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sao-dubas-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dei Fratelli",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/dei fratelli_deifratelli.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dei-fratelli-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Geração Fit - Suplementos E Gastronomia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fit_gerac_nomia.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/geracao-fit---suplementos-e-gastronomia-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "D Faria Pizzaria E Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_dfari_rante.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/d-faria-pizzaria-e-restaurante-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Red Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211033_REDPIZZARIA.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/red-pizzaria-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria D Lara",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_RESTA_DLARA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-e-pizzaria-d-lara-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Glicerios Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_gliceriosbar.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/glicerios-bar-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "O Temakeiro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703040839_OTEMAKEIRO.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/o-temakeiro-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sherlock E Dog Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo1_sherl_antos.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sherlock-e-dog-santos-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria Simpatia Gourmet",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2015-11-08 19_asimp_urmet.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-e-pizzaria-simpatia-gourmet-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Terra Santa Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/terra lounge _terra_pizza.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/terra-santa-pizza-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Nordestino Itabaiana III",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161421_fd782aa5-d7ca-4e6a-835e-d0d3c0148de5.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-nordestino-itabaiana-iii-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Sale Pepe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211612_8202b939-9db2-4aa0-ad73-4d101bd4f2ed.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-sale-pepe-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzas Vicenzo",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706302123_53a0c57d-cef4-424f-a3a1-3ce66c6cbf2f.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzas-vicenzo-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Empório Santa Barbara",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271408_285b7e5b-e15a-46ab-afed-5899309c02e3.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/emporio-santa-barbara-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Coelhos Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_coelhosbar.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/coelhos-restaurante-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Integralmente Saudável",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121558_9dc7dff2-70b6-4c32-b723-e0ef46d3c40b.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/integralmente-saudavel-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Forno de Barro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211449_cae1de27-e598-45e7-9fc5-18011e614af1.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/forno-de-barro-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seu Temaki",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_seutemaki.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/seu-temaki-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Conceito Açaí",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211228_ab39bdf5-01e7-4845-85d8-6d85247524ec.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/conceito-acai-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Akioh Sushi Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/akioh_akioh_hibar.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/akioh-sushi-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "THEDÓ LANCHES E REFEIÇÕES",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_thedolanches.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/thedo-lanches-e-refeicoes-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Novo Sabor",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281334_a14c92d9-ead7-459a-b752-ede86d19efac.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/novo-sabor-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Disk Pizza Delícia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/delicia_diskp_licia.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/disk-pizza-delicia-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Deck Bar Espetaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041132_b809e9c2-c304-4eb8-8b4e-d3f5ace329a7.png",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/deck-bar-espetaria-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DONA MARIA RESTAURANTE  CENTRO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709101722_e85040b2-2344-4031-802c-6c3d721aa712.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dona-maria-restaurante--centro-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Billy Steakhouse",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071030_2dd8d5ba-928a-4e3a-bb70-c0dbecc8a9f5.JPG",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/billy-steakhouse-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gotissô - Boqueirão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290900_69ebeec7-3161-43d4-9193-97a29f10eb39.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/gotisso---boqueirao-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Manancial Refeições",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_manan_icoes.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/manancial-refeicoes-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Blend Burger Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo blend_blend_erbar.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/blend-burger-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Savannah Steak House",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291513_e721fb7a-f2d3-4d81-9202-fb43ef1dbefb.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/savannah-steak-house-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cozinharia Santista",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706251738_39434513-cc20-4337-b4b7-d28443a90cc2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cozinharia-santista-jose-menino",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Massas Santista Pedro Lessa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_massa_lessa.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/massas-santista-pedro-lessa-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bonna Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_bonnapizza02.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bonna-pizza-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kokimbos - Ponta da Praia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707070815_c6a6f88f-883b-483a-99ff-d3207c1836cf.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/kokimbos---ponta-da-praia-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Frutaria do 3",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_frutariado3.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/frutaria-do-3-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Litóra 013",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/litora_litora013.jpg",
+		"priceRange": "$$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/litora-013-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Okumura Temakeria & Freshfish",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8282/logo.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/okumura-temakeria--freshfish-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rosa De Saron",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041625_9d1f9ea8-be81-4107-95ca-6e1d56e7b815.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/rosa-de-saron-santa-maria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Japoo Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo japoo_japoo_keria.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/japoo-temakeria-saboo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Emporio Santos Cafe",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Santos C_EMPOR_SCAFE.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/emporio-santos-cafe-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Arriba Maria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_arribamaria.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/arriba-maria-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Big Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181529_6841a2a0-7785-4123-bb75-0e8a81177c20.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/big-pizzas-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Dom Sírio",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080822_07041c6e-8176-4e2a-8f67-f42acd05ce99.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Contemporânea",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-dom-sirio-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Evaristo Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/evaristo_evaristobar.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/evaristo-bar-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ricardo Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281817_40b0536e-7245-4203-8238-2cae3854d057.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ricardo-pizzaria-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ORIGINAL CO. CATERING & DELIVERY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261351_da7052bd-b1d7-4ed1-b9ff-598d171bf6ae.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/original-co-catering--delivery-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Arô Temakeria Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (18)_arote_ivery.png",
+		"priceRange": "$$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/aro-temakeria-delivery-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Yakissoba do Tio Sam",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071059_18a96c10-105b-4143-b4d6-951b4c05bc42.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Chinesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/yakissoba-do-tio-sam-areia-branca",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "PIZZARIA LA PREMIATTA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/premiata_pizza_iatta.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-la-premiatta-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Jamaica trailer",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191230_79bf7fdd-85c7-4b22-8e02-fc244b5ad298.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/jamaica-trailer-morro-de-nova-cintra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seiko Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231008_990ccbdd45944a02b561b8977bcb3294.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/seiko-temakeria-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Shouri Brasil",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190831_f7fa96a5-1262-4603-a25c-24db0aca639c.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/shouri-brasil-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ESFIHA DA KAZA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705250833_66b0b1e3-75d9-44ba-b888-9da9fa85e06a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfiha-da-kaza-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mel Sucos E Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703241123_f2acbf7b3df849a98d5482b5cb745b7c.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/mel-sucos-e-lanches-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Best´fooD",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281539_34359d07-5029-4594-9430-534a0eb9ab77.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bestfood-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Brandão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (2)_brand_zaria.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-brandao-jabaquara",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Esfiha da Vila Café + Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709182136_c2b0cff0-02e6-4668-b2ce-f7a5d57cd91a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfiha-da-vila-cafe--grill-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Mister Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_misterpizz02.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/mister-pizza-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ninho Pizza Ii",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_ninhopizzaii.png",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ninho-pizza-ii-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Desfrutti Sabor E Saúde",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191520_8bba8d23-b7da-49a8-8f98-bccbb1bbcfbc.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/desfrutti-sabor-e-saude-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "HoFa Pizzas Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo hofa_hofap_ivery.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/hofa-pizzas-delivery-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Larikas Burguers",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220846_5946b4b7-ce16-4c31-b0f8-054826a9c95a.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/larikas-burguers-castelo",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fish Maria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c022d53b-0332-41b9-a6b7-e63a5695ec55/201711300942_logor.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/fish-maria-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Red London Bar, Restaurante e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031321_2a4d2207-658b-4b1f-8a3b-796149b36a2f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/red-london-bar-restaurante-e-pizzaria-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Spetto'S Bar E Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_spett_grill.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/spettos-bar-e-grill-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tempero Mineiro Restaurante e Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141201_9e3857bb-9cb6-4b59-b063-509a2ff89425.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tempero-mineiro-restaurante-e-pizzaria-centro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santa Madruga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310711_a3b5f460-dded-4d47-b722-5bf8f4fbb20d.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santa-madruga-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Massas Santista - Patio Iporanga",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_massa_ranga.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/massas-santista---patio-iporanga-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Qsabor delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190930_ccff881b-fe6c-4b42-9ab3-8923abb5afd8.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/qsabor-delivery-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante E Pizzaria Vazquez",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_zquez.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-e-pizzaria-vazquez-encruzilhada",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "ESFIHAS CITY",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030858_70eb7084-7742-4f80-b34c-161129b315f2.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfihas-city-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "DON BARONI",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161011_65b47324-c745-4d43-b19e-50a2d011625a.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/don-baroni-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TO A TOA REFEIÇÕES E AÇAÍ",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311010_7f39474f-04ff-4e31-a5c2-42d63932b368.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/to-a-toa-refeicoes-e-acai-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gica Gi Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705150930_16f65877-0682-43f0-bbe0-6ac6976b147f.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/gica-gi-restaurante-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "California Bar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705250919_e7f2f4d2-b76f-46b4-8b86-5d011f9c3ed2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/california-bar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Via Roma Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703301525_b5c177dd2e61422ca6915050c49f2f99.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/via-roma-pizzaria-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "TCHÊ COXINHAS",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031108_b990d1d4-1190-4074-9533-c706ac2d191e.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/tche-coxinhas-morro-de-sao-bento",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Batata San",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301704_2321e783-a332-46df-a21b-b530ee4d4366.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/batata-san-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizzaria Bella Itália-Santos",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111227_3c05a57a-0414-49e0-bca1-1569d87e6ba1.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizzaria-bella-italia-santos-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fish n' Grill Zero 13",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221040_212c482e-7b38-4c66-96db-edf5166cff5b.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/fish-n-grill-zero-13-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "MARENELLOS CULINARIA E CAFE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709260852_a7c8bcad-1951-45e8-9736-5b509c9b245e.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/marenellos-culinaria-e-cafe-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Degrau 88",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071621_9492f2c9-c639-42b9-a516-d970ed1f227e.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/degrau-88-morro-do-monte-serrat",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dona Coruja Delicias",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151027_bd9799d7-fd0a-4a6b-a299-702f739f32cc.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dona-coruja-delicias-jose-menino",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Massas Dourado",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_massa_urado.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/massas-dourado-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Baccará Bar E Grill",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8893/logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/baccara-bar-e-grill-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Esfiharia Nova Massa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231313_3db078b0-dda5-4cf7-af32-bb5718e7f9ec.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/esfiharia-nova-massa-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Estilos Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_estil_urger.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/estilos-burger-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CROASSANTO",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_croassanto.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/croassanto-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Plenitude Comida Caseira",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251428_5c4adac8-451a-4bfa-bcbe-f48d78169d20.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/plenitude-comida-caseira-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santa Elza Restaurante E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo santa el_santa_zari02.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santa-elza-restaurante-e-pizzaria-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Armazém 5",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo armazem_armazem5.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Cozinha Rápida",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/armazem-5-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Primeira Estação Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/estcao_1esta_zaria.png",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/primeira-estacao-pizzaria-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Seo Sanduba",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291713_5ec832a6-04df-44ab-bd12-d7311ac3589a.png",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/seo-sanduba-morro-de-nova-cintra",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Tá Na Hora",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701101314_TANAHORA.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ta-na-hora-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vasco Da Gama Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_vasco_izzas.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/vasco-da-gama-pizzas-morro-de-sao-bento",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Boa Pedida Delivery",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo boa pedi_boape_iver05.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/boa-pedida-delivery-macuco",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Paschoa'S Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704221748_9d5b58d1-1c21-48d3-b2f1-d8b63d10aeb3.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/paschoas-pizzaria-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "SANTO APETITE",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161551_ed53c6a2-9b66-44bc-81b9-58aa74fb1620.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santo-apetite-santa-maria",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Zu Bistro",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701190839_BISTROMARIA.png",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/zu-bistro-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Gaucho Buffet de Carnes",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231949_de911c46-a17d-40a2-a317-5afeb165a6fa.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/gaucho-buffet-de-carnes-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Só Disk Family",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140946_4d7bb592-d4ab-4729-9279-2f43579204f4.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/so-disk-family-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Quero Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021424_346f7130-18f4-4d2b-835f-32d8bd8fa0eb.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/quero-pizza-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Santa Planta",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/santa_santaplanta.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Saudável",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/santa-planta-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sushi Garden",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_SUSHI_CENTE.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sushi-garden-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Casa Da Esfiha Express",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/4674/casadaesfiha.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Arabe",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/casa-da-esfiha-express-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Levi Lanches E Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701251513_LEVIL_KERIA.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/levi-lanches-e-temakeria-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chopp Do Fritz",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_choppdofritz.jpg",
+		"priceRange": "$$$$$",
+		"servesCuisine": "Comida Alemã",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/chopp-do-fritz-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bendita Mania",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211413_90ae7e7b-152a-4576-927b-f2041b8db3d9.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bendita-mania-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Eli Bernardino",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Eli Bistrô_ELIBE_RDINO.PNG",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/eli-bernardino-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Daiisshi Sushi House",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo daiishi_daiis_house.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/daiisshi-sushi-house-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Anzai Restaurante",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/anzai_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Natural",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/anzai-restaurante-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Banzai Temakeria E Sushi",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/banzaitemakeria_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/banzai-temakeria-e-sushi-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Base",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291158_c4103c4e-d64b-4000-98cc-1f289d61eff6.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/base-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bella Pizza Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bella_pizza.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bella-pizza-pizzaria-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bella Roma Pizzaria Campo Grande",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bellaroma_logoo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bella-roma-pizzaria-campo-grande-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bella Roma Pizzaria Ponta Da Praia",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bellaroma_logoo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bella-roma-pizzaria-ponta-da-praia-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bianca Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/biancapizza_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bianca-pizzas-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Bianca Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/biancapizzas_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/bianca-pizzas-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "CENTRAL  PIZZARIA",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo central_centr_zari01.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/central--pizzaria-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Molise",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cantinamolise_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantina-molise-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Cantina Molise",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/molise_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/cantina-molise-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Chili",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chili.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/chili-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Churrascaria Veneza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/veneza_churr_eneza.png",
+		"priceRange": "$$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/churrascaria-veneza-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Creperia Cia De Café",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_cia_cafe.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/creperia-cia-de-cafe-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Dr Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/drpizza_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/dr-pizza-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "El Patron",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_elpatron.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Mexicana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/el-patron-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Fresh Fish Sushibar",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_fresh_hibar.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/fresh-fish-sushibar-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ilha De Strombolli",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ilhastrombolli_logo.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ilha-de-strombolli-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ilhas Do Sul Panquecas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ilhasdosul_logo.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ilhas-do-sul-panquecas-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Kanoa Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/kanoa_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/kanoa-temakeria-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Konni Temakeria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/konni_konni_keria.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/konni-temakeria-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Moderna Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/modernapizza_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/moderna-pizzaria-vila-belmiro",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Motoburguer Lanches",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241223_MOTOB_SLTDA.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Brasileira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/motoburguer-lanches-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Noguthi Temakeria E Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/noguthi_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Japonesa",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/noguthi-temakeria-e-lounge-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "O Pankekão",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/opankekao_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/o-pankekao-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Palácio Das Pizzas",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/palaciodapizza_logo.jpg",
+		"priceRange": "$$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/palacio-das-pizzas-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pezzo Restaurante E Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pezzo_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pezzo-restaurante-e-pizzaria-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Pizza Ilha De Capri",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/248138_103975613027608_70.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/pizza-ilha-de-capri-marape",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Poker Burger",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pokerburger.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/poker-burger-aparecida",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ponto Da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pontopizza_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ponto-da-pizza-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Porto Lounge",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_portolounge.png",
+		"priceRange": "$$",
+		"servesCuisine": "Lanches",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/porto-lounge-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei Da Pizza",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/reidapizza_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/rei-da-pizza-embare",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Rei Da Pizza (Marapé)",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/reidapizza_logo2.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/rei-da-pizza-marape-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Restaurante Espanhol e Sabores da Terra",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709290838_abe773d7-48dc-4d0c-9fbb-ac9db610478c.jpg",
+		"priceRange": "$$$",
+		"servesCuisine": "Carnes",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/restaurante-espanhol-e-sabores-da-terra-campo-grande",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Ristorante Spazino D",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/spazino_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Italiana",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/ristorante-spazino-d-gonzaga",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sabor Di Casa",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sabordicasa_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Comida Caseira",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sabor-di-casa-vila-matias",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Sr Espeto",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051306_272fe289-c275-4e63-bce1-9286ce5746da.png",
+		"priceRange": "$",
+		"servesCuisine": "Comida Variada",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/sr-espeto-ponta-da-praia",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Villa Burghese",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/villaburguese_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/villa-burghese-estuario",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	},
+	{
+		"context": "http://schema.org",
+		"type": "Restaurant",
+		"name": "Vitorio Pizzaria",
+		"image": "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/vitoriopizzaria_logo.jpg",
+		"priceRange": "$",
+		"servesCuisine": "Pizza",
+		"url": "https://www.ifood.com.br/delivery/santos-sp/vitorio-pizzaria-boqueirao",
+		"address": {
+			"addresstype": "PostalAddress",
+			"addressLocality": "SANTOS",
+			"addressRegion": "SP",
+			"addressCountry": "BR"
+		}
+	}
+]

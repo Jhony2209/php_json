@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Titus Laches Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300942_e3767112-386f-4e7b-99ba-007951d06577.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pederneiras-sp/titus-laches-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PEDERNEIRAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

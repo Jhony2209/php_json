@@ -1,0 +1,15 @@
+   [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jack s Bull",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140813_278f3511-8bdb-42e4-a69b-29161981e2ff.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/ituverava-sp/jack-s-bull-vila-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITUVERAVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

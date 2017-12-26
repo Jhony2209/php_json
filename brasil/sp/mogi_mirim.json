@@ -1,0 +1,63 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HOT DOG MIRANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311149_5ec548ab-3274-4ae9-9a3f-b1ff69d4b6ac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mogi-mirim-sp/hot-dog-mirante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI MIRIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703310708_bd0c7960b2934f73b8e77c1e73130963.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-mirim-sp/dom-pizza-mirante",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI MIRIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terraço Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231038_76bac81c-4165-459b-b6f0-89e329b3f10b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-mirim-sp/terraco-pizzaria-conjunto-residencial-anselmo-lopes-bueno",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI MIRIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Big Boca - Mogi Mirim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705021757_37bc6c61-2dd4-43aa-8a5d-b5c971b4f506.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mogi-mirim-sp/pizzaria-big-boca---mogi-mirim-jardim-scomparim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MOGI MIRIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

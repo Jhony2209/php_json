@@ -1,0 +1,95 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arca Doce Sorvetes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201949_72c0fdf8-0d55-48ee-bcc0-68aaed89bc16.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/francisco-morato-sp/arca-doce-sorvetes-belem-capela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO MORATO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Oliveira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141833_74fd4343-b660-4065-8ed2-10f8447bb115.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/francisco-morato-sp/pizzaria-oliveira-jardim-eliza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO MORATO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terrazzo Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061007_74feecca-36d1-4c65-808f-e529d7d2067b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/francisco-morato-sp/terrazzo-italia-parque-belem",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO MORATO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TITI TEMAKI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041153_fe047726-9499-407a-90c3-a56ab3446273.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/francisco-morato-sp/titi-temaki-residencial-casa-grande-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO MORATO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MEXICANJOS PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311122_8097ed11-2020-4850-a331-c5c5f91ff030.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/francisco-morato-sp/mexicanjos-pizzaria-jardim-antomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO MORATO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete vó jandira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/image_LANCH_NDIRA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/francisco-morato-sp/lanchonete-vo-jandira-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "FRANCISCO MORATO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

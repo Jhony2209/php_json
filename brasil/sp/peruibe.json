@@ -1,0 +1,31 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Full Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060917_f76aa854-9439-43a2-8f14-366fb317f5eb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/peruibe-sp/full-burger-balneario-sao-joao-batista-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PERUIBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Simba Pizzas e Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130920_3b19f772-4dc2-440f-b62a-f53f6076c229.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/peruibe-sp/simba-pizzas-e-esfihas-bal-stella-maris",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PERUIBE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

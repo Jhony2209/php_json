@@ -1,0 +1,1628 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Analú Alaminuta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706300826_ae66599c-c981-4677-988c-b01fed1f4ad9.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/analu-alaminuta-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nutritécnica Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//30hoVStbBvMH_NUTRI_URME01.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/nutritecnica-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonna Apetite ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//CrXsPIGy2gVD_BONNAAPETITE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bonna-apetite-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camargo Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180724_c560dc2c-3386-422f-b620-7c20090431d1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/camargo-pizza-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cyberburguer Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251346_5df34bfe-966b-493c-948c-2d25b1039e42.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cyberburguer-lanches-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espeto de ouro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181203_d2968065-4f63-4493-9373-72fbc0be4699.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/espeto-de-ouro-rio-dos-sinos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Guria's Lanches - São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180822_a566405b-1c80-490c-b198-e03bf8454201.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/gurias-lanches---sao-leopoldo-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moda do juca Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161107_7c33bdb3-32ae-4a01-aead-188a483654a0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/moda-do-juca-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MANGIARE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201829_48caccaf-8b22-4ae4-a97b-41fbe6c81ca3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pizzaria-mangiare-rio-dos-sinos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasta di stella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101001_67c2f4c9-ef2f-435b-ae38-5246ca05fcd9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pasta-di-stella-scharlau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Cone Espiro Papas São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711051326_2c9f5618-08b8-4cb9-8b29-d36fb496ea42.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pizza-cone-espiro-papas-sao-leopoldo-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Prato Fit alimentação saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211515_c6ab8fae-8223-4d66-9c31-3151b5b74dcc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/prato-fit-alimentacao-saudavel-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Modelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081726_7fb1009d-0cb9-44d6-bd3d-2d881906b94c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/restaurante-e-pizzaria-modelo-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY - São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281717_439b80d7-6db7-4ec2-84d2-87927a18f2aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/subway---sao-leopoldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shakers Alimentação Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111928_3591af48-a9c9-4b69-b381-ec198c73637b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/shakers-alimentacao-saudavel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pankekas resto bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031317_a30fb390-917b-4d26-ac70-1a4480b873f4.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pankekas-resto-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Peixe Frito na sua Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221937_ceb65c73-a752-40c3-a48a-96660fd016e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/peixe-frito-na-sua-casa-scharlau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Duploxxis Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/duplo_duplo_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/duploxxis-delivery-santa-teresa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas do Bira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111913_8a83a40c-8041-4e77-9a88-4a8d581ffcbb.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/panquecas-do-bira-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Expresso Galeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nova2_expes_aleto.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/expresso-galeto-cristo-rei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nana's Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151942_b14014d1-d547-41c4-ac1b-e5cfa49e07de.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/nanas-delivery-vicentina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bazoo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bazoo_BAZOO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bazoo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primmo Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo primmopi_PRIMMOPIZZA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/primmo-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatta Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//kGRyS2tZrXzK_DONAT_ZERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/donatta-pizzeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Do Rigo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701250910_XISDORIGO.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/xis-do-rigo-padre-reus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vigano viandas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Viganó_VIGAN_ANDAS.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/vigano-viandas-vicentina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Smells Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701090929_XPICA_POLDO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/smells-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG BURGERS DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210910_94639c29-4055-4992-8f89-c0c32ceeaef2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/big-burgers-delivery-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Telepizza Santa Tereza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/santa_TELEP_EREZA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/telepizza-santa-tereza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorro Do Bigode - São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cachorrodobig_cacho_poldo.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cachorro-do-bigode---sao-leopoldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas E Panquecas Do Gringo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//Rr9awbC4uxEt_PIZZA_RINGO.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pizzas-e-panquecas-do-gringo-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Shori Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251230_f732ac28-ae31-40a5-b243-fe5e0d712d50.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/shori-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Di Napoli São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704040904_3ae444cfb3f34ac39064ac4379303bef.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pizzaria-di-napoli-sao-leopoldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Assado Na Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo novo ins_assad_brasa.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/assado-na-brasa-fiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor De Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121041_dce6f080-f92d-43de-98cf-e013ed0c110a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/sabor-de-casa-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piemonte Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//fo7DUbptElH4_PIEMO_RANTE.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/piemonte-restaurante-fiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confraria do Crepe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706260715_ec2904b2-190f-42b6-a445-00a0814499a2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/confraria-do-crepe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//KHlxX08SiaOg_ESTAC_IZZA01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/estacao-das-pizzas-campestre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Do Gringo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//6AhywfCqFn4u_XISDOGRINGO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/xis-do-gringo-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Panqueka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011330_c42f64d7-738f-4d5a-a857-2aa370d30a37.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/ki-panqueka-santo-andre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BARGIERI'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Bargieris_BARGIERIS.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bargieris-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galettu´s Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708260922_3dfdb31c-f0a2-4074-b82b-52db6a1aa45c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/galettus-delivery-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Cheese",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231512_57603961-0e62-4093-aba0-a0bf9bc9c919.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/mega-cheese-morro-do-espelho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Galeto E Cia - Sl",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//7a42RUSIVyrP_GALETOECIASL.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/galeto-e-cia---sl-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Diokin Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-diokin_dioki_ivery.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/diokin-sushi-delivery-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Di Trevi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181455_6a09e7cb-75d5-49b9-813e-2562db842db5.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/di-trevi-delivery-fiao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CHINA PLUS COMIDA CHINESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200818_a496199a-8e94-4ef4-8884-437191b16b76.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/china-plus-comida-chinesa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yolo Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251208_3721bb65-6998-43e7-aa4d-194de1970f96.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/yolo-pizza-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheiria King Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221523_e5c56eb5-344f-4340-973c-4bf1d485259d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/lancheiria-king-lanches-vicentina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Chapa Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_nacha_urge01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/na-chapa-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Do Motinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_xisdomotinha.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/xis-do-motinha-scharlau",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707110819_b8640244-7425-4318-b236-9205263101f1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/rei-do-lanche-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bagueteria do Cris",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210837_b68aea06-8c5b-4320-8681-b91387ddbd7a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bagueteria-do-cris-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis Makanudo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211443_986a4689-be0b-4504-9291-f1cb311173e7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/xis-makanudo-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolacha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//gxBANna6vUEf_BOLAC_NCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bolacha-lanches-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kero Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//YmIfNDO2VrQ0_KEROPASTEL.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/kero-pastel-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trupe dos CHEFS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131501_1e70aaa9-70c8-4703-bb5a-72645f271144.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/trupe-dos-chefs-morro-do-espelho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Petru's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031159_7e754163-e4e7-4f75-aea5-47ec16ce0d6f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pizzaria-petrus-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AMC Frango Frito Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131507_f00b5798-6921-446d-a959-cdc689278bba.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/amc-frango-frito-delivery-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boia Boa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707250740_8d05c147-f1f2-4b8d-a08b-f8ed109ae671.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/boia-boa-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churras Drive",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251655_58583c11-8d27-47c5-9e11-2d72453a65c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/churras-drive-padre-reus",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VIRALATA DOG´s and BURG´s",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231103_4c647885-bd9d-4263-bbe8-999c2f053d37.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/viralata-dogs-and-burgs-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DAGUIAR PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021343_7b9b3283-2095-467f-9220-386193358612.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/daguiar-pizzas-arroio-da-manteiga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "K Churrasco Do Lambari",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705061227_c4c3a99a-16ea-4bc9-9140-16ca9bca5abe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/k-churrasco-do-lambari-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sherlock & Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//KaliYymNkIzg_SHERLOCKDOG.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/sherlock--dog-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fábrica das Panquecas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090855_4d5ef88f-66d2-43b6-a098-7054fcdadf8c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/fabrica-das-panquecas-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bonna Pasta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bonna pasta_bonnapasta.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bonna-pasta-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Do Lanche Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221121_f97f3bd3-74a1-4f5d-a35e-d9aabd1079b1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cia-do-lanche-centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero Brasileiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tempero _tempe_leiro.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/tempero-brasileiro-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RAPAKI LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706051449_1274d2f4-909d-461d-9d2c-9b503d8d08d6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/rapaki-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ronin Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704010825_3de56c2b253247b8afd8cb79c727ab56.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/ronin-delivery-morro-do-espelho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cachorrão Lanches - São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//DcvMwKUqI1LR_CACHO_NCHE02.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cachorrao-lanches---sao-leopoldo-morro-do-espelho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria 3726",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/novo_wimpyburguer.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/hamburgueria-3726-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria Shawarma Sanblaster",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251153_4459a35a-ff72-4a1b-b1cd-b6a404e214d4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/lancheria-shawarma-sanblaster-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jeff Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//ZVPCu5etvcL7_JEFFLANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/jeff-lanches-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Qi Temaki",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//1iJCGrmkUHYx_QITEMAKI.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/qi-temaki-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//r8WuYHm2VM6c_CROAS_POLDO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/croasonho-sao-leopoldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "7 Sins Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706151317_e91dd665-2f99-4c17-8e1c-a1358a35401d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/7-sins-pub-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tripizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181159_TRIPIZZA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/tripizza-cristo-rei",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kassius lanches massas delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710011752_3250657e-95f5-4322-b3d7-4141ad3df710.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/kassius-lanches-massas-delivery-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Sensei Deliver",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sensei_temak_liver.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/temakeria-sensei-deliver-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buca Delivery São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//35gIlvkZ6Dmw_BUCAD_POLDO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/buca-delivery-sao-leopoldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Da Nona",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710200826_7028361c-b8b5-478a-82c2-efeebdaaf096.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cantina-da-nona-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pica-Pau Lanches SL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//27YpkS9J1WtK_PICAP_HESSL.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pica-pau-lanches-sl-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lancheria El Shaday",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111051_da083042-12da-4b6d-9387-f721dc0d7d94.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/lancheria-el-shaday-santa-teresa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "restaurante e pizzaria uruguaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241605_0395b7be-af10-44a3-9ed5-2af346075713.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/restaurante-e-pizzaria-uruguaia-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090917_3fe52a54-2db1-4caa-af5d-af11b51f46c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/casa-do-lanche-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sinos Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181537_26c9291d-4123-41a2-a9dc-3b3c9cfd8b4d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/sinos-pizzas-feitoria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LILAS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080918_49299e79-83d8-4b13-b36b-deae7f90db94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/lilas-lanches-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasta Madre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702100716_PASTAMADRE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pasta-madre-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    },
+	    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Italianinho Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//UcoZAeTG9Cpv_ITALI_ZARI03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/italianinho-pizzaria-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Da Panqueca São Leopoldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/casa da panqu_casad_poldo.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/casa-da-panqueca-sao-leopoldo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MatsuKami",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301108_14f3fe8a-29aa-4b81-9ed7-feab9655b4d3.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/matsukami-duque-de-caxias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SIRY CASCUDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271226_a29fb6d7-1efb-4bdc-9f53-edac4fdaea58.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/siry-cascudo-santos-dumont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "- Bodega Bar E Lancheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bodega_bodeg_heria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/--bodega-bar-e-lancheria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alves Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//cErSbzOZTA4K_ALVES_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/alves-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bossa Nova Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//SURefb9Jywl2_BOSSA_RANTE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/bossa-nova-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina da Gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//3C5oz8bqTfOc_CANTI_AGUL01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cantina-da-gula-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CheeseBurgersDelivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708040932_e5b32776-59c8-4ff6-9e8f-e1e29fab129d.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/cheeseburgersdelivery-pinheiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panchito Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-panchito_panch_ivery.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/panchito-delivery-campina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pantanal Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/pantanal-lanches-arroio-da-manteiga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Potatos House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171503_a5739189-2ede-466c-a388-26a7e6bd8e8a.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-leopoldo-rs/potatos-house-rio-branco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO LEOPOLDO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

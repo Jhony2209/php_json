@@ -1,0 +1,814 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Zaza Salgados Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161155_b405573b-e386-4c7f-a745-5d2be2dac21e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/seu-zaza-salgados-artesanais-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Açaí Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706160921_0897665c-fa07-4378-9558-b3b5f3cc8b78.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/top-acai-rio-claro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Milkshake Tropical",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181331_7717b9b0-d86f-4ffb-8d70-f878444e7915.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/acai-milkshake-tropical-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Fazenda & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703112053_PADAR_DACIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/padaria-fazenda--cia-vila-alema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jin Jin Wok - Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310830_42dffd94-773b-4bd9-a24f-130ff4453ff6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/jin-jin-wok---rio-claro-vila-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino's Pizza - Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221248_bbc174b0-33f0-4db7-b870-7556c0edcc16.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/dominos-pizza---rio-claro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181648_9bb41e85-395a-4f4c-b133-25c7b5b66d50.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/china-in-box---rio-claro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Delivery Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301253_c35f9b5a-f57c-4ad6-938c-063363d868b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/acai-delivery-rio-claro-vila-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinhos Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161007_0671a118-5c25-4eca-9955-57fff2cd4d7f.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/espetinhos-rio-claro-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hioto Culinária Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211115_f4379481-ee08-4816-a1e8-a43437efc264.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/hioto-culinaria-japonesa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Johnnys Burguer Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051311_3bea9312-dcf6-45a2-8c14-37738c1bc685.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/johnnys-burguer-gourmet-conjunto-residencial-vila-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchao & Cia - Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO_LANCH_CLAR01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/lanchao--cia---rio-claro-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Tertulio's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241531_d0244fe0-4524-4a7f-bbe9-018fc4841bfb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/restaurante-tertulios-jardim-parque-residencial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotisserie Bom Gosto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711240848_70616c26-2248-44b9-8188-526dbb0ef648.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/rotisserie-bom-gosto-estadio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Suprema Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121358_f6c2bc0e-c2e3-4d23-a922-14d96d4acf0c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/suprema-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Velho Gaucho Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211134_f39c8166-c76e-4ae4-b3dc-37b54f2693dc.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/velho-gaucho-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Torre da Pizza Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311338_dd2c151b-d852-4dd5-8939-11d9018101b7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/torre-da-pizza-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Clã da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091459_fb76bbfd-5aa3-4b29-b4f7-7992891493d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/o-cla-da-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fajita do Maha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160610_64c2f331-e1b8-487b-a6af-13911af63756.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/fajita-do-maha-consolacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310815_da398074-6c72-414a-870e-78b04e3dbbb3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/skina-lanches-vila-alema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante China Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091236_a7176bd0-2fa1-481d-ab8d-397c93b01c88.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/restaurante-china-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Tapioca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231628_2b864f6a-c90d-4475-a0f1-ad72c0349d0b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/a-tapioca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Velho Gaúcho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041031_320ac399-22a4-41d5-9780-5a140b3424de.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/velho-gaucho-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Rei das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708070825_7bc31eea-7382-41d5-9006-92009d987c59.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/o-rei-das-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Ueti II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020827_e0ba5b54-fa6a-4ba4-9915-b97aa3ae3df2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/lanches-ueti-ii-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Angela Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091324_4fd38b1a-efed-4861-849d-006687bfaab0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/angela-lanches-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "T-Maki Restaurante Japonês",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231038_912c4924-8f98-442c-8071-34c8276d5e43.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/t-maki-restaurante-japones-vila-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MOLEQUE MINI SALGADOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161453_55d9aff2-a39f-4d44-a993-24c946d3a183.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/moleque-mini-salgados-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Marvados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120834_d7ea23a6-a916-4053-bcd8-071504aaba3a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/villa-marvados-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Retro Burguer Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709182043_5097a1f9-09fa-45fb-8610-a1502e49857e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/villa-retro-burguer-bar-jardim-inocoop",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271022_78063072-bf12-4e4c-af97-530a0b006399.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/dona-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Makis Place - Rio Claro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-makis-gd_makis_claro.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/makis-place---rio-claro-jardim-claret",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Bella Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705040907_79f2575c-998d-4d8d-a47f-445a23369555.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/pizza-bella-pizzaria-vila-do-radio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Reino Gastrobar e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030845_12d0f2a0-4d99-42a0-9fe5-a5db12bde523.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/reino-gastrobar-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Franchicken Frango frito no balde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707211134_eb7ad4a4-8cf4-4991-b502-798245851ecd.png",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/franchicken-frango-frito-no-balde-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rangute Restaurante e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705181148_96a01640-ec7c-44f9-9442-eb7c5158498a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/rangute-restaurante-e-hamburgueria-jardim-donangela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donna Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705292022_2d27153b-5a59-4639-a7c3-345e61cbf697.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/donna-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706240953_e1dda757-997c-4e93-8b94-6a5a78493d79.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/villa-burger-vila-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Game",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281401_9a213758-0f0a-4bda-b65d-accfc82b9557.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/pizza-game-jardim-claret",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tropicaldo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706131205_fcf88ab4-4ab2-434d-be6e-73683e8cd1d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/tropicaldo-jardim-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Varanda Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241230_398e8f07-9fbf-4aac-b945-a2db88c9a1c3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/varanda-pizzaria-jardim-inocoop",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maurão Lanches - Hamburgueria e Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291359_9515465c-3d11-4466-b79e-0b6770abf843.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/maurao-lanches---hamburgueria-e-cia-vila-alema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushi Food - By Má Prado",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705291240_8e7f7d3c-8114-45bd-9314-e0c41d2dc023.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/sushi-food---by-ma-prado-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churros Kalelê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706081128_20262419-8ba4-4538-9b6f-cd6a73d7d3ef.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/churros-kalele-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A TORRE DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281312_7c3b4f14-2686-49c3-ad27-85f489193514.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/a-torre-da-pizza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Scooby-Doo Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709260828_01e6cc30-a7a4-4065-878a-137164795cc7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/scooby-doo-lanches-vila-aparecida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Deira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050840_ed9c71ee-26ca-4622-ab4c-93b72717dda5.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/acai-deira-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Tarantella",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011100_8e8f125d-3ecb-4561-8955-e1ec66748ccc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/pizzaria-tarantella-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saboritto Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281137_7dcfc196-ba26-4db9-9aa7-bbe5abbd6c59.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/saboritto-burger-jardim-panorama",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Munn Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150843_bcdc5a74-652e-43ef-8d46-f102cc40841c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/munn-burger-jardim-claret",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don'Ana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230920_0e47821e-2bc4-4b38-b64e-1eca330da4e8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/rio-claro-sp/donana-saude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIO CLARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,989 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181638_7a428b5c-92c9-4bb8-8bd3-fbe848de0dfd.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/china-in-box---americana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101620_1a0e051f-71e1-4d7b-83bf-49125588c63b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/cantinho-da-parmegiana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Horgano - Salada no pote",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221648_b9c95157-27ae-416c-832a-dfd8a83c9211.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/horgano---salada-no-pote-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix Potato de Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181601_9a9b8eac-b053-437a-b183-c8e6beb47b10.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/mix-potato-de-americana-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Valmarti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181657_43abb7f2-2900-4cda-a525-fe945a016dbc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/restaurante-valmarti-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Naturallis - Delivery Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5b5b7f6a810aa_NATUR_URAIS.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/naturallis---delivery-saudavel-jardim-mirandola",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domo Marmitaria Japonesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291451_c0396e29-09b3-42f8-bc4f-81be7fe48517.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/domo-marmitaria-japonesa-vila-medon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massas Da Nonna",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/99fd8f62-0662-4f94-affc-77b1ec0d22de/201711061944_logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/massas-da-nonna-parque-nova-carioba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Restaurante do Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/barerest_barer_neiro.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/bar-e-restaurante-do-mineiro-jardim-sao-domingos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bertine Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710240957_21625e81-2141-48f7-8f46-c2a1971bdd55.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/bertine-refeicoes-vila-belvedere",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Roxa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141520_8ab223c2-6ce6-46e9-acd2-49260e0fa397.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/villa-roxa-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOMINOS PIZZA - Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221243_2a76cbfa-58c7-46ac-bf87-af7deba0df98.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/dominos-pizza---americana-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211422_376d4ece-2c22-4a89-bc1a-be718736e58d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/cantinho-do-acai-vila-belvedere",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dr. Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712180856_8417d6cd-80bc-4cec-ac8a-c7571ab16e5c.JPG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/dr-batata-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Edem plus pista de skate",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290935_031120c7-8b50-4608-895f-8fac7e967a8e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/edem-plus-pista-de-skate-parque-residencial-nardini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Augustos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111245_c97829d2-98e5-4250-aacc-15c4c260314b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-augustos-sao-manoel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Caselatto - Iate Clube",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111301_a5e87c8a-929b-4119-b7d0-034b25f67946.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-caselatto---iate-clube-iate-clube-de-americana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Don Mizon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181204_4367d5b7-dc52-49e9-9285-5120ca219c39.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-don-mizon-vila-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Primos Marmitaria Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141216_e6afe230-58eb-440f-8ebb-d57e6460af4d.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/primos-marmitaria-esfiharia-sao-manoel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Nações",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280820_fe1a3098-52b9-4e99-804f-70e37584651d.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/restaurante-nacoes-parque-das-nacoes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABOR D'ITALIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061717_72a63952-df7a-4e0d-be37-18cc61c3f1af.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/sabor-ditalia-vila-pavan",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pizzi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211022_7447cac8-235a-4fa8-b69a-ed44e8e5eb1b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/don-pizzi-jardim-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191038_6c6e9bcf-655f-4837-8627-cac170c72b02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/acai-brasil-jardim-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Castelli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130734_1da186d9-b196-4db7-ad34-7610ae9f8973.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-castelli-jardim-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Pedro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703240922_be9d4b89d215484da4e2566f431df02e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-dom-pedro-conserva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spartan Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291524_f8032ac7-5526-4aa3-b80e-3b5dab39440f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/spartan-food-vila-pavan",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Olivier Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031025_8f5165e7-7cd7-4916-9623-a74ff489f219.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/olivier-pizzaria-parque-nova-carioba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BlackLab Sandwish Shop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161230_f023b87c-1f79-4ce4-b140-9b52195b3bc4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/blacklab-sandwish-shop-cidade-jardim-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Verace Pizzaria e Sucaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706031125_63cb07d9-a805-4e4d-8ce0-2a358064a785.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/verace-pizzaria-e-sucaria-vila-pavan",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXPRESSO DOG DOGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191054_d1a9c62b-3b19-4314-b73f-1a7af641a7b9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/expresso-dog-dogueria-vila-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ramos Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_ic_pizza_icana.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-ramos-americana-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taishi Culinária Oriental",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/taishi-culinaria-oriental-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger. Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191251_6f03fa2d-62e7-4be8-b95f-1edc87b68a8c.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/burger-americana-jardim-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante D Gusto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705170820_bdd37073-5075-4f3c-8c52-9c83f83a439b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/restaurante-d-gusto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mad Hoagies",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061626_15d258ff-6179-4ca4-9ade-7812086b8faa.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/mad-hoagies-conserva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REI DO SALGADO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301137_eee70520-9f4e-4965-a603-df83ec5afae7.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/rei-do-salgado-vila-amorim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALL STAR BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/allst_urger_allst_urger.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/all-star-burger-campo-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Brasil Iii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703221136_f19a5fd3e1674212a61a94ec44d1084c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-brasil-iii-vila-amorim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa di Napoli Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141645_dd796fd3-5ae4-448c-8ef1-86ad3c9f869b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/casa-di-napoli-pizzaria-vila-israel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301052_e285abaa-8802-466c-917a-de42627ed36d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/skina-lanches-parque-residencial-jaguari",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mamma Mia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702040722_PIZZA_MAMI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-mamma-mia-vila-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NENE BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709031814_2a30c4a3-27dd-419d-b1db-8ee28a82ab5f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/nene-burger-parque-nova-carioba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Major Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031303_d7cf3442-360a-4cae-9601-f42babcda416.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/major-burger-vila-rehder",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Soul Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707130900_96036ee8-374a-4b5c-9b0c-f60a65374b52.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/soul-burger-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nei lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201905_255fa870-8658-4b4d-88fe-353665ea698d.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/nei-lanches-jardim-sao-paulo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TIA SO MINI DELICIAS - AMERICANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071504_ce6e939a-d89f-4c7b-a9d7-0cf41647b889.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/tia-so-mini-delicias---americana-jardim-gloria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamutt Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703291304_2fafa62d960b4755a26f9e53b9c8ac7d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/mamutt-burgers-vila-louricilda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fly Burgers Americana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_fly_ifoo_flyburgers.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/fly-burgers-americana-vila-israel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Da Esfiha Cillo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703312250_d865ae046139414db5bd9b0ddd9a83ba.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/ponto-da-esfiha-cillo-cidade-jardim-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DELICIAS DO ACAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705260843_6d193e84-d912-4123-a7e7-d629f247cf36.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/delicias-do-acai-vila-molon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carol Coxinhas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241635_a72e14ef-b379-48c1-a2e4-c7c94ae4a17d.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/carol-coxinhas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria O Casarão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041505_f913dda4-b737-4ceb-bf0a-d10519a55011.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-o-casarao-jardim-gloria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lets Eat Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lets eat_LETSE_UERIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/lets-eat-hamburgueria-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vila Premium Steakhouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121433_7695bbd6-cab1-43e8-9ead-ce4221c26b50.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/vila-premium-steakhouse-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giorno Benedetto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_giorn_detto.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/giorno-benedetto-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kyoto Exclusive Japanese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/kyoto logo_kyoto_efood.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/kyoto-exclusive-japanese-food-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Da Esfiha Iacanga",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702210832_PONTO_CANGA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/ponto-da-esfiha-iacanga-vila-molon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Betel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111728_b048ae19-da04-49c7-b6d4-6b411e27023d.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/restaurante-betel-jardim-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "House Burgs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702240822_HOUSEBURGS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/house-burgs-conserva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buns Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180618_5e91c444-db01-4972-990b-c7462f8913a3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/buns-hamburgueria-vila-santa-catarina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Copacabana Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704280841_60b1aa8b-b0e4-4803-be6d-d5a556b7c4d3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/copacabana-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mikelly",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mikeli_pizza_kelly.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/americana-sp/pizzaria-mikelly-jardim-girassol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMERICANA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

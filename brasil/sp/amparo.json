@@ -1,0 +1,31 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporium Gelatus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201514_719fa2e7-0be2-43e3-8baa-0bbfd3dd7cc5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/amparo-sp/emporium-gelatus-ribeirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMPARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "1 Garagem + 1 Cozinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711030914_3876f479-d93a-4ef1-b5d9-d9dd2772528d.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/amparo-sp/1-garagem--1-cozinha-jardim-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AMPARO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

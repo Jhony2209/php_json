@@ -1,0 +1,367 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lig-Lig Assis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261429_28b18b59-b3ff-4c03-bdb2-a7bed3bab3e1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/lig-lig-assis-vila-brasileira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom apetite",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061413_8f70833e-4746-487b-89d7-fcc55648886d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/dom-apetite-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Potebom Saladeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051104_ce16a5c9-8357-4075-8356-49d406fc32f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/potebom-saladeria-vila-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cedro Do Libano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707310916_03a54ff1-48ca-4916-b5c0-4a66158d6d90.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/cedro-do-libano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delifun",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050948_ae9e996f-626d-48b1-8003-81f27174da29.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/delifun-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinho Do Fabinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241700_66f55525-64d7-4c36-b1e1-95a7fb3dfcc9.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/espetinho-do-fabinho-vila-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Gastro Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191531_02d02478-b778-47eb-849b-e3f74cf904f1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/the-gastro-burger-vila-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARMITEX DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709150956_f3d09861-d114-4e5c-a6f7-662b947ca536.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/marmitex-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "511 Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707041051_921591f8-db15-4fa5-a4f6-5b7cac3f427c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/511-pizzaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornalha Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710132017_3f98fdbf-61ac-4005-9629-8a468a831d04.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/fornalha-pizzaria-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal da Tomy - Culinária Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291526_807c87c9-4fb7-4030-b00e-7c4e3f4b4fe7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/quintal-da-tomy---culinaria-saudavel-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frangu's Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201631_9cde447e-f046-4c9c-baef-902f70ba0f18.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/frangus-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Dog",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081420_855cfa69-141e-41a3-a69d-cd46adec7ce8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/dom-dog-vila-ebenezer",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gregory Burger e Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050726_67eb2604-9d76-4f8c-acb0-1c5bffd007b7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/gregory-burger-e-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santo Bacon Burguer 'N' Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702131318_SANTO_RNBAR.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/santo-bacon-burguer-n-bar-vila-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dib Mania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051150_02972234-358f-4c5c-b980-b93eab82d257.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/dib-mania-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mordidela Assis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020930_981718f7-7e4c-4620-9bcb-430f014d651b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/mordidela-assis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D´Italia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071108_2ab29978-2f60-4cff-991d-3eb171128072.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/pizzaria-ditalia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Yakissobox",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707050930_6496001c-4773-4b3b-b95a-082fe666d3bb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/yakissobox-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011340_e5781dae-778b-4f01-825b-ba9a364d0e4a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/mega-lanches-vila-fabiano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Avalanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709292002_f02223e3-aaa5-4383-9236-1d93e93f83b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/lanchonete-avalanche-vila-ouro-verde",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bobinho Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707121233_295cd5a8-475d-47f3-88b5-09ccaf58ffa0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/bobinho-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria e Pizzaria Costela de Assis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081358_cbdfaaa5-96fb-4325-81b4-6ce0a914a752.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/assis-sp/churrascaria-e-pizzaria-costela-de-assis-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ASSIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

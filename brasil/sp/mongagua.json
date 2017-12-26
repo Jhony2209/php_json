@@ -1,0 +1,15 @@
+   [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinhos KB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711081320_f06dce74-24e5-4541-9314-619d9dd4bbd7.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/mongagua-sp/espetinhos-kb-vila-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MONGAGUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

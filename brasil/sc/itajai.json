@@ -1,0 +1,1245 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery - Itajai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200052_3b0e7eb6-d4a5-4c55-a529-71832df9b95c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/brasileirinho-delivery---itajai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Itajaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181642_ccfde101-a5bb-471d-927d-44f91abc8442.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/china-in-box---itajai-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parada do açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141046_60204575-d3a4-477b-b720-48001ee7f7d8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/parada-do-acai-ressacada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taverna’s Burger House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_TAVER_HOUSE.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/tavernas-burger-house-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021421_8c58b9dc-a8e1-4bc3-a94e-ea1e8246d7b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/dom-natural-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sagas food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251515_ad3b0d47-80f7-4ebb-a4d8-54d1e2aa1856.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/sagas-food-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Familia Real Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211149_f9617f5c-86bb-4cb3-a6ae-783ceba0a5e7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/familia-real-gourmet-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho dos pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061233_531a4c41-7f26-469a-88cd-b91875753289.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/cantinho-dos-pasteis-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capitão Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131329_5568fd19-2a18-48b3-b79d-f3de14b09657.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/capitao-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caprezii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221624_9c0fc07b-ddc4-4ac1-8f7a-08e29ed65674.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/caprezii-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOM GELLATO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090745_6b7f0c22-0261-4f1d-809e-af6dcde7fe00.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/dom-gellato-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deu Fome Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710290839_509252c8-8cf8-4f81-9242-dd835f223de6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/deu-fome-delivery-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eficacia açaí e lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161707_22f6dc1d-68e7-4599-89b1-62502baeae0f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/eficacia-acai-e-lanches-dom-bosco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frutta Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230957_6701f0f3-0079-4f23-8d0b-de009c31f036.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/frutta-delivery-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JARDIM SAGRADO RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071040_de9cdebb-2b7f-4afc-8234-1b1aa0a238fc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Mediterrânea",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/jardim-sagrado-restaurante-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Miss.Burguer Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251013_31a0b31f-3022-4afc-bd73-d75199faeaed.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/missburguer-delivery-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paula Estação do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200710_fcdfe7e6-995c-42c6-9829-00bf29fb68e6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/paula-estacao-do-sabor-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria A Favorita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131015_6005c6de-3783-4ef7-836a-6a9eeae99915.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/pizzaria-a-favorita-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rib's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191413_0a97af0b-3881-4a2c-a579-159d08482344.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/ribs-burguer-vila-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabrozo restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301100_3e9415b2-f8ea-4ba5-a9fb-fe98bb446c76.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/sabrozo-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Batatinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071323_e9aabbe9-b0e9-4b74-89af-126aa3ed5721.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/santa-batatinha-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Soleil Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712150730_72cf61d5-4596-4858-82e0-43bb505fe175.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/soleil-pizza-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Hot Dog em Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261744_63638657-412f-48ca-a5c4-bc36946af178.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/super-hot-dog-em-casa-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUBWAY ITAJAÍ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291006_653b7416-d094-44e0-bf71-d99425e08e91.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/subway-itajai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Invasão Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251354_342b1c45-377f-4a7c-93d0-0dc797c330f6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/invasao-burguer-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal Catarina Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271626_4080b2fe-0ebc-45a9-9ca7-57d90ceaf157.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/quintal-catarina-cafe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hot Dog Benassi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_hotdo_nassi.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/hot-dog-benassi-dom-bosco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Apetite Comidas Tipicas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251808_af59ca56-b5bf-435e-ad87-f74b972f0e90.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/bom-apetite-comidas-tipicas-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bauru Na Caixinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_bauru_xinh01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/bauru-na-caixinha-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bidusky Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_bidus_nches.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/bidusky-lanches-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fome Zero Lanches e Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171147_855243dc-e2a9-4239-a92e-c7c84ff0cd3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/fome-zero-lanches-e-porcoes-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Play Off Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709171649_0fa9c8cf-d9a3-4d8e-9209-beaf2d8f061c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/play-off-pizzaria-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Goveg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041508_f9bf70d6-d8c9-404b-a87c-871a30cc4b62.png",
+        "priceRange": "$$",
+        "servesCuisine": "Vegetariana           ",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/goveg-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SESTO SENSO PIZZA BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261300_6bb5783b-7cbf-4af9-a5ca-1fe50df56307.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/sesto-senso-pizza-bar-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Geisha House Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261423_898d3d7f-c6a5-4c8e-93ef-7f81e6db0a4d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/geisha-house-sushi-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brava Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bravasushi.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/brava-sushi-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARUJOS BURGUER GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031230_7ffe5cbb-a9ee-43bb-9203-0466a1a3cd60.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/marujos-burguer-gourmet-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperio Do Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081058_2f432154-df5a-4bca-b974-8630b4580352.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/imperio-do-sushi-delivery-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fornão Da Familia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_forna_milia.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/fornao-da-familia-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D´LUCA HAMBURGUERIA GOUMERT",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050818_4bd21d4d-c181-4f38-9686-2a8af34b697a.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/dluca-hamburgueria-goumert-itaipava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rocco Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120908_6c8ed7a8-46a6-45b3-8a54-9b19177b88a7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/rocco-batata-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "África Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021214_65d7877e-2226-4ba3-b682-2d58f8cb136d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/africa-pub-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "604 Lanches e Pizzas - Itajaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712161424_5ac17c9a-0167-4cce-ba6c-1accd7a26b56.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/604-lanches-e-pizzas---itajai-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Black Sheep Gastrobar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051004_f45a9ae2-91dc-4fab-b67a-2a5c3c3bd152.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/black-sheep-gastrobar-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Prime - Itajaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200201_45c59136-4a0e-483e-b7af-05e42fa986eb.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/pizza-prime---itajai-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tudo Em Pizza E Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tudoe_steis.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/tudo-em-pizza-e-pasteis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PORTAL DO SOL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281138_d96a5c75-75da-4b4d-addc-0a4c297fa4a5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/portal-do-sol-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forno D' Lenha Pizza Deck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ifood_forno_adeck.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/forno-d-lenha-pizza-deck-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mamma Mia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707191422_4efce26d-30f8-4a47-8f9f-0aa4fc4a1a45.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/pizzaria-mamma-mia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Pizza Gigante Itajaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_super_tajai.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/super-pizza-gigante-itajai-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flambô Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_flamboburger.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/flambo-burger-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "General Pepper - Itajaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_gener_tajai.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/general-pepper---itajai-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguelícia Lanches E Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo burgueli_burgu_rcoes.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/burguelicia-lanches-e-porcoes-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spicy food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031211_3d6f6a46-240d-4436-8cbd-070fcf1344d3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/spicy-food-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESKONDIDINHO DECK FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290951_37277738-0979-4597-bafb-7757cd75a55e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/eskondidinho-deck-food-espinheiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Burg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101134_944507d7-e74c-464c-ad9b-8d2e06683d98.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/mega-burg-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Valhalla Beer Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080929_beb8b79d-4e34-4d5a-9338-f87a5500c89e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/valhalla-beer-burguer-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delícias do Oeste Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/delicias_DELIC_MITEX.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/delicias-do-oeste-marmitex-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (3)_divin_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/divino-lanches-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atelier da Gula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711070942_8f756a68-c8ca-49a4-aa1a-bb7d5a714c30.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/atelier-da-gula-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mana Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101143_80d9008b-7286-4260-a13f-de441072010d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/mana-lanches-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xande Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111207_b17c629abda64b938a12045346d82e0a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/xande-lanches-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sukhothai Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sukho_sushi.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/sukhothai-sushi-vila-operaria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Corleone - Itajaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041502_f474f214-06fb-41af-b42b-4f057d364422.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/don-corleone---itajai-fazenda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bambu Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ee331827-caf9-48d0-b0e2-ee4faec2fa61/201712190031_18981.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/bambu-lanches-dom-bosco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mi Lig Sushi Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mi lig_milig_rguer.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/mi-lig-sushi-burguer-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Restaurante Maroto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271200_3a252e32-a273-4ab6-8323-b5cc613ffc23.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/pizzaria-e-restaurante-maroto-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eat Fit Alimentação Saudável",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fit_eatfi_davel.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/eat-fit-alimentacao-saudavel-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Gourmet Pastéis Com Borda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071208_d10f18b3-6625-4ba7-bcac-5dbc0178ffe4.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/o-gourmet-pasteis-com-borda-cordeiros",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CIA DAS PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241415_8d8df72d-5148-45bb-a99a-df115889086d.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/cia-das-pizzas-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Suelo Tex-Mex Cocina Bc",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707200856_46289c2a-4798-49d2-be89-0ceaf674a298.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/el-suelo-tex-mex-cocina-bc-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Delivery - Itajai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220954_e4ec6039-89bb-459b-b631-3eb22fc2050b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/marmitex-delivery---itajai-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Iêmen Café & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130927_48f4d687-df85-472b-a4f7-6480df426905.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/iemen-cafe--restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Koapo Burger and Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_koapo_dbeer.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/koapo-burger-and-beer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Altas Horas Lanchonete e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (4)_altas_zari02.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/altas-horas-lanchonete-e-pizzaria-cidade-nova",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Best BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241424_f5d2a278-63c6-4f26-a044-4b9fb92dc748.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/the-best-burger-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Mexicano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_donmexicano.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/don-mexicano-praia-brava",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Funcyonall Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251540_55c79b89-0b5a-4d22-8f33-a14c08ebcea1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/itajai-sc/funcyonall-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITAJAI",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

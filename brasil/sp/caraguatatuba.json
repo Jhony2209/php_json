@@ -1,0 +1,287 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arataka Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111329_1ad0ade8-7653-4114-ad48-0d772abaf4e7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/arataka-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Beira Mar Bar e Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090802_06401e61-9a70-405f-8781-b6a6a79c3ccb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/beira-mar-bar-e-lanchonete-indaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deck12 Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121356_cc474c7f-1bbe-4509-bc43-3fdc493ea0c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/deck12-hamburgueria-caputera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FomeZero Caraguá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181435_0353147e-5ef1-4fc5-aa41-3a024b96713c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/fomezero-caragua-morro-do-algodao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Imperador Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161355_d8a31f04-3f6f-4abc-9910-08104ad3a544.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/imperador-pizzaria-tinga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JapaPizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111222_26dc1382-f2e9-4ad5-8b5e-dfa83b9880ab.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/japapizza-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mamutis Pizzaria e Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711192141_81615ac5-72b7-455b-ab7a-f938084901ff.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/mamutis-pizzaria-e-esfiharia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Jhonny´s",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211406_d6b5327e-04bf-4851-bc3e-97e664fc7c81.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/mc-jhonnys-indaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panda Wok Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181621_1a45f707-3e69-4356-a44d-f9f61fd6f8c9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/panda-wok-delivery-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Burger House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191311_2c88c932-76ee-432e-858a-c29060b87807.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/the-burger-house-indaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza La Viero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703171207_PIZZALAVIERO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/pizza-la-viero-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria e conf. Bom Pão de Caraguá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291314_2da39caf-4228-46d4-b004-15529767c050.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/padaria-e-conf-bom-pao-de-caragua-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Restaurante Do Neno",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704030823_4f833933fd6b45a4941738dd035e12a3.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/pizzaria-e-restaurante-do-neno-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Siciliana Caraguatatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051051_5b844432-2d03-425c-a96b-4ee7b41d9b5e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/pizzaria-siciliana-caraguatatuba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ideal Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140928_7db0dc51-ed62-4abe-a88a-7cc519a687ac.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/ideal-pizzaria-travessao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Acaí Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281036_97988cea-27fb-4ae0-8150-3ec1bef51aa1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/acai-cafe-indaia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salua Esfihas Caraguatatuba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo_saluá_atuba.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/salua-esfihas-caraguatatuba-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seiko Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710210938_6c70822c-845a-4e58-bdca-001e70f21b93.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/caraguatatuba-sp/seiko-sushi-delivery-massaguacu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CARAGUATATUBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

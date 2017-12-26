@@ -1,0 +1,2267 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IPHOME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712031145_8305f1d1-e435-4912-b490-d5d59dd5c159.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/iphome-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Esquina Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091107_152026b3-1cbd-4893-8a4e-0a9f9f4e1b7e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/nova-esquina-bar-e-restaurante-vila-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patroni Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/patroni_PATRONIPIZ11.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/patroni-pizza-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rostead Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281749_72ef7dc8-eae2-4fda-936a-e93f3a42ad6e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/rostead-potato-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapiocaria Ebony",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712071110_18f9ceea-f791-4eec-8422-79292211b70d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/tapiocaria-ebony-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "comida caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280740_a8a32fe7-54a3-42ad-8813-d6443e73ea75.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/comida-caseira-balneario-japura",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Virô Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logonova-dom-_novad_adema.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/viro-restaurante-e-pizzaria-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Praia Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291026_04af9434-fe6a-4ad7-88e5-f021a17f9f68.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/subway-praia-grande-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pastelaria tanaka",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011326_e900616e-bc88-466d-ac12-a9e1f94552a1.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pastelaria-tanaka-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Arcanjo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291132_9512e48d-9034-47b2-9ac9-9e1c1a417a9e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/emporio-arcanjo-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Torre Bar, Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020814_dd31c415-8bb0-4416-b3a2-0df28b401eb1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/la-torre-bar-restaurante-e-pizzaria-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabores Da Carne",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/carnes_sabor_carne.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sabores-da-carne-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOM GOSTO GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708021135_71fbe0e8-7190-48b1-aad3-3078418c38b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/bom-gosto-gourmet-jardim-anhanguera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tempero De Familia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701260756_TEMPE_MILI03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/tempero-de-familia-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante sarafas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161045_3337aeb8-a6c7-4466-bca6-d1bd974d65e1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-sarafas-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Lisboa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031214_7fb8a3e4-b3d8-49ab-8afe-c98b6ea33495.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-e-pizzaria-lisboa-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABORES DO MAR - PRAIA GRANDE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121415_47d927b6-bc1f-4d44-9f76-95646eba694c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sabores-do-mar---praia-grande-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery- Praia Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200016_b67acc52-56c6-4946-9fa7-1d68c367bad9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/brasileirinho-delivery--praia-grande-vila-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Praia Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181628_2b2df288-b4c4-4e1f-b0b7-0c139d8f18f2.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/china-in-box---praia-grande-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Hut - Praia Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707280853_199d5cc9-62a3-4b06-bbdf-cb541fd65b6d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizza-hut---praia-grande-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ALI BABA - Fast Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290738_300a440a-6a2e-4aed-9efb-1c3be6fe4ef4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/ali-baba---fast-food-agenor-de-campos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confeitaria D' Aninha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231756_324b1f90-8530-405c-a8b7-d605a6d823ae.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/confeitaria-d-aninha-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delicias da Vovó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131459_69f24af8-5654-4c2c-b2a1-4bd34fab2191.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/delicias-da-vovo-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Mamma Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712181708_b654a7bd-5648-448b-9fd8-68beb7878523.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/la-mamma-pizzaria-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mania Barcas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141317_66cd134c-6262-4790-92b0-d70899e4b909.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mania-barcas-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex e Lanchonete Santana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041315_a3639cef-bbcc-4538-bddb-b757adce9f09.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/marmitex-e-lanchonete-santana-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Menu Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061124_cd131f95-6961-48f3-aa50-a8333942ead2.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/menu-grill-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Na Barca Dog & Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231821_a2649b72-e5d1-4ce0-8a96-6622d333ebb4.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/na-barca-dog--burger-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PARADA OBRIGATÓRIA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231203_63411102-0e76-49a0-a02d-b96db2480730.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/parada-obrigatoria-lanches-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Per Tutti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221152_13f9aec8-1276-4a69-bc71-86e306b79eba.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/per-tutti-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Dos Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291648_a90115e1-d063-459f-b4ed-694866f1f9dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/rei-dos-lanches-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Crocante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040749_f1077b99-83ac-4b8a-8be1-f5cc32406e26.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-crocante-vila-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor a mais lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211310_c112b581-86c3-433f-b325-4a1e3afec648.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sabor-a-mais-lanches-jardim-trevo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tássia Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290943_9bb52c4c-0271-4b78-9126-f9b5cdd5ce64.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/tassia-gourmet-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Malibu Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161130_MALIBUFOOD.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/malibu-food-vila-antartica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doutor Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/545030d7-f6f0-48e9-9313-264a151fdd39/201710142021_parme.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/doutor-parmegiana-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fukuhara San - Praia Grande",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704031123_35fd2e080a4a427c9033ddf01bf2e069.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/fukuhara-san---praia-grande-vila-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Home Food Panquecas & Burgers Artesanais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241228_835dc61d-9238-40e3-8623-088fcca1df55.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/home-food-panquecas--burgers-artesanais-jardim-quietude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gama Caseirinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/28fcb542-a113-4a63-a1a8-8d209af19ae4/201711012240_gamal.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/gama-caseirinho-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fogarelly",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (6)_pizza_rell02.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-fogarelly-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nebbiolo pizza e vinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091324_685a55f9-53e1-44d2-82d6-a0587e37ac85.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/nebbiolo-pizza-e-vinho-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Hot Dog E Lanches Prensados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8e453ac3-ed88-487e-ba5f-73426fd22fa9/201712190933_natal.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/cantinho-hot-dog-e-lanches-prensados-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Tre Duarte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271826_PIZZA_UART02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-tre-duarte-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Oficina Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ofica_ofici_pizz02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/oficina-da-pizza-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ocian II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060921_e46c9ab4-99c7-4f56-94a0-51d3035d9b8b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-ocian-ii-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panda Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702101515_PANDABURGUER.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/panda-burguer-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Jaú",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231441_969a3342-ba60-43ea-a8dd-aebb55240b2c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/cantinho-da-jau-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quintal De Casa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301113_QUINT_ECASA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/quintal-de-casa-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Di Pasta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201011_VILLADIPASTA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/villa-di-pasta-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sal Rosa LTDA ME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251542_ad436318-819d-44c4-82cb-d63b0a8b48d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-sal-rosa-ltda-me-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sherlock Dog-Vila Guilhermina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_sherl_rmina.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sherlock-dog-vila-guilhermina-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ster lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311240_14c6f128-92d0-4acd-a983-4a06dff75749.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/ster-lanches-jardim-guaramar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Raffanini pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171249_741ca0d8-222f-4ade-a80c-52e2ed66d795.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/raffanini-pizzaria-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Woden Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710260744_35f76db5-cd25-4901-9836-869ace677e72.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/woden-burguer-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fujiyama Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fujiyama_fujiy_laria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/fujiyama-pastelaria-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZAS NANDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizzasnando.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzas-nando-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O REI DA CALABREZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711121317_b80c24f1-7ae8-42ba-a9de-7aa67b1281f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/o-rei-da-calabreza-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Gama Pizzaria e Frutos do mar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707091605_6995f42b-3bc1-4a22-a69f-54c28d2ce7af.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/dom-gama-pizzaria-e-frutos-do-mar-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patinha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_patin_nche01.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/patinha-lanches-vila-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Sabor Express_TEMAK_NOMIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sabor-express-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Family Açaí e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061754_d4443fa4-d28e-481b-ad41-fe3cc44ca79f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/family-acai-e-lanches-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panquecas Tania Maris",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/panquecas_panqu_maris.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/panquecas-tania-maris-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Feijão Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709120728_10a19f5a-a323-44e6-a309-d38bffdc83cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/feijao-brasil-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Rio Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704181624_b5c5e3d5-15d7-4cf0-922b-e588fe900840.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-rio-branco-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tubarão da Praia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231042_94d08b21-576e-4968-977a-51dbd46bd88d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/tubarao-da-praia-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken Point - Point Do Frango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (7)_churr_int66.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/chicken-point---point-do-frango-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rm Pizzas 3",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704120858_e3122df37866461a960dfe38c71e33a2.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/rm-pizzas-3-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choperia e Pizzaria e Grill Point 66",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_chopp_int66.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/choperia-e-pizzaria-e-grill-point-66-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esfiharia Dubai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708080757_914acc5c-7e0c-43ba-825a-7c620c42fd12.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/esfiharia-dubai-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BOMGOSTO COZINHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181458_bab3379d-5285-4893-a299-fd6509814911.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/bomgosto-cozinha-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Churras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710290917_b10d073a-bdde-4c05-81f2-c6f6e2b4c076.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/seu-churras-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Meg",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_resta_temeg.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-meg-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Iupy Sushi Bar & Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251703_45cfbc7b-8a67-45d3-97c3-f0e66736f4d9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/iupy-sushi-bar--temakeria-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Michelangelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171335_ce62e366-2f61-4c61-a258-7c1b6f4f100b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-michelangelo-vila-tupiry",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mix massas e tapiocas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161008_22f41ffc-6103-4044-bc18-7ab93fe7b0c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mix-massas-e-tapiocas-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mk Pizzaria E Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/mk_mkpiz_haria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mk-pizzaria-e-esfiharia-vila-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Samurai Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo samurai_samur_rguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/samurai-burguer-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "São Pedro Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708011952_2d91349d-fd22-4f74-ab8c-e753edc90761.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sao-pedro-restaurante-e-pizzaria-solemar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Planet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703251112_b0bb5bf13f4e4217a4772e5c6249b9e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizza-planet-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Buteco da Jô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705250928_3986d386-40b0-407a-b43a-459e24e46910.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/buteco-da-jo-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Integral",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (5)_sabor_egral.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sabor-integral-vila-antartica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORTE DA BATATA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201236_FORTE_ATATA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/forte-da-batata-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Artesanalle Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701200745_ARTES_UERI01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/artesanalle-hamburgueria-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "pizzaria castor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708190832_afbc4635-43c0-42d8-9154-4293acff2939.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-castor-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dennis Disk Pizza (Fratelli Disk Pizza)",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704241114_e39d1529-dbb1-4909-8404-ba0a71e37aa9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/dennis-disk-pizza-fratelli-disk-pizza-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESPACO ESQUENTA RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301316_0ba1a7b6-4dff-4925-9979-8b8dbb12fffa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/espaco-esquenta-restaurante-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanches Tia Li",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707181141_ed1b402b-b907-4af1-af3c-b624af173620.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/lanches-tia-li-jardim-anhanguera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chaves Burger e Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121751_65beae81-a2c7-4618-98e0-bad0be30ce55.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/chaves-burger-e-refeicoes-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tacos E Burritos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/tac_tacos_ritos.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/tacos-e-burritos-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bambina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_mbina.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-bambina-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Puro tempero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251118_29740722-41ca-42f6-8a10-c1b2e0252254.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-puro-tempero-jardim-quietude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forte Da Batata",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705120844_a3706a54-09c1-48c4-bc94-752cec3e90e8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/forte-da-batata-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Thays disk marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710230823_c83d6e55-4bdd-4307-b999-1c96320f2141.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/thays-disk-marmitex-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex união",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061016_b2ece6b4-23cf-4d44-a3f7-af20b53a88f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/marmitex-uniao-vila-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sushinami Caiçara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_sushi_icara.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sushinami-caicara-vila-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jack Burger & Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_novo2_jackb_rbeer.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/jack-burger--beer-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Samurai Sushi Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703230905_2b13b523549e477e835499f88dc2b14c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/samurai-sushi-bar-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA ESQUENTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710040828_2a58b1fd-1d9b-4c8a-a1a6-fe23324e55d4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-esquenta-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Palazzo Pizzaria E Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/409677_404713_PIZZA_HARIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-palazzo-pizzaria-e-esfiharia-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ocian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131214_2bbba258-ce24-403e-b576-1d80e9a631e4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-ocian-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mimadre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705011011_e62e08c9-0521-49b3-b7e0-faa29ee4af2b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mimadre-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Te Fa Bene Pizzaria E Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2532_TEFAB_HARIA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/te-fa-bene-pizzaria-e-esfiharia-jardim-quietude",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUGOI SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030834_5d04baa7-5329-4487-af01-fa14edb6b6c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sugoi-sushi-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SABORES DA MARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131248_db7d260c-3a7c-45ae-9780-386818f04694.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sabores-da-maria-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete E Pizzaria Dois Corações",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 2 coraco_lanch_acoes.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/lanchonete-e-pizzaria-dois-coracoes-balneario-maracana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JACK JAPA & BEER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701211057_YOSAI_KERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/jack-japa--beer-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "UPI Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706171231_b0c8f4a0-d4c9-4194-9162-18ddb31ca9ec.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/upi-burguer-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311030_1100b50e-1bb0-4e5f-a063-fdc959650bd3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/villa-sushi-jardim-anhanguera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MeC lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031525_2d2f3ac3-1ada-4cef-bbe7-5d5b3da5fb9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mec-lanches-jardim-imperador-iv",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Praça Da Paz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo 01_resta_dapaz.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-praca-da-paz-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA REALEZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041409_fc92cb02-c67c-4761-b455-3cda1ac264f3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-realeza-jardim-melvi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Boa Pedida Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141200_bbfb1566-52ee-4464-9435-be9160b6eed4.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/boa-pedida-delivery-jardim-anhanguera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nabarca Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211245_9b68d44a-1dd3-4025-8b59-3d29f68d27c1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/nabarca-sushi-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Cantinho da Vila",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707150829_933d00a6-a1e9-43c3-ac38-ff61ea2b2c7f.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-cantinho-da-vila-vila-antartica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701160828_BIGBURGUER04.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/big-burguer-vila-sonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Lanchonete Flórida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703201336_PIZZA_ORID02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-e-lanchonete-florida-jardim-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BoreBurger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710170915_0dc6c7ff-396e-4820-b4c3-18e8c4aa9774.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/boreburger-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261458_f3fc120a-3639-4b08-88bd-fd41d5dcc42c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/big-lanches-nova-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Duas Vidas Salgadinhos & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041942_44cfb936-5dc7-40cf-9a62-5d5ad002bf4f.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/disk-duas-vidas-salgadinhos--cia-nova-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santo Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220853_e7a74346-c006-42c0-85a0-d2b5cd6f8aae.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/santo-sabor-balneario-esmeralda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nishida Sushi Lounge",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_nishi_ounge.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/nishida-sushi-lounge-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SUSHI SHOJI COZINHA JAPONESA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709301500_c9462633-c89d-4fe0-a7d1-2f542ed6f217.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/sushi-shoji-cozinha-japonesa-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo Da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101532_ff46d9d30097423ab7d9b649cd42afc9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mundo-da-esfiha-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Dos Sabores Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702170945_EMPOR_ZARI01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/emporio-dos-sabores-pizzaria-tupi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kinkoe Japa Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703031558_KINKO_EJAPA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/kinkoe-japa-restaurante-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria caprichosa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061356_587bdc6d-fd1a-499f-bedc-4004a09e651d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-caprichosa-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "luna porções, bolos e almoço",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281851_07470e45-7089-4eda-9c99-3804301050aa.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/luna-porcoes-bolos-e-almoco-jardim-anhanguera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Diretoria Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231212_2da5c6a0-32cd-40ad-b127-9f75ef9be966.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/diretoria-pizzaria-vila-sao-jorge",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Creperia E Temakeria Bom Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703231635_140e58ac0f2f461a93b636ba2fa832f8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/creperia-e-temakeria-bom-sabor-vila-tupiry",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "J&D PIZZARIA E ESFIHARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161123_b462c325-c593-43fc-a091-739cc25b9a98.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/jd-pizzaria-e-esfiharia-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante fogo baiano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201137_b33dca2e-3886-4bfa-8b1c-f53648ca418b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-fogo-baiano-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MOYASHI BURGUER & MARMITEX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011053_3e505372-3a33-4c62-a88e-394f7c33a2a3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/moyashi-burguer--marmitex-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MIEKO SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708251433_a13bef5f-7d8b-4a50-afab-22207a48c30b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mieko-sushi-vila-guilhermina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arrivato Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111059_2ffcea11-2379-415a-a1d1-7b64491991d5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/arrivato-pizzaria-ocian",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar Do Chico",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ifood_bardochico01.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/bar-do-chico-vila-caicara",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Luiza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/luiza_pizza_luiz02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/lanchonete-luiza-canto-do-forte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Caseira Kisabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702101715_MARMI_SABOR.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/marmitex-caseira-kisabor-jardim-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Máfia da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310903_b10066b1-bd09-4226-be45-2e9238c3e766.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/mafia-da-pizza-cidade-da-crianca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patinha Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/patinha-lanches-vila-mirim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Giovannis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/pizzaria-giovannis-tude-bastos-sitio-do-campo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Primavera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo restaura_resta_avera.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/restaurante-primavera-aviacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "XITÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708300829_adeed973-a605-473a-8b5b-c3877133e117.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/praia-grande-sp/xitao-boqueirao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PRAIA GRANDE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

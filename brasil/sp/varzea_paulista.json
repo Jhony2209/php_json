@@ -1,0 +1,494 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marta Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231129_fb1ba43a-a82c-4b50-b7f6-d701e8937ffc.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/marta-salgados-jardim-buriti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710132036_4bc8d434-c42d-449c-bb56-4bff935878d8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/cantinho-da-pizza-jardim-promeca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Pão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_MASTERPAO.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/master-pao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nica Preta Choperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011352_54ed8cfc-5882-4017-9563-f926d3535c27.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/nica-preta-choperia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nick Empadas & Saladas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211701_17087663-a382-4e44-a3cd-c678bb863020.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/nick-empadas--saladas-sitio-do-mursa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "QUINTA DAS VIDEIRAS - VÁRZEA PAULISTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708121033_6b5e7397-7b7d-44c2-b64e-716a06998d04.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/quinta-das-videiras---varzea-paulista-vila-popular",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_saborcia04.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/sabor--cia-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terraço Villa Inglesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706030857_2fba1788-c5bd-446d-94c6-451b29f5c088.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/terraco-villa-inglesa-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Panela Quente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011426_3095f364-6067-45e0-83f0-3e58291c2fe6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/restaurante-panela-quente-jardim-maria-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ponto De Encontro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702201140_PIZZA_ONTRO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/pizzaria-ponto-de-encontro-jardim-cruz-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Romaburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo romaburg_romaburguer.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/romaburguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tomodati Restaurante Refeições & Assados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703161114_TOMOD_SADOS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/tomodati-restaurante-refeicoes--assados-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Top",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301544_d8cfb426-61a7-4fa4-823f-2314a7af4a0b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/pizza-top-residencial-aimore",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caverninha X Tudo Snack Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708281037_84c6c131-3e86-4453-9668-a2a9ce44e965.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/caverninha-x-tudo-snack-bar-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281642_1cebc728-2de8-40fb-9eae-ec13fe6a8479.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/skina-lanches-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divino Recheio Pastéis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710060819_5ffc45a0-5273-4ba1-9e2e-41aa968006c1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/divino-recheio-pasteis-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Cachorro Loko",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cachorro_lanch_oloko.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/lanchonete-cachorro-loko-jardim-das-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monstrão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/monstrao logo_monst_nche01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/monstrao-lanches-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kafta Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201420_e054c90f-dbc8-4eab-983a-6b762cfd2b6a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/kafta-food-vila-popular",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Japa Food Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191629_13148821-c3c4-4135-99c4-28728aee8b39.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/japa-food-delivery-jardim-cruz-alta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NICK DONUT`S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141713_7fe9922f-6adb-4225-b99f-b333ea6f59f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/nick-donuts-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LIMA MARMITEX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031538_1761923d-5b55-43d4-a698-2b37772520db.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/lima-marmitex-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Altas Horas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071324_80bc8c1a-8d34-43a4-9125-69a15dca6321.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/altas-horas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bahia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_bahi02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/pizzaria-bahia-vila-santa-terezinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DIGÃO DELÍCIAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301118_d19f6669-47a9-4ba8-923d-815a58b085a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/digao-delicias-jardim-alessandra",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monstrao'S Esfiharia E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_monst_zaria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/monstraos-esfiharia-e-pizzaria-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Graciano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707161412_fa760f4d-4dcf-4af1-87c4-dbfe89bdecd0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/pizzaria-graciano-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Da Galáxia Lanchonete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708131420_492381ad-8ced-4474-bac4-4ab3940c5681.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/top-da-galaxia-lanchonete-jardim-mirante",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Chopperia Senadinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708081042_423d2937-c36a-4213-8107-a7efecdfeadb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/restaurante-e-chopperia-senadinho-vila-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sakura Restaurante E Empório Natural",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sakura_sakur_tural.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/sakura-restaurante-e-emporio-natural-jardim-maria-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí no Kopu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261355_08638ec6-b7a8-4156-9b6a-15bc2fd45512.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/varzea-paulista-sp/acai-no-kopu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VARZEA PAULISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

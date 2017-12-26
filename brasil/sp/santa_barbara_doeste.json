@@ -1,0 +1,447 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Careca's Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711180712_f707fd7c-6387-41a9-aa94-a2acf5d0eb00.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/carecas-bar-planalto-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711040928_e944eaf0-b999-43f8-be3d-7c7cd5c2662d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/bom-acai-jardim-santa-rita-de-cassia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spoleto Tivoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181759_a6554024-6112-43e9-8327-ac7277f0a3d2.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/spoleto-tivoli-vila-mollon-iv",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino'S Pizza - Tivoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221228_df17fe75-fc08-43bb-994f-c6c601525b95.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/dominos-pizza---tivoli-jardim-mollon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Castelloni Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311139_97987936-cc4d-4649-b454-b49d24c9c0c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/castelloni-pizzaria-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Imperial",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/lanchonete-imperial-jardim-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Água Pura",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281422_11ab7c9b-e002-4a75-ad5b-a5b08a87e7ce.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/lanchonete-agua-pura-planalto-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lia's Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712190753_314c38c0-7a8a-4d0f-813b-04d6a899897e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/lias-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pedroso Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181022_ff20d2bb-177b-48fc-929e-7c2f7c11f07a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/pedroso-lanches-conjunto-habitacional-31-de-marco-cohab",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Piva Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711201252_423f3cb5-cc26-4f0e-b71a-2eae0739532d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/piva-fit-jardim-batagin",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REQUINTE RESTAURANTE E PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300904_5307e83d-c2fe-4839-afb6-3c371b9c513d.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/requinte-restaurante-e-pizzaria-jardim-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Milaggio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo millagio_pizza_aggi01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/pizzaria-milaggio-cidade-nova-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Ramos - Santa Bárbara D'Oeste",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221607_cc9b2c7e-d8eb-4674-9d54-1bafc92864e9.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/pizzaria-ramos---santa-barbara-doeste-conjunto-habitacional-trabalhadores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tucanos Brasil - Restaurante Brasileiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709261459_dc07a0ca-3759-49a2-aef8-1584488b80e2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/tucanos-brasil---restaurante-brasileiro-jardim-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refeições Iracema",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201004_2ee703bd-50d3-46ca-874f-0dc81f7972e4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/refeicoes-iracema-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria O Casarão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121553_e1370064-55bc-4fb8-bae8-3ab2aef94346.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/pizzaria-o-casarao-jardim-santa-rita-de-cassia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SHYRO´S SUSHI HOUSE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_shyro_house.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/shyros-sushi-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dalla Cia - Pizzaria Pastelaria Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710091931_1929b3ef-67b7-48e5-8110-dc24274a8fb0.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/dalla-cia---pizzaria-pastelaria-lanches-lagoa-seca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tennessee Burger & Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707051540_3ab89167-d3bd-42bb-a2ef-3307d0bc7d2f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/tennessee-burger--grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorella ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251336_135ea8ee-c9e3-4ba1-82bb-48252825ef7d.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/sorella-ristorante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Hamburgueria SBO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/villas_villa_urmet.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/villa-hamburgueria-sbo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Coccinella Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131711_638cb6b5-7da1-49a4-92a2-b9b990b56a1d.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/la-coccinella-pizzaria-jardim-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lig China Yang",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141526_48476282-d8ed-40c2-a5da-aaaa6a073a38.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/lig-china-yang-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Monte Castelo - SBO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291109_7bf03a98-4c51-4964-9b80-43884ff16cea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/subway-monte-castelo---sbo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fião Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131608_46fc96d9-e9de-4192-b533-64c6a0336500.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/fiao-lanches-vila-mollon-iv",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saladaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702040752_SALAD_IVER06.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/saladaria-delivery-jardim-sao-camilo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Armazem  Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291648_dba6d699-7cbb-4d58-aa5e-0a5566324281.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/armazem--bar-conjunto-habitacional-francisco-de-cillo-inocoop",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BIG BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706091637_cb3e60c1-452e-4e94-9920-2dc0dd91eab7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/santa-barbara-doeste-sp/big-burger-conjunto-habitacional-31-de-marco-cohab",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTA BARBARA DOESTE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

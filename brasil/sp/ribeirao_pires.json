@@ -1,0 +1,111 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Cris Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161328_7dc6c278-d031-446f-8db7-f476c4f1663a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/disk-cris-marmitex-alianca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AQUINO PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050914_04988130-02d1-4f49-95b1-34b2a88713e0.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/aquino-pizzaria-ponte-seca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nina Bistrô restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081409_2520dfd8-49c7-4d6f-9992-a6a873228d1a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/nina-bistro-restaurante-centro-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dioro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711191223_f3649012-6176-407f-88ff-b6f8e55b310f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/pizzaria-dioro-alianca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canoa Quebrada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705121602_af252581-52e3-4a5b-b3d2-37e1d43f8325.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/canoa-quebrada-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "OBENTO DO JAPA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200933_a6c85d72-8ee6-4427-9278-8d85f10dec26.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/obento-do-japa-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasil Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041755_6fae7c08-a9a3-4f43-8bdc-c96f99645af5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/ribeirao-pires-sp/brasil-pizzaria-suissa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "RIBEIRAO PIRES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

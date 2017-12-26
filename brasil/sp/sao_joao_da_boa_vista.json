@@ -1,0 +1,111 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spindola Varanda Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712051304_27e8c17e-2a85-4f6c-9d8d-159121b70a86.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/spindola-varanda-gourmet-pratinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Sr.Bauru",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231649_e4cb92db-c855-4c90-855f-eee9b64039cb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/o-srbauru-vila-clayton",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Boca São João Da Boa Vista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031833_b98e12c0-1c78-4f95-a251-0db5d202a128.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/big-boca-sao-joao-da-boa-vista-vila-zanetti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Terapia MBC",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201358_0abe959b-5249-45cf-a858-0bf8748eb171.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/terapia-mbc-jardim-santo-andre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Johny Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191133_a519a56b-3925-4f91-89b2-69cee4788f7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/big-johny-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hayako Sushi e Hawaiian Poke's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709121224_52efad7e-cd2e-4ae6-8c4d-4f16bf33b92c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/hayako-sushi-e-hawaiian-pokes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "El Toro Taqueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709080939_92cc2622-b3bd-4e8c-a3de-3c890c1c9b79.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-joao-da-boa-vista-sp/el-toro-taqueria-jardim-santo-andre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JOAO DA BOA VISTA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

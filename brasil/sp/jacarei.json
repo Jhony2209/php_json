@@ -1,0 +1,718 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131359_669c20d6-f666-444d-be61-7b707dba184f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/mineiro-delivery-jardim-pereira-do-amparo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Jacareí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWA_CAREI.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/subway---jacarei-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SKINA DO SUCO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101340_123251b5-e787-446a-8857-c7205d579354.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/skina-do-suco-jardim-esper",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PRO BURGER HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708090816_32a24b82-7030-4475-acd6-0051791049a5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pro-burger-hamburgueria-jardim-esper",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação do Suco II - Carlos Porto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709152013_d2c8f598-1bc6-49b3-9af6-2b0051b24f6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/estacao-do-suco-ii---carlos-porto-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Da Mooca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_mooc05.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pizzaria-da-mooca-parque-itamarati",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANDINHA SALGADOS - JACAREI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310649_3ee55e28-d08b-4088-bee1-a1e3b598ef02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/candinha-salgados---jacarei-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Delivery point lanchonete gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271222_ed4e583a-bf85-4778-9940-9f0329d15753.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/delivery-point-lanchonete-gourmet-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNOVO PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711210747_689feec4-172b-4898-b85f-e4cf86f4ad41.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/fornovo-pizzaria-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MADRUGA LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181009_84751228-ce77-41eb-962f-acc4762351c1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/madruga-lanches-parque-dos-principes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marchetti Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711011351_8d94fbce-03dd-45d4-b3f6-c836954978bc.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/marchetti-pizza-delivery-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitex Quentinha Jacarei",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711100924_04fd43e7-1bbe-45f0-a72c-0f3687c8cb50.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/marmitex-quentinha-jacarei-conjunto-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PETISCARIA E PIZZARIA RECANTO DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171307_5305183e-e2cc-4488-9179-821145846e40.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/petiscaria-e-pizzaria-recanto-delivery-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bianka´s",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261103_04d68305-7860-4e47-84e5-2de837d94912.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pizzaria-biankas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas KABUMM Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290828_8e24a13a-9d78-4a51-9162-5a4078278749.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pizzas-kabumm-delivery-cidade-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Show de Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251440_cf3a47a5-0897-48b5-80e7-3b7838abebd6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/show-de-pizza-residencial-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sobradinho Pizza Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712231210_efc5ae93-34b5-4b59-94a8-7fcf1f87c397.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/sobradinho-pizza-bar-parque-dos-principes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Traíra E Cia Jacareí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706141018_dcbca1e3-aacc-4918-8d24-e3a9cd608ef2.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/traira-e-cia-jacarei-jardim-didinha",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HandMade Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/handmade430x2_HANDMADEFOOD.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/handmade-food-parque-itamarati",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastel Pachecão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051356_adacf1e3-3d72-47a8-92c1-c58ef3ff9190.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pastel-pachecao-bairro-do-colonia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "VILLA´S BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181148_911244c0-7c32-42f4-b61e-d4b7625088bc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/villas-burger-loteamento-villa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Azuti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706281414_9328674f-6d28-4c23-9899-70132a671f2b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/restaurante-azuti-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burguers Armazém",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101824_47320c47-816b-43d6-9b49-2e6a2a2ef11d.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/burguers-armazem-jardim-altos-de-santana-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GRATONI PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710180824_e70720cf-e31b-4aa8-aabd-64cfc4df3bc1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/gratoni-pizzaria-chacaras-rurais-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rotisseria & Pizzaria Frangão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709071739_7af42acb-5cdb-4de3-85e3-110401d41bd4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/rotisseria--pizzaria-frangao-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Casa de Barros",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050934_5baa8b96-0531-4161-a15a-a72b2525e844.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pizzaria-casa-de-barros-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar do Peixoto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705161102_7265f878-890d-4d2d-b56c-ddb2190b6b54.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/bar-do-peixoto-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YPÊ LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060923_d93d53d1-cd41-4c28-9482-9f89a3f0c803.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/ype-lanches-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgão do Gaúcho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708041500_15901ab9-f6fc-40b4-ac8c-f3a217e25f22.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/hamburgao-do-gaucho-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Dos Pasteis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705061032_9cf47260-e704-4db1-af4e-796d6a66f233.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/recanto-dos-pasteis-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Coleginho Choperia e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709231221_78b8ecba-4154-49d6-ac82-f41a2c7e4310.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/coleginho-choperia-e-pizzaria-vila-zeze",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EASY PIZZA DELIVERY- JACAREI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191704_5b9ceb6c-ddd6-405a-9978-98d3b98f66b2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/easy-pizza-delivery--jacarei-jardim-california",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LANCHES SANTA MARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280818_6f6dcf65-45c4-4560-873f-6212a01a022d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/lanches-santa-maria-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Franchinis Pizza Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702140842_FRANC_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/franchinis-pizza-delivery-loteamento-villa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAROMBAS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021735_c3d31c2f-68bd-44f6-9566-68b4cd8c4a52.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/marombas-lanches-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fluxo do açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301729_9a6ecb13-302c-4fc5-8cde-219083662cdb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/fluxo-do-acai-conjunto-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza 1 - Villa Branca Jacareí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logopizza1_pizza_carei.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pizza-1---villa-branca-jacarei-loteamento-villa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tedy Lanches e Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706030914_900cf163-b18a-498a-a2d3-67a31bc61229.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/tedy-lanches-e-salgados-conjunto-sao-benedito",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "I Love pizzaria delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705271909_b942f83a-8bc9-4f92-937b-cee433d6fe7e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/i-love-pizzaria-delivery-parque-dos-principes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger's House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707261139_67aea978-9516-4544-939a-0e3cc5628c44.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/burgers-house-loteamento-villa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Grandão Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221220_23185587-2354-4df5-9db4-9850eac1dac0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/dom-grandao-restaurante-e-pizzaria-jardim-pereira-do-amparo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Parma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290808_be027dc5-c358-4ce0-881c-e529d5cca314.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/la-parma-loteamento-villa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Dutra Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161242_af68bfb2-b2f7-4923-af2b-1f67729670c2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/churrascaria-dutra-grill-parque-meia-lua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZA HUT JACAREI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709230730_a68b7161-9fa4-4e57-b46b-0c3c20d1bc14.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/pizza-hut-jacarei-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Espetinho 1 - Jacareí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_espet_carei.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/jacarei-sp/espetinho-1---jacarei-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JACAREI",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

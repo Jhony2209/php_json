@@ -1,0 +1,63 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amorim&Moreira Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281003_c6b1aa1c-c9c6-4e11-9d0c-f176e7672dac.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/caieiras-sp/amorimmoreira-pizzaria-regiao-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAIEIRAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Caieiras pizza bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191141_755932fa-63ef-4020-a1c9-1b5c3237a8fc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/caieiras-sp/casa-caieiras-pizza-bar-vila-rosina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAIEIRAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251337_26cb1d2f-8fb9-4bdb-8ab7-db5bf4312baf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/caieiras-sp/ki-lanche-regiao-central",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAIEIRAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Batataria Caieiras",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231404_dc47d929-3387-48a3-8571-773f244f2af5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/caieiras-sp/batataria-caieiras-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CAIEIRAS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

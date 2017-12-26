@@ -1,0 +1,15 @@
+  [  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Usina Do Frango Bar Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lofotipo usin_usina_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-jeronimo-rs/usina-do-frango-bar-pizzaria-princesa-isabel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO JERONIMO",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,1101 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Guarujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181639_a030b364-3dc2-4905-a3ea-5391b2795e1e.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/china-in-box---guaruja-vila-maia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Donald'S - La Plage",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200246_f599a61f-6c40-437e-8cd2-22e46dfcf1fb.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/mc-donalds---la-plage-pitangueiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bolos e Doces Donna Ju",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221150_05c3d708-6a8a-4956-8e56-a3fd96d566a1.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/bolos-e-doces-donna-ju-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORMIGAO RESTAURANTE & PETISCOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161055_31a73a5c-64d7-4705-bf8f-7bee81102a8e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/formigao-restaurante--petiscos-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LaAvo Paes Doces e Cafe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291640_93d1e590-9c81-44df-9cde-a9bf48c548c4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/laavo-paes-doces-e-cafe-vila-maia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roasted Potato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_roasted_pot.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/roasted-potato-pitangueiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Guaruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO (1)_HAMBU_ARUJ01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/hamburgueria-guaruja-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ESPAÇO FENIX - Pizzaria e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231557_bcbc501b-a0a5-4200-b926-e87a084db7ad.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/espaco-fenix---pizzaria-e-restaurante-jardim-praiano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saideira Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061415_2dce7847-ba0b-49f9-8bdf-b806c01dcc77.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/saideira-restaurante-e-pizzaria-balneario-praia-do-pernambuco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YOI Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_YOISUSHI.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/yoi-sushi-vila-zilda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Atelie Dona Jura",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ifood_ATELI_AJURA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/atelie-dona-jura-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açai Mania - Lanches e Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711271410_9aba9a21-e12d-438d-9308-037a8619a1d7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/acai-mania---lanches-e-acai-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cabeça restaurante e pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230858_8f17d2f8-1499-4ffd-a98f-442e331bf672.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/cabeca-restaurante-e-pizzaria-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Rita Salgados Pizzaria e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031044_a58d5700-feec-43ee-91ff-7613c43b2fd2.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/dona-rita-salgados-pizzaria-e-lanches-balneario-cidade-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EMPORIO SANTO ANTONIO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_EMPOR_TONIO.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/emporio-santo-antonio-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Commedia Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050904_b8f8defb-378c-4fc0-9aaa-a8c06409eece.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/la-commedia-pizzeria-pitangueiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mauro Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270920_9bb4c7a8-65c3-4ed9-a236-205affac67dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/mauro-lanches-balneario-praia-do-pernambuco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA JULIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria_PIZZA_JULI02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-julia-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pimentas Temakeria e Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111648_0f4d06a5-8b26-4148-8b40-9f70a059955f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pimentas-temakeria-e-pastelaria-morrinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pipeline Burger & Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711280812_2064b797-2371-4f4d-a6f4-3c985c25d084.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pipeline-burger--acai-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria tutti",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191413_0a4988a7-3072-4a5e-824d-787f90a91e11.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/restaurante-e-pizzaria-tutti-parque-enseada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roger's Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111551_139f9830-5193-476f-a95b-226707e433e2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/rogers-burguer-morrinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SALAD'INA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081345_d36cfa59-2a0a-4f24-bbe1-682e57555a19.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/saladina-jardim-tejereba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Saint Malo Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712180702_e0c8ef36-9ef9-4997-85e4-7e306b3a3e80.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/saint-malo-bar-e-restaurante-loteamento-joao-batista-juliao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Jaci",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251712_f5f8ef63-c274-4d68-b1b0-e323f5b6c757.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/tia-jaci-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Pagulla",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708180910_03684e76-7ca5-44e6-b037-ea6927deb5e3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-pagulla-jardim-progresso-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ki-Delicia Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710281109_a6478811-bb8d-48e0-8124-2cd38d7b6b3b.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/ki-delicia-lanches-cachoeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Grill Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/6d04f0b6-e265-4027-8c26-8cff6306ed80/201711301808_llogo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/don-grill-burger-vila-maia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BUGA BURGUE'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_BUGABURGUES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/buga-burgues-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota 101 Esfiharia E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_rota1_zaria.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/rota-101-esfiharia-e-pizzaria-jardim-guaiuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Julia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702040800_PIZZA_JULI01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-julia-balneario-cidade-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conectados Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120915_3eb6c167-82c4-4905-9d39-4b95ed8f3da2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/conectados-bar-cachoeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "D'Gusta Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221753_586a9954-880a-49fa-a7bc-8ac10c414a70.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/dgusta-restaurante-vila-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maxímus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/123_maximus.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/maximus-jardim-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707220937_7bccfedb-b373-4100-b22b-8693c72ad66e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/food-express-vila-alice-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Guaruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291005_452bd8a1-de46-48e7-a337-3586c0d6d866.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/subway-guaruja-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Gabrielle",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo gabriell_PIZZA_IELLE.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-gabrielle-balneario-guaruja",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota 101 Vicente De Carvalho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logotipo rota_rota1_valho.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/rota-101-vicente-de-carvalho-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Gordo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707251526_5bc9aaa6-598a-4708-acd4-e91bdc115b01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-do-gordo-parque-estuario-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Di Roma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201040_e6de70e2-1cf5-4536-bcdc-1a28d148bc6d.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-di-roma-cachoeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kairós Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201113_fccf111b-7625-45bb-b8e1-3365028d3bcc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/kairos-burguer-jardim-tejereba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maiban",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311105_73c16a78-a059-434d-8e13-3562a2e86928.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/maiban-balneario-cidade-atlantica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mixer Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051417_c856abcd-a8cf-409d-8c59-75e186a69635.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/mixer-burger-vila-zilda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Las Vegas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca piz_pizza_vega03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-las-vegas-vila-zilda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Passarela Guarujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_arel03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-passarela-guaruja-jardim-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DISK OMELETE E ESPAGUETE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708230857_e9407a99-9879-42a7-8250-067a1c93b8b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/disk-omelete-e-espaguete-jardim-las-palmas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Happy Snack Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709031803_dd9db3f6-9df8-4b17-b834-7bd35e6979ea.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/happy-snack-lanche-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Golden Sushi Bar Guarujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710061610_1e480eda-5008-436b-9895-e4ad6664443f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/golden-sushi-bar-guaruja-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Alemão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_lemao.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-do-alemao-vila-ligya",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí 013",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702180924_ACAI013.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/acai-013-vila-alice-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Guaruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705160837_8168cc76-e6cd-471f-b302-72e0eeafe89e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizza-guaruja-jardim-sao-miguel",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ADONAI SUSHI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151144_ffd481ce-2491-470e-89b7-583d0adb67e5.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/adonai-sushi-pitangueiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MISTER'S PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061046_8cf49234-dc42-4cd9-a977-f0a89e3f77f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/misters-pizza-morrinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Enseada Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712260950_95c1dbc7-2788-4ce8-bdfb-eb9e83b2bec2.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/restaurante-enseada-gourmet-loteamento-joao-batista-juliao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rudys Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111933_78b020fe-5556-4f5d-a3f0-fbdfd80e8963.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/rudys-bar-barra-funda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Temakeria Origamy",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201007_44bb3fac-1f82-40f6-9615-6fe72da68e33.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/restaurante-e-temakeria-origamy-morrinhos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mangolin Sushi House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061559_ed369853-c594-4e9f-b9c5-4d299474aa0d.JPG",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/mangolin-sushi-house-jardim-tres-marias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Place",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo-acai-pla_ACAIPLACE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/acai-place-vila-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comilão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/comilao-lanches-vila-santa-rosa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Guilherme Pizzaria Guaruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/dom-guilherme-pizzaria-guaruja-jardim-guaiuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Guilherme Pizzaria Guaruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/dom-guilherme-pizzaria-guaruja-jardim-guaiuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Guilherme Pizzaria Guaruja",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/dom-guilherme-pizzaria-guaruja-jardim-guaiuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "GIGA LANCHE'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709050733_c0e9ac24-538e-491b-993c-c1903aa05f62.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/giga-lanches-sitio-paecara-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Mangia Bene",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_hambu_aben01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/hamburgueria-mangia-bene-jardim-progresso-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Mangia Bene",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/hamburgueria-mangia-bene-jardim-progresso-vicente-de-carvalho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Katsue Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo katsue_katsuesushi.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/katsue-sushi-nao-cadastrado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bella Roma Guarujá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bellaroma_logoo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-bella-roma-guaruja-jardim-helena-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Spqr",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/spqr_pizzariaspqr.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/pizzaria-spqr-loteamento-joao-batista-juliao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tamashiro 7",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111303_0e585eae623441a1862d138f74c11aee.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/guaruja-sp/tamashiro-7-balneario-praia-do-pernambuco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "GUARUJA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

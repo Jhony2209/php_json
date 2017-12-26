@@ -1,0 +1,15 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Japa Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702241515_SEUJA_IVERY.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/ibiuna-sp/seu-japa-delivery-capim-azedo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "IBIUNA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

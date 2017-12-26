@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Árabe Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702090941_ARABE_IVERY.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/tupa-sp/arabe-delivery-vila-viaduto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TUPA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

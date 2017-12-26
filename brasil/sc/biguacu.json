@@ -1,0 +1,191 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Divino sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220840_4fa7e5c2-273e-430a-b4c2-05b0128b2aa6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/restaurante-divino-sabor-prado",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastéis do Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311359_6ebbb823-223d-4454-829f-608394c1ad78.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/pasteis-do-brasil-rio-caveiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXPLOSAO DE SABORES - Biguaçu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111903_7860bd50-df7f-44f1-8182-e8197cdb215e.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/explosao-de-sabores---biguacu-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "route41burguers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709021133_d750de55-f977-414a-886c-b86b1ade6daf.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/route41burguers-bom-viver",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "‎Muguer Hambur‎gueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061234_7ffc06dc-96f4-402c-b183-9c0a8d519e23.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/muguer-hamburgueria-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOGUITOS LANCHES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/doguitos_dogui_nches.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/doguitos-lanches-vendaval",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Think Burgers",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ea983305-ad98-4e05-a858-9e0e1ebe9460/201711271938_burge.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/think-burgers-jardim-janaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Lanches E Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703222040_e5881cfcf5624fa8a76fb0a8edbcabf3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/mega-lanches-e-porcoes-jardim-janaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chico Toicinho Biguaçu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701100905_CHICO_GUACU.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/chico-toicinho-biguacu-mar-das-pedras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dakkai Sushibar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ifood_DAKKA_HIBAR.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/dakkai-sushibar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Caseirinho",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141016_a0eca58d-3830-40b8-af5d-97f8128ab7d0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/caseirinho-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria Império gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707210740_c2bd28d9-821d-4dc6-bd0e-f3a95179901c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/biguacu-sc/hamburgueria-imperio-gourmet-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BIGUACU",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,159 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAI O LITRÃO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711270741_0be1c44e-75e3-485b-a09f-af9f6665759f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/acai-o-litrao-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Snacking Salgados Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709161013_27a7d2f5-a671-49e3-a2aa-f3aa1a7a49de.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/snacking-salgados-express-chacara-da-galega",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Portal Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708031012_d9f3da65-2bf4-4fe8-8c3b-6f2ee3168804.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/portal-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KIFRANGO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241056_0e384db2-263e-44fc-a796-e148b63cbe44.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/kifrango-agua-preta",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Pinda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191341__SUBWAYPIND01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/subway-pinda-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sabor Familia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020911_a0b1b800-0083-48e8-8c32-b87f99c7a31e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/restaurante-sabor-familia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "S&M MARMITEX",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712082323_308a0134-6511-40c4-af7a-d83b7e55cf2b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/sm-marmitex-loteamento-residencial-andrade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei das Esfihas e Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151157_743e55e2-b53b-4d86-9cb7-36e5402a92ed.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/rei-das-esfihas-e-pizzas-loteamento-joao-tamborindeguy-fernandes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARMITA BOA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231635_376b17d0-d563-45d8-a047-798b4c517995.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/marmita-boa-loteamento-residencial-andrade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SR.JAPA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181705_adab05cb-4212-4f45-8b91-d7874a5e528b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Asiática",
+        "url": "https://www.ifood.com.br/delivery/pindamonhangaba-sp/srjapa-loteamento-eduardo-da-silva-neto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "PINDAMONHANGABA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

@@ -1,0 +1,271 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lug's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081449_d95c8082-1c46-4ef7-a76c-bf397c2960cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/lugs-beneficiencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padecco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021021_c366a9ee-96f0-437e-a44c-867c5a3fcf9c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/padecco-beneficiencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pazzi Per Gelato",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712040739_85415eea-8aaf-4b0f-8234-13ec97e2acbf.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/pazzi-per-gelato-patrimonio-de-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Aurora Açaiteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081738_c1372850-9a8c-452c-92a1-abaa3a2253e3.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/villa-aurora-acaiteria-coahb-iv",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Fornalha Pizzaria e Batataria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171514_7351f44d-ef4b-46d6-962b-0e3c180479b0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/a-fornalha-pizzaria-e-batataria-jardim-ferreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Massa Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281717_006ff53b-cc22-43f5-9d3b-fd5d9715a3c8.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/bella-massa-pizzaria-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dat Badan",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231502_d327f94e-f706-4954-892f-9fd2580871e9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/dat-badan-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Do Chopp",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091245_8ca91e69-bb11-4514-a965-bb52bc6e5fb3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/esquina-do-chopp-jardim-santa-efigenia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fer Lanches e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711290939_2cdc22a0-216a-44ea-ac1d-e8e4b7f11bdd.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/fer-lanches-e-restaurante-patrimonio-de-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711140941_ea5448b7-2642-4939-b915-f4affa71c271.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/hamburgueria-patrimonio-de-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Parma Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060808_40d72304-116c-4a95-a208-658127ff8a48.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/la-parma-pizzaria-jardim-ferreira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Casa Nova",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711141537_921a7142-3610-4fbd-b579-73ca3a912d51.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/pizzaria-casa-nova-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Stop Lanches e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010922_8ee9d355-4bb9-4f8a-9cb6-518fe0171507.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/stop-lanches-e-pizzaria-jardim-santa-efigenia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Varanda's Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711111026_18d8822a-d630-4d42-8ed3-b7b6ccecc43e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/varandas-lanches-vila-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa da Vó Restaurante e Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301810_57e5cf6d-38a1-4532-a95e-db7560a52d56.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/villa-da-vo-restaurante-e-pizzaria-patrimonio-de-sao-joao-batista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Le Pinguê Olímpia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201237_6089ea38-5ca8-4ac6-b4c8-ca6fa5a11991.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/le-pingue-olimpia-beneficiencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Sô Mini Delicias Olímpia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708120825_87f575bc-39e1-4de1-8347-10cba08d9a19.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/olimpia-sp/tia-so-mini-delicias-olimpia-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "OLIMPIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

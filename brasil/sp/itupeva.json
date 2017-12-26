@@ -1,0 +1,15 @@
+ [   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tia Sô Itupeva",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010742_f4b2cc2a-3c50-4914-a4b1-37b3395aba7f.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/itupeva-sp/tia-so-itupeva-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITUPEVA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

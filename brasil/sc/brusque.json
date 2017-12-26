@@ -1,0 +1,15 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300910_dd92e4bd-4953-4710-b419-dd05a2c6c914.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/brusque-sc/top-lanches-santa-rita",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BRUSQUE",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

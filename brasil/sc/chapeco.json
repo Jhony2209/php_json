@@ -1,0 +1,830 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vida Culinárias Chapecó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710311443_e78d3d56-09b6-4b2b-9c55-d8274d0d1acb.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/vida-culinarias-chapeco-presidente-medici",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mundo Do Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021602_626ad694-4956-47d0-9fce-a4d405d0dd9b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/mundo-do-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Casa Do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031301_15fbe3f3-50d4-49cd-8e3a-fc15d3c353fe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/a-casa-do-lanche-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707311250_ca21b331-e19a-4266-b6d0-9fa5f1d34d01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/casa-cheff-maria-goretti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Croasonho Chapecó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo croasonh_croasonho008.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/croasonho-chapeco-lider",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Alex Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251345_ALEXLANCHE01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/alex-lanches-passo-dos-fortes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOG MANIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251118_d013a291-a681-44ae-abe8-70c2fca63fce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/dog-mania-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mario's Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251241_dfaab514-552b-43f7-8190-31df679110ea.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/marios-burger-passo-dos-fortes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PANIFICADORA DOCE PAO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061912_eb04433a-5425-442f-bcfc-f4e21ad574c2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/panificadora-doce-pao-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santa Madre padaria e confeitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211643_e8dbf610-8758-4a5a-a411-9e325bef9f70.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/santa-madre-padaria-e-confeitaria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spice Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010831_97e52116-c164-4512-9bd8-eab6ece91fce.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/spice-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160718_f8edb8c2-d3d3-4698-a1c8-b2ab0d054884.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/skina-da-pizza-palmital",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dubba Uba Natural Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041439_f18973dc-0d83-4d77-a886-f7c918d0c8b1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/dubba-uba-natural-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Água Doce Cachaçaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201149_06bb3301-52e1-4dc1-abe1-e5a269b3b31a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/agua-doce-cachacaria-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tojô Cozinha Oriental - Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tj_tojoc_retti.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/tojo-cozinha-oriental---delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Refúgio Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141110_ddb22da8-176a-4689-8dc1-8ced26162077.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/refugio-acai-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ComidaInBox.com",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705310945_ec0b2e4b-5ae9-4fdb-92e4-2559aa4f5411.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/comidainboxcom-passo-dos-fortes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SOKA Lanchonete e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/nova logo_sokal_rante.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/soka-lanchonete-e-restaurante-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzas Prime",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705251416_c6e21f68-355d-4085-b2f8-52d71acb39e9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pizzas-prime-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Mania Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo da pizza_pizza_iver27.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pizza-mania-delivery-jardim-italia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tio Barba Burger Delirious Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708220949_5585abf2-8387-4899-b1ce-3902eb90ea0f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/tio-barba-burger-delirious-delivery-passo-dos-fortes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pasteca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pasteca - ava_pasteca.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pasteca-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carpediem",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201152_76ec04ed-2965-4c3e-8c25-d9a10dda5715.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/carpediem-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Marco Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//284x500x500x_DONMA_IVERY.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/don-marco-pizzaria-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Capitão Hambúrguer & SteakHouse",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141341_3e5a515a-f6e0-4cb5-9fc1-08e390aacd85.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/capitao-hamburguer--steakhouse-presidente-medici",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cia Do Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cia do s_ciadosushi.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/cia-do-sushi-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taberna'S Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703071133_TABER_UERIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/tabernas-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cairo Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291454_d8ec0cd2-9a7e-4679-a3b5-8f1ce89c4381.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/cairo-grill-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Massa Alegre Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121324_030a71deac47421fae4e6346aa461bbc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/massa-alegre-pizzaria-passo-dos-fortes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Quatro Queijos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707151003_2da5aa65-033d-461f-b40f-6a4428262972.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pizzaria-quatro-queijos-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "M.A.D. Burger Shop Chapecó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705041028_edd20e8c-ebb3-43f2-bb0c-526368ce814a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/mad-burger-shop-chapeco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Bacon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702240846_MRBACON.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/mr-bacon-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chiko's Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702192137_CHIKO_ZARIA.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/chikos-pizzaria-presidente-medici",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cheiro Verde Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703220841_defaae186acb400389f92276d590386f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/cheiro-verde-pizzaria-palmital",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bicudo Lanches e Petiscos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/bicudo 1_bicud_iscos.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/bicudo-lanches-e-petiscos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Poburger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo po burge_poburger.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/poburger-maria-goretti",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister x & Baguete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//670x500x500x_MISTE_GUETE.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/mister-x--baguete-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gfc Frango Frito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_gfcfr_icken.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/gfc-frango-frito-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Click Sushi - Chapeco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/sushi_click_apeco.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/click-sushi---chapeco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Grande Família",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/gf_pizza_mili04.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pizzaria-grande-familia-sao-cristovao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "H1 Foods",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704040928_254da41b833445d1a7bd148a42690e86.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/h1-foods-presidente-medici",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Santo Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707150826_07d29b03-c26b-490f-9dd8-67add60cb03f.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/santo-bar-jardim-italia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Libanesa Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/libanesa_LIBAN_HARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/libanesa-esfiharia-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Xis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Mega Xis_SALSI_PERIA.BMP",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/mega-xis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mixirica - Chapecó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/17_02_2016_16_MIXIR_APECO.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/mixirica---chapeco-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Latitude 27",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704132035_bc5cbecc00e541a69914c7fc5dcd4d0b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/latitude-27-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divinus Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo divinos_divin_zari01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/divinus-pizzaria-passo-dos-fortes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Casa Do Xis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_acasadoxis.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/a-casa-do-xis-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Oliveira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707081442_6b2d72ea-0376-45cb-ac7f-45056bd616ad.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pizzaria-oliveira-palmital",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Muita Carne Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708091038_84e60828-2425-4119-a275-03417f02f0f3.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/muita-carne-hamburgueria-esplanada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Petiscaria Sete Mares",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo da 7 mar_petis_mares.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/petiscaria-sete-mares-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzadore",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/chapeco-sc/pizzadore-universitario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CHAPECO",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

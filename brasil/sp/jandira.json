@@ -1,0 +1,766 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kobe Oriental Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031158_7d08b7b3-efb6-49ae-b6b7-028ccdf8bf1a.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/kobe-oriental-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Padre Cícero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/padre cicero_empor_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/emporio-padre-cicero-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vieira'S Pizzas, Lanches E Petiscos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo vieiras _vierasjand.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/vieiras-pizzas-lanches-e-petiscos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Andrad´s Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171143_691f0633-3dae-46bc-b544-f87086f9424c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/andrads-restaurante-parque-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meat Flavors Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709040729_accb2998-69aa-42be-83ef-3a50ad5e3a8f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/meat-flavors-burguer-jardim-gabriela-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carmona",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712111228_ed5fb465-4e39-4d7c-948b-1c9dc3b29dd3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/carmona-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cleo refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011436_a01ad7d3-f8d2-485d-a176-ba23d2cb62f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/cleo-refeicoes-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Germano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301218_d75abd0b-eb67-4abf-b55e-080ec05c6753.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/dom-germano-parque-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LA POTENZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711061345_3f0db002-d4dd-4d1a-8948-3a5731992c89.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/la-potenzza-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria DJ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281010_65477fb5-9717-402c-b5e4-9dba2c52bcfb.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-dj-parque-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria do Maneco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131318_0ee76f12-9c36-4573-a5d6-4a93115d28d1.PNG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-do-maneco-parque-viana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MARGUERITA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071113_84384b6a-1adc-4278-ab75-494e05bfb200.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-marguerita-vila-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Manduca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706271003_361e5098-41dd-4ec1-a500-4af303776af1.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/manduca-jardim-jandira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei das Esfihas - Jandira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rei_reida_ndira.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/rei-das-esfihas---jandira-vila-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bene Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141011_9704a400-fc71-4aeb-bad7-960833955c02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/bene-pizzas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ETC E TAL HAMBURGUERIA E ACAI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071305_9618acea-b093-4066-a253-edd469bd5ed7.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/etc-e-tal-hamburgueria-e-acai-jardim-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roma Pizzas e Gril",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710020908_d81fbf00-78a4-4af4-90e5-b1f152e5fab9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/roma-pizzas-e-gril-jardim-europa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BULLDOGS DOGUERIA, HAMBURGUERIA E AÇAÍ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_bulld_aecia.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/bulldogs-dogueria-hamburgueria-e-acai-jardim-belmont",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Da Esfiha Jandira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705200728_70ff6e6a-d6c1-41d0-8470-7cc2ea84d398.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/ponto-da-esfiha-jandira-jardim-gabriela-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers House Pizzaria - Jandira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo brothers_broth_ndira.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/brothers-house-pizzaria---jandira-jardim-sorocabano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eiko Yakissoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Eiko Yakissob_EIKOY_SSOBA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/eiko-yakissoba-vila-anita-costa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IMPÉRIO DAS ESFIHAS - JANDIRA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo imperio_imper_ndira.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/imperio-das-esfihas---jandira-jardim-lindomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Villes Pizzas E Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704171437_2ef638b699b44ed9921ea764b807f64e.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/nova-villes-pizzas-e-esfihas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aosta : Pizzas,  Saladas e Sopas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/aosta_aosta_zaria.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/aosta--pizzas--saladas-e-sopas-jardim-do-golf-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bar e Restaurante Rio Bonito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706201335_e653634d-2dcd-4828-8156-dd6a9e0f22aa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/bar-e-restaurante-rio-bonito-parque-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Baguetteria Lanches Naturais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_bague_urais.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/baguetteria-lanches-naturais-jardim-jandira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Raffa Pizzas Jandira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Raffa Pi_RAFFA_NDIRA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/raffa-pizzas-jandira-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Nordestina Riacho Branco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/rb_casan_ranco.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/casa-nordestina-riacho-branco-jardim-lindomar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Miau Miau",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710101743_488cb8dc-4cc8-4082-b9cf-2d5f5a4ae2fa.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/miau-miau-vila-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA SABORELLA 1",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712061032_aa6b1397-2ea1-4d5b-86eb-62ac85a08de9.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-saborella-1-jardim-gabriela-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Lanches E Pizzas - Jandira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo com pizz_biglanch.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/big-lanches-e-pizzas---jandira-parque-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina do Lanche DW",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201055_375ede75-0a74-40dd-905f-6e896b3119d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/esquina-do-lanche-dw-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Thoca do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231322_550dcb99-d029-4047-a8b6-34765975c023.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/thoca-do-pastel-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Andrad´s Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171143_691f0633-3dae-46bc-b544-f87086f9424c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/andrads-restaurante-parque-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Picolly Pizzas E Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo picolly _picol_fihas.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/picolly-pizzas-e-esfihas-jardim-sorocabano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Valle D'Aosta Restaurante E Cafeteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_valle_teria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/valle-daosta-restaurante-e-cafeteria-jardim-do-golf-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mega Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mega lan_megalanche03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/mega-lanches-jardim-stella-maris",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem Do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_garag_oacai.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/garagem-do-acai-jardim-novo-horizonte",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho do Tempero",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708210829_0fb545c4-a45b-43bb-bd34-9c356293e909.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/cantinho-do-tempero-vila-eunice",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Família Gonçalves",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011320_5792f5c9-adca-46e2-b444-c8518786ca39.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/emporio-familia-goncalves-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Galeto´s Pizza Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211045_58347ebb-2b0e-4a0d-9919-cc5665503b98.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/nova-galetos-pizza-grill-jardim-sorocabano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Piantella III",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251506_07b7cb7a-999c-48c4-ad66-a295c4ee7121.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-piantella-iii-vila-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagens Bar e Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706090910_78275c3c-5ba9-40dc-ae13-68225ba91718.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/garagens-bar-e-restaurante-mirante-de-jandira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Monte Videl",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo monte vi_pizza_videl.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-monte-videl-jardim-gabriela-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chicken In House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709181533_d17d7054-e1ee-436f-a095-acf1cc30f5da.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/chicken-in-house-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Space",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_space.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/pizzaria-space-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Good Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261240_8fa0d32c-92d4-444c-b29a-cc8e06465341.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/the-good-burger-jardim-gabriela-iii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bendito Frango & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703180743_BENDI_MPCIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/jandira-sp/bendito-frango--cia-vila-anita-costa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "JANDIRA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

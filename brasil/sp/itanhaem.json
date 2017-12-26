@@ -1,0 +1,111 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seu Bigode",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171951_40fbab59-eca7-4384-9afc-ba3a42e38303.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/seu-bigode-bopiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers Açaí e Mega Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Brothers Açai_BROTH_NCHE03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/brothers-acai-e-mega-lanches-bopiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA E LANCHONETE LITORÂNEA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711261454_f6ed61bf-c580-474f-9933-d8671e1cd7e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/pizzaria-e-lanchonete-litoranea-bopiranga",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FORNO DA VILA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151137_9206e37b-33ff-42dd-b7a3-a730a7c95e29.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/forno-da-vila-gaivota--interior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TOMATELLI PIZZARIA & ESFIHARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708160733_1680b477-5ee5-47d5-a15c-7505a9dbf8dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/tomatelli-pizzaria--esfiharia-cibratel--chacaras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rondinis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cozinha_rondinis.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/rondinis-gaivota--interior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA MARINA SATÉLITE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071637_445771d0-dc90-406c-ad77-b8939c8f2ee5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itanhaem-sp/pizzaria-marina-satelite-gaivota--interior",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITANHAEM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

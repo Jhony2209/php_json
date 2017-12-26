@@ -1,0 +1,127 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CAFETERIA PAULISTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171513_88b873fb-3625-4da2-b74d-a5bbc413c95e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/cafeteria-paulista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Vitta Forneria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130829_901c6eb4-18a7-47ac-a06a-87114492b3e6.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/la-vitta-forneria-parque-das-laranjeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Rango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211759_b724b758-d703-4cdf-8f1a-9f5fd049c048.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/restaurante-rango-loteamento-parque-empresarial-adelelmo-corradini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bugallus Pizzaria e Hambúrgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261148_dce8c44a-7e31-40a4-be66-77f195557906.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/bugallus-pizzaria-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Dell'Arte",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221209_9959ae6b-2c6c-41dc-9094-b0cab4d3ea3e.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/pizza-dellarte-jardim-nossa-senhora-das-gracas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA LA SABOR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709130923_c5b47d04-1d4b-45f8-ab50-2dba6cda7f69.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/pizzaria-la-sabor-nova-itatiba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MANIA DE LANCHE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171755_7aeaccd2-a8e4-44b7-855d-5660a37d2019.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/mania-de-lanche-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "General do Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709222100_bc7856b7-b588-4899-a9f0-9c37b77429a8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/itatiba-sp/general-do-lanche-jardim-galetto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ITATIBA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

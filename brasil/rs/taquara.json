@@ -1,0 +1,63 @@
+ [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Contemporâneo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711250659_0c840b2a-00f5-4482-aa2c-8950c3f84d48.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/taquara-rs/contemporaneo-medianeira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAQUARA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hamburgueria 88",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090751_00631e92-270a-44c4-a909-0fe94716b14a.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/taquara-rs/hamburgueria-88-cruzeiro-do-sul",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAQUARA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xis do Vini Taquara",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//3DSGu8P972sH_XISDO_QUARA.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/taquara-rs/xis-do-vini-taquara-nossa-senhora-de-fatima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAQUARA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "galo chicken lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710181617_f4a19a47-d213-4e02-a259-8980c1436106.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/taquara-rs/galo-chicken-lanches-tucanos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "TAQUARA",
+            "addressRegion": "RS",
+            "addressCountry": "BR"
+            }
+    }]

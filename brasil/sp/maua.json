@@ -1,0 +1,1612 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Maria Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712021049_313bc89a-44b7-44e6-a82a-b1573ba76e96.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/dona-maria-restaurante-vila-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Volpe Point Burger's & Dog's",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/42734729-9a21-409b-8e6b-2bb52ff351b3/201712122040_2.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/volpe-point-burgers--dogs-jardim-zaira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Recanto Mineiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201001_6d7068bc-66b1-4ad1-a32e-8b1adcb68fb9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/recanto-mineiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181613_2cd12f51-222e-4f90-9033-cd6120bc0de6.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/china-in-box---maua-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Firmeza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091431_0ca7dd84-75f2-48d2-a3b3-55f3c8fdfd3d.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/acai-firmeza-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Inha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011456_294e95be-78d1-4e8c-9924-8da00f983f81.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/cantinho-da-inha-vila-dirce",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Celeste Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712010749_118670a0-f0d3-47eb-b248-2a9e2225a1f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/celeste-salgados-jardim-itapark-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Galdino Pizzas e Esfihas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231358_d7366368-1f32-4529-8cc5-974840dfc12f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/dom-galdino-pizzas-e-esfihas-parque-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ebenezer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712050743_adaf49e5-07bf-4d20-b734-1a5ec970882a.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/ebenezer-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango Frito Classe A",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010926_23a44310-3559-46fc-93b6-e280bcc483e5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/frango-frito-classe-a-jardim-rosina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Hiper Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211700_f7c551e8-42f1-4db5-9644-aaa98fb113f8.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/hiper-salgados-jardim-zaira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Palácio das Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011351_cb014efd-5981-4238-92af-5a9100817e94.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/palacio-das-pizzas-jardim-zaira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Estrela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711160734_7883fbdc-2ebc-4a0a-ac12-ff9d18d4c962.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-estrela-parque-bandeirantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA NOVA ERA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021416_9ec9a162-6da0-4298-9bfe-a68e27efbae9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-nova-era-jardim-itapeva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Euroville",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/418786749.841_pizza_vill02.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-euroville-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Mania Lanches e Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707150722_44146a27-6fb3-4ae5-b5b4-0d814c04134b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/big-mania-lanches-e-pizza-jardim-luzitano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parada da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706211450_142fb9b8-fa9c-4102-b8a5-de32131ab94b.JPG",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/parada-da-pizza-vila-nossa-senhora-das-vitorias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Primavera Maua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/primavera_pizza_avera.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-primavera-maua-jardim-sao-judas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sorelle Lanches  e Sorvete",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101224_3da6cd68-c16a-4d0c-8957-98dabadaeeed.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/sorelle-lanches--e-sorvete-vila-florida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway General Osorio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291013_16dbb543-61dd-43d0-a03c-2e0a9ca01b45.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/subway-general-osorio-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rei Barbaro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703180937_REIBARBARO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/rei-barbaro-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Imperial Pizzas, Beirutes​ e Calzone",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301247_e57fdf37-352f-4cc9-a4e9-feb5c1d9e150.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/a-imperial-pizzas-beirutes-e-calzone-jardim-luzitano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Lima Pizzaria E Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo casa lim_casal_haria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/casa-lima-pizzaria-e-esfiharia-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Passione",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708020713_ee3b6f3b-0013-46b8-811d-dc09f59a62b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-passione-jardim-sao-jorge-do-guapituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BurGear",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706280928_d2ae7081-0754-4f22-b9b4-d0193a301d97.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/burgear-vila-noemia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA CABANA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705261714_50eea795-9887-4d15-a258-4b3160a997b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-cabana-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá Felicitá Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705100814_41bb0fdd-95f7-4e92-8ec6-6da98ead55f0.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/la-felicita-maua-jardim-rosina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bem Root's sanduícheria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031235_43d536b8-17bb-47af-976e-162d24f890c6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/bem-roots-sanduicheria-vila-america",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr Geeks Burguer & Beer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171033_8b17f30b-d190-4250-acf0-e4c045a69576.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/mr-geeks-burguer--beer-jardim-guapituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bibi Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301226_BIBIPIZZAS.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/bibi-pizzas-vila-falchi",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Arco Íris Lanchonete E Sorveteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logoarcoiris2_arcoi_ueria.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/arco-iris-lanchonete-e-sorveteria-parque-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Premiere",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071721_414f04ef-7974-4d58-bd72-29ae7215dfd4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-premiere-vila-magini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Heaven Burguers E Sorvetes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/e99722fe-22ee-4c26-a089-ef6a93dd9a24/201712151219_ifood.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/heaven-burguers-e-sorvetes-vila-nossa-senhora-das-vitorias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doce Começo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710111009_1d25e180-ef08-4666-8c93-6e590f21c84c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/doce-comeco-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fama Express Maua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo fama exp_pizza_smaua.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-fama-express-maua-jardim-zaira",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carnavalle Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708101526_133f297f-87c5-4f80-9084-70f69e0f237f.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/carnavalle-pizzaria-jardim-ipe",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fornalenha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709291120_07fefbd4-9a12-43ef-b5be-dd58b401d453.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-fornalenha-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Express Maua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizza ex_pizza_smau02.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizza-express-maua-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nobile Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301544_f880613f-63a6-4630-a55d-e8caa4a7f9d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/nobile-pizzaria-jardim-itapark-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria & Lanches Valentim Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo valentim_PIZZA_ENTIM.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria--lanches-valentim-maua-vila-guarani",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Samaritano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061048_61f87721-5026-46e8-a921-6b8e4663252a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-samaritano-parque-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DEGUSTE JA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710021159_d828dc87-74fc-426f-af99-3ea7d6e806b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/deguste-ja-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skinão da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_skina_pizza.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/skinao-da-pizza-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maleah Fast Food - Jd Miranda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709071425_4a3c4017-8283-4a08-9e88-6cee0902fbf7.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/maleah-fast-food---jd-miranda-jardim-miranda-d-aviz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Torre de Pizza - Pizzaria e Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707222130_24f5b277-fbdc-4f0c-936f-db68b8a5c690.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/torre-de-pizza---pizzaria-e-esfiharia-jardim-maua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Santa Fé",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011539_664692d4-799e-4ef5-a6ad-973fc28115ca.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/restaurante-santa-fe-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BARRACOS RIBS BURGER GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311610_c8b2759f-4d45-494c-afe3-eca1835d9e6e.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/barracos-ribs-burger-grill-jardim-miranda-d-aviz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria D'la villa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041259_52caaf43-1bef-418c-9640-bdd811a4d338.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-dla-villa-vila-assis-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Estrela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702231452_PIZZA_TREL03.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-estrela-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Express Barão de Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_PIZZA_EMAUA.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizza-express-barao-de-maua-jardim-miranda-d-aviz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Julão Burguer - Parque São Vicente",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712241345_18a2ee29-c34e-49ea-bdcf-45f306071964.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/julao-burguer---parque-sao-vicente-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JULÃOS BURGER GOURMET",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712241346_c93efe77-1375-427c-956f-99d9c534b3c7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/julaos-burger-gourmet-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bom Gosto II",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191237_c93aa142-fb32-446a-93ab-1c503f8d1e35.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-bom-gosto-ii-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skina Do Espeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251509_SKINA_SPETO.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/skina-do-espeto-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaídera Açaí Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301334_11a095b3-12fe-4b0f-a901-6a34dad9177a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/acaidera-acai-bar-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kabir Big Sfiha Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo kabir_kabir_amaua.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/kabir-big-sfiha-maua-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Vitória Itálian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121135_9f60c064ca6044668181cba338dc71d3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-vitoria-italian-parque-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Piatã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo piata_pizza_piata.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-piata-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BELLA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240738_7a607846-ebf9-4f57-9f5e-d146c6458322.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/bella-pizza-jardim-sonia-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skinão Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo skinao d_skina_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/skinao-delivery-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Vitória",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704101108_32025f5cab1a459a9830f9d92e030e65.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-vitoria-vila-nossa-senhora-das-vitorias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bigas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bigas_pizza_bigas.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-bigas-vila-assis-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Castro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo castro_pizza_astr01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-castro-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Ponto Delicia'S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Capturar_RESTA_ICIAS.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/restaurante-ponto-delicias-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Big Fogazza Pizzaria Marcão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161920_4896ce73-a2b0-4d97-966f-034af8a122d3.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/big-fogazza-pizzaria-marcao-jardim-miranda-d-aviz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mineiro Delivery Mauá Matriz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190832_9febcc3c-ff25-4a85-affd-de2b5744820f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/mineiro-delivery-maua-matriz-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Lilian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/c214f5a5-8236-4a34-9df9-03e1c2715439/201712161806_12141.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-lilian-jardim-itapark-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Sabor Italiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710171047_f45b82fd-a210-4174-a07b-99bce08d69d0.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/disk-sabor-italiana-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nainai yakissoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710081641_88d87afd-3a52-4607-b25f-93fe8da9ebcc.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/nainai-yakissoba-vila-nossa-senhora-das-vitorias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Fornalha Pizzaria Maua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo la forna_lafornalha01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/la-fornalha-pizzaria-maua-pouso-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maleah Fast Food- Loja 1",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/53b708c9-5254-4a5f-8a8e-925373d4efff/201711271324_logo2.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/maleah-fast-food--loja-1-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dl Marmitex",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo dl marmi_dlmarmitex.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/dl-marmitex-vila-assis-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BAR DO CALDO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705221047_6d4bff5f-e087-4e1c-b91e-800f06985c3d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/bar-do-caldo-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Castor Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706101000_0b16a3b6-472f-4c83-b593-5f2fb517354d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-castor-maua-parque-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nós Amamos Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703240923_e5cb931fc97a403e8c28d5c693a0eea2.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/nos-amamos-pizza-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Novo Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/novo_pizza_sabo15.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-novo-sabor-jardim-maua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Macalé Pizzas Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706050932_cc013eee-05b9-4a0c-98c3-e9aff3ad2bac.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/macale-pizzas-maua-vila-magini",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAIS BATATA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709211345_bbc61a21-1bdc-4c8c-962b-8f6e6c040d80.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/mais-batata-parque-sao-vicente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Michelângelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041654_af271698-507d-445f-abe1-c55c43bac538.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-michelangelo-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantina Lounge Bar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706111733_f44add27-2da0-4a6b-819f-e11f6626adf8.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/cantina-lounge-bar-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bistrô nova cozinha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271303_23a57d1d-40f9-4c9d-8409-a9d9b105db03.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/bistro-nova-cozinha-jardim-sao-jorge-do-guapituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Verona Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708191112_ae936a25-c92d-42a7-ae19-a0ad734ab7d9.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/verona-pizzaria-jardim-itapark-velho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Pimenta Restaurante e Botequim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707250727_1c6a0121-21a4-4396-a8ea-8bf70878f2ad.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/dona-pimenta-restaurante-e-botequim-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kero Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151407_c1f770f3-7374-40e5-83a7-8e63e70c716c.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/kero-sabor-vila-nossa-senhora-das-vitorias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mister Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706220923_a34515cb-327f-46b1-81db-9cd3d3acad9b.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/mister-pizza-parque-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Temakeria Maua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/temakeria mau_temak_amaua.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/temakeria-maua-vila-nossa-senhora-das-vitorias",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DEGUSTE JÁ",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705250926_71fc8359-6939-4cad-9948-93a0d0947b25.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/deguste-ja-jardim-itapeva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizzariamaua.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-maua-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sinal Verde Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_sinal_gril01.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/sinal-verde-grill-matriz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Do Vadao Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo vadao_resta_vadao.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/restaurante-do-vadao-maua-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jundiá Food´S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703200920_JUNDIAFOODS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/jundia-foods-vila-bocaina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brothers Açaí E Mega Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704270828_d424a61c-dd6e-4284-b7dc-116bd3e5761b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/brothers-acai-e-mega-lanches-vila-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BiBi FAST FOOD",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711090735_6d9a0053-c901-45b1-8f65-0d284777c372.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/bibi-fast-food-parque-das-americas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Calabria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141433_403aa0a5-e0d4-42ab-bb9b-69ec1c5a0e16.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/pizzaria-calabria-jardim-haydee",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Unico Sushi Maua",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231323_48530639-3c00-4f91-affe-44c497292146.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/unico-sushi-maua-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sappore Restaurante e Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702130836_SAPPO_TARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/sappore-restaurante-e-marmitaria-jardim-maua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Skinao do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706241335_f719bdb2-75f3-4858-8f40-b7916d77c15f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/skinao-do-pastel-jardim-guapituba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nn refeiçoes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131216_c6e4709f-fcd9-4937-b700-71f400b0c19a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/nn-refeicoes-vila-assis-brasil",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "ERAS DOGUERIA E HAMBURGUERIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/22310583_1062_PORTU_EBEER.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/eras-dogueria-e-hamburgueria-jardim-pilar",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rancho Caipira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710191536_b7688907-f95c-4ae1-b0f5-0aba0e9d4ca2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/rancho-caipira-jardim-rosina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Roasted Potato -Mauá",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709270914_4ef96ff6-7ef6-458b-9696-cbc25b2a8ba8.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/maua-sp/roasted-potato--maua-jardim-rosina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAUA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

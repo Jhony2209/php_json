@@ -1,0 +1,973 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monstrão do Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708280759_0132e3a6-87e8-4a83-87a3-d439a148fa16.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/monstrao-do-acai-jardim-das-oliveiras-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IFHOME Salgados",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271659_2c4f979c-b841-4b68-9d15-fc9cace879d7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/ifhome-salgados-jardim-basilicata",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino's Pizza Sumaré",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221138_a26576d3-5f9f-415e-ad19-6752eb84e22c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/dominos-pizza-sumare-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AGUA NA BOCA MARMITARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712200717_045b758a-2084-42a0-9ac7-fead324b63d4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/agua-na-boca-marmitaria-jardim-primavera",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Altas Horas Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711170755_050eba2f-d550-4a00-8eb0-c36d9e757d39.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/altas-horas-lanches-vila-real",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho da Batata Recheada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201256_7a417a36-2633-4e8b-befd-b5d1fcb63bb3.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/cantinho-da-batata-recheada-jardim-maria-antonia-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281351_3d822ebe-dda9-412f-95a4-a7750576533a.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/comida-caseira-vila-reboucas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doggud",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712140942_1c1db1aa-1c71-4def-8533-be50da3d88b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/doggud-residencial-parque-pavan",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doçura de Vó",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221840_8f942e8d-9383-40be-973a-8dc5faf4db93.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/docura-de-vo-parque-villa-flores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "EXPLOSAO DE SABORES",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261336_87af1f8a-353f-4199-b637-4ad9b0c23420.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/explosao-de-sabores-jardim-dos-ipes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garaparia & Pastelaria da Alegria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041304_b27a21d0-fbe9-4d1a-b4b8-3097f698c7e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/garaparia--pastelaria-da-alegria-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordão Lanches -  Bom Retiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712141347_9baef933-2454-440d-80dd-16f62ea06dce.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/gordao-lanches----bom-retiro-jardim-bom-retiro-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Amigos do Sul",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711181231_1866235f-442c-4d2e-b482-dd158d11cdf0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/lanchonete-amigos-do-sul-vila-menuzzo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchonete Casarão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231440_58fa6e03-51f0-4faf-9e6b-30f069ce2294.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/lanchonete-casarao-parque-residencial-casarao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Loucos Por Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281143_4cdfbcc3-345e-4412-b199-fbcd0586888b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/loucos-por-pizza-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA NOSSO CANTINHO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711070934_be17d7a9-3bbd-418f-be0d-87439827596b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/pizzaria-nosso-cantinho-jardim-alvorada",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parafernália Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710310937_d3f61724-0f95-4099-8844-3d364043b868.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/parafernalia-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Paraíso do Açaí",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712231431_ce907074-3ace-40ac-b3ed-614203a9c8ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/paraiso-do-acai-parque-villa-flores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dinapoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711020853_0a0ce1c8-83f0-44b1-8a7d-8e4d8e82ced0.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/pizzaria-dinapoli-parque-das-nacoes-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rota do Açai Sumaré",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712201913_225784eb-f03d-44bd-a2fb-6204675da9c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/rota-do-acai-sumare-vila-yolanda-costa-e-silva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Verde Lanches e Sucos Naturais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061318_2a8853bf-1ded-48b2-ba1d-e34525d155f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/casa-verde-lanches-e-sucos-naturais-vila-miranda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Redonda pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071331_c56132af-c6b2-4720-a489-8d86b118c507.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/la-redonda-pizzaria-jardim-bom-retiro-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A Gata e o Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710231529_e1193577-b26a-43dc-b748-17f9f8b41004.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/a-gata-e-o-pastel-parque-das-nacoes-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gratinadogs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709241424_25dd86a4-abac-460d-ad75-f09cc8906f91.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/gratinadogs-jardim-bom-retiro-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710291140_71f58140-4379-4d05-8a63-e3e19de94b99.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/china-express-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Seo Jorge Pizzaria E Chopperia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702010742_SEOJO_PERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/seo-jorge-pizzaria-e-chopperia-jardim-das-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Salgados KI D+",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051019_4f6727ce-4700-4254-9818-9b4208446ed2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/salgados-ki-d-jardim-bom-retiro-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Estação Rebouças Restaurante E Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/reboucas_ESTAC_ZARI02.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/estacao-reboucas-restaurante-e-pizzaria-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Churrascaria Rebouças",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706290812_da5d8dfc-bc8a-46d4-9e5a-2d693a3f983f.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/churrascaria-reboucas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Girvan Salgaderia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711010743_a3439f6e-5b51-46ac-9590-442c2aa4f191.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/girvan-salgaderia-vila-sol-nascente",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RR FRIED CHICKEN",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709090758_8ff08186-c228-49f3-b6ef-9ce069222d63.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/rr-fried-chicken-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aroma Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710261029_37910700-ba7d-463f-9f0e-2d6c7b1412ac.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/aroma-caseiro-vila-santana",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tortelle Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707171821_cc5da983-a772-4353-bb1e-984f012a3579.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/tortelle-esfiharia-vila-yolanda-costa-e-silva",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Macarenko",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704111258_25df7484b77549569ab6413a4d9ee8e7.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/pizzaria-macarenko-vila-menuzzo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Choppódromo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo_CHOPPODROMO.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/choppodromo-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DOGUERIA e HAMBURGUERIA JANALU",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231125_4a8f3555-be84-4367-b306-874ce0a7834a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/dogueria-e-hamburgueria-janalu-residencial-parque-pavan",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cannon Prime Auto Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708262118_400fe7af-c240-4ebf-a0a5-a7f8407521a1.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/cannon-prime-auto-lanches-planalto-do-sol",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway - Chacara Bela Vista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291116_93343b14-15db-404f-92f7-9af8e41e4642.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/subway---chacara-bela-vista-vila-carlota",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Taishi Temakeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_taish_keria.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/taishi-temakeria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lanchão & Cia - Villa Flora",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lanchão_LANCH_FLORA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/lanchao--cia---villa-flora-parque-villa-flores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jireh Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709170728_222071a8-5dba-4227-a984-ab9d0ac87244.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/jireh-burguer-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Italian",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702220825_PIZZA_ALIAN.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/pizzaria-italian-jardim-bom-retiro-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dona Betinha Marmitaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710142056_df09535c-57b2-4c3c-860f-acee3f255ee5.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/dona-betinha-marmitaria-jardim-nova-terra-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Doceria Marron Glacê",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301609_17fd575a-8d5c-4182-a572-e84465353178.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/doceria-marron-glace-parque-manoel-de-vasconcelos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Hamburgueria Sumaré",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/villas_VILLA_UMARE.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/villa-hamburgueria-sumare-vila-miranda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dogueria Brasil Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091125_233d2b70-0036-4f36-a50e-29c8b0b2d06a.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/dogueria-brasil-italia-parque-villa-flores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Makey",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo pizzaria_resta_makey.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/restaurante-e-pizzaria-makey-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patus Pizza Frita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080850_fd8237e9-fcfb-45a3-b4fa-ddd7f1234b0f.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/patus-pizza-frita-jardim-das-palmeiras",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kidogao Restaurante Lanchonete Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ki dogao_kidog_zaria.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/kidogao-restaurante-lanchonete-pizzaria-residencial-recanto-das-arvores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Godão Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/d8fa657141b55_GODAOLANCHES.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/godao-lanches-jardim-das-orquideas",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Toca do chef",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201259_efd0698f-57b7-49e1-89f0-5376667aa05d.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/toca-do-chef-vila-menuzzo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Aroma",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/aroma_aroma.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/aroma-parque-villa-flores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marquinhos Hamburgueria Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708261953_f94a85e3-b109-48d2-8ea7-ab72c121831e.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/marquinhos-hamburgueria-gourmet-jardim-denadai-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Top Potato Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Potato_TOPPO_IVERY.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/top-potato-delivery-jardim-sao-judas-tadeu-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Izumi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241026_f004c00d-f32d-4d86-9e32-c4962519b091.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/izumi-delivery-parque-villa-flores",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JEN'S RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710130855_afe8c2f9-2454-468a-8e10-e75a8d2bec61.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Contemporânea",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/jens-restaurante-jardim-sao-domingos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Snack Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/fast_fastsnack.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/fast-snack-lanches-parque-florely-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordão Lanches - Matão",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/kkkkk_gorda_matao.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/gordao-lanches---matao-parque-yolanda-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frigideira Mineira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301021_522c76fd-25c3-4bff-ab1f-b3f02a06f8b6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/frigideira-mineira-chacara-monte-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr J Food Truck - Sumare",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051130_77aeb232-b764-4084-8b72-2ec6a8fd7f13.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/mr-j-food-truck---sumare-residencial-bordon",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+  {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Quiosque do chita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706292007_939a3622-39d2-48b1-87c3-a0b1c8eaec21.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sumare-sp/quiosque-do-chita-jardim-das-oliveiras-nova-veneza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SUMARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

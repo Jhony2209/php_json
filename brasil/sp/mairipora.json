@@ -1,0 +1,47 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mulberry Healthy Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251632_6ffe7f64-c217-4c38-93f0-effd6f80cde9.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/mairipora-sp/mulberry-healthy-food-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAIRIPORA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Leopardos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131304_79f4b0ea-b414-4b24-b3c4-aee67fc826e8.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/mairipora-sp/restaurante-leopardos-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAIRIPORA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MIRANTE PIZZA BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710140937_50baf9db-7588-4874-bb0f-7c6f97947163.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/mairipora-sp/mirante-pizza-bar-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "MAIRIPORA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

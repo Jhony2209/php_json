@@ -1,0 +1,31 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CANTINHO MASSA FAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708301107_78ad8cba-b272-46d0-8673-72f83d3f2c30.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/barra-dos-coqueiros-se/cantinho-massa-fas-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA DOS COQUEIROS",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Clube das Carnes Sergipe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710160704_7968d516-f0de-4a48-8557-9c068e771648.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/barra-dos-coqueiros-se/clube-das-carnes-sergipe-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BARRA DOS COQUEIROS",
+            "addressRegion": "SE",
+            "addressCountry": "BR"
+            }
+    }]

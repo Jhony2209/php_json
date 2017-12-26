@@ -1,0 +1,47 @@
+ [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nakasa Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703061616_NAKAS_PRESS.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/avare-sp/nakasa-express-alto",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AVARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "AÇAI DO LINO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061123_c8caa482-eca0-42cd-b49d-461a5f09dab1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/avare-sp/acai-do-lino-vila-timoteo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AVARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Express Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logog novo_expre_nche01.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/avare-sp/express-lanches-alto-da-colina-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "AVARE",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

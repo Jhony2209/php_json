@@ -1,0 +1,862 @@
+[ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante A Hora Do Rango",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702271047_RESTA_RANG02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/restaurante-a-hora-do-rango-jardim-jurema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rey de Minas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251521_ad300fd2-d91b-48e4-97fc-2ffcd5d341b2.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/rey-de-minas-jardim-jurema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE TEMPERO BAIANO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710201057_ff59c9aa-1eb1-4316-8655-3ddd9d157e17.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/restaurante-tempero-baiano-chacaras-sao-marcos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway- Santo Eduardo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291002_7fe2ae85-64a5-453a-abe5-565f98f74cbc.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/subway--santo-eduardo-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Minha Querida",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711300919_14a3c482-74bc-47c0-b4fe-3d8e91abff02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/emporio-minha-querida-jardim-campo-limpo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FLOR DO TEREZA - restaurante e pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201644_41379362-cce6-477c-9b42-e1cf88a810dd.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/flor-do-tereza---restaurante-e-pizzaria-jardim-santa-tereza-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "IRASHAY CULINARIA ORIENTAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709060719_e9f5ade3-6d6d-4382-800c-81fae5b929e5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/irashay-culinaria-oriental-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Valo Verde",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221018_f3d01d16-a333-4627-86fc-aba68fce3479.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/restaurante-valo-verde-chacaras-sao-marcos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Food Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709201146_948f5780-3c1b-4352-9d37-e8e5c415225c.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/food-delivery-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barriga Cheia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711211211_11c842fe-a82d-477c-a0df-e0b2addb6814.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/barriga-cheia-jardim-dos-moraes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divina Brasa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161815_928f7a38-6f09-41f3-88cc-8c36925c0536.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/divina-brasa-jardim-casa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dú Carmo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281212_0af27a2c-ccc9-40b0-b48d-92ff83129aab.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/du-carmo-jardim-da-luz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LanChelf Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711171407_6849002f-44bd-44c9-b866-2488b795d801.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/lanchelf-hamburgueria-chacaras-sao-marcos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MARMITEX DA DONA NEIDE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712260817_69378903-660a-4984-a3b0-0c6b4ec81fc4.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/marmitex-da-dona-neide-jardim-dom-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA e  PADARIA PRINCESA DA VILA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711241005_20d5dfef-81d0-497e-9c46-3dde768a731c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-e--padaria-princesa-da-vila-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PUBBURGER BEER E BURGERS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131559_913c31ea-5cfa-4903-8ee7-82f3943db558.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pubburger-beer-e-burgers-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Arcanjo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020742_0192849f-e716-4c05-a6bc-485aaeb3ff36.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-arcanjo-jardim-vista-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Francesa",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711031300_86b3e233-3c75-492d-87c4-3a841ac72219.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-francesa-jardim-marina",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Lavoratto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091445_0ab17287-dddc-4b05-8392-05b9168e0fc7.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-lavoratto-jardim-presidente-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria das Meninas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291610_890c407a-df98-43c6-984b-103eee66c8b4.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-das-meninas-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto da Esfiha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221732_a4de6bc8-67b0-459a-95af-64cdd736960b.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/ponto-da-esfiha-jardim-castilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fabrica De Salgados Assana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161348_c3cd7839-814a-41cb-a83f-d1489348b58a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/fabrica-de-salgados-assana-jardim-santa-tereza-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Point da Galera",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706200908_5fd21274-7a1d-4fd4-97a9-4308e44e2db6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pastelaria-point-da-galera-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Do Rai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704061829_db772217bd7b41e7b2bd1b3984374c39.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-do-rai-jardim-jurema",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Maná",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo5_DONAITALIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-mana-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "YakiOba!",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051845_b8795aed-989c-4f1a-a6a5-743f051fa344.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/yakioba-jardim-sao-francisco",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Star Foods",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/prontoo_starfoods.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/star-foods-jardim-castilho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dynamis Burger´S",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704041124_eb423e16d9714e138011b4594b6cdc4a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/dynamis-burgers-jardim-dom-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante DUOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704201605_72c0c59e-55e9-4af6-9cfe-48afcc1af782.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/restaurante-duos-jardim-presidente-kennedy",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fast Burguer Homemade",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707030835_f09257bd-6700-4bfc-80b7-6e34a2d6dc47.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/fast-burguer-homemade-jardim-independencia-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704091822_9355e9dd8a0542bc96575ac1ed0df4b9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/esquina-da-pizza-jardim-santa-tereza-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA QUARTETO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706191253_6f3a1fc3-00ce-439d-a5c4-185b25eeff24.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-quarteto-jardim-santa-tereza-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto da Esfiha - Embu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ponto_aembu.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/ponto-da-esfiha---embu-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710211432_61373304-e586-4c76-91ef-a61463a1c11a.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/esquina-hamburgueria-jardim-florida",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPECIALLY BURGUER E GRILL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709041428_a0c39f9b-736c-4da7-adf5-83d00a1c853f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/specially-burguer-e-grill-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Donatello Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/donatello piz_donat_izzas.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/donatello-pizzas-jardim-independencia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA PREDILETTA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707201312_f9c02534-ef3e-4b68-9277-4950f377840d.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-prediletta-jardim-santa-luzia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Specialy Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705151501_43cfa6b2-017f-45dd-8b8f-96e445eb8801.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/specialy-pizzaria-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Familia Yakissoba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701300849_FAMIL_SSOBA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/familia-yakissoba-jardim-dom-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Paradiso",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaria para_pizza_adiso.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-paradiso-jardim-santa-tereza",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A ITALIANINHA PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261407_f28b579e-1e25-4bc6-ae3c-0ac77c23d39a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/a-italianinha-pizzaria-jardim-julia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Fornalha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708151420_59582851-69bc-4594-832c-45004cf8dd67.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-la-fornalha-jardim-silvia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA BRASA VIVA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706061635_295b5408-aae4-4219-b557-fe2f997e7afc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-brasa-viva-vila-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Pizzaria e Pastelaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705301257_b42a5d87-b55e-478b-af17-842c68045e17.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/bella-pizzaria-e-pastelaria-jardim-santa-tereza-novo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Speranza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071959_f94e9136-5c1d-474c-87c6-4e994b77b291.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/la-speranza-jardim-campo-limpo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Pastelaria Novo Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703071402_PIZZA_SABO24.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/pizzaria-e-pastelaria-novo-sabor-jardim-estela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "point dos amigos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091052_89c2934a-8512-4105-9082-f4e01ccf6615.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/point-dos-amigos-jardim-dom-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RESTAURANTE E CHOPERIA CENTRAL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705201122_4a556c8c-2f28-420e-8c7f-677ad37278d8.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/restaurante-e-choperia-central-jardim-santo-eduardo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NYCEN SUSHI DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707071203_8d60cbe3-5238-42a1-8efb-3eef4ba00779.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/nycen-sushi-delivery-jardim-casa-branca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "DUETO DO CHEF",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708290732_af5ad3c7-ce02-434a-ae57-d2ad4123fa8b.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/dueto-do-chef-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Point hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301439_e3ca6031-11c8-41bc-afc1-8874cb90a6b0.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/point-hamburgueria-vila-olinda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Esquina Frozen",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708231147_6973fddf-3c1f-400e-947e-d622e3a6ce52.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/esquina-frozen-jardim-dom-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Grand Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709051343_6cb1a2cc-68ad-4f2f-99eb-afcd1bdde3bb.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/grand-burguer-vila-pereque",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lá roses bistrô",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712191437_959a0308-277a-4ac4-8e1b-05697d8388e2.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/embu-das-artes-sp/la-roses-bistro-jardim-vista-alegre",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "EMBU DAS ARTES",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

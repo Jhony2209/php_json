@@ -1,0 +1,15 @@
+  [ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante e Pizzaria Folster",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706130849_b865c17f-f37e-4b53-9fda-ba78c2ac7bcb.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/santo-amaro-da-imperatriz-sc/restaurante-e-pizzaria-folster-morro-dos-ventura",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SANTO AMARO DA IMPERATRIZ",
+            "addressRegion": "SC",
+            "addressCountry": "BR"
+            }
+    }]

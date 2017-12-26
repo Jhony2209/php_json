@@ -1,0 +1,15 @@
+  [{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Felijack",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708161559_d7df5dd2-a57e-4d75-9dc5-ccd73932cc68.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/cerquilho-sp/felijack-residencial-di-napoli-ii",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "CERQUILHO",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

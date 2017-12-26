@@ -1,0 +1,127 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Al Dente Cantina Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711221234_b25d438c-8277-488e-822c-c74e2f580a40.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/al-dente-cantina-delivery-vila-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Canto Leve",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712211524_8acb74d4-5beb-4212-859a-a35d89fc1e03.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/canto-leve-jardim-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pepper Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711130923_2f18ea53-8c62-426c-a649-ea5fc1554855.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/don-pepper-pizzas-jardim-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Especial Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711101412_9817ed64-06da-4899-9931-4c9eb58890fc.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/especial-burguer-jardim-anselmo-testa",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pepper Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702260856_DONPE_HARIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/don-pepper-esfiharia-chacara-dom-romeu-albert",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mr. Hanis Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706231104_c851fcb1-c984-49df-a51c-66bef01dd131.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/mr-hanis-esfiharia-vila-cruzeiro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KIKO Lanches Batatais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051315_559ec833-88cb-4ed3-850a-73b259374d51.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/kiko-lanches-batatais-chacara-dom-romeu-albert",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Teste Salesforce",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702071033_RESTA_PESTA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/batatais-sp/teste-salesforce-riachuelo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "BATATAIS",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

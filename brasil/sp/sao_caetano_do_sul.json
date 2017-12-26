@@ -1,0 +1,2842 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gendai - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200953_c1d910c1-3754-46cd-9449-9d59be5f88e7.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/gendai---sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "BURGER 23",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712081748_e7b6df1d-dcdb-4d0e-8bcf-2c00e530b6f4.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/burger-23-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amor aos Pedaços - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708032154_1309e460-ef59-49ce-8181-384d9ee41de5.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/amor-aos-pedacos---sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flamy Doces e Delicias - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706121117_fbd663e8-2057-4c1a-866d-90e9276f7a2a.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/flamy-doces-e-delicias---sao-caetano-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabores Da China",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702021121_SABOR_CHINA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/sabores-da-china-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PADARIA E RESTAURANTE ESPIGA DE OURO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251322_0ba1745a-2789-40d4-8a7d-d4f2864cbea8.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/padaria-e-restaurante-espiga-de-ouro-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pastelaria Visconde - Osvaldo Cruz",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201403251840_PASTE_CONDE.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pastelaria-visconde---osvaldo-cruz-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "KASTELINHO ABC",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281037_4ac97e55-3833-48f7-9f86-d80048aa87ec.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/kastelinho-abc-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante E Pizzaria Valderi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702240918_RESTA_LDERI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/restaurante-e-pizzaria-valderi-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Subway Kennedy Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711291104_35b94cd7-834a-4b44-90d3-63bfb91ccc25.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/subway-kennedy-scs-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "FrutaMel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706111748_0d834b7c-dadc-420e-9977-4b773e8e60f7.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/frutamel-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Umami Temaki Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo umami_umami_kiscs.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/umami-temaki-scs-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "King Shake",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221355_71f70670-f26a-4232-8c24-dcc317658f60.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/king-shake-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tre Bambino Rotisserie E Ristorante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201311121314_TREBA_RANTE.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/tre-bambino-rotisserie-e-ristorante-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PADARIA & CONFEITARIA Doce Alba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709061134_781bd7e9-313f-4727-a2da-6ab90f7242df.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/padaria--confeitaria-doce-alba-fundacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Panificadora Grão Fino",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707271044_6996d0cf-970a-4315-a543-e3efcbf51fb6.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/panificadora-grao-fino-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brasileirinho Delivery São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200013_16a4d1b1-64ee-46e7-a2f0-4ab5b91d7624.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/brasileirinho-delivery-sao-caetano-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Burger King",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO bk_BURGE_BURGERKING16.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/burger-king-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "America São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708232104_e1829ea1-f85a-4cd5-8ffc-f0d25d729a5f.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/america-sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181612_200f7366-6e72-47e5-b73d-8d35b654004d.bmp",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/china-in-box---sao-caetano-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "The Fifties - Park Shopping São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221036_09026b70-7a1b-46c2-8805-d609d971aee6.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/the-fifties---park-shopping-sao-caetano-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CONFRARIA DA PIZZA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712011020_f4fc387b-c482-414e-aae2-03a0c84f3ba9.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/confraria-da-pizza-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Camarão & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712060801_6801391b-64e3-4f83-a27b-6de1bb2620be.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/camarao--cia-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cobra de Gelo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281931_11f6744f-9e99-4526-b84f-cd8c4fd038c4.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/cobra-de-gelo-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Forneria Italia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo forneria_FORNE_TALIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/forneria-italia-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Itiban Delicias & Sabores",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711080923_75f6ed30-78b6-47a7-8a03-8ddc0efbde34.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/itiban-delicias--sabores-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JULIA DOCES&CASEIROS E NORDESTINOS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121418_05c9bbfa-85f0-4704-af39-5851d538a45b.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/julia-docescaseiros-e-nordestinos-nova-gerty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Coxinha - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311628__LACOX_ETANO.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/la-coxinha---sao-caetano-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MINEIRO DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712041157_4a397c32-5539-46c7-b651-da585015f86c.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/mineiro-delivery-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Old Man Sandwich Shop",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711161503_7061b3fb-a69e-45ff-aa52-ec0508d66592.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/old-man-sandwich-shop-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Itália",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710301941_4a871523-b850-4485-ac0e-3dc4dc337763.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-italia-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Luna Di Napoli",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712080816_75a515cd-bd34-4731-b139-5d262cda6a5c.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-luna-di-napoli-nova-gerty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ragazzo - Santa Paula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712261448_33283074-37fa-4c2e-9c94-120af133fd16.gif",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/ragazzo---santa-paula-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Vivenda Do Camarão - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708211505_adcc8066-72d6-4cc9-8809-b7e11b259d97.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/vivenda-do-camarao---sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Master Crepe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021716_e562b806-6c5a-4618-a8e2-172b69b9c0ef.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Francesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/master-crepe-nova-gerty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "HAMBURGUERIA BROTHERS CLUB",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710161437_6fbb595b-0311-4c03-ba49-3645d687baf1.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/hamburgueria-brothers-club-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria e Pizzaria São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo padaria _padar_etano.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/padaria-e-pizzaria-sao-caetano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Carroça Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/ba292d9f-963c-4b1e-bd7e-c8b1486be2d5/201712051031_logo_.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/carroca-food-truck-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "CABRAL BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Cabral_HAMBU_ABRA01.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/cabral-burger-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Bom Pastor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo bom past_pizza_astor.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-bom-pastor-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sao Bento Pizzaria E Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709111501_7c3698fb-e106-4e10-9b3f-98572d7a7d91.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/sao-bento-pizzaria-e-hamburgueria-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Flor De Romã",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702031420_FLORDEROMA.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/flor-de-roma-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jaco Restaurante Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo jaco res_JACOR_TESCS.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/jaco-restaurante-scs-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Alê Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ale_pizza_gril03.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-ale-grill-nova-gerty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Makai Poke e Ceviche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131204_5c7cbcf1-7218-4745-9851-14e598ed2a61.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/makai-poke-e-ceviche-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Divina Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/divina_divin_zeri01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/divina-pizzeria-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Ravenna Sao Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo la raven_pizza_etano.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-la-ravenna-sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Al Faro Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/5 - al-faro-l_villa_iascs.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/al-faro-pizzaria-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA NUZZI",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo nuzzi_pizza_nuzzi.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-nuzzi-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deggusta Burger Haus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710141058_ea91c620-8a47-46ba-ad88-f9fc90493a6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/deggusta-burger-haus-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comparini Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701141109_COMPA_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/comparini-pizzaria-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Angotti Pizza Express",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705311223_da6b3ca4-34ed-4fc6-aa1c-1dfff3c8ce09.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/casa-angotti-pizza-express-nova-gerty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Little Tokyo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710041431_44b4a0a9-88a3-4bae-b63b-cbd2047456ec.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/little-tokyo-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Barcelona Pizzaria & Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707240924_02217aec-2b36-4bfb-90fd-7951a697ee9c.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/nova-barcelona-pizzaria--esfiharia-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restart Lanches & Açai",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705050824_44b51b69-7366-4c17-a0aa-ba0533c2ba60.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/restart-lanches--acai-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RETRO BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708010900_6bd390ab-7951-4af9-9e73-53f02824d594.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/retro-burger-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tapiocas De Miramar",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704211719_93c28bdd-1c30-4114-9fc8-7f4e3da10727.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/tapiocas-de-miramar-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garage Pub",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707092101_5c7ca9c7-658f-409d-b734-f20879008ffe.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/garage-pub-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art'S Burguer Hamburgueria Artesanal",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703211757_1b9e1a6136d04f48adbbdfb33e978fe9.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/arts-burguer-hamburgueria-artesanal-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Luigi Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_luigi_rante.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/luigi-restaurante-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Patroni Pizzas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271515_a603ffa7-f669-4f7e-bf06-81209d9ca132.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/patroni-pizzas-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa Do Nicola Pizza & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pizzaboy 2_casad_zacia.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/casa-do-nicola-pizza--cia-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Romani",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301827_201a5e19-b56e-438e-b498-83e8c3f66921.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-dom-romani-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Planet Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Planet B_PLANETBURGER.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/planet-burger-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "MAGIA PIZZAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707310735_9a60545e-6c72-4936-a9cc-b370f26cec3f.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/magia-pizzas-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Napolitana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo napolita_pizza_itan01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-napolitana-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporio Da Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/emporio_empor_pizz01.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/emporio-da-pizza-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Millenium",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710030919_bd1b3063-3634-4964-bf98-1f088c56a358.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-millenium-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Dinho Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709191454_55b51278-da5d-405e-bcf6-ed03e44f6651.bmp",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/dom-dinho-delivery-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tuscaloosa Route Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031645_7eff7546-69b2-40e1-a47b-b010c1eed97b.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/tuscaloosa-route-burger-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Kin Kon",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709151203_deeb51ac-3da7-47a0-a0b8-d4cc5ccdb095.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/restaurante-kin-kon-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA AMAZONAS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo amazonas_pizza_zona02.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-amazonas-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O TAL DO FRANGO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707281141_227129c6-0518-4a90-addc-426f4cadd32f.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/o-tal-do-frango-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Art - Pizzas Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo arte piz_artpi_iver01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/art---pizzas-delivery-fundacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dom Boscco",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_pizza_oscco.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-dom-boscco-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pro Refeições",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706161716_90b78ba5-6258-46f3-a115-2bcf5c0eba76.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pro-refeicoes-santa-maria",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lig Marrocos Esfiharia Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo lig marr_ligma_haria.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/lig-marrocos-esfiharia-scs-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LANCHES DA VILA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707031723_4a7f3f9a-f660-484b-9974-1c2b57672084.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/lanches-da-vila-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Millano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomillano_pizza_llano.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-millano-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Siriguela",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301527_95ead799-863c-40be-a34a-7e828eb58479.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/siriguela-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brutus Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo brutus_brutu_ueria.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/brutus-hamburgueria-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SCC FRANGO FRITO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logomarca_sccfr_frito.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/scc-frango-frito-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Da Hora Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707141355_bd842477-cf4a-4ea1-9418-e59e2911d04f.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/da-hora-hamburgueria-nova-gerty",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Baruk",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo baruk_pizza_baruk.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-baruk-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Soberano Food Truck",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702010928_SOBER_TRUCK.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/soberano-food-truck-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Paz Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo la paz_lapaz_zaria.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/la-paz-pizzaria-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Emporium San Gennaro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161459_EMPOR_NNAR01.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/emporium-san-gennaro-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Citta Del Sole",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701181101_PIZZA_LSOLE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-citta-del-sole-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PizzAlegre",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707131634_60fd57d1-dd4d-426b-8bff-855c9848fd6f.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzalegre-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bon Apettit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703181756_BONAPETTIT.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/bon-apettit-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Ponto Pizza",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo ifood _pontopizza01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/ponto-pizza-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "RADIOLA PIZZA BAR",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706221357_b2b06a6e-bc24-4b7c-b891-d37426b37d29.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/radiola-pizza-bar-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Marguerita São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702251833_PIZZA_ETAN02.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-marguerita-sao-caetano-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Firenze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707061043_26193d1c-4011-4389-9f4e-cf5975913cd2.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-firenze-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703141100_COMID_SEIR05.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/comida-caseira-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chef Pimenta",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251420_3a4cbca5-1584-436a-914f-120ba7afdd2b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/chef-pimenta-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tutti Vienenzze",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tutti_etano.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/tutti-vienenzze-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dídio Pizza Delivery - Olímpico Ii",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181640_2e4f9475-ea4a-4606-9473-7e7267d0ddc1.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/didio-pizza-delivery---olimpico-ii-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sabor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091522_795b821e-96f1-4d55-b27a-55cb5d411739.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/sabor-caseiro-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cantinho Da Siria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/cantinho_resta_siria.png",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/cantinho-da-siria-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Casa do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271453_3493b3e8-f53f-49e7-99ec-511c9f16b63a.png",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/casa-do-pastel-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lets Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705101558_4285e88d-e1ed-441b-ab8a-f8e3e9347ea4.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/lets-burger-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Frango A Rigor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201404071743_FRANGOARIGOR.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/frango-a-rigor-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Magnifico - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710051506_d6b69172-3193-4846-8b91-405fa02b5701.png",
+        "priceRange": "$",
+        "servesCuisine": "Sorvetes",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/acai-magnifico---sao-caetano-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPARTACUS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708291523_a205dde4-71be-4088-88af-e84c01c87b1b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/spartacus-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Amor Caseiro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704191607_d737ee70-6283-41bd-8168-8db81d53abc4.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/amor-caseiro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Garagem Velha Bar e Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707291010_ea4590bb-22f2-4709-96bd-e992ce19e5fa.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/garagem-velha-bar-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mc Danis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo mc danis_MCDANIS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/mc-danis-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Poly ABC Pizzas, Esfihas e Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo poly abc_polyp_asabc.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/poly-abc-pizzas-esfihas-e-espetinhos-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Monte Verde SCS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo monte ve_pizza_descs.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-monte-verde-scs-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bob Burguer e Espetos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709091427_e5191893-232c-4176-8298-0a074b297452.png",
+        "priceRange": "$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/bob-burguer-e-espetos-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senor Mexicano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo senor me_senor_icano.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Comida Mexicana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/senor-mexicano-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzabeer Studio",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081055_045b683e-0a2b-46cf-9fcc-df395be70e68.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzabeer-studio-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Meet Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701161757_MEETCAFE.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/meet-cafe-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Nova Opção Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo marca_novao_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/nova-opcao-restaurante-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sarraceno Gastronomia Árabe Mediterrânea",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/41ebe5a2-41a6-4071-b4f7-52e88d548fd0/201711292140_sarra.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/sarraceno-gastronomia-arabe-mediterranea-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Xami Xami Chinese Food",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_xamix_efood.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/xami-xami-chinese-food-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria o Marujo",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131425_efff26ab-fab1-45af-abd3-c7f84cc06873.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-o-marujo-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jp Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/jp_jpham_ueria.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/jp-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tutti Pasti Pizzeria Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo tutti pa_TUTTI_IASCS.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/tutti-pasti-pizzeria-scs-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+ {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monte Castello Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logo127_104_MONTE_ZARIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/monte-castello-pizzaria-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Due Restaurante & Forneria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_due_comp_rotadapizz01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/due-restaurante--forneria-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Andiamo Ristorante - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702250823_ANDIA_ETANO.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/andiamo-ristorante---sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Best Burguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120733_0cff988b-e9dc-4aa7-a901-bffb2d439d29.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/best-burguer-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Four Fé Burger",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Logo Four fe _FOURFÉBURGER.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/four-fe-burger-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Esfiharia Miguelito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704121340_32f4211da2c746c3b2ec220eba05072b.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-e-esfiharia-miguelito-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Spettacolare Pizzaria Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704030801_c8093505b8bc4ae0836ce09c4523ffc5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/spettacolare-pizzaria-delivery-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dolce Vita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707262108_2d5d8e43-52b3-4ae6-873d-1826f3a3b2be.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/dolce-vita-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Maremonti - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/2016_LOGO_MM _MAREM_ETANO.jpg",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/maremonti---sao-caetano-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "REI DO ESCONDIDINHO SAO CAETANO DO SUL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709281616_fb913ba7-1af0-4998-bce6-b023e8116f21.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/rei-do-escondidinho-sao-caetano-do-sul-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PIZZARIA DI MARINO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707080818_cbf55600-f11f-45dd-8732-51a0dea98f09.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-di-marino-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Via Venetto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo via vene_PIZZA_NETTO.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-via-venetto-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Villa Abc Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo villaabc_villa_rant05.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/villa-abc-restaurante-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Miráss Empório E Restaurante Árabe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/333_conta_arabe.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/mirass-emporio-e-restaurante-arabe-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SELETTI CULINÁRIA SAUDAVEL",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701171422__SELET_DAVE03.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/seletti-culinaria-saudavel-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Haboud Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo haboud_habou_ivery.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/haboud-delivery-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "O Favorito - Yakisoba E Algo A Mais",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704271540_bda06d97-b1b0-4349-ab8d-948587488d40.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/o-favorito---yakisoba-e-algo-a-mais-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barão De Santa Paula Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704021611_e404e25246854bf58335d17aef0a9242.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/barao-de-santa-paula-pizzaria-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sala Vip - São Caetano",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708200343_c8b7ec54-7c1f-4d7d-9661-6ab9929715f2.png",
+        "priceRange": "$$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/sala-vip---sao-caetano-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Mamma Locca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709200930_0c2b206b-2b4b-434f-97e1-64576b70f6dc.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-mamma-locca-fundacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Celeiro Grill",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710251541_7b3e5db6-01c1-4343-8906-3e6d9105f180.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/restaurante-celeiro-grill-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empanadas Caminito",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709011324_4005b5db-0fb2-41ef-b2e4-619fcf1c6ec4.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/empanadas-caminito-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Guadalupe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708221605_8f221722-2edc-4974-9b37-8bd58c2e671c.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-guadalupe-ceramica",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Restaurante Rabelo - Centro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo nip_pizza_abelo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-e-restaurante-rabelo---centro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kaftas Kebaberia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logo1525_104_KAFTA_BERIA.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Arabe",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/kaftas-kebaberia-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Palácio Da Pizza - Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/palacio_palac_pizza.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/palacio-da-pizza---scs-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TEMAKERIA UNIVERSITÁRIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/universitaria_temak_tari01.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/temakeria-universitaria-barcelona",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bella Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708111734_9f602fce-3a54-4a9c-9f70-e55b51fe4742.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/bella-comida-caseira-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "L.E.D. Espaço Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707290955_fc78a541-2786-4819-ace0-567d9ab1b5a6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/led-espaco-gourmet-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Mayumi Sushi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/pp_mayumisushi.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/mayumi-sushi-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Trissabore Restaurante E Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705081057_da3c5753-b2d1-4b7d-a0fb-65c74e700358.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/trissabore-restaurante-e-hamburgueria-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fit La vie",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709081059_74775d11-d0d6-47ad-98df-cf3d5da91975.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/fit-la-vie-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Goiás Spet'Us",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201701301935_VALDERI.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/goias-spetus-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Molinari Refeições e Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221454_b8eccc2d-136b-43ef-82e2-9462a50273cf.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/molinari-refeicoes-e-lanches-boa-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Giga Pizzas & Fit",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702080731_GIGAP_ASFIT.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/giga-pizzas--fit-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Don Pepe Di Napoli Cantina - SCS",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_donpe_santa.jpg",
+        "priceRange": "$$$$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/don-pepe-di-napoli-cantina---scs-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Receita de Vó Café e Cozinha LTDA ME",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710271355_cf748260-3345-4132-b976-c26696e9f8f5.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/receita-de-vo-cafe-e-cozinha-ltda-me-osvaldo-cruz",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "SPAZIO GIARDINO",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709271345_3796dc9f-d0a3-4177-86a0-b9958db20b91.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/spazio-giardino-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Jimmy Hamburguer",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707120704_9607c6fa-0618-431f-b158-6a92d9717688.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/jimmy-hamburguer-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Comida Caseira",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311117_c9fef0d3-6973-4c65-8f11-a2c226fef433.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/comida-caseira-cidade-nova-heliopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Monster Burger Americanópolis",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/capturar_monst_polis.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/monster-burger-americanopolis-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Supreme Pizzas Lanches & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705191427_c05dd43e-7ad5-46da-96a1-58866b807966.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/supreme-pizzas-lanches--cia-olimpico",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante churrascaria espeto paulista",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707241129_5654b30c-ae07-4345-87ca-c8d5ec2c28a0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/restaurante-churrascaria-espeto-paulista-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria La Pamplona",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702161112_PIZZA_PLONA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-la-pamplona-fundacao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzamania",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//logo177_104_PIZZAMANIA.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzamania-maua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Sterna Café",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo sterna_sternacafe.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/sterna-cafe-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Over There Burguer House",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201312101210_OVERT_HOUSE.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/over-there-burguer-house-sao-jose",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Brigatteria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709251836_294554bb-22ea-4299-a035-ca21f7b791b3.png",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/brigatteria-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chokantes Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo chokante_choka_rante.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/chokantes-restaurante-jardim-sao-caetano",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Conduta Espeto",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/espeto_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Carnes",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/conduta-espeto-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Empório Guaxupe",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/guaxupe_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/emporio-guaxupe-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Lucky Culinaria Chinesa - Scs",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/lg_lucky.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/lucky-culinaria-chinesa---scs-santo-antonio",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "NATURE DELIVERY",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708051347_0036e67b-b9aa-4296-b3a3-644cd3bc9036.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/nature-delivery-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Coliseu",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde//201409021613_PIZZA_LISE02.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-coliseu-maua",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Fogo Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_pizza_urme04.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-fogo-gourmet-prosperidade",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Giovanna - Sta Paula",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/8120/logo.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-giovanna---sta-paula-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Italia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/pizzaria-italia-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhor Miyagi",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/miyagi_logo.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/sao-caetano-do-sul-sp/senhor-miyagi-santa-paula",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "SAO CAETANO DO SUL",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

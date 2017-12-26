@@ -1,0 +1,447 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "China In Box - Atibaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708181621_2e3a34c9-2f33-46da-971a-6a44f1ac1a5f.bmp",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Chinesa",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/china-in-box---atibaia-atibaia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Easy Sushi Delivery",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703151145_EASYS_IVERY.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/easy-sushi-delivery-alvinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dom Lucca Marmitex e lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708311811_b0de82da-9f01-4946-a2bd-8dc6f9910867.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/dom-lucca-marmitex-e-lanches-jardim-imperial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante Sakamura",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710190924_86744c99-d3d7-4fb2-8d53-ecbc311dc196.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/restaurante-sakamura-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Pasta - Jd Lago",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703281413_a098a7c4b26a414b9695c77b3811e871.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/la-pasta---jd-lago-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "7ERVAS Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710241946_9fac42f0-dbc0-4283-babf-e55525e30f5c.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/7ervas-restaurante-loteamento-loanda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gel Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702080726_GELLANCHES.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/gel-lanches-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Marmita",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710031422_971afecc-77f3-4262-962c-14f3d33432ed.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/la-marmita-alvinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Dominos Pizza - Atibaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712221130_adba5846-7cdc-4930-829c-0ea3c08eceaf.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/dominos-pizza---atibaia-vila-santista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bruce's BURGER",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711251013_af8de635-32d8-4c5b-9a2c-597742c75ee8.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/bruces-burger-caetetuba",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Deck Conveniencia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711091349_05e8729f-e43f-46d0-b488-7a5f60cc1b55.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/deck-conveniencia-recreio-estoril",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PANIFICADORA DO VAVA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231404_0027338c-63ed-4c69-96cc-55104e7d0cf0.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/panificadora-do-vava-ribeirao-dos-porcos",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nonna Gina",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712230950_41bda445-ba3e-4e75-b4e2-827aba8d515a.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/pizzaria-nonna-gina-atibaia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Rancho da Viola",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/Alex._RANCH_VIOLAjpeg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/rancho-da-viola-loteamento-loanda",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Padaria Padoca",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo (1)_padar_adoca.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/padaria-padoca-alvinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "A FAVORITA ESFIHARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708071419_a433702d-4192-48d1-9c7a-7cded8086f33.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/a-favorita-esfiharia-alvinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pop grill Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710071619_935ce4f9-498e-4ea1-b443-fca4c6d01f0e.PNG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/pop-grill-restaurante-jardim-imperial",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Barika",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/IMG-20171116-_MUBAR_IVERY.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/barika-jardim-maristela",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tenshi Sushi Boteco Atibaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_tensh_ibaia.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Japonesa",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/tenshi-sushi-boteco-atibaia-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Super Pizza Pan - Atibaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/super pizza_SUPER_IBAIA.jpg",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/super-pizza-pan---atibaia-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Confraria do Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710131006_6031c05f-ffb2-4285-b32d-883bb4d1f2ed.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/confraria-do-sabor-vila-petropolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Fino'S Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201702181024_FINOS_ZARIA.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/finos-pizzaria-alvinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Dona Gertrudes",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708171209_b9a5e943-f7fd-434d-adda-febf6caf1d85.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/pizzaria-dona-gertrudes-alvinopolis",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Açaí Villa Roxa - Atibaia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707011404_4685e338-a0d5-4a08-95c3-82a08d5948ac.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/acai-villa-roxa---atibaia-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Varanda",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703041156_PIZZA_RAND06.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/pizzaria-varanda-jardim-terceiro-centenario",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Cardápio teste - Campinas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/cardapio-teste---campinas-jardim-do-lago",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gordu's Bar & Restaurante",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201708030920_3c669d0b-2a08-452f-a8bf-9616967fc7fc.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/gordus-bar--restaurante-recreio-estoril",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante O Cheff",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo cheff_resta_chef01.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/atibaia-sp/restaurante-o-cheff-atibaia-jardim",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "ATIBAIA",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]

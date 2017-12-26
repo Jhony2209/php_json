@@ -1,0 +1,526 @@
+[{
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "X Picanha",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712090834_028988a2-c679-41fa-932b-6a7f01b5d832.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/x-picanha-vossoroca",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Kantinho do Pastel",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706021038_093b46c1-043c-4ffa-a3df-303385cef8c9.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/kantinho-do-pastel-rio-acima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Link Hamburgueria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705031337_38ad77e3-113e-4b5c-adc5-4c1d8066b0ba.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/link-hamburgueria-jardim-icatu",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Domino'S Pizza - Sorocaba",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712131009_b14d2ffc-7078-4401-b83b-63d69a4063b5.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/dominos-pizza---sorocaba-parque-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Bom Sabor",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710300658_8292565e-cd45-4ad2-948f-99e63fc30205.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/bom-sabor-vila-pedroso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Docely Salgados & Cia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281143_621e06cd-8a53-440f-ad51-87b3d4bb04cd.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/docely-salgados--cia-jardim-toledo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "LORENZO PIZZARIA E RESTAURANTE",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711281010_052bd745-2a58-487b-ae9e-da9074317dfc.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/lorenzo-pizzaria-e-restaurante-jardim-novo-mundo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria Urso Gourmet",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711131022_cb1e9ef1-24e3-48ef-be63-8012f0ca8284.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Cozinha Rápida",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/marmitaria-urso-gourmet-parque-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria 24 Horas",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711301239_7a0e3cc2-b713-4088-a0b6-410ccb1e3da6.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pizzaria-24-horas-jardim-maria-lucia",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria E Batataria Crystaly",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201712121222_3153ad07-a1ee-4bbd-b58f-26a916065d79.PNG",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pizzaria-e-batataria-crystaly-vila-pedroso",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "TURMA DA COXINHA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201711231045_aee7bf7f-b630-4a9a-8675-80dc95af2c9b.png",
+        "priceRange": "$",
+        "servesCuisine": "Salgados",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/turma-da-coxinha-vila-dominguinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tumpero Parmegiana",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709131007_4e583fea-8d12-4e89-8d85-83275594e318.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Variada",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/tumpero-parmegiana-vila-domingues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Gato Que Muge Lanches E Espetinhos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704261157_f09a926e-0df6-4005-8598-b2eca1d89c48.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/gato-que-muge-lanches-e-espetinhos-parque-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Maximus",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710011828_5cf06c26-1fcb-49e6-be23-469783f5d0b3.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pizzaria-maximus-jardim-paulista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "JR Lanches & Porções",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706301115_709439f3-ec52-4f2f-bfa6-306dfa90fbc1.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/jr-lanches--porcoes-jardim-toledo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pleno Sabor Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707052039_d9649214-5e36-4231-bcac-d4ffd88c3aca.jpg",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pleno-sabor-pizzaria-vila-domingues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Juli's Esfiharia",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709141150_4f807521-57d7-4706-be7f-d7a4c69b2b2e.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/julis-esfiharia-vila-dominguinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Restaurante & Espetinho Brasil",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201710090856_4e5396a8-b247-4f6f-b365-31f8a876cc9a.JPG",
+        "priceRange": "$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/restaurante--espetinho-brasil-jardim-toledo",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Tradizionale Pizzeria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705080921_1eec9e64-4f68-4c1c-b7a8-a69c9d4f8aa2.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/tradizionale-pizzeria-jardim-clarice-i",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Disk Pizza Tropical",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707170924_7f970e12-af11-41c7-b353-71289688f1d6.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Italiana",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/disk-pizza-tropical-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Parada hummmmm",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709020956_1c533b60-2ea3-44ec-b2d1-b25586bf7fb5.png",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/parada-hummmmm-vila-domingues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "PASTA D'ORO PIZZARIA",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705171313_106b992a-4664-4fc0-9f03-6f1c6108d365.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pasta-doro-pizzaria-jardim-karolyne",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Moya Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221447_54564540-ed83-4621-9f1a-72639c18d41b.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/moya-lanches-parque-jatai",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Booa Pizza - Pizzaria",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201707010804_ffb5399f-7956-4ce5-ad8d-e18bef8ad450.png",
+        "priceRange": "$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/booa-pizza---pizzaria-vila-dominguinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Chrismy Petiscos",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201706261031_80b42024-3644-4e6d-afef-3f7031c2ae70.png",
+        "priceRange": "$$",
+        "servesCuisine": "Frutos do Mar",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/chrismy-petiscos-vila-domingues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizza Em Dobro",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201704251345_ca6a3ea7-99a6-49ee-923c-47b1c322f90b.png",
+        "priceRange": "$$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pizza-em-dobro-centro",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Neri Lanches - Votorantim",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/neli lanches_neril_encia.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/neri-lanches---votorantim-parque-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Eba Lanches",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709070930_f82d54cf-3346-4c3d-8394-6bf880ab5100.png",
+        "priceRange": "$$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/eba-lanches-protestantes",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Marmitaria França",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201709221530_6b3a9109-e71c-46f2-bb17-56914ce81805.png",
+        "priceRange": "$",
+        "servesCuisine": "Comida Saudável",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/marmitaria-franca-parque-bela-vista",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Senhor Lanche",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_nossa_iscos.jpg",
+        "priceRange": "$",
+        "servesCuisine": "Lanches",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/senhor-lanche-vila-domingues",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    },
+   {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Pizzaria Nova Aliança",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201705231344_b3642636-1ea0-4fae-9a52-acfa83f9a39e.png",
+        "priceRange": "$$",
+        "servesCuisine": "Pizza",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/pizzaria-nova-alianca-vila-dominguinho",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "Junior Vieira Tortas E Baguetes Recheada",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/201703011211_JUNIO_HEADA.png",
+        "priceRange": "$$",
+        "servesCuisine": "Comida Brasileira",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/junior-vieira-tortas-e-baguetes-recheada-parque-sao-joao",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }
+ ,
+    {
+    "context": "http://schema.org",
+        "type": "Restaurant",
+        "name": "La Divine Petit - Bolos Em Potes E Taças",
+        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/logo_ladiv_tacas.gif",
+        "priceRange": "$",
+        "servesCuisine": "Doces",
+        "url": "https://www.ifood.com.br/delivery/votorantim-sp/la-divine-petit---bolos-em-potes-e-tacas-rio-acima",
+        "address": {
+            "addresstype": "PostalAddress",
+            "addressLocality": "VOTORANTIM",
+            "addressRegion": "SP",
+            "addressCountry": "BR"
+            }
+    }]
