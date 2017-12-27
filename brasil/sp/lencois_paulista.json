@@ -1,15 +1,15 @@
- {
+[{
     "context": "http://schema.org",
-        "type": "Restaurant",
-        "name": "CHOPP TIME FEST",
-        "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO CHOPP TI_CHOPP_EFEST.jpg",
-        "priceRange": "$",
-        "servesCuisine": "Comida Contemporânea",
-        "url": "https://www.ifood.com.br/delivery/lencois-paulista-sp/chopp-time-fest-jardim-ubirama",
-        "address": {
-            "addresstype": "PostalAddress",
-            "addressLocality": "LENCOIS PAULISTA",
-            "addressRegion": "SP",
-            "addressCountry": "BR"
-            }
-    }
+    "type": "Restaurant",
+    "name": "CHOPP TIME FEST",
+    "image" : "https://d1jgln4w9al398.cloudfront.net/imagens/ce/logosgde/LOGO CHOPP TI_CHOPP_EFEST.jpg",
+    "priceRange": "$",
+    "servesCuisine": "Comida Contemporânea",
+    "url": "https://www.ifood.com.br/delivery/lencois-paulista-sp/chopp-time-fest-jardim-ubirama",
+    "address": {
+        "addresstype": "PostalAddress",
+        "addressLocality": "LENCOIS PAULISTA",
+        "addressRegion": "SP",
+        "addressCountry": "BR"
+        }
+}]
